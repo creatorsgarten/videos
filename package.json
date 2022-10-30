@@ -1,6 +1,8 @@
 {
 	"dependencies": {
 		"glob": "^8.0.3",
+		"google-auth-library": "^8.6.0",
+		"googleapis": "^109.0.0",
 		"js-yaml": "^4.1.0",
 		"lodash-es": "^4.17.21",
 		"tsx": "^3.11.0"
