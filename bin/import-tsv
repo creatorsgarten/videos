@@ -1,0 +1,44 @@
+#!/usr/bin/env ruby
+require 'yaml'
+require 'fileutils'
+
+data = $stdin.readlines.map { |x| x.strip.split("\t").map(&:strip) }
+lengths = data.map { |x| x.length }.uniq.sort
+
+if lengths != [5]
+  puts "Error: Expected TSV data 5 columns, got #{lengths.inspect}"
+  exit 1
+end
+
+result = data.map do |name, speaker, event, slug, youtube|
+  # Parse a YouTube ID from a URL
+  youtube = youtube[/youtube\.com\/watch\?v=([^&]+)/, 1] || youtube[/youtu\.be\/([^&]+)/, 1]
+  raise "Cannot parse YouTube video ID from #{youtube}" unless youtube
+
+  # Validate that "event" and "slug" are valid
+  raise "Invalid event #{event} - only letters, numbers, and dashes allowed" unless event =~ /^[a-z0-9-]+$/
+  raise "Invalid slug #{slug} - only letters, numbers, and dashes allowed" unless slug =~ /^[a-z0-9-]+$/
+
+  {
+    name: name,
+    speaker: speaker,
+    event: event,
+    slug: slug,
+    youtube: youtube,
+    managed: true,
+  }
+end
+
+puts "Found #{result.length} videos"
+
+result.each do |video|
+  out_file = "data/videos/#{video[:event]}/#{video[:slug]}.md"
+  puts "Writing #{out_file}"
+  FileUtils.mkdir_p File.dirname(out_file)
+
+  # Convert all keys to strings
+  video = video.map { |k, v| [k.to_s, v] }.to_h
+
+  # Write YAML frontmatter
+  File.write out_file, video.to_yaml + "---\n"
+end
