@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+
+in_file, out_base, time_start, dash, time_end = ARGV
+
+problems = []
+
+def parse_time(t)
+  # Parse time in format "[hh:]mm:ss"
+  return nil unless t =~ /^((\d+):)?(\d+):(\d+)$/
+  t.split(":").map(&:to_i).reverse.each_with_index.sum { |v, i| v * 60**i }
+end
+
+problems << "Input file does not exist" unless File.exist?(in_file)
+problems << "Cannot parse start time" unless time_start = parse_time(time_start)
+problems << "Cannot parse end time" unless time_end = parse_time(time_end)
+problems << "Start time must be before end time" unless time_start < time_end
+
+unless problems.empty?
+  puts "Error: #{problems.join(", ")}"
+  exit 1
+end
+
+# Create output directory if needed
+out_path = ".data/videos/#{out_base}.source.mp4"
+system "mkdir", "-p", File.dirname(out_path)
+
+# Add 1 minute of padding to start and end times
+time_start = [0, time_start - 60].max
+time_end += 60
+
+# Cut video
+if File.exist?(out_path)
+  puts "Note: Output file already exists, skipping"
+else
+  system "ffmpeg", "-ss", time_start.to_s, "-to", time_end.to_s, "-i", in_file, "-c", "copy", out_path
+end
