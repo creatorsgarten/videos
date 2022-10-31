@@ -18,6 +18,7 @@ const argv = await yargs(process.argv.slice(2))
 
 const videos = await Video.findAll()
 const dataFile = JSON.stringify({ videos }, null, 2)
+fs.mkdirSync('.data', { recursive: true })
 fs.writeFileSync('.data/videos.json', dataFile)
 console.log('Wrote .data/videos.json')
 
