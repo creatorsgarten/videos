@@ -45,6 +45,8 @@ video_8aVdlBhY6zU:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: 933c8bed85bb25f8ec612f4769a47ffdccbd9400c6cdb9c8e440338a14f92b57
 video_raaiHUinw8c:
   spec:
     snippet:
@@ -138,7 +140,7 @@ video_KeyDrr4Qxg0:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   thumbnail:
-    hash: c371d27de1f44b0433dd00cada0c5b2927bbdf7d0e5e4fab45453a421a75c817
+    hash: c73fc9ab658271e1ea9f02b510a2598616e58a2d884941e5c9c5fa9be4312a38
 video_kS-LvjiZzUE:
   thumbnail:
     hash: dfac3523973d564665f62c731bfbe4797219cc22543c410a33115b44cde217e6
