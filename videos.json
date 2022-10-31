@@ -1,1 +1,163 @@
-{}
+{
+  "videos": [
+    {
+      "event": "hacktoberfest2022",
+      "slug": "bci",
+      "data": {
+        "title": "The rise journey of brain-computer interface",
+        "speaker": "Isaman Sangbamrung",
+        "youtube": "uDZIraaY5s8",
+        "managed": true,
+        "description": "เล่าเรื่องราวของการพัฒนา BCI (Brain-Computer Interface) ทั้งในไทยและต่างประเทศ โดยจะมีหัวข้อคร่าว ๆ ดังนี้\n\n1. ตั้งแต่ BCI คืออะไร\n2. ถ้าเราจะเริ่มต้นพัฒนา BCI ต้องเริ่มอย่างไร\n3. BCI ถูกเอาไปใช้กับอุตสาหกรรมไหนแล้วบ้าง\n4. อนาคตของ BCI จะเป็นอย่างไร\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/bci.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/bci.jpg"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "blog",
+      "data": {
+        "title": "How to contribute tech community with your blog",
+        "speaker": "Monthira Chayabanjonglerd",
+        "youtube": "8aVdlBhY6zU",
+        "managed": true,
+        "description": "ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/blog.md"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "graalvm",
+      "data": {
+        "title": "GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย",
+        "speaker": "Bhuridech Sudsee",
+        "youtube": "raaiHUinw8c",
+        "managed": true,
+        "description": "GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk นี้จะเหลาให้ฟัง",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/graalvm.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/graalvm.jpg"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "joy-ui",
+      "data": {
+        "title": "Joy UI, React components that spark joy",
+        "speaker": "Siriwat Kunaporn",
+        "youtube": "nQa3foXwzGE",
+        "managed": true,
+        "description": "Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/joy-ui.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/joy-ui.jpg"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "monorepo",
+      "data": {
+        "title": "Monorepo 101",
+        "speaker": "Kitpipat Jaritwong",
+        "youtube": "nfnP0W0ZL94",
+        "managed": true,
+        "description": "Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/monorepo.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/monorepo.jpg"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "prisma",
+      "data": {
+        "title": "How I contributed to Prisma",
+        "speaker": "Jarupong Pajakgo",
+        "youtube": "XD3n9J-eV1g",
+        "managed": true,
+        "description": "เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ dev version, และหา solution ให้คนใน community",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/prisma.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/prisma.jpg"
+    },
+    {
+      "event": "hacktoberfest2022",
+      "slug": "tdeb",
+      "data": {
+        "title": "มาเขียนหนังสือ The Data Engineering Book สำหรับคนไทยเพื่อคนไทยกัน",
+        "speaker": "Athibet Prawane",
+        "youtube": "KeyDrr4Qxg0",
+        "managed": true,
+        "description": "อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/hacktoberfest2022/tdeb.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/tdeb.jpg"
+    },
+    {
+      "event": "svelte1",
+      "slug": "basic-svelte-for-react-and-vue-developers",
+      "data": {
+        "title": "Basic Svelte for React & Vue Developers",
+        "speaker": "Manassarn Manoonchai",
+        "youtube": "kS-LvjiZzUE",
+        "managed": true,
+        "description": "Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md"
+    },
+    {
+      "event": "svelte1",
+      "slug": "newbie-vs-sveltekit",
+      "data": {
+        "title": "Web dev มือใหม่ vs SvelteKit",
+        "speaker": "Tong Khemmathiti",
+        "youtube": "EAaXA0PFXBA",
+        "managed": true,
+        "description": "จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md"
+    },
+    {
+      "event": "svelte1",
+      "slug": "serverless-sveltekit-project",
+      "data": {
+        "title": "Serverless SvelteKit Project",
+        "speaker": "Thanatat Tamtan",
+        "youtube": "S1jUjA4mz0U",
+        "managed": true,
+        "description": "ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/serverless-sveltekit-project.md"
+    },
+    {
+      "event": "svelte1",
+      "slug": "svelte-in-every-codebase",
+      "data": {
+        "title": "Bangkok: Svelte in every codebase",
+        "speaker": "Kongkeit Khunpanitchot",
+        "youtube": "ZRQg3b4Y_1A",
+        "managed": true,
+        "description": "Let's put Svelte in every codebase possible, even in a cross library one"
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/svelte-in-every-codebase.md"
+    }
+  ]
+}
