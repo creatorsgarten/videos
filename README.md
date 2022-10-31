@@ -6,9 +6,9 @@ Meetup VODs — <https://www.youtube.com/@creatorsgarten>
 
 You can update the files in [data/videos](data/videos) and submit a pull request. When merged, GitHub Actions will update the description on YouTube.
 
-## Data file
+## Video catalog file
 
-The data is this repository is published as a JSON file at <https://creatorsgarten.github.io/videos/videos.json>.
+For easy consumption, the contents is this repository is published as a single JSON file at <https://creatorsgarten.github.io/videos/videos.json>
 
 ## For developers
 
