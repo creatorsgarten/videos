@@ -39,6 +39,7 @@ interface UpdateJob {
   id: string
   title: string
   description: string
+  published?: boolean
 }
 
 const jobs: UpdateJob[] = []
@@ -55,6 +56,7 @@ for (const filePath of paths) {
     title: (data.title + ' by ' + data.speaker).slice(0, 100),
     description: data.description.replace(/[<>]/g, ''),
     id: data.youtube,
+    published: data.published,
   })
 }
 
@@ -75,10 +77,14 @@ async function updateVideo(job: UpdateJob) {
       description: job.description,
     },
     status: {
-      privacyStatus: 'unlisted',
       embeddable: true,
       selfDeclaredMadeForKids: false,
     },
+  }
+  if (job.published === true) {
+    spec.status.privacyStatus = 'public'
+  } else if (job.published === false) {
+    spec.status.privacyStatus = 'unlisted'
   }
   newState.spec = spec
   if (isEqual(oldState, newState)) {
@@ -134,7 +140,6 @@ if (argv.confirm) {
   for (const [i, job] of jobs.entries()) {
     console.log(`Processing job ${i + 1} of ${jobs.length}`)
     await updateVideo(job)
-    break
   }
 } else {
   console.log('Run with --confirm to update the videos')
