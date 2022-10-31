@@ -116,7 +116,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md"
+      "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md",
+      "imageFilePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.jpg"
     },
     {
       "event": "svelte1",
@@ -130,7 +131,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md"
+      "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md",
+      "imageFilePath": "data/videos/svelte1/newbie-vs-sveltekit.jpg"
     },
     {
       "event": "svelte1",
@@ -144,7 +146,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/svelte1/serverless-sveltekit-project.md"
+      "filePath": "data/videos/svelte1/serverless-sveltekit-project.md",
+      "imageFilePath": "data/videos/svelte1/serverless-sveltekit-project.jpg"
     },
     {
       "event": "svelte1",
@@ -157,7 +160,8 @@
         "description": "Let's put Svelte in every codebase possible, even in a cross library one"
       },
       "content": "",
-      "filePath": "data/videos/svelte1/svelte-in-every-codebase.md"
+      "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
+      "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
     }
   ]
 }
