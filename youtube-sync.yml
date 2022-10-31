@@ -15,6 +15,73 @@ video_uDZIraaY5s8:
 
         4. อนาคตของ BCI จะเป็นอย่างไร
     status:
-      privacyStatus: unlisted
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_8aVdlBhY6zU:
+  spec:
+    snippet:
+      title: >-
+        How to contribute tech community with your blog by Monthira
+        Chayabanjonglerd
+      description: >-
+        ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา
+        ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community
+        ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน
+        ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_raaiHUinw8c:
+  spec:
+    snippet:
+      title: GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย by Bhuridech Sudsee
+      description: >-
+        GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น
+        Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk
+        นี้จะเหลาให้ฟัง
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_nQa3foXwzGE:
+  spec:
+    snippet:
+      title: Joy UI, React components that spark joy by Siriwat Kunaporn
+      description: >-
+        Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI
+        ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_nfnP0W0ZL94:
+  spec:
+    snippet:
+      title: Monorepo 101 by Kitpipat Jaritwong
+      description: >-
+        Talk นี้เล่าเกี่ยวกับประวัติของ repository,
+        และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice
+        แทน
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_XD3n9J-eV1g:
+  spec:
+    snippet:
+      title: How I contributed to Prisma by Jarupong Pajakgo
+      description: >-
+        เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ
+        dev version, และหา solution ให้คนใน community
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+video_KeyDrr4Qxg0:
+  spec:
+    snippet:
+      title: >-
+        มาเขียนหนังสือ The Data Engineering Book สำหรับคนไทยเพื่อคนไทยกัน by
+        Athibet Prawane
+      description: >-
+        อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book
+        ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น
+    status:
       embeddable: true
       selfDeclaredMadeForKids: false
