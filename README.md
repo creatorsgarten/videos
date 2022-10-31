@@ -6,6 +6,10 @@ Meetup VODs — <https://www.youtube.com/@creatorsgarten>
 
 You can update the files in [data/videos](data/videos) and submit a pull request. When merged, GitHub Actions will update the description on YouTube.
 
+## Data file
+
+The data is this repository is published as a JSON file at <https://270caae0-5f63-4b47-ab6a-0b31b59416f0-bucket.s3.fleek.co/creatorsgarten/videos/videos.json>.
+
 ## For developers
 
 ### Setting up
@@ -16,7 +20,7 @@ You can update the files in [data/videos](data/videos) and submit a pull request
 
 3. Put the refresh token in GitHub Secrets as `GOOGLE_REFRESH_TOKEN`.
 
-## Exploring YouTube API with `tsx`
+### Exploring YouTube API with `tsx`
 
 ```
 pnpm exec tsx
