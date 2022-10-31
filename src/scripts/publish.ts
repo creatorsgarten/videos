@@ -1,8 +1,8 @@
 import yargs from 'yargs'
 import { Video } from '../Video'
 import fs from 'fs'
-import Minio from 'minio'
 import 'dotenv/config'
+import { execSync } from 'child_process'
 
 const argv = await yargs(process.argv.slice(2))
   .options({
@@ -18,21 +18,21 @@ const argv = await yargs(process.argv.slice(2))
 
 const videos = await Video.findAll()
 const dataFile = JSON.stringify({ videos }, null, 2)
-fs.mkdirSync('.data', { recursive: true })
-fs.writeFileSync('.data/videos.json', dataFile)
+fs.mkdirSync('.data/gh-pages', { recursive: true })
+fs.writeFileSync('.data/gh-pages/videos.json', dataFile)
 console.log('Wrote .data/videos.json')
 
 if (argv.upload) {
-  const minioClient = new Minio.Client({
-    endPoint: 'storageapi.fleek.co',
-    useSSL: true,
-    accessKey: process.env.FLEEK_ACCESS_KEY_ID!,
-    secretKey: process.env.FLEEK_SECRET_ACCESS_KEY!,
-  })
-  await minioClient.putObject(
-    '270caae0-5f63-4b47-ab6a-0b31b59416f0-bucket',
-    'creatorsgarten/videos/videos.json',
-    dataFile,
+  execSync(
+    [
+      'set -e',
+      'cd .data/gh-pages',
+      'git add -A',
+      'git config user.name "creatorsgarten[bot]"',
+      'git config user.email "creatorsgarten[bot]@users.noreply.github.com"',
+      'git commit -m "Update videos catalog file" || true',
+      'git push',
+    ].join('\n'),
+    { stdio: 'inherit' },
   )
-  console.log('Uploaded to Fleek')
 }

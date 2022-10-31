@@ -8,7 +8,7 @@ You can update the files in [data/videos](data/videos) and submit a pull request
 
 ## Data file
 
-The data is this repository is published as a JSON file at <https://270caae0-5f63-4b47-ab6a-0b31b59416f0-bucket.s3.fleek.co/creatorsgarten/videos/videos.json>.
+The data is this repository is published as a JSON file at <https://creatorsgarten.github.io/videos/videos.json>.
 
 ## For developers
 
