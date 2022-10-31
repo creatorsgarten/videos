@@ -5,7 +5,18 @@ import { dump, load } from 'js-yaml'
 import { google, youtube_v3 } from 'googleapis'
 import { isEqual } from 'lodash-es'
 import { Video } from '../Video'
+import { Event } from '../Event'
 const youtube = google.youtube('v3')
+
+async function getVideoDescription(video: Video): Promise<string> {
+  const event = await Event.findById(video.event)
+  return [
+    video.data.description.trim(),
+    '',
+    'Event: ' + event.name,
+    event.url,
+  ].join('\n')
+}
 
 const argv = await yargs(process.argv.slice(2))
   .options({
@@ -37,9 +48,10 @@ const jobs: UpdateJob[] = []
 
 for (const video of await Video.findAll()) {
   const { data } = video
+  if (!data.managed) continue
   jobs.push({
     title: (data.title + ' by ' + data.speaker).slice(0, 100),
-    description: data.description.replace(/[<>]/g, ''),
+    description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
     id: data.youtube,
     published: data.published,
   })

@@ -29,9 +29,7 @@ export class Video {
       const slug = path.basename(filePath, '.md')
       const event = path.basename(path.dirname(filePath))
       const parsed = grayMatter.read(filePath)
-      if (!parsed.data.managed) continue
       const { data, content } = parsed
-      if (event !== 'hacktoberfest2022') continue
       videos.push(
         new Video(filePath, event, slug, VideoFrontMatter.parse(data), content),
       )
