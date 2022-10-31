@@ -19,16 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Set up pnpm
-        uses: pnpm/action-setup@v2.2.4
-        with:
-          version: 7.14.1
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          cache: pnpm
-      - name: Install dependencies
-        run: pnpm install
+        uses: ./.github/actions/setup
       - name: Write secret file
         run: |
           mkdir -p .data

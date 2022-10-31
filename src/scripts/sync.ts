@@ -1,12 +1,10 @@
 import yargs from 'yargs'
-import path from 'path'
 import fs from 'fs'
 import { authClient, getToken } from '../GoogleAuth'
 import { dump, load } from 'js-yaml'
-import { globby } from 'globby'
-import grayMatter from 'gray-matter'
 import { google, youtube_v3 } from 'googleapis'
 import { isEqual } from 'lodash-es'
+import { Video } from '../Video'
 const youtube = google.youtube('v3')
 
 const argv = await yargs(process.argv.slice(2))
@@ -21,13 +19,6 @@ const argv = await yargs(process.argv.slice(2))
   .strict()
   .help()
   .parse()
-
-const paths = await globby(['data/videos/**/*.md'])
-const eventNameMap = new Map<string, string>(
-  Object.entries({
-    hacktoberfest2022: 'Hacktoberfest Meetup 2022',
-  }),
-)
 
 // Load state file from youtube-sync.yml
 const state = load(fs.readFileSync('youtube-sync.yml', 'utf8')) as Record<
@@ -44,14 +35,8 @@ interface UpdateJob {
 
 const jobs: UpdateJob[] = []
 
-for (const filePath of paths) {
-  const slug = path.basename(filePath, '.md')
-  const event = path.basename(path.dirname(filePath))
-  const parsed = grayMatter.read(filePath)
-  if (!parsed.data.managed) continue
-  const { data, content } = parsed
-  if (event !== 'hacktoberfest2022') continue
-
+for (const video of await Video.findAll()) {
+  const { data } = video
   jobs.push({
     title: (data.title + ' by ' + data.speaker).slice(0, 100),
     description: data.description.replace(/[<>]/g, ''),
@@ -67,7 +52,10 @@ interface VideoSpec {
   status: youtube_v3.Schema$VideoStatus
 }
 
-async function updateVideo(job: UpdateJob) {
+async function updateVideo(
+  job: UpdateJob,
+  { dryRun = true }: { dryRun?: boolean } = {},
+) {
   const stateKey = `video_${job.id}`
   const oldState = state[stateKey] || {}
   const newState = JSON.parse(JSON.stringify(oldState))
@@ -89,6 +77,10 @@ async function updateVideo(job: UpdateJob) {
   newState.spec = spec
   if (isEqual(oldState, newState)) {
     console.log(`Video ${job.id} is up to date`)
+    return
+  }
+  if (dryRun) {
+    console.log('Would update video', job.id, newState)
     return
   }
   await doUpdateVideo(job, spec)
@@ -142,5 +134,9 @@ if (argv.confirm) {
     await updateVideo(job)
   }
 } else {
+  for (const [i, job] of jobs.entries()) {
+    console.log(`Processing job ${i + 1} of ${jobs.length}`)
+    await updateVideo(job, { dryRun: true })
+  }
   console.log('Run with --confirm to update the videos')
 }

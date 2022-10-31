@@ -1,0 +1,31 @@
+name: Publish data files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'src/**'
+      - 'bin/**'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up pnpm
+        uses: ./.github/actions/setup
+      - name: Publish data file
+        run: |
+          bin/publish
+        env:
+          FLEEK_ACCESS_KEY_ID: ${{ secrets.FLEEK_ACCESS_KEY_ID }}
+          FLEEK_SECRET_ACCESS_KEY: ${{ secrets.FLEEK_SECRET_ACCESS_KEY }}
+
+permissions:
+  contents: write
