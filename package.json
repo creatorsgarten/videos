@@ -1,11 +1,13 @@
 {
 	"dependencies": {
+		"chalk": "^5.1.2",
 		"dotenv": "^16.0.3",
 		"globby": "^13.1.2",
 		"google-auth-library": "^8.6.0",
 		"googleapis": "^109.0.0",
 		"gray-matter": "^4.0.3",
 		"inquirer": "^9.1.4",
+		"jest-diff": "^29.2.1",
 		"jimp": "^0.16.2",
 		"js-yaml": "^4.1.0",
 		"lodash-es": "^4.17.21",

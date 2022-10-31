@@ -7,6 +7,9 @@ import { Event } from '../Event'
 import { getState, setState } from '../StateStorage'
 import fs from 'fs'
 import crypto from 'crypto'
+import { diff } from 'jest-diff'
+import chalk from 'chalk'
+
 const youtube = google.youtube('v3')
 
 async function getVideoDescription(video: Video): Promise<string> {
@@ -107,7 +110,15 @@ async function updateVideo(
     return
   }
   if (dryRun) {
-    console.log('Would update video', job.id, newState)
+    console.log('Would update video', job.id)
+    console.log(
+      diff(oldState, newState, {
+        aAnnotation: 'Before',
+        bAnnotation: 'After',
+        aColor: chalk.red,
+        bColor: chalk.green,
+      }),
+    )
     return
   }
   for (const updateTask of updateTasks) {
