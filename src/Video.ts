@@ -2,6 +2,7 @@ import path from 'path'
 import { globby } from 'globby'
 import grayMatter from 'gray-matter'
 import { z } from 'zod'
+import fs from 'fs'
 
 const VideoFrontMatter = z.object({
   title: z.string(),
@@ -46,6 +47,10 @@ export class Video {
       slug: this.slug,
       data: this.data,
       content: this.content,
+      filePath: this.filePath,
+      imageFilePath: fs.existsSync(this.imageFilePath)
+        ? this.imageFilePath
+        : undefined,
     }
   }
 }
