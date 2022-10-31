@@ -48,3 +48,6 @@ jobs:
       - name: Dump the new state
         if: always()
         run: cat youtube-sync.yml
+
+permissions:
+  contents: write
