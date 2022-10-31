@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Set up pnpm
+      - name: Set up
         uses: ./.github/actions/setup
       - name: Publish data file
         run: |
