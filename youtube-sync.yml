@@ -86,3 +86,4 @@ video_KeyDrr4Qxg0:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
+      privacyStatus: public
