@@ -1,10 +1,12 @@
 import yargs from 'yargs'
 import { authClient, getToken } from '../GoogleAuth'
 import { google, youtube_v3 } from 'googleapis'
-import { isEqual } from 'lodash-es'
+import { cloneDeep, isEqual } from 'lodash-es'
 import { Video } from '../Video'
 import { Event } from '../Event'
 import { getState, setState } from '../StateStorage'
+import fs from 'fs'
+import crypto from 'crypto'
 const youtube = google.youtube('v3')
 
 async function getVideoDescription(video: Video): Promise<string> {
@@ -35,6 +37,7 @@ interface UpdateJob {
   title: string
   description: string
   published?: boolean
+  video: Video
 }
 
 const jobs: UpdateJob[] = []
@@ -47,6 +50,7 @@ for (const video of await Video.findAll()) {
     description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
     id: data.youtube,
     published: data.published,
+    video,
   })
 }
 
@@ -63,7 +67,9 @@ async function updateVideo(
 ) {
   const stateKey = `video_${job.id}`
   const oldState = (await getState(stateKey)) || {}
-  const newState = JSON.parse(JSON.stringify(oldState))
+  const newState = cloneDeep(oldState)
+  const updateTasks: (() => Promise<any>)[] = []
+
   const spec: VideoSpec = {
     snippet: {
       title: job.title,
@@ -80,7 +86,23 @@ async function updateVideo(
     spec.status.privacyStatus = 'unlisted'
   }
   newState.spec = spec
-  if (isEqual(oldState, newState)) {
+  if (!isEqual(oldState.spec, newState.spec)) {
+    updateTasks.push(() => doUpdateVideo(job, spec))
+  }
+
+  if (fs.existsSync(job.video.imageFilePath)) {
+    const hash = crypto
+      .createHash('sha256')
+      .update(fs.readFileSync(job.video.imageFilePath))
+      .digest('hex')
+    newState.thumbnail ??= {}
+    newState.thumbnail.hash = hash
+    if (oldState.thumbnail?.hash !== hash) {
+      updateTasks.push(() => doUpdateThumbnail(job))
+    }
+  }
+
+  if (updateTasks.length === 0) {
     console.log(`Video ${job.id} is up to date`)
     return
   }
@@ -88,7 +110,9 @@ async function updateVideo(
     console.log('Would update video', job.id, newState)
     return
   }
-  await doUpdateVideo(job, spec)
+  for (const updateTask of updateTasks) {
+    await updateTask()
+  }
   await setState(stateKey, newState)
 }
 
@@ -130,12 +154,28 @@ async function doUpdateVideo(job: UpdateJob, spec: VideoSpec) {
   console.log(result.data)
 }
 
+async function doUpdateThumbnail(job: UpdateJob) {
+  const youtubeId = job.id
+
+  const updateParams: youtube_v3.Params$Resource$Thumbnails$Set = {
+    videoId: youtubeId,
+    requestBody: {},
+    media: {
+      mimeType: 'image/jpeg',
+      body: fs.createReadStream(job.video.imageFilePath),
+    },
+  }
+  const result = await youtube.thumbnails.set(updateParams)
+  console.log(`Updated thumbnail for video ${youtubeId}`)
+  console.log(result.data)
+}
+
 if (argv.confirm) {
   await getToken()
   google.options({ auth: authClient })
   for (const [i, job] of jobs.entries()) {
     console.log(`Processing job ${i + 1} of ${jobs.length}`)
-    await updateVideo(job)
+    await updateVideo(job, { dryRun: false })
   }
 } else {
   for (const [i, job] of jobs.entries()) {

@@ -2,7 +2,7 @@ video_uDZIraaY5s8:
   spec:
     snippet:
       title: The rise journey of brain-computer interface by Isaman Sangbamrung
-      description: >
+      description: >-
         เล่าเรื่องราวของการพัฒนา BCI (Brain-Computer Interface)
         ทั้งในไทยและต่างประเทศ โดยจะมีหัวข้อคร่าว ๆ ดังนี้
 
@@ -14,6 +14,11 @@ video_uDZIraaY5s8:
         3. BCI ถูกเอาไปใช้กับอุตสาหกรรมไหนแล้วบ้าง
 
         4. อนาคตของ BCI จะเป็นอย่างไร
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -31,6 +36,11 @@ video_8aVdlBhY6zU:
         ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community
         ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน
         ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -43,6 +53,11 @@ video_raaiHUinw8c:
         GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น
         Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk
         นี้จะเหลาให้ฟัง
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -56,12 +71,17 @@ video_nQa3foXwzGE:
       description: >-
         Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI
         ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
   thumbnail:
-    hash: b0eeb39b092dcdee3d2e5645a00f9590b177faca8ac21ab4b0ecb890036814b5
+    hash: 54959dfa4c0955f032d4e4a37f228dcf921110a4b84cfda108b4d4e35a3ecedc
 video_nfnP0W0ZL94:
   spec:
     snippet:
@@ -70,6 +90,11 @@ video_nfnP0W0ZL94:
         Talk นี้เล่าเกี่ยวกับประวัติของ repository,
         และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice
         แทน
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -83,6 +108,11 @@ video_XD3n9J-eV1g:
       description: >-
         เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ
         dev version, และหา solution ให้คนใน community
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -98,6 +128,11 @@ video_KeyDrr4Qxg0:
       description: >-
         อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book
         ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น
+
+
+        Event: Hacktoberfest Thailand 2022
+
+        https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -107,12 +142,62 @@ video_KeyDrr4Qxg0:
 video_kS-LvjiZzUE:
   thumbnail:
     hash: dfac3523973d564665f62c731bfbe4797219cc22543c410a33115b44cde217e6
+  spec:
+    snippet:
+      title: Basic Svelte for React & Vue Developers by Manassarn Manoonchai
+      description: >-
+        Give Svelte a try, you'll love it! - Introduction to Svelte for
+        developers who already using React and/or Vue
+
+
+        Event: Svelte Meetup Bangkok #1
+
+        https://creatorsgarten.org/wiki/Hacks/svelte1
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
 video_EAaXA0PFXBA:
   thumbnail:
     hash: 8d725c5502b12098ea0b5ad13fb14e7e7fe653602728e3d5a939645c027f8b27
+  spec:
+    snippet:
+      title: Web dev มือใหม่ vs SvelteKit by Tong Khemmathiti
+      description: |-
+        จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte
+
+        Event: Svelte Meetup Bangkok #1
+        https://creatorsgarten.org/wiki/Hacks/svelte1
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
 video_S1jUjA4mz0U:
   thumbnail:
     hash: 296906e93e6a85730e8b4af16543df41e0b1128feba32929ef2815b9b12b00b3
+  spec:
+    snippet:
+      title: Serverless SvelteKit Project by Thanatat Tamtan
+      description: |-
+        ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?
+
+        Event: Svelte Meetup Bangkok #1
+        https://creatorsgarten.org/wiki/Hacks/svelte1
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
 video_ZRQg3b4Y_1A:
   thumbnail:
     hash: af1c03794c27bd30d09428c94d09f9e89b0c8a2c2b16046571a81a541e800672
+  spec:
+    snippet:
+      title: 'Bangkok: Svelte in every codebase by Kongkeit Khunpanitchot'
+      description: |-
+        Let's put Svelte in every codebase possible, even in a cross library one
+
+        Event: Svelte Meetup Bangkok #1
+        https://creatorsgarten.org/wiki/Hacks/svelte1
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
