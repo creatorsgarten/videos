@@ -27,7 +27,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/hacktoberfest2022/blog.md"
+      "filePath": "data/videos/hacktoberfest2022/blog.md",
+      "imageFilePath": "data/videos/hacktoberfest2022/blog.jpg"
     },
     {
       "event": "hacktoberfest2022",
