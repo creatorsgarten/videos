@@ -1,11 +1,10 @@
 import yargs from 'yargs'
-import fs from 'fs'
 import { authClient, getToken } from '../GoogleAuth'
-import { dump, load } from 'js-yaml'
 import { google, youtube_v3 } from 'googleapis'
 import { isEqual } from 'lodash-es'
 import { Video } from '../Video'
 import { Event } from '../Event'
+import { getState, setState } from '../StateStorage'
 const youtube = google.youtube('v3')
 
 async function getVideoDescription(video: Video): Promise<string> {
@@ -30,12 +29,6 @@ const argv = await yargs(process.argv.slice(2))
   .strict()
   .help()
   .parse()
-
-// Load state file from youtube-sync.yml
-const state = load(fs.readFileSync('youtube-sync.yml', 'utf8')) as Record<
-  string,
-  any
->
 
 interface UpdateJob {
   id: string
@@ -69,7 +62,7 @@ async function updateVideo(
   { dryRun = true }: { dryRun?: boolean } = {},
 ) {
   const stateKey = `video_${job.id}`
-  const oldState = state[stateKey] || {}
+  const oldState = (await getState(stateKey)) || {}
   const newState = JSON.parse(JSON.stringify(oldState))
   const spec: VideoSpec = {
     snippet: {
@@ -96,8 +89,7 @@ async function updateVideo(
     return
   }
   await doUpdateVideo(job, spec)
-  state[stateKey] = newState
-  fs.writeFileSync('youtube-sync.yml', dump(state))
+  await setState(stateKey, newState)
 }
 
 async function doUpdateVideo(job: UpdateJob, spec: VideoSpec) {

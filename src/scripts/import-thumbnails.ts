@@ -1,6 +1,8 @@
 import { Video } from '../Video'
 import fs from 'fs'
 import { execFileSync } from 'child_process'
+import { getState, setState } from '../StateStorage'
+import crypto from 'crypto'
 
 const videos = await Video.findAll()
 for (const video of videos) {
@@ -27,6 +29,20 @@ for (const video of videos) {
       ) {
         fs.unlinkSync(imageFilePath)
       }
+    }
+  }
+
+  if (fs.existsSync(imageFilePath)) {
+    const stateKey = `video_${video.data.youtube}`
+    const state = (await getState(stateKey)) || {}
+    state.thumbnail ??= {}
+    if (!state.thumbnail.hash) {
+      state.thumbnail.hash = crypto
+        .createHash('sha256')
+        .update(fs.readFileSync(imageFilePath))
+        .digest('hex')
+      await setState(stateKey, state)
+      console.log('Updated hash for', video.data.youtube)
     }
   }
 }
