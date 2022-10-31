@@ -1,0 +1,48 @@
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'src/**'
+      - 'bin/**'
+      - '.github/workflows/sync.yml'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Synchronize
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v2.2.4
+        with:
+          version: 7.14.1
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: pnpm
+      - name: Install dependencies
+        run: pnpm install
+      - name: Write secret file
+        run: |
+          mkdir -p .data
+          echo "$GOOGLE_CLIENT_JSON" > .data/google_client_secret.json
+        env:
+          GOOGLE_CLIENT_JSON: ${{ secrets.GOOGLE_CLIENT_JSON }}
+      - name: Synchronize
+        run: bin/sync --confirm
+        env:
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: always()
+        with:
+          commit_message: Update state file
+          commit_user_name: 'creatorsgarten[bot]'
+          commit_user_email: 'creatorsgarten[bot]@users.noreply.github.com'
+      - name: Dump the new state
+        if: always()
+        run: cat youtube-sync.yml
