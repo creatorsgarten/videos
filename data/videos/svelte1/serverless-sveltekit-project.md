@@ -1,5 +1,5 @@
 ---
-name: Serverless SvelteKit Project
+title: Serverless SvelteKit Project
 speaker: Thanatat Tamtan
 event: svelte1
 slug: serverless-sveltekit-project

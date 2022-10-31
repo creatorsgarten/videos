@@ -1,5 +1,5 @@
 ---
-name: Web dev มือใหม่ vs SvelteKit
+title: Web dev มือใหม่ vs SvelteKit
 speaker: Tong Khemmathiti
 event: svelte1
 slug: newbie-vs-sveltekit

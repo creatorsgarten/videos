@@ -10,7 +10,7 @@ if lengths != [5]
   exit 1
 end
 
-result = data.map do |name, speaker, event, slug, youtube|
+result = data.map do |title, speaker, event, slug, youtube|
   # Parse a YouTube ID from a URL
   youtube = youtube[/youtube\.com\/watch\?v=([^&]+)/, 1] || youtube[/youtu\.be\/([^&]+)/, 1]
   raise "Cannot parse YouTube video ID from #{youtube}" unless youtube
@@ -20,7 +20,7 @@ result = data.map do |name, speaker, event, slug, youtube|
   raise "Invalid slug #{slug} - only letters, numbers, and dashes allowed" unless slug =~ /^[a-z0-9-]+$/
 
   {
-    name: name,
+    title: title,
     speaker: speaker,
     event: event,
     slug: slug,

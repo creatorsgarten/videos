@@ -1,5 +1,5 @@
 ---
-name: Monorepo 101
+title: Monorepo 101
 speaker: Kitpipat Jaritwong
 event: hacktoberfest2022
 slug: monorepo

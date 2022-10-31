@@ -1,5 +1,5 @@
 ---
-name: How I contributed to Prisma
+title: How I contributed to Prisma
 speaker: Jarupong Pajakgo
 event: hacktoberfest2022
 slug: prisma

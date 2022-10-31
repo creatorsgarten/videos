@@ -1,5 +1,5 @@
 ---
-name: How to contribute tech community with your blog
+title: How to contribute tech community with your blog
 speaker: Monthira Chayabanjonglerd
 event: hacktoberfest2022
 slug: blog

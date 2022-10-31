@@ -1,5 +1,5 @@
 ---
-name: 'Bangkok: Svelte in every codebase'
+title: 'Bangkok: Svelte in every codebase'
 speaker: Kongkeit Khunpanitchot
 event: svelte1
 slug: svelte-in-every-codebase

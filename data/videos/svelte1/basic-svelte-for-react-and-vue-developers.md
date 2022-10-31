@@ -1,5 +1,5 @@
 ---
-name: Basic Svelte for React & Vue Developers
+title: Basic Svelte for React & Vue Developers
 speaker: Manassarn Manoonchai
 event: svelte1
 slug: basic-svelte-for-react-and-vue-developers

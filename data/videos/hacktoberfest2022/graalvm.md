@@ -1,5 +1,5 @@
 ---
-name: GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย
+title: GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย
 speaker: Bhuridech Sudsee
 event: hacktoberfest2022
 slug: graalvm
