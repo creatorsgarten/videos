@@ -4,7 +4,13 @@ import path from 'path'
 
 const client = fs.existsSync('.data/google_client_secret.json')
   ? JSON.parse(fs.readFileSync('.data/google_client_secret.json', 'utf8'))
-  : { client_id: 'dummy', client_secret: 'dummy', redirect_uris: ['dummy'] }
+  : {
+      web: {
+        client_id: 'dummy',
+        client_secret: 'dummy',
+        redirect_uris: ['dummy'],
+      },
+    }
 
 const scopes = [
   'https://www.googleapis.com/auth/youtube',
