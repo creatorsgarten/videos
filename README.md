@@ -1,8 +1,14 @@
 # videos
 
-Meetup VODs
+Meetup VODs — <https://www.youtube.com/@creatorsgarten>
 
-## Setting up
+## Contributing
+
+You can update the files in [data/videos](data/videos) and submit a pull request. When merged, GitHub Actions will update the description on YouTube.
+
+## For developers
+
+### Setting up
 
 1. Get owner access to the YouTube channel.
 
