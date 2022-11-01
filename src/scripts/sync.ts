@@ -17,8 +17,21 @@ async function getVideoDescription(video: Video): Promise<string> {
   return [
     video.data.description.trim(),
     '',
-    'Event: ' + event.name,
+    '',
+    '--------------------------------------------',
+    `Event: ${event.name}`,
     event.url,
+    '',
+    'Website:',
+    'https://creatorsgarten.org',
+    '',
+    'Facebook:',
+    'https://facebook.com/creatorsgarten',
+    '',
+    'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.',
+    '',
+    'For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.',
+    'mail@creatorsgarten.org'
   ].join('\n')
 }
 
