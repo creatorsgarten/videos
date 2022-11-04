@@ -1,6 +1,62 @@
 {
   "videos": [
     {
+      "event": "reactmeetup0922",
+      "slug": "open-source-in-fully-remote-company",
+      "data": {
+        "title": "Shipping open source software in a fully remote company",
+        "speaker": "Mahatthana Kelvin Nomsawadi",
+        "youtube": "IVwBbhHOvSQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0922/open-source-in-fully-remote-company.md",
+      "imageFilePath": "data/videos/reactmeetup0922/open-source-in-fully-remote-company.jpg"
+    },
+    {
+      "event": "reactmeetup0922",
+      "slug": "react-spring",
+      "data": {
+        "title": "Implementing micro-animations with react-spring",
+        "speaker": "Kanisorn Sutham",
+        "youtube": "iFBxlPXrZRo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0922/react-spring.md",
+      "imageFilePath": "data/videos/reactmeetup0922/react-spring.jpg"
+    },
+    {
+      "event": "reactmeetup0922",
+      "slug": "strict-mode",
+      "data": {
+        "title": "Justice for React.StrictMode",
+        "speaker": "Wit Jintanasathirakul",
+        "youtube": "yvfsIaj6WVM",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0922/strict-mode.md",
+      "imageFilePath": "data/videos/reactmeetup0922/strict-mode.jpg"
+    },
+    {
+      "event": "reactmeetup0922",
+      "slug": "typescript",
+      "data": {
+        "title": "Meaningful React Component API with TypeScript",
+        "speaker": "Kunanan Tassuwan",
+        "youtube": "-lZ5ndZhu8c",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0922/typescript.md",
+      "imageFilePath": "data/videos/reactmeetup0922/typescript.jpg"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
@@ -104,58 +160,6 @@
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/tdeb.md",
       "imageFilePath": "data/videos/hacktoberfest2022/tdeb.jpg"
-    },
-    {
-      "event": "reactmeetup0922",
-      "slug": "open-source-in-fully-remote-company",
-      "data": {
-        "title": "Shipping open source software in a fully remote company",
-        "speaker": "Mahatthana Kelvin Nomsawadi",
-        "youtube": "IVwBbhHOvSQ",
-        "managed": true,
-        "published": false
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0922/open-source-in-fully-remote-company.md"
-    },
-    {
-      "event": "reactmeetup0922",
-      "slug": "react-spring",
-      "data": {
-        "title": "Implementing micro-animations with react-spring",
-        "speaker": "Kanisorn Sutham",
-        "youtube": "iFBxlPXrZRo",
-        "managed": true,
-        "published": false
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0922/react-spring.md"
-    },
-    {
-      "event": "reactmeetup0922",
-      "slug": "strict-mode",
-      "data": {
-        "title": "Justice for React.StrictMode",
-        "speaker": "Wit Jintanasathirakul",
-        "youtube": "yvfsIaj6WVM",
-        "managed": true,
-        "published": false
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0922/strict-mode.md"
-    },
-    {
-      "event": "reactmeetup0922",
-      "slug": "typescript",
-      "data": {
-        "title": "Meaningful React Component API with TypeScript",
-        "speaker": "Kunanan Tassuwan",
-        "youtube": "-lZ5ndZhu8c",
-        "managed": true,
-        "published": false
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0922/typescript.md"
     },
     {
       "event": "svelte1",
