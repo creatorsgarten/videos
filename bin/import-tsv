@@ -21,9 +21,12 @@ result = data.map do |title, speaker, event, slug, youtube|
 
   {
     title: title,
+    event: event,
+    slug: slug,
     speaker: speaker,
     youtube: youtube,
     managed: true,
+    published: false,
   }
 end
 
@@ -36,6 +39,10 @@ result.each do |video|
 
   # Convert all keys to strings
   video = video.map { |k, v| [k.to_s, v] }.to_h
+
+  # Remove "event" and "slug" from the YAML frontmatter
+  video.delete("event")
+  video.delete("slug")
 
   # Write YAML frontmatter
   File.write out_file, video.to_yaml + "---\n"
