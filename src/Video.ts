@@ -9,7 +9,7 @@ const VideoFrontMatter = z.object({
   speaker: z.string(),
   youtube: z.string(),
   managed: z.boolean(),
-  description: z.string(),
+  description: z.string().optional(),
   published: z.boolean().optional(),
 })
 type VideoFrontMatter = z.infer<typeof VideoFrontMatter>

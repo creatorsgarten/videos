@@ -15,10 +15,14 @@ const youtube = google.youtube('v3')
 async function getVideoDescription(video: Video): Promise<string> {
   const event = await Event.findById(video.event)
   return [
-    video.data.description.trim(),
-    '',
-    '',
-    '--------------------------------------------',
+    ...(video.data.description
+      ? [
+          video.data.description.trim(),
+          '',
+          '',
+          '--------------------------------------------',
+        ]
+      : []),
     `Event: ${event.name}`,
     event.url,
     '',
@@ -31,7 +35,7 @@ async function getVideoDescription(video: Video): Promise<string> {
     'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.',
     '',
     'For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.',
-    'mail@creatorsgarten.org'
+    'mail@creatorsgarten.org',
   ].join('\n')
 }
 
