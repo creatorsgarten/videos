@@ -26,6 +26,7 @@ result = data.map do |title, speaker, event, slug, youtube|
     speaker: speaker,
     youtube: youtube,
     managed: true,
+    published: false,
   }
 end
 
