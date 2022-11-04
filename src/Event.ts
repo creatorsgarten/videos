@@ -1,8 +1,26 @@
+type EventOptions = {
+  /**
+   * External organizer of the event.
+   */
+  externalOrganizer?: { name: string; url?: string }
+
+  /**
+   * URL to the event page.
+   * @default https://creatorsgarten.org/wiki/Hacks/{id}
+   */
+  urlOverride?: string
+
+  /**
+   * Extra description about the event to add to the video description.
+   */
+  description?: string
+}
+
 export class Event {
   constructor(
     public id: string,
     public name: string,
-    private urlOverride?: string,
+    private options: EventOptions = {},
   ) {}
   static async findAll() {
     return events
@@ -18,8 +36,12 @@ export class Event {
   }
   get url() {
     return (
-      this.urlOverride || `https://creatorsgarten.org/wiki/Hacks/${this.id}`
+      this.options.urlOverride ??
+      `https://creatorsgarten.org/wiki/Hacks/${this.id}`
     )
+  }
+  get externalOrganizer() {
+    return this.options.externalOrganizer
   }
 }
 
@@ -27,9 +49,11 @@ const events = [
   new Event('svelte1', 'Svelte Meetup Bangkok #1'),
   new Event('shit6', 'The ៦th Stupid Hackathon in Thailand'),
   new Event('hacktoberfest2022', 'Hacktoberfest Thailand 2022'),
-  new Event(
-    'reactmeetup0922',
-    'React Meetup 09/22',
-    'https://www.eventpop.me/e/13545',
-  ),
+  new Event('reactmeetup0922', 'React Meetup 09/22', {
+    urlOverride: 'https://www.eventpop.me/e/13545',
+    externalOrganizer: {
+      name: 'React ไปวันๆ',
+      url: 'https://www.facebook.com/devMasterSomeday/',
+    },
+  }),
 ]

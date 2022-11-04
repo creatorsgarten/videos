@@ -25,6 +25,20 @@ async function getVideoDescription(video: Video): Promise<string> {
       : []),
     `Event: ${event.name}`,
     event.url,
+    ...(event.externalOrganizer
+      ? [
+          '',
+          'Organized by: ' +
+            event.externalOrganizer.name +
+            (event.externalOrganizer.url
+              ? `\n${event.externalOrganizer.url}`
+              : ''),
+          '',
+          '',
+          '--------------------------------------------',
+          'Recorded and published by Creatorsgarten.',
+        ]
+      : []),
     '',
     'Website:',
     'https://creatorsgarten.org',
