@@ -8,5 +8,16 @@ description: |
 
   MikkiPastel blog:
   https://mikkipastel.com/
+
+  00:00 | Intro
+  01:20 | How to contribute for developer
+  02:00 | Why blog
+  04:10 | Start with Medium
+  05:02 | How to pick topic to write blog
+  06:49 | Writing your blog (examples)
+  12:10 | Add supporting content to increase interest
+  17:17 | Share to your friend and community
+  18:58 | Chance
+  21:14 | Questions
 published: true
 ---
