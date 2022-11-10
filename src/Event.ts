@@ -56,4 +56,5 @@ const events = [
       url: 'https://www.facebook.com/devMasterSomeday/',
     },
   }),
+  new Event('bkkjs17', 'Bkk.js #17 - Developer Showtime'),
 ]
