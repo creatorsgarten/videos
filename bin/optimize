@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+# Optimize a video
+
+ARGV.each do |file|
+  if !File.exists?(file)
+    puts "File #{file} does not exist"
+    next
+  end
+  in_file = file
+  out_file = in_file.gsub(/\.\w+$/, "-optimized.mp4")
+  if File.exists?(out_file)
+    puts "File #{out_file} already exists"
+    next
+  end
+  system "ffmpeg", "-i", in_file, "-c:v", "libx264", "-crf", "18", "-preset", "ultrafast", out_file
+end
