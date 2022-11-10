@@ -1,6 +1,61 @@
 {
   "videos": [
     {
+      "event": "bkkjs17",
+      "slug": "blackbox",
+      "data": {
+        "title": "Move fast while maintaining quality with black box testing",
+        "speaker": "Thai Pangsakulyanont",
+        "youtube": "vbIWSwz8NxQ",
+        "managed": true,
+        "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/blackbox.md"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "manoonchai",
+      "data": {
+        "title": "Building Manoonchai (An optimized Thai keyboard layout) from scratch with JS/TS",
+        "speaker": "Manassarn Manoonchai",
+        "youtube": "ltIvGLzMwzo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/manoonchai.md"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "nojs",
+      "data": {
+        "title": "You don’t need JavaScript",
+        "speaker": "Siriwat Kunaporn",
+        "youtube": "le5M-5mhPY0",
+        "managed": true,
+        "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/nojs.md"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "postr",
+      "data": {
+        "title": "Behind the scene of Postr.me",
+        "speaker": "Warat Wongmaneekit",
+        "youtube": "J2THXXeQMxY",
+        "managed": true,
+        "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/postr.md"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
