@@ -12,7 +12,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/ar.md"
+      "filePath": "data/videos/bkkjs17/ar.md",
+      "imageFilePath": "data/videos/bkkjs17/ar.jpg"
     },
     {
       "event": "bkkjs17",
@@ -26,7 +27,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/blackbox.md"
+      "filePath": "data/videos/bkkjs17/blackbox.md",
+      "imageFilePath": "data/videos/bkkjs17/blackbox.jpg"
     },
     {
       "event": "bkkjs17",
@@ -40,7 +42,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/manoonchai.md"
+      "filePath": "data/videos/bkkjs17/manoonchai.md",
+      "imageFilePath": "data/videos/bkkjs17/manoonchai.jpg"
     },
     {
       "event": "bkkjs17",
@@ -54,7 +57,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/nojs.md"
+      "filePath": "data/videos/bkkjs17/nojs.md",
+      "imageFilePath": "data/videos/bkkjs17/nojs.jpg"
     },
     {
       "event": "bkkjs17",
@@ -68,7 +72,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/postr.md"
+      "filePath": "data/videos/bkkjs17/postr.md",
+      "imageFilePath": "data/videos/bkkjs17/postr.jpg"
     },
     {
       "event": "bkkjs17",
@@ -82,7 +87,8 @@
         "published": true
       },
       "content": "",
-      "filePath": "data/videos/bkkjs17/typescript.md"
+      "filePath": "data/videos/bkkjs17/typescript.md",
+      "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
       "event": "hacktoberfest2022",
