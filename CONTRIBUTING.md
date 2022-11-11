@@ -9,6 +9,7 @@ By submitting a pull request to this repository you can help us improve and grow
 - [Add timestamps](#timestamps)
 - [Add links to the video description](#reference-links)
 - [Improve the thumbnail image](#thumbnail)
+- [Add English subtitles](#english-subtitles)
 
 ## Timestamps
 
@@ -44,3 +45,10 @@ Image requirements:
 - Dimensions must be 1280x720
 - File extension must be `.jpg`
 - Image must be smaller than 128 KB
+
+## English Subtitles
+
+Having English subtitles can help make the talk understandable by non-Thais (international audience). Subtitles can be added by creating a `[slug]_en.vtt` file in [data/videos](data/videos).
+
+- You can autogenerate an English subtitles from a Thai video using [whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube). It is a machine learning model that can generate English subtitles from videos in any language.
+- You can use [happyscribe](https://www.happyscribe.com/subtitle-tools/online-subtitle-editor) to edit your subtitles using a free, web-based tool.
