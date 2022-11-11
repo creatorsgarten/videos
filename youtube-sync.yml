@@ -1,30 +1,46 @@
----
 video:uDZIraaY5s8:
   spec:
     snippet:
       title: The rise journey of brain-computer interface by Isaman Sangbamrung
-      description: |-
-        เล่าเรื่องราวของการพัฒนา BCI (Brain-Computer Interface) ทั้งในไทยและต่างประเทศ โดยจะมีหัวข้อคร่าว ๆ ดังนี้
+      description: >-
+        เล่าเรื่องราวของการพัฒนา BCI (Brain-Computer Interface)
+        ทั้งในไทยและต่างประเทศ โดยจะมีหัวข้อคร่าว ๆ ดังนี้
+
 
         1. ตั้งแต่ BCI คืออะไร
+
         2. ถ้าเราจะเริ่มต้นพัฒนา BCI ต้องเริ่มอย่างไร
+
         3. BCI ถูกเอาไปใช้กับอุตสาหกรรมไหนแล้วบ้าง
+
         4. อนาคตของ BCI จะเป็นอย่างไร
 
 
+
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -41,38 +57,67 @@ thumbnail:uDZIraaY5s8:
 video:8aVdlBhY6zU:
   spec:
     snippet:
-      title: How to contribute tech community with your blog by Monthira Chayabanjonglerd
-      description: |-
-        ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง
+      title: >-
+        How to contribute tech community with your blog by Monthira
+        Chayabanjonglerd
+      description: >-
+        ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา
+        ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community
+        ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน
+        ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง
+
 
         MikkiPastel blog:
+
         https://mikkipastel.com/
 
+
         00:00 | Intro
+
         01:20 | How to contribute for developer
+
         02:00 | Why blog
+
         04:10 | Start with Medium
+
         05:02 | How to pick topic to write blog
+
         06:49 | Writing your blog (examples)
+
         12:10 | Add supporting content to increase interest
+
         17:17 | Share to your friend and community
+
         18:58 | Chance
+
         21:14 | Questions
 
 
+
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -90,23 +135,37 @@ video:raaiHUinw8c:
   spec:
     snippet:
       title: GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย by Bhuridech Sudsee
-      description: |-
-        GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk นี้จะเหลาให้ฟัง
+      description: >-
+        GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น
+        Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk
+        นี้จะเหลาให้ฟัง
+
 
 
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -124,26 +183,41 @@ video:nQa3foXwzGE:
   spec:
     snippet:
       title: Joy UI, React components that spark joy by Siriwat Kunaporn
-      description: |-
-        Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก
+      description: >-
+        Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI
+        ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก
+
 
         Joy UI
+
         https://mui.com/joy-ui/getting-started/overview/
 
 
+
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -161,29 +235,48 @@ video:nfnP0W0ZL94:
   spec:
     snippet:
       title: Monorepo 101 by Kitpipat Jaritwong
-      description: |-
-        Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน
+      description: >-
+        Talk นี้เล่าเกี่ยวกับประวัติของ repository,
+        และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice
+        แทน
+
 
         00:00 | Intro
+
         00:46 | What is a repository?
+
         06:00 | What is a monorepo?
+
         06:37 | What are the differences?
+
         13:23 | Questions
 
 
+
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -201,23 +294,36 @@ video:XD3n9J-eV1g:
   spec:
     snippet:
       title: How I contributed to Prisma by Jarupong Pajakgo
-      description: |-
-        เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ dev version, และหา solution ให้คนใน community
+      description: >-
+        เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ
+        dev version, และหา solution ให้คนใน community
+
 
 
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -234,29 +340,44 @@ thumbnail:XD3n9J-eV1g:
 video:KeyDrr4Qxg0:
   spec:
     snippet:
-      title:
+      title: >-
         มาเขียนหนังสือ The Data Engineering Book สำหรับคนไทยเพื่อคนไทยกัน by
         Athibet Prawane
-      description: |-
-        อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น
+      description: >-
+        อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book
+        ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น
+
 
         The Data Engineering Book - หนังสือวิศวกรรมข้อมูล ของคนไทย เพื่อคนไทย
+
         https://url.odds.team/tdeb
 
 
+
         --------------------------------------------
+
         Event: Hacktoberfest Thailand 2022
+
         https://creatorsgarten.org/wiki/Hacks/hacktoberfest2022
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -274,23 +395,36 @@ video:kS-LvjiZzUE:
   spec:
     snippet:
       title: Basic Svelte for React & Vue Developers by Manassarn Manoonchai
-      description: |-
-        Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue
+      description: >-
+        Give Svelte a try, you'll love it! - Introduction to Svelte for
+        developers who already using React and/or Vue
+
 
 
         --------------------------------------------
+
         Event: Svelte Meetup Bangkok #1
+
         https://creatorsgarten.org/wiki/Hacks/svelte1
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -308,23 +442,35 @@ video:EAaXA0PFXBA:
   spec:
     snippet:
       title: Web dev มือใหม่ vs SvelteKit by Tong Khemmathiti
-      description: |-
+      description: >-
         จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte
 
 
+
         --------------------------------------------
+
         Event: Svelte Meetup Bangkok #1
+
         https://creatorsgarten.org/wiki/Hacks/svelte1
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -342,23 +488,35 @@ video:S1jUjA4mz0U:
   spec:
     snippet:
       title: Serverless SvelteKit Project by Thanatat Tamtan
-      description: |-
+      description: >-
         ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?
 
 
+
         --------------------------------------------
+
         Event: Svelte Meetup Bangkok #1
+
         https://creatorsgarten.org/wiki/Hacks/svelte1
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -376,23 +534,35 @@ video:ZRQg3b4Y_1A:
   spec:
     snippet:
       title: 'Bangkok: Svelte in every codebase by Kongkeit Khunpanitchot'
-      description: |-
+      description: >-
         Let's put Svelte in every codebase possible, even in a cross library one
 
 
+
         --------------------------------------------
+
         Event: Svelte Meetup Bangkok #1
+
         https://creatorsgarten.org/wiki/Hacks/svelte1
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -408,29 +578,43 @@ thumbnail:ZRQg3b4Y_1A:
 video:IVwBbhHOvSQ:
   spec:
     snippet:
-      title:
+      title: >-
         Shipping open source software in a fully remote company by Mahatthana
         Kelvin Nomsawadi
-      description: |-
+      description: >-
         Event: React Meetup 09/22
+
         https://www.eventpop.me/e/13545
 
+
         Organized by: React ไปวันๆ
+
         https://www.facebook.com/devMasterSomeday/
 
 
+
         --------------------------------------------
+
         Recorded and published by Creatorsgarten.
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -448,26 +632,40 @@ video:iFBxlPXrZRo:
   spec:
     snippet:
       title: Implementing micro-animations with react-spring by Kanisorn Sutham
-      description: |-
+      description: >-
         Event: React Meetup 09/22
+
         https://www.eventpop.me/e/13545
 
+
         Organized by: React ไปวันๆ
+
         https://www.facebook.com/devMasterSomeday/
 
 
+
         --------------------------------------------
+
         Recorded and published by Creatorsgarten.
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -485,26 +683,40 @@ video:yvfsIaj6WVM:
   spec:
     snippet:
       title: Justice for React.StrictMode by Wit Jintanasathirakul
-      description: |-
+      description: >-
         Event: React Meetup 09/22
+
         https://www.eventpop.me/e/13545
 
+
         Organized by: React ไปวันๆ
+
         https://www.facebook.com/devMasterSomeday/
 
 
+
         --------------------------------------------
+
         Recorded and published by Creatorsgarten.
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -522,26 +734,40 @@ video:-lZ5ndZhu8c:
   spec:
     snippet:
       title: Meaningful React Component API with TypeScript by Kunanan Tassuwan
-      description: |-
+      description: >-
         Event: React Meetup 09/22
+
         https://www.eventpop.me/e/13545
 
+
         Organized by: React ไปวันๆ
+
         https://www.facebook.com/devMasterSomeday/
 
 
+
         --------------------------------------------
+
         Recorded and published by Creatorsgarten.
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -558,27 +784,47 @@ thumbnail:-lZ5ndZhu8c:
 video:vbIWSwz8NxQ:
   spec:
     snippet:
-      title: Move fast while maintaining quality with black box testing by Thai Pangsakulyanont
-      description: |-
-        สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)
+      title: >-
+        Move fast while maintaining quality with black box testing by Thai
+        Pangsakulyanont
+      description: >-
+        สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด
+        พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก
+        พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส
+        ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่
+        เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)
+
 
         Notes and references:
+
         https://dt.in.th/go/bbtt
 
 
+
         --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
+
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -594,24 +840,66 @@ thumbnail:vbIWSwz8NxQ:
   state: {}
 video:ltIvGLzMwzo:
   spec:
+    id: ltIvGLzMwzo
     snippet:
-      title:
-        Building Manoonchai (An optimized Thai keyboard layout) from scratch
-        with JS/TS by Manassarn Manoonc
-      description:
-        "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai
-        layout dev note \U0001F9F5\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai
-        Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n\n\n--------------------------------------------\nEvent:
-        Bkk.js #17 - Developer Showtime\nhttps://creatorsgarten.org/wiki/Hacks/bkkjs17\n\nWebsite:\nhttps://creatorsgarten.org\n\nFacebook:\nhttps://facebook.com/creatorsgarten\n\nPlease
-        consider supporting us by subscribing to the channel, and follow upcoming
-        events via our Facebook pages.\n\nFor reuse of this video under a more permissive
-        license please get in touch with us. The speakers retain the copyright for
-        their performances.\nmail@creatorsgarten.org"
+      title: >-
+        Building Manoonchai keyboard layout from scratch with JS/TS by Manassarn
+        Manoonchai
+      description: >-
+        พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย
+        JavaScript/TypeScript
+
+
+        แป้นพิมพ์มนูญชัย
+
+        https://manoonchai.com/
+
+
+        Manoonchai layout dev note 🧵
+
+        https://twitter.com/narze/status/1387266301492568081
+
+
+        ทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย
+
+        https://manoontype.web.app/
+
+
+        Manoonchai Layout Discord
+
+        https://discord.gg/aNbFWTmuHU
+
+
+
+        --------------------------------------------
+
+        Event: Bkk.js #17 - Developer Showtime
+
+        https://creatorsgarten.org/wiki/Hacks/bkkjs17
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: ltIvGLzMwzo
   state: {}
 thumbnail:ltIvGLzMwzo:
   spec:
@@ -623,32 +911,51 @@ video:le5M-5mhPY0:
   spec:
     snippet:
       title: You don’t need JavaScript by Siriwat Kunaporn
-      description: |-
+      description: >-
         Mind blown CSS techniques that you might not have seen
 
+
         00:00 | Intro
+
         03:28 | 1. Viewport divider
+
         10:16 | 2. Flexbox albatross
+
         20:48 | 3. Shadow Scroll
+
         23:49 | 4. Perfect Radius
 
+
         Code examples:
+
         https://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd
 
 
+
         --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
+
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -666,26 +973,41 @@ video:J2THXXeQMxY:
   spec:
     snippet:
       title: Behind the scene of Postr.me by Warat Wongmaneekit
-      description: |-
-        ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง
+      description: >-
+        ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก
+        เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง
+
 
         Postr.me - Capture social network post to nice image and video
+
         https://postr.me/
 
 
+
         --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
+
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -703,26 +1025,41 @@ video:JuWzquQwt4g:
   spec:
     snippet:
       title: AR on Web by Wasit Jingjit, Watid Jingjit
-      description: |-
-        เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที
+      description: >-
+        เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว
+        เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที
+
 
         VIZ STUDIO
+
         https://viz.studio/
 
 
+
         --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
+
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
@@ -740,23 +1077,38 @@ video:wrPz2Sp9EZU:
   spec:
     snippet:
       title: Ten Years of TypeScript by Jirachai Chansivanon
-      description: |-
-        เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ
+      description: >-
+        เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft
+        เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS
+        ที่กำลังมาแรงในปัจจุบันได้อย่างไร
+        พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ
+
 
 
         --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
+
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
 
+
         Website:
+
         https://creatorsgarten.org
 
+
         Facebook:
+
         https://facebook.com/creatorsgarten
 
-        Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.
 
-        For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
         mail@creatorsgarten.org
     status:
       embeddable: true
