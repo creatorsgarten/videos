@@ -739,7 +739,7 @@ video_vbIWSwz8NxQ:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
 video_ltIvGLzMwzo:
   spec:
     snippet:
@@ -747,6 +747,33 @@ video_ltIvGLzMwzo:
         Building Manoonchai (An optimized Thai keyboard layout) from scratch
         with JS/TS by Manassarn Manoonc
       description: >-
+        พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย
+        JavaScript/TypeScript
+
+
+        แป้นพิมพ์มนูญชัย
+
+        https://manoonchai.com/
+
+
+        Manoonchai layout dev note 🧵
+
+        https://twitter.com/narze/status/1387266301492568081
+
+
+        ทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย
+
+        https://manoontype.web.app/
+
+
+        Manoonchai Layout Discord
+
+        https://discord.gg/aNbFWTmuHU
+
+
+
+        --------------------------------------------
+
         Event: Bkk.js #17 - Developer Showtime
 
         https://creatorsgarten.org/wiki/Hacks/bkkjs17
@@ -773,7 +800,7 @@ video_ltIvGLzMwzo:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
 video_le5M-5mhPY0:
   spec:
     snippet:
@@ -827,7 +854,7 @@ video_le5M-5mhPY0:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
 video_J2THXXeQMxY:
   spec:
     snippet:
@@ -871,7 +898,7 @@ video_J2THXXeQMxY:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
 video_JuWzquQwt4g:
   spec:
     snippet:
@@ -915,7 +942,7 @@ video_JuWzquQwt4g:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
 video_wrPz2Sp9EZU:
   spec:
     snippet:
@@ -956,4 +983,4 @@ video_wrPz2Sp9EZU:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
