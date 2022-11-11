@@ -22,6 +22,7 @@ export class Video {
     public data: VideoFrontMatter,
     public content: string,
     public imageFilePath?: string,
+    public englishSubtitlePath?: string,
   ) {}
   static async findAll() {
     const paths = await globby(['data/videos/**/*.md'])
@@ -32,6 +33,7 @@ export class Video {
       const parsed = grayMatter.read(filePath)
       const { data, content } = parsed
       const imageFilePath = filePath.replace(/\.md$/, '.jpg')
+      const englishSubtitlePath = filePath.replace(/\.md$/, '_en.vtt')
       videos.push(
         new Video(
           filePath,
@@ -40,6 +42,7 @@ export class Video {
           VideoFrontMatter.parse(data),
           content,
           fs.existsSync(imageFilePath) ? imageFilePath : undefined,
+          fs.existsSync(englishSubtitlePath) ? englishSubtitlePath : undefined,
         ),
       )
     }
@@ -53,6 +56,7 @@ export class Video {
       content: this.content,
       filePath: this.filePath,
       imageFilePath: this.imageFilePath,
+      englishSubtitlePath: this.englishSubtitlePath,
     }
   }
 }
