@@ -66,164 +66,173 @@ const argv = await yargs(process.argv.slice(2))
   .help()
   .parse()
 
-interface UpdateJob {
-  id: string
-  title: string
+interface Resource<T extends {} = any, S extends {} = any> {
+  spec: T
   description: string
-  published?: boolean
-  video: Video
+  reconcile: (oldState?: S) => Promise<S>
 }
 
-const jobs: UpdateJob[] = []
+const resources = new Map<string, Resource>()
+
+interface YouTubeVideoSpec {
+  id: string
+  snippet: youtube_v3.Schema$VideoSnippet
+  status: youtube_v3.Schema$VideoStatus
+}
+
+class YouTubeVideo implements Resource<YouTubeVideoSpec, {}> {
+  constructor(public spec: YouTubeVideoSpec) {}
+  get description() {
+    return `"${this.spec.snippet.title}"`
+  }
+  async reconcile() {
+    const youtubeId = this.spec.id
+
+    // Update the video title and description to match.
+    // First, we need to get the video snippet data.
+    const foundVideos = await youtube.videos.list({
+      part: ['snippet', 'status'],
+      id: [youtubeId],
+    })
+    const video = foundVideos.data.items?.[0]
+    if (!video) {
+      throw new Error(`Video ${youtubeId} not found`)
+    }
+
+    const { snippet, status } = video
+    const newSnippet: youtube_v3.Schema$VideoSnippet = {
+      ...snippet,
+      ...this.spec.snippet,
+    }
+    const newStatus: youtube_v3.Schema$VideoStatus = {
+      ...status,
+      ...this.spec.status,
+    }
+    if (isEqual(snippet, newSnippet) && isEqual(status, newStatus)) {
+      console.log(`Video ${youtubeId} is already up to date`)
+      return false
+    }
+    const updateParams: youtube_v3.Params$Resource$Videos$Update = {
+      part: ['snippet', 'status'],
+      requestBody: { id: youtubeId, snippet: newSnippet, status: newStatus },
+    }
+    const result = await youtube.videos.update(updateParams)
+    console.log(`Updated video ${youtubeId}`)
+    console.log(result.data)
+    return {}
+  }
+}
+
+interface YouTubeThumbnailSpec {
+  videoId: string
+  filePath: string
+  hash: string
+}
+class YouTubeThumbnail implements Resource<YouTubeThumbnailSpec, {}> {
+  constructor(public spec: YouTubeThumbnailSpec) {}
+  get description() {
+    return this.spec.filePath
+  }
+  async reconcile() {
+    const youtubeId = this.spec.videoId
+    const updateParams: youtube_v3.Params$Resource$Thumbnails$Set = {
+      videoId: youtubeId,
+      requestBody: {},
+      media: {
+        mimeType: 'image/jpeg',
+        body: fs.createReadStream(this.spec.filePath),
+      },
+    }
+    const result = await youtube.thumbnails.set(updateParams)
+    console.log(`Updated thumbnail for video ${youtubeId}`)
+    console.log(result.data)
+
+    return {}
+  }
+}
 
 for (const video of await Video.findAll()) {
   const { data } = video
   if (!data.managed) continue
   const speakers = data.speaker.split(/;\s+/).join(', ')
-  jobs.push({
-    title: (data.title + ' by ' + speakers).slice(0, 100),
-    description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
-    id: data.youtube,
-    published: data.published,
-    video,
-  })
-}
+  resources.set(
+    'video:' + data.youtube,
+    new YouTubeVideo({
+      id: data.youtube,
+      snippet: {
+        title: (data.title + ' by ' + speakers).slice(0, 100),
+        description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
+      },
+      status: {
+        embeddable: true,
+        selfDeclaredMadeForKids: false,
+        ...(data.published === true
+          ? { privacyStatus: 'public' }
+          : data.published === false
+          ? { privacyStatus: 'unlisted' }
+          : {}),
+      },
+    }),
+  )
 
-console.log('Number of jobs:', jobs.length)
-
-interface VideoSpec {
-  snippet: youtube_v3.Schema$VideoSnippet
-  status: youtube_v3.Schema$VideoStatus
-}
-
-async function updateVideo(
-  job: UpdateJob,
-  { dryRun = true }: { dryRun?: boolean } = {},
-) {
-  const stateKey = `video_${job.id}`
-  const oldState = (await getState(stateKey)) || {}
-  const newState = cloneDeep(oldState)
-  const updateTasks: (() => Promise<any>)[] = []
-
-  const spec: VideoSpec = {
-    snippet: {
-      title: job.title,
-      description: job.description,
-    },
-    status: {
-      embeddable: true,
-      selfDeclaredMadeForKids: false,
-    },
-  }
-  if (job.published === true) {
-    spec.status.privacyStatus = 'public'
-  } else if (job.published === false) {
-    spec.status.privacyStatus = 'unlisted'
-  }
-  newState.spec = spec
-  if (!isEqual(oldState.spec, newState.spec)) {
-    updateTasks.push(() => doUpdateVideo(job, spec))
-  }
-
-  if (fs.existsSync(job.video.imageFilePath)) {
+  if (video.imageFilePath) {
     const hash = crypto
       .createHash('sha256')
-      .update(fs.readFileSync(job.video.imageFilePath))
+      .update(fs.readFileSync(video.imageFilePath))
       .digest('hex')
-    newState.thumbnail ??= {}
-    newState.thumbnail.hash = hash
-    if (oldState.thumbnail?.hash !== hash) {
-      updateTasks.push(() => doUpdateThumbnail(job))
-    }
+    resources.set(
+      'thumbnail:' + data.youtube,
+      new YouTubeThumbnail({
+        videoId: data.youtube,
+        filePath: video.imageFilePath,
+        hash,
+      }),
+    )
   }
+}
 
-  if (updateTasks.length === 0) {
-    console.log(`Video ${job.id} is up to date`)
-    return
-  }
-  if (dryRun) {
-    console.log('Would update video', job.id)
+const idsToReconcile = new Map<string, any>()
+
+for (const [id, resource] of resources) {
+  const data = await getState(id)
+  const oldSpec = data.spec || {}
+  const newSpec = resource.spec
+  if (isEqual(oldSpec, newSpec)) {
+    console.log(chalk.green('✓'), id, `(${resource.description})`)
+  } else {
+    console.log(chalk.yellow('!'), id, `(${resource.description})`)
     console.log(
-      diff(oldState, newState, {
+      diff(oldSpec, newSpec, {
         aAnnotation: 'Before',
         bAnnotation: 'After',
         aColor: chalk.red,
         bColor: chalk.green,
       }),
     )
-    return
+    idsToReconcile.set(id, data.state)
   }
-  for (const updateTask of updateTasks) {
-    await updateTask()
-  }
-  await setState(stateKey, newState)
 }
 
-async function doUpdateVideo(job: UpdateJob, spec: VideoSpec) {
-  const youtubeId = job.id
-
-  // Update the video title and description to match.
-  // First, we need to get the video snippet data.
-  const foundVideos = await youtube.videos.list({
-    part: ['snippet', 'status'],
-    id: [youtubeId],
-  })
-  const video = foundVideos.data.items?.[0]
-  if (!video) {
-    console.error(`Video ${youtubeId} not found`)
-    return false
-  }
-
-  const { snippet, status } = video
-  const newSnippet: youtube_v3.Schema$VideoSnippet = {
-    ...snippet,
-    ...spec.snippet,
-  }
-  const newStatus: youtube_v3.Schema$VideoStatus = {
-    ...status,
-    ...spec.status,
-  }
-  if (isEqual(snippet, newSnippet) && isEqual(status, newStatus)) {
-    console.log(`Video ${youtubeId} is up to date`)
-    return false
-  }
-
-  const updateParams: youtube_v3.Params$Resource$Videos$Update = {
-    part: ['snippet', 'status'],
-    requestBody: { id: youtubeId, snippet: newSnippet, status: newStatus },
-  }
-  const result = await youtube.videos.update(updateParams)
-  console.log(`Updated video ${youtubeId}`)
-  console.log(result.data)
-}
-
-async function doUpdateThumbnail(job: UpdateJob) {
-  const youtubeId = job.id
-
-  const updateParams: youtube_v3.Params$Resource$Thumbnails$Set = {
-    videoId: youtubeId,
-    requestBody: {},
-    media: {
-      mimeType: 'image/jpeg',
-      body: fs.createReadStream(job.video.imageFilePath),
-    },
-  }
-  const result = await youtube.thumbnails.set(updateParams)
-  console.log(`Updated thumbnail for video ${youtubeId}`)
-  console.log(result.data)
-}
+console.log()
+console.log('Number of resources to reconcile:', idsToReconcile.size)
 
 if (argv.confirm) {
   await getToken()
   google.options({ auth: authClient })
-  for (const [i, job] of jobs.entries()) {
-    console.log(`Processing job ${i + 1} of ${jobs.length}`)
-    await updateVideo(job, { dryRun: false })
+  for (const [id, oldState] of idsToReconcile) {
+    const resource = resources.get(id)!
+    try {
+      console.log(chalk.cyan('Reconciling'), id, `(${resource.description})`)
+      const newState = await resource.reconcile(oldState)
+      await setState(id, {
+        spec: resource.spec,
+        state: newState,
+      })
+    } catch (err) {
+      console.error(chalk.red('Error reconciling'), id)
+      console.error(err)
+    }
   }
-} else {
-  for (const [i, job] of jobs.entries()) {
-    console.log(`Processing job ${i + 1} of ${jobs.length}`)
-    await updateVideo(job, { dryRun: true })
-  }
-  console.log('Run with --confirm to update the videos')
+} else if (idsToReconcile.size > 0) {
+  console.log('Run with "--confirm" to reconcile all resources')
 }
