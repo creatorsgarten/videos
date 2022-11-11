@@ -280,7 +280,7 @@ for (const video of await Video.findAll()) {
           .createHash('sha256')
           .update(fs.readFileSync(video.englishSubtitlePath))
           .digest('hex'),
-        isDraft: true,
+        isDraft: !(data.subtitles || []).includes('en'),
       }),
     )
   }
