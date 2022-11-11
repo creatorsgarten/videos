@@ -79,8 +79,9 @@ const jobs: UpdateJob[] = []
 for (const video of await Video.findAll()) {
   const { data } = video
   if (!data.managed) continue
+  const speakers = data.speaker.split(/;\s+/).join(', ')
   jobs.push({
-    title: (data.title + ' by ' + data.speaker).slice(0, 100),
+    title: (data.title + ' by ' + speakers).slice(0, 100),
     description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
     id: data.youtube,
     published: data.published,
