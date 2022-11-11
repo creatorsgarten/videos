@@ -1,0 +1,860 @@
+WEBVTT
+
+00:00.000 --> 00:10.000
+(NOTE: Subtitles automatically generated using Whisper by OpenAI)
+Hello, my name is Tine. I am a software engineer at Eventpop.
+
+00:10.000 --> 00:23.000
+Today I would like to share my way of thinking with various projects.
+
+00:23.000 --> 00:30.000
+I will move fast because I have a lot of hair.
+
+00:30.000 --> 00:55.000
+Most of the food in this event is personal experience.
+
+00:55.000 --> 01:04.000
+I want to talk about this topic because I have tried to do some projects and found that I was not brave enough to fix the code.
+
+01:04.000 --> 01:10.000
+I feel that I can work slowly.
+
+01:10.000 --> 01:16.000
+Once there was a system that suddenly worked slowly.
+
+01:16.000 --> 01:21.000
+The program worked slowly, so I went to optimize it.
+
+01:21.000 --> 01:26.000
+I have to optimize it to work faster.
+
+01:26.000 --> 01:29.000
+Sometimes I have to re-code many parts.
+
+01:29.000 --> 01:33.000
+I don't dare to merge or release it because I'm afraid I will break it.
+
+01:33.000 --> 01:37.000
+I have to waste time testing features to gain confidence.
+
+01:37.000 --> 01:42.000
+The bigger the project, the longer it takes to test.
+
+01:42.000 --> 01:47.000
+It will help with automated testing.
+
+01:47.000 --> 01:51.000
+I talked to other devs and asked if they would write a test.
+
+01:51.000 --> 01:57.000
+Some people in the startup said they didn't have time to write unit tests because they had to finish the project in time.
+
+01:57.000 --> 02:02.000
+But when you write a code without unit tests, there is a chance that it will be wrong.
+
+02:02.000 --> 02:06.000
+When you write unit tests, you can't write it again.
+
+02:06.000 --> 02:09.000
+If you don't re-code, you can re-test.
+
+02:09.000 --> 02:12.000
+But when you re-code, you don't dare to re-code because there is no test.
+
+02:12.000 --> 02:18.000
+In addition, there are no unit tests. The higher level tests such as API tests and UI tests may not be written.
+
+02:18.000 --> 02:21.000
+How do you release the product?
+
+02:21.000 --> 02:25.000
+If you don't release it, you may have to run the test manually.
+
+02:25.000 --> 02:29.000
+Or throw it to another team, such as QA team.
+
+02:29.000 --> 02:34.000
+If you're lucky, QA team will write an automated test for you.
+
+02:34.000 --> 02:38.000
+But sometimes the automated test can only run in the environment of QA.
+
+02:38.000 --> 02:42.000
+If you run it in the localhost, it won't work.
+
+02:42.000 --> 02:47.000
+So, before we know what we've fixed, the feedback loop may be slow.
+
+02:47.000 --> 02:50.000
+If there is no automated test to help.
+
+02:50.000 --> 02:57.000
+I've read that high-performing teams should have short feedback loops.
+
+02:57.000 --> 03:04.000
+They said the team should be able to put the code they developed into production in about 15 minutes.
+
+03:04.000 --> 03:08.000
+This is called 15 minutes or bust.
+
+03:08.000 --> 03:13.000
+I'm slowly finding a way to get closer to that point.
+
+03:13.000 --> 03:16.000
+If we are in a team with a mindset about TDD.
+
+03:16.000 --> 03:22.000
+No matter how the writing test will be, we must have a test for the future.
+
+03:22.000 --> 03:25.000
+It may be easy to get to that point.
+
+03:25.000 --> 03:29.000
+But just TDD, I think it will cost a lot of money.
+
+03:29.000 --> 03:35.000
+Since I was in university, I only studied theory.
+
+03:35.000 --> 03:39.000
+And the faculty did the basic example.
+
+03:39.000 --> 03:44.000
+When I had to test the code, I found that one component rendered 100 subcomponents.
+
+03:44.000 --> 03:48.000
+We have to prepare the environment so that the components can run in our test environment.
+
+03:48.000 --> 03:54.000
+Or we have to fix it so that each component can mock the subcomponents.
+
+03:54.000 --> 03:57.000
+It's tiring no matter which way you go.
+
+03:57.000 --> 04:00.000
+Even I wrote the test myself, it's still tiring to invite people to write it.
+
+04:00.000 --> 04:02.000
+It's probably difficult.
+
+04:02.000 --> 04:06.000
+It's not that we can write the test in just an hour or two.
+
+04:06.000 --> 04:09.000
+I think it's a virtue of TDD.
+
+04:09.000 --> 04:13.000
+When I started writing, my speed dropped a lot.
+
+04:13.000 --> 04:16.000
+I had to think about how to test.
+
+04:16.000 --> 04:20.000
+Sometimes I wrote a bad test, it slowed me down instead of getting faster.
+
+04:20.000 --> 04:27.000
+Besides, I couldn't catch any bugs. I had to fix the code.
+
+04:27.000 --> 04:30.000
+But I failed. I had to fix the test.
+
+04:30.000 --> 04:34.000
+It took me a year to write the test and make it faster.
+
+04:34.000 --> 04:39.000
+Some teams don't have enough resources to invest in these things.
+
+04:39.000 --> 04:43.000
+Sometimes I don't have time to write unit tests, especially in a very urgent work.
+
+04:43.000 --> 04:52.000
+So I had to choose what to do. If I don't invest in CICD testing, I have to wait for the review and approve.
+
+04:52.000 --> 04:57.000
+But even if I can get past that point, I will find the next stage, which is framework.
+
+04:57.000 --> 05:01.000
+Sometimes if I write code according to the standard of the framework,
+
+05:01.000 --> 05:03.000
+I can't get the unit test code.
+
+05:03.000 --> 05:07.000
+So I have to change to integration test instead and create an environment for testing.
+
+05:07.000 --> 05:11.000
+Or I have to refactor the code to make it easier to unit test.
+
+05:11.000 --> 05:13.000
+I have to use hexagonal architecture.
+
+05:13.000 --> 05:16.000
+But when I use it, it's easy to read from the original code.
+
+05:16.000 --> 05:19.000
+There are only two classes, controller and model.
+
+05:19.000 --> 05:21.000
+It's divided into 5 classes.
+
+05:21.000 --> 05:23.000
+Break out of the original framework pattern.
+
+05:23.000 --> 05:25.000
+Other people read it and don't understand.
+
+05:25.000 --> 05:27.000
+I had to jump 5 files.
+
+05:27.000 --> 05:29.000
+But everything can be unit tested.
+
+05:29.000 --> 05:31.000
+But I don't know if it's worth it.
+
+05:31.000 --> 05:36.000
+There are many trade-offs and there are many different ideas.
+
+05:36.000 --> 05:38.000
+Some people recommend testing pyramids.
+
+05:38.000 --> 05:41.000
+Some people say that pyramids are out of the game and recommend testing trophies instead.
+
+05:41.000 --> 05:45.000
+Some people say that doing end-to-end tests is not a good idea.
+
+05:45.000 --> 05:46.000
+Be careful.
+
+05:46.000 --> 05:50.000
+Some people say that unit tests are not very useful, so they don't write.
+
+05:50.000 --> 05:56.000
+But at least it looks like writing tests is a headache.
+
+05:56.000 --> 06:03.000
+For this session, I will talk about the direction of development and software testing that I use now.
+
+06:03.000 --> 06:05.000
+I have two things in common.
+
+06:05.000 --> 06:08.000
+First, I make my software easy to test.
+
+06:08.000 --> 06:10.000
+I try to wear a tester helmet.
+
+06:10.000 --> 06:15.000
+If I feel that it is difficult to test, I will fix it.
+
+06:15.000 --> 06:18.000
+When I do that, writing tests will be easier.
+
+06:18.000 --> 06:24.000
+When I reach the point where writing tests is easier than testing by hand, I believe that people will start writing tests themselves.
+
+06:24.000 --> 06:29.000
+Second, if there is a bug, I will fix it first.
+
+06:29.000 --> 06:35.000
+This time, what worked for me was not unit testing.
+
+06:35.000 --> 06:37.000
+I found that it was black box testing.
+
+06:37.000 --> 06:41.000
+Normally, our software is composed of components, right?
+
+06:41.000 --> 06:44.000
+Controllers, components, utilities, etc.
+
+06:44.000 --> 06:50.000
+In white box testing, we take the components and test them separately.
+
+06:50.000 --> 06:53.000
+But in black box testing, we don't care about what's inside.
+
+06:53.000 --> 06:55.000
+We test from the outside.
+
+06:55.000 --> 06:57.000
+Isn't this difficult?
+
+06:57.000 --> 07:00.000
+Let's go back to the first step, which is making it easy to test.
+
+07:00.000 --> 07:02.000
+Let's look at the pyramid test first.
+
+07:02.000 --> 07:05.000
+Actually, there are many versions of the pyramid.
+
+07:05.000 --> 07:07.000
+Let's look at this picture first.
+
+07:07.000 --> 07:10.000
+Most of the black box tests will cover the top of the pyramid.
+
+07:10.000 --> 07:12.000
+It is the end-to-end test and integration test.
+
+07:12.000 --> 07:16.000
+The top of the pyramid is often looked at in a negative way.
+
+07:16.000 --> 07:20.000
+Because it is slow, easy to break, easy to test flaky.
+
+07:20.000 --> 07:22.000
+And when it breaks, we don't know where it breaks.
+
+07:22.000 --> 07:25.000
+We have to dig up the code and debug again.
+
+07:25.000 --> 07:29.000
+So it is recommended to write a little bit and do a lot of unit tests.
+
+07:29.000 --> 07:34.000
+But many times, developers only write unit tests and there are no tests for the UI.
+
+07:34.000 --> 07:37.000
+Or even more, there are unit tests and all the tests are passed.
+
+07:37.000 --> 07:40.000
+But when the program is broken in production, there is no lock.
+
+07:40.000 --> 07:42.000
+Because they believe in unit tests too much.
+
+07:42.000 --> 07:47.000
+Currently, when I go into codebase and find that there are no tests,
+
+07:47.000 --> 07:51.000
+What I'm trying to do now is not to start writing unit tests anymore.
+
+07:51.000 --> 07:54.000
+I will try to test from the UI first.
+
+07:54.000 --> 07:58.000
+Some people see me doing this and wonder why I chose this step.
+
+07:58.000 --> 08:02.000
+Unit tests are really fast, precise and detailed.
+
+08:02.000 --> 08:04.000
+But it's not what I wanted at that time.
+
+08:04.000 --> 08:06.000
+What I want is confidence.
+
+08:06.000 --> 08:10.000
+We want to be sure that there is nothing broken after fixing the code.
+
+08:10.000 --> 08:12.000
+Let's look at the example of code.
+
+08:12.000 --> 08:13.000
+Let's start with unit tests.
+
+08:13.000 --> 08:15.000
+This is from NestJS.
+
+08:15.000 --> 08:17.000
+When we write unit tests for NestJS,
+
+08:17.000 --> 08:22.000
+First of all, we have to know the API testing, such as create testing modules.
+
+08:22.000 --> 08:24.000
+We have to learn more about it.
+
+08:24.000 --> 08:27.000
+And we have to know what control we call the service.
+
+08:27.000 --> 08:29.000
+So we can mock the right method.
+
+08:29.000 --> 08:31.000
+I won't talk about the pros and cons of this.
+
+08:31.000 --> 08:34.000
+Let's compare with the black box API test.
+
+08:34.000 --> 08:39.000
+I shot the status, shot the API, checked the status and checked the response.
+
+08:39.000 --> 08:41.000
+And it's over.
+
+08:41.000 --> 08:43.000
+It looks easier.
+
+08:43.000 --> 08:45.000
+But if anyone notices, there will be a question.
+
+08:45.000 --> 08:48.000
+Is our database an empty database?
+
+08:48.000 --> 08:49.000
+The test is broken.
+
+08:49.000 --> 08:54.000
+Or if the data used in the test has other data, it will be broken.
+
+08:54.000 --> 08:56.000
+Yes, we have to fix it.
+
+08:56.000 --> 08:59.000
+The way I fixed it is to open the API more.
+
+08:59.000 --> 09:01.000
+To prepare data in the database.
+
+09:01.000 --> 09:05.000
+When we shoot this API, the database will have data ready to test.
+
+09:05.000 --> 09:08.000
+Now, if anyone notices, it will be a little different.
+
+09:08.000 --> 09:11.000
+When we shoot the API, all the old data will be gone.
+
+09:11.000 --> 09:15.000
+Or if the API doesn't clear the data, the data will be mixed up.
+
+09:15.000 --> 09:18.000
+If we run many tests at the same time, it will be broken.
+
+09:18.000 --> 09:20.000
+Yes, we have to fix it.
+
+09:20.000 --> 09:26.000
+I fixed it by making my system can accept many environments in one instance.
+
+09:26.000 --> 09:30.000
+Each environment will be separated.
+
+09:30.000 --> 09:32.000
+The system will be multi-tenant.
+
+09:32.000 --> 09:36.000
+When we shoot the API, the API will create an environment.
+
+09:36.000 --> 09:40.000
+And we use the environment ID to test.
+
+09:40.000 --> 09:44.000
+Now, every test will have its own environment.
+
+09:44.000 --> 09:48.000
+This will prevent the data from being mixed up with other data.
+
+09:48.000 --> 09:52.000
+In addition, it will allow us to run many tests at the same time.
+
+09:52.000 --> 09:57.000
+If we make our app easy to test, it will be easier to write tests.
+
+09:57.000 --> 10:02.000
+I often hear that UI test or end-to-end test is difficult to write.
+
+10:02.000 --> 10:04.000
+Which is true.
+
+10:04.000 --> 10:07.000
+If we don't make our app easy to test, it will be difficult to test.
+
+10:07.000 --> 10:10.000
+Especially if the app writer and the test writer are different people.
+
+10:10.000 --> 10:12.000
+Or they are in different teams.
+
+10:12.000 --> 10:15.000
+If we don't make our app easy to test, it will be difficult to test.
+
+10:15.000 --> 10:18.000
+But if we use the testers while we are in Dev,
+
+10:18.000 --> 10:22.000
+or work closely with the testers or QA,
+
+10:22.000 --> 10:24.000
+it will be easier for both sides.
+
+10:24.000 --> 10:29.000
+I see that QA and Dev are in the programming field.
+
+10:29.000 --> 10:32.000
+Or in other fields, like the game console,
+
+10:32.000 --> 10:34.000
+if we use the key to open the coin slot,
+
+10:34.000 --> 10:36.000
+there will be a service button at the back.
+
+10:36.000 --> 10:38.000
+When we press it, we will see the test menu.
+
+10:38.000 --> 10:44.000
+It will make testing easier. We don't have to go back to the factory and fix it.
+
+10:44.000 --> 10:47.000
+Many phones have a password.
+
+10:47.000 --> 10:49.000
+When we press this number, we will see the test menu.
+
+10:49.000 --> 10:52.000
+We can do the same with our app.
+
+10:52.000 --> 10:56.000
+We can put developer tools or testing tools in our app.
+
+10:56.000 --> 10:58.000
+Mobile apps can do the same.
+
+10:58.000 --> 11:02.000
+We can put test pages and endpoints.
+
+11:02.000 --> 11:04.000
+Don't forget to protect those endpoints.
+
+11:04.000 --> 11:08.000
+For example, in the app I developed, I put a test menu in the app.
+
+11:08.000 --> 11:14.000
+I can test the components without having to open the storybook.
+
+11:14.000 --> 11:17.000
+I made this into a game.
+
+11:17.000 --> 11:20.000
+I added another page.
+
+11:20.000 --> 11:23.000
+When I press it, it will show the result immediately.
+
+11:23.000 --> 11:28.000
+I can develop that page without having to play the game again.
+
+11:28.000 --> 11:30.000
+This page is connected to the backend.
+
+11:30.000 --> 11:32.000
+But it will be a test environment.
+
+11:32.000 --> 11:36.000
+I also have a route that runs unit tests.
+
+11:36.000 --> 11:38.000
+I can put it in the app.
+
+11:38.000 --> 11:42.000
+I can run unit tests without having to run any more commands.
+
+11:42.000 --> 11:45.000
+I still write unit tests.
+
+11:45.000 --> 11:49.000
+But I will write only the components that can be tested.
+
+11:49.000 --> 11:52.000
+Without having to mock or stomp the villagers.
+
+11:52.000 --> 11:55.000
+I stopped trying to run unit tests.
+
+11:55.000 --> 12:00.000
+Another thing I want to recommend is that the testing tools are close to our hands.
+
+12:00.000 --> 12:02.000
+So we can use them easily.
+
+12:02.000 --> 12:05.000
+My favorite is Playwright.
+
+12:05.000 --> 12:08.000
+I will show you an example.
+
+12:08.000 --> 12:10.000
+I put the extension playwright.
+
+12:10.000 --> 12:12.000
+I wrote the code normally on the right.
+
+12:12.000 --> 12:15.000
+On the left, there are test names.
+
+12:15.000 --> 12:18.000
+When I press run test, it will open the browser and run all tests.
+
+12:18.000 --> 12:20.000
+The tests should run quickly.
+
+12:20.000 --> 12:23.000
+This time it's pretty fast.
+
+12:23.000 --> 12:28.000
+But if I press show browser and press run test again,
+
+12:28.000 --> 12:31.000
+Playwright will run many tests at the same time.
+
+12:31.000 --> 12:36.000
+It's true that the UI tests are slower than unit tests.
+
+12:36.000 --> 12:38.000
+But we can scale it.
+
+12:38.000 --> 12:42.000
+If our system allows us to test many things at the same time.
+
+12:42.000 --> 12:45.000
+That's it. I don't have to open many terminals.
+
+12:45.000 --> 12:48.000
+Let's look at the real project.
+
+12:48.000 --> 12:50.000
+Someone sent me a bug report.
+
+12:50.000 --> 12:53.000
+There is a page that I can't enter.
+
+12:53.000 --> 12:55.000
+I pressed it and it was really broken.
+
+12:55.000 --> 12:59.000
+If there is a bug, write testcorp and fix it.
+
+12:59.000 --> 13:04.000
+I tried debugging and found that my service worker had a bug.
+
+13:04.000 --> 13:08.000
+I don't know how to write testcorp service worker.
+
+13:08.000 --> 13:11.000
+How to import and test behavior.
+
+13:11.000 --> 13:15.000
+But if I write playwright test, I can write it immediately.
+
+13:15.000 --> 13:17.000
+1. Go to the first page.
+
+13:17.000 --> 13:20.000
+2. Wait until the service worker is activated.
+
+13:20.000 --> 13:22.000
+3. Go to the problem page.
+
+13:22.000 --> 13:25.000
+4. Check that the page must be loaded.
+
+13:25.000 --> 13:27.000
+I ran the test.
+
+13:27.000 --> 13:29.000
+Before fixing it, it should fail.
+
+13:29.000 --> 13:31.000
+This is the test spell.
+
+13:31.000 --> 13:33.000
+It's red.
+
+13:33.000 --> 13:36.000
+After I fixed it, I pressed run again.
+
+13:36.000 --> 13:38.000
+The test has passed.
+
+13:38.000 --> 13:43.000
+When we find a bug, if we can write testcorp almost every time.
+
+13:43.000 --> 13:46.000
+I think we are in a very good place.
+
+13:46.000 --> 13:49.000
+Without having to worry about code coverage.
+
+13:49.000 --> 13:52.000
+We think that the features we don't have are bugs.
+
+13:52.000 --> 13:56.000
+Every time we implement a new feature, we will have at least one test.
+
+13:56.000 --> 14:01.000
+What it helps me do is make me more confident.
+
+14:01.000 --> 14:05.000
+And make me able to improve the software without any trouble.
+
+14:05.000 --> 14:07.000
+This is an example.
+
+14:07.000 --> 14:12.000
+In this PR, I moved the project from Nuxt.js to Next.js.
+
+14:12.000 --> 14:15.000
+The UI program is the same.
+
+14:15.000 --> 14:19.000
+The components are written in Vue and React.
+
+14:19.000 --> 14:23.000
+I can do this because I have a UI test.
+
+14:23.000 --> 14:27.000
+If I don't throw away the component tests, I have to write a new one.
+
+14:27.000 --> 14:29.000
+Because it changes the framework.
+
+14:29.000 --> 14:32.000
+Another thing that I think makes the system easy to test.
+
+14:32.000 --> 14:35.000
+Is to design our service to be multi-tenant.
+
+14:35.000 --> 14:38.000
+In addition to making it easy to test.
+
+14:38.000 --> 14:41.000
+It also helps reduce the time we have to test across the service.
+
+14:41.000 --> 14:46.000
+If it's not multi-tenant, when we test, we have to deploy the cluster.
+
+14:46.000 --> 14:49.000
+All services go into one environment to be tested together.
+
+14:49.000 --> 14:58.000
+But when our service is tenant, we can see that the staging of each service is private.
+
+14:58.000 --> 15:00.000
+Others are not allowed to interfere.
+
+15:00.000 --> 15:07.000
+If you want to test, go test with the staging environment of the service running on the production.
+
+15:07.000 --> 15:14.000
+If there is no multi-tenant, it is difficult to run tests at the same time.
+
+15:14.000 --> 15:16.000
+I often see in many projects.
+
+15:16.000 --> 15:19.000
+When running each test, we have to clear the database first.
+
+15:19.000 --> 15:22.000
+So we can't run many tests at the same time.
+
+15:22.000 --> 15:28.000
+But if our system is multi-tenant, we can test each one in our own environment.
+
+15:28.000 --> 15:32.000
+And run each test at the same time.
+
+15:32.000 --> 15:36.000
+Then we clear the data from the database at the end.
+
+15:36.000 --> 15:42.000
+The next step is to run tests on the production.
+
+15:42.000 --> 15:46.000
+It's scarier than it works on my machine.
+
+15:46.000 --> 15:49.000
+It works on staging and not on the production.
+
+15:49.000 --> 15:54.000
+Michael Brissek said in the title of Testing in Production that
+
+15:54.000 --> 15:59.000
+he had already stopped using staging because he found it very wasteful.
+
+15:59.000 --> 16:01.000
+So he went to test on the production instead.
+
+16:01.000 --> 16:06.000
+He gave an example that there would be bots buying products from the card store all day long.
+
+16:06.000 --> 16:09.000
+Then he added a code to add 3 lines.
+
+16:09.000 --> 16:13.000
+If the buyer is a test user, the email will be added at the end.
+
+16:13.000 --> 16:15.000
+It's considered a test user.
+
+16:15.000 --> 16:17.000
+And cancel the order.
+
+16:17.000 --> 16:21.000
+This is an example of a system-based test in production.
+
+16:21.000 --> 16:26.000
+For those who want to write a black box test, I want to leave one thing.
+
+16:26.000 --> 16:29.000
+Don't use wait for time out, sleep or delay.
+
+16:29.000 --> 16:31.000
+There are very few exceptions.
+
+16:31.000 --> 16:36.000
+No matter how long we wait, if the number is not too small, it will always be too much.
+
+16:36.000 --> 16:38.000
+If it's too much, we wait for free.
+
+16:38.000 --> 16:40.000
+If it's too little, we fail the test.
+
+16:40.000 --> 16:45.000
+Change to check repeatedly if our test is ready to run.
+
+16:45.000 --> 16:50.000
+If there is no one to check, we can go back to our app to check.
+
+16:50.000 --> 16:53.000
+Okay, I'm out of time.
+
+16:53.000 --> 16:58.000
+I want to say that the current black box testing is much better.
+
+16:58.000 --> 17:02.000
+And the UI test is not as difficult as before.
+
+17:02.000 --> 17:08.000
+If we run a black box test and it's difficult to debug, it's the problem of our app.
+
+17:08.000 --> 17:11.000
+Our app should be easy to debug and fix our app.
+
+17:11.000 --> 17:13.000
+So I leave it to you.
+
+17:13.000 --> 17:16.000
+1. Make software easy to test.
+
+17:16.000 --> 17:24.000
+Especially if our work has many services, I want to recommend that each service can be tested without connecting to other services.
+
+17:24.000 --> 17:28.000
+So I use the term black box testing, not end-to-end.
+
+17:28.000 --> 17:35.000
+2. If there is a bug, let it be tested before fixing.
+
+17:35.000 --> 17:42.000
+I hope that today's content will have interesting ideas.
+
+17:42.000 --> 17:44.000
+Let's think about it.
+
+17:44.000 --> 17:54.000
+Thank you very much for today.
