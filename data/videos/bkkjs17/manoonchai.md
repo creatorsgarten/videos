@@ -1,5 +1,5 @@
 ---
-title: Building Manoonchai (An optimized Thai keyboard layout) from scratch with JS/TS
+title: Building Manoonchai keyboard layout from scratch with JS/TS
 speaker: Manassarn Manoonchai
 youtube: ltIvGLzMwzo
 managed: true

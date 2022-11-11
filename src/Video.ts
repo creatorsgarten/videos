@@ -21,6 +21,7 @@ export class Video {
     public slug: string,
     public data: VideoFrontMatter,
     public content: string,
+    public imageFilePath?: string,
   ) {}
   static async findAll() {
     const paths = await globby(['data/videos/**/*.md'])
@@ -30,14 +31,19 @@ export class Video {
       const event = path.basename(path.dirname(filePath))
       const parsed = grayMatter.read(filePath)
       const { data, content } = parsed
+      const imageFilePath = filePath.replace(/\.md$/, '.jpg')
       videos.push(
-        new Video(filePath, event, slug, VideoFrontMatter.parse(data), content),
+        new Video(
+          filePath,
+          event,
+          slug,
+          VideoFrontMatter.parse(data),
+          content,
+          fs.existsSync(imageFilePath) ? imageFilePath : undefined,
+        ),
       )
     }
     return videos
-  }
-  get imageFilePath() {
-    return this.filePath.replace(/\.md$/, '.jpg')
   }
   toJSON() {
     return {
@@ -46,9 +52,7 @@ export class Video {
       data: this.data,
       content: this.content,
       filePath: this.filePath,
-      imageFilePath: fs.existsSync(this.imageFilePath)
-        ? this.imageFilePath
-        : undefined,
+      imageFilePath: this.imageFilePath,
     }
   }
 }
