@@ -740,6 +740,8 @@ video_vbIWSwz8NxQ:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: c08c549cfd66cabf6bff0e04f1d3809872715963ab38101b1dfa3c17e0391da1
 video_ltIvGLzMwzo:
   spec:
     snippet:
@@ -801,6 +803,8 @@ video_ltIvGLzMwzo:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: 3276b2c13f11c3c2fe686bb7e3853488156a162f9e112ad5bef6f37deba3e568
 video_le5M-5mhPY0:
   spec:
     snippet:
@@ -855,6 +859,8 @@ video_le5M-5mhPY0:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: e82279d0a5a9b9c8b5f13bdbb65545ded21bf65ca5feb1b919975ecf28c6740c
 video_J2THXXeQMxY:
   spec:
     snippet:
@@ -899,6 +905,8 @@ video_J2THXXeQMxY:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: 5f3aaf9f914f6d608992ea5724decf8586b2972b6aaa2c774dc0c0a284df8a59
 video_JuWzquQwt4g:
   spec:
     snippet:
@@ -943,6 +951,8 @@ video_JuWzquQwt4g:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: 281d08442fb0f7d5b375e4c5bb6a78cdc49caddcf9a25c1ba87c7ac5d6a10790
 video_wrPz2Sp9EZU:
   spec:
     snippet:
@@ -984,3 +994,5 @@ video_wrPz2Sp9EZU:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  thumbnail:
+    hash: a08ecb07e3bb3767dd050844dad7e94264bc530f8cb3e229ff9db5589151a045
