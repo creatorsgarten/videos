@@ -1,7 +1,7 @@
 import yargs from 'yargs'
 import { authClient, getToken } from '../GoogleAuth'
 import { google, youtube_v3 } from 'googleapis'
-import { cloneDeep, isEqual } from 'lodash-es'
+import { isEqual } from 'lodash-es'
 import { Video } from '../Video'
 import { Event } from '../Event'
 import { getState, setState } from '../StateStorage'
@@ -66,10 +66,39 @@ const argv = await yargs(process.argv.slice(2))
   .help()
   .parse()
 
+/**
+ * A resource is something that can be managed.
+ *
+ * @template T Type of the spec.
+ *  This is the data that is need to generate or update the resource.
+ *  If the spec hasn't changed, we assume that the resource doesn't need to be updated.
+ *  For example, a video may contains a title, description, and privacy status in its spec.
+ * @template S Type of the state.
+ *  This is an extra data that is not present in the resource spec
+ *  but is required to manage the resource, especially when updating it.
+ *  For example, when creating a caption track, we need to store its ID in the state so that we can update it later.
+ */
 interface Resource<T extends {} = any, S extends {} = any> {
+  /**
+   * The spec of the resource.
+   */
   spec: T
+
+  /**
+   * A human-readable description of the resource.
+   * This is used to log the status of the resource.
+   */
   description: string
-  reconcile: (oldState?: S) => Promise<S>
+
+  /**
+   * Reconcile the resource by creating or updating it.
+   *
+   * This method should be idempotent.
+   *
+   * @param oldState The old state of the resource.
+   *  When first creating the resource, this will be `undefined`.
+   */
+  reconcile(oldState?: S): Promise<S>
 }
 
 const resources = new Map<string, Resource>()
