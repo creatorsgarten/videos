@@ -2,6 +2,20 @@
   "videos": [
     {
       "event": "bkkjs17",
+      "slug": "ar",
+      "data": {
+        "title": "AR on Web",
+        "speaker": "Wasit Jingjit; Watid Jingjit",
+        "youtube": "JuWzquQwt4g",
+        "managed": true,
+        "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/ar.md"
+    },
+    {
+      "event": "bkkjs17",
       "slug": "blackbox",
       "data": {
         "title": "Move fast while maintaining quality with black box testing",
@@ -54,6 +68,20 @@
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/postr.md"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "typescript",
+      "data": {
+        "title": "Ten Years of TypeScript",
+        "speaker": "Jirachai Chansivanon",
+        "youtube": "wrPz2Sp9EZU",
+        "managed": true,
+        "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/typescript.md"
     },
     {
       "event": "hacktoberfest2022",
