@@ -3,7 +3,7 @@ title: Building Manoonchai (An optimized Thai keyboard layout) from scratch with
 speaker: Manassarn Manoonchai
 youtube: ltIvGLzMwzo
 managed: true
-published: false
+published: true
 description: |
   พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript
 
