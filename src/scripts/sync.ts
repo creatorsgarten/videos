@@ -139,7 +139,7 @@ class YouTubeVideo implements Resource<YouTubeVideoSpec, {}> {
     }
     if (isEqual(snippet, newSnippet) && isEqual(status, newStatus)) {
       console.log(`Video ${youtubeId} is already up to date`)
-      return false
+      return {}
     }
     const updateParams: youtube_v3.Params$Resource$Videos$Update = {
       part: ['snippet', 'status'],
