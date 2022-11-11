@@ -4,19 +4,7 @@ Meetup VODs — <https://www.youtube.com/@creatorsgarten>
 
 ## Contributing
 
-### Update video metadata
-
-You can update the data files in [data/videos](data/videos) and submit a pull request. When merged, GitHub Actions will update the description on YouTube.
-
-### Update video thumbnail
-
-You can help improve the video thumbnails by replacing the `.jpg` files in [data/videos](data/videos).
-
-Image requirements:
-
-- Dimensions must be 1280x720
-- File extension must be `.jpg`
-- Image must be smaller than 128 KB
+There are many ways you can contribute! For more information see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Video catalog file
 
