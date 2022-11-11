@@ -9,7 +9,7 @@
         "youtube": "JuWzquQwt4g",
         "managed": true,
         "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/ar.md"
@@ -23,7 +23,7 @@
         "youtube": "vbIWSwz8NxQ",
         "managed": true,
         "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/blackbox.md"
@@ -36,7 +36,8 @@
         "speaker": "Manassarn Manoonchai",
         "youtube": "ltIvGLzMwzo",
         "managed": true,
-        "published": false
+        "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/manoonchai.md"
@@ -50,7 +51,7 @@
         "youtube": "le5M-5mhPY0",
         "managed": true,
         "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/nojs.md"
@@ -64,7 +65,7 @@
         "youtube": "J2THXXeQMxY",
         "managed": true,
         "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/postr.md"
@@ -78,7 +79,7 @@
         "youtube": "wrPz2Sp9EZU",
         "managed": true,
         "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/typescript.md"
