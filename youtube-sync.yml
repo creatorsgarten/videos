@@ -783,6 +783,7 @@ thumbnail:-lZ5ndZhu8c:
   state: {}
 video:vbIWSwz8NxQ:
   spec:
+    id: vbIWSwz8NxQ
     snippet:
       title: >-
         Move fast while maintaining quality with black box testing by Thai
@@ -826,11 +827,11 @@ video:vbIWSwz8NxQ:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: vbIWSwz8NxQ
   state: {}
 thumbnail:vbIWSwz8NxQ:
   spec:
@@ -1122,3 +1123,13 @@ thumbnail:wrPz2Sp9EZU:
     hash: a08ecb07e3bb3767dd050844dad7e94264bc530f8cb3e229ff9db5589151a045
     filePath: data/videos/bkkjs17/typescript.jpg
   state: {}
+video:vbIWSwz8NxQ:caption:en:
+  spec:
+    videoId: vbIWSwz8NxQ
+    filePath: data/videos/bkkjs17/blackbox_en.vtt
+    language: en
+    name: English
+    hash: 2fdf861f216ea9d89264b822455e70f8aefbde108f59bcc56e51dd10103e6fac
+    isDraft: false
+  state:
+    id: AUieDaYCnCzv_14RYORLcuIj8Om_CCMn8ASni-AooMPxOsA_5q91pYFj

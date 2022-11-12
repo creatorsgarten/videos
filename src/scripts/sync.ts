@@ -139,7 +139,7 @@ class YouTubeVideo implements Resource<YouTubeVideoSpec, {}> {
     }
     if (isEqual(snippet, newSnippet) && isEqual(status, newStatus)) {
       console.log(`Video ${youtubeId} is already up to date`)
-      return false
+      return {}
     }
     const updateParams: youtube_v3.Params$Resource$Videos$Update = {
       part: ['snippet', 'status'],
@@ -180,29 +180,72 @@ class YouTubeThumbnail implements Resource<YouTubeThumbnailSpec, {}> {
   }
 }
 
+interface YouTubeCaptionSpec {
+  videoId: string
+  language: string
+  name: string
+  filePath: string
+  hash: string
+  isDraft: boolean
+}
+interface YouTubeCaptionState {
+  id: string
+}
+class YouTubeCaption
+  implements Resource<YouTubeCaptionSpec, YouTubeCaptionState>
+{
+  constructor(public spec: YouTubeCaptionSpec) {}
+  get description() {
+    return this.spec.filePath
+  }
+  async reconcile(oldState?: YouTubeCaptionState) {
+    const youtubeId = this.spec.videoId
+    const snippet: youtube_v3.Schema$CaptionSnippet = {
+      videoId: youtubeId,
+      language: this.spec.language,
+      name: this.spec.name,
+      isDraft: this.spec.isDraft,
+    }
+    if (oldState?.id) {
+      const id = oldState.id
+      const updateParams: youtube_v3.Params$Resource$Captions$Update = {
+        part: ['snippet'],
+        requestBody: { id, snippet },
+        media: {
+          mimeType: 'text/vtt',
+          body: fs.createReadStream(this.spec.filePath),
+        },
+      }
+      const result = await youtube.captions.update(updateParams)
+      console.log(
+        `Updated caption track ${id} for video ${youtubeId}`,
+        result.data,
+      )
+      return { id }
+    } else {
+      const insertParams: youtube_v3.Params$Resource$Captions$Insert = {
+        part: ['snippet', 'id'],
+        requestBody: { snippet },
+        media: {
+          mimeType: 'text/vtt',
+          body: fs.createReadStream(this.spec.filePath),
+        },
+      }
+      const result = await youtube.captions.insert(insertParams)
+      const id = result.data.id!
+      console.log(
+        `Created caption track ${id} for video ${youtubeId}`,
+        result.data,
+      )
+      return { id }
+    }
+  }
+}
+
 for (const video of await Video.findAll()) {
   const { data } = video
   if (!data.managed) continue
   const speakers = data.speaker.split(/;\s+/).join(', ')
-  resources.set(
-    'video:' + data.youtube,
-    new YouTubeVideo({
-      id: data.youtube,
-      snippet: {
-        title: (data.title + ' by ' + speakers).slice(0, 100),
-        description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
-      },
-      status: {
-        embeddable: true,
-        selfDeclaredMadeForKids: false,
-        ...(data.published === true
-          ? { privacyStatus: 'public' }
-          : data.published === false
-          ? { privacyStatus: 'unlisted' }
-          : {}),
-      },
-    }),
-  )
 
   if (video.imageFilePath) {
     const hash = crypto
@@ -218,12 +261,53 @@ for (const video of await Video.findAll()) {
       }),
     )
   }
+
+  const snippet: youtube_v3.Schema$VideoSnippet = {
+    title: (data.title + ' by ' + speakers).slice(0, 100),
+    description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
+  }
+
+  if (video.englishSubtitlePath) {
+    snippet.defaultAudioLanguage = 'th'
+    resources.set(
+      'video:' + data.youtube + ':caption:en',
+      new YouTubeCaption({
+        videoId: data.youtube,
+        filePath: video.englishSubtitlePath,
+        language: 'en',
+        name: 'English',
+        hash: crypto
+          .createHash('sha256')
+          .update(fs.readFileSync(video.englishSubtitlePath))
+          .digest('hex'),
+        isDraft: !(data.subtitles || []).includes('en'),
+      }),
+    )
+  }
+
+  resources.set(
+    'video:' + data.youtube,
+    new YouTubeVideo({
+      id: data.youtube,
+      snippet: snippet,
+      status: {
+        embeddable: true,
+        selfDeclaredMadeForKids: false,
+        ...(data.published === true
+          ? { privacyStatus: 'public' }
+          : data.published === false
+          ? { privacyStatus: 'unlisted' }
+          : {}),
+      },
+    }),
+  )
 }
 
 const idsToReconcile = new Map<string, any>()
 
-for (const [id, resource] of resources) {
-  const data = await getState(id)
+for (const id of [...resources.keys()].sort()) {
+  const resource = resources.get(id)!
+  const data = (await getState(id)) || {}
   const oldSpec = data.spec || {}
   const newSpec = resource.spec
   if (isEqual(oldSpec, newSpec)) {
