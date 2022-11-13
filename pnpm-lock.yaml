@@ -10,6 +10,7 @@ specifiers:
   dotenv: ^16.0.3
   globby: ^13.1.2
   google-auth-library: ^8.6.0
+  google-offline-access: ^0.0.0
   googleapis: ^109.0.0
   gray-matter: ^4.0.3
   inquirer: ^9.1.4
@@ -27,6 +28,7 @@ dependencies:
   dotenv: 16.0.3
   globby: 13.1.2
   google-auth-library: 8.6.0
+  google-offline-access: 0.0.0_google-auth-library@8.6.0
   googleapis: 109.0.0
   gray-matter: 4.0.3
   inquirer: 9.1.4
@@ -1183,6 +1185,14 @@ packages:
     transitivePeerDependencies:
       - encoding
       - supports-color
+    dev: false
+
+  /google-offline-access/0.0.0_google-auth-library@8.6.0:
+    resolution: {integrity: sha512-fEwPfDoICRrdRug5cFJqYEsgKPeSxxCnk7K04uihgfMYw28YxfvXw4ZM9W6HtZ8/H4QjFWVP3Xj7bPXDBh4FgA==}
+    peerDependencies:
+      google-auth-library: '>=8'
+    dependencies:
+      google-auth-library: 8.6.0
     dev: false
 
   /google-p12-pem/4.0.1:

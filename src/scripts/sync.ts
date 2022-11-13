@@ -1,5 +1,5 @@
 import yargs from 'yargs'
-import { authClient, getToken } from '../GoogleAuth'
+import { GoogleOfflineAccess } from 'google-offline-access'
 import { google, youtube_v3 } from 'googleapis'
 import { isEqual } from 'lodash-es'
 import { Video } from '../Video'
@@ -10,6 +10,12 @@ import crypto from 'crypto'
 import { diff } from 'jest-diff'
 import chalk from 'chalk'
 
+const googleOfflineAccess = new GoogleOfflineAccess({
+  scopes: [
+    'https://www.googleapis.com/auth/youtube',
+    'https://www.googleapis.com/auth/youtube.force-ssl',
+  ],
+})
 const youtube = google.youtube('v3')
 
 async function getVideoDescription(video: Video): Promise<string> {
@@ -330,7 +336,7 @@ console.log()
 console.log('Number of resources to reconcile:', idsToReconcile.size)
 
 if (argv.confirm) {
-  await getToken()
+  const authClient = await googleOfflineAccess.getAuthenticatedAuthClient()
   google.options({ auth: authClient })
   for (const [id, oldState] of idsToReconcile) {
     const resource = resources.get(id)!
