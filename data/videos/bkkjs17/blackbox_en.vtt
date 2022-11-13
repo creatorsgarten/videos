@@ -653,7 +653,7 @@ When we press it,
 we will see the test menu.
 
 00:10:38.000 --> 00:10:43.933
-It will make testing easier. No need to
+We can test it on location. No need to
 bring a cabinet back to the factory.
 
 00:10:44.000 --> 00:10:48.933
@@ -664,25 +664,25 @@ When we enter it, we’ll see a test menu.
 We can do the same with our app.
 
 00:10:52.000 --> 00:10:55.933
-We can put developer tools
+We can add developer tools
 or testing tools in our app.
 
 00:10:56.000 --> 00:10:57.933
 Mobile apps can do the same.
 
 00:10:58.000 --> 00:11:01.933
-We can put test pages and endpoints.
+We can add test pages and endpoints.
 
 00:11:02.000 --> 00:11:03.933
 Don't forget to protect those endpoints.
 
 00:11:04.000 --> 00:11:07.933
 For example, in the app I developed,
-I put a test menu in the app.
+I added a test menu in the app.
 
 00:11:08.000 --> 00:11:13.933
-I can test the components
-without having to open the storybook.
+I can test individual components without
+having to run a storybook separately.
 
 00:11:14.000 --> 00:11:16.933
 Here I built a web-based game,
@@ -816,7 +816,7 @@ I can write it immediately.
 is activated.
 
 00:13:20.000 --> 00:13:21.933
-3. Go to the problem page.
+3. Go to the problematic page.
 
 00:13:22.000 --> 00:13:24.933
 4. Check that the page must be loaded.
