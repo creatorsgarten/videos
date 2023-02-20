@@ -59,10 +59,7 @@ async function getVideoDescription(
         ]
       : []),
     ...(videoTitle !== defaultTitle
-      ? [
-          `Talk title: ${video.data.youtubeTitle}`,
-          `Speaker: ${getSpeakers(video)}`,
-        ]
+      ? [`Talk title: ${video.data.title}`, `Speaker: ${getSpeakers(video)}`]
       : []),
     `Event: ${event.name}`,
     event.url,
