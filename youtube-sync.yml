@@ -786,7 +786,7 @@ video:vbIWSwz8NxQ:
     id: vbIWSwz8NxQ
     snippet:
       title: >-
-        Move fast while maintaining quality with black box testing by Thai
+        พัฒนาซอฟต์แวร์อย่างรวดเร็ว โดยยังคงคุณภาพ ด้วย Black Box Testing - Thai
         Pangsakulyanont
       description: >-
         สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด
@@ -803,6 +803,10 @@ video:vbIWSwz8NxQ:
 
 
         --------------------------------------------
+
+        Talk title: [object Object]
+
+        Speaker: Thai Pangsakulyanont
 
         Event: Bkk.js #17 - Developer Showtime
 
@@ -827,11 +831,57 @@ video:vbIWSwz8NxQ:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+      defaultLanguage: th
       defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+    localizations:
+      en:
+        title: >-
+          Move fast while maintaining quality with black box testing by Thai
+          Pangsakulyanont
+        description: >-
+          Some systems are hastily built → No automated tests → Code became
+          tightly coupled → Code became difficult to test → Want to improve the
+          code → Afraid of improving due to fear that it might break because
+          there are no automated tests. In this talk, I share some ideas on how
+          I try to get out of this loop.
+
+
+          Notes and references:
+
+          https://dt.in.th/go/bbtt
+
+
+
+          --------------------------------------------
+
+          Event: Bkk.js #17 - Developer Showtime
+
+          https://creatorsgarten.org/wiki/Hacks/bkkjs17
+
+
+          Website:
+
+          https://creatorsgarten.org
+
+
+          Facebook:
+
+          https://facebook.com/creatorsgarten
+
+
+          Please consider supporting us by subscribing to the channel, and
+          follow upcoming events via our Facebook pages.
+
+
+          For reuse of this video under a more permissive license please get in
+          touch with us. The speakers retain the copyright for their
+          performances.
+
+          mail@creatorsgarten.org
   state: {}
 thumbnail:vbIWSwz8NxQ:
   spec:

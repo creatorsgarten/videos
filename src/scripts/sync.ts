@@ -18,15 +18,50 @@ const googleOfflineAccess = new GoogleOfflineAccess({
 })
 const youtube = google.youtube('v3')
 
-async function getVideoDescription(video: Video): Promise<string> {
+function getSpeakers(video: Video) {
+  const { data } = video
+  return data.speaker.split(/;\s+/).join(', ')
+}
+
+function getDefaultTitle(video: Video) {
+  const { data } = video
+  return data.title + ' by ' + getSpeakers(video)
+}
+
+function getVideoTitle(video: Video, language?: 'en') {
+  const { data } = video
+  return (
+    (data.youtubeTitle &&
+      (typeof data.youtubeTitle === 'string'
+        ? data.youtubeTitle
+        : data.youtubeTitle[language || 'th'])) ||
+    getDefaultTitle(video)
+  )
+}
+
+async function getVideoDescription(
+  video: Video,
+  language?: 'en',
+): Promise<string> {
   const event = await Event.findById(video.event)
+  const videoTitle = getVideoTitle(video, language)
+  const defaultTitle = getDefaultTitle(video)
+  const talkDescription =
+    (language === 'en' && video.data.englishDescription) ||
+    video.data.description
   return [
-    ...(video.data.description
+    ...(talkDescription
       ? [
-          video.data.description.trim(),
+          talkDescription.trim(),
           '',
           '',
           '--------------------------------------------',
+        ]
+      : []),
+    ...(videoTitle !== defaultTitle
+      ? [
+          `Talk title: ${video.data.youtubeTitle}`,
+          `Speaker: ${getSpeakers(video)}`,
         ]
       : []),
     `Event: ${event.name}`,
@@ -112,6 +147,7 @@ const resources = new Map<string, Resource>()
 interface YouTubeVideoSpec {
   id: string
   snippet: youtube_v3.Schema$VideoSnippet
+  localizations?: { [key: string]: youtube_v3.Schema$VideoLocalization }
   status: youtube_v3.Schema$VideoStatus
 }
 
@@ -148,8 +184,13 @@ class YouTubeVideo implements Resource<YouTubeVideoSpec, {}> {
       return {}
     }
     const updateParams: youtube_v3.Params$Resource$Videos$Update = {
-      part: ['snippet', 'status'],
-      requestBody: { id: youtubeId, snippet: newSnippet, status: newStatus },
+      part: ['snippet', 'status', 'localizations'],
+      requestBody: {
+        id: youtubeId,
+        snippet: newSnippet,
+        status: newStatus,
+        localizations: this.spec.localizations || {},
+      },
     }
     const result = await youtube.videos.update(updateParams)
     console.log(`Updated video ${youtubeId}`)
@@ -251,7 +292,6 @@ class YouTubeCaption
 for (const video of await Video.findAll()) {
   const { data } = video
   if (!data.managed) continue
-  const speakers = data.speaker.split(/;\s+/).join(', ')
 
   if (video.imageFilePath) {
     const hash = crypto
@@ -268,9 +308,26 @@ for (const video of await Video.findAll()) {
     )
   }
 
+  const sanitizeTitle = (title: string) => title.slice(0, 100)
+  const sanitizeDescription = (description: string) =>
+    description.slice(0, 5000).replace(/[<>]/g, '')
+
   const snippet: youtube_v3.Schema$VideoSnippet = {
-    title: (data.title + ' by ' + speakers).slice(0, 100),
-    description: (await getVideoDescription(video)).replace(/[<>]/g, ''),
+    title: sanitizeTitle(getVideoTitle(video)),
+    description: sanitizeDescription(await getVideoDescription(video)),
+  }
+
+  const enTitle = sanitizeTitle(getVideoTitle(video, 'en'))
+  const enDescription = sanitizeDescription(
+    await getVideoDescription(video, 'en'),
+  )
+  let enLocalization: youtube_v3.Schema$VideoLocalization | undefined
+  if (enTitle !== snippet.title || enDescription !== snippet.description) {
+    snippet.defaultLanguage = 'th'
+    enLocalization = {
+      title: enTitle,
+      description: enDescription,
+    }
   }
 
   if (video.englishSubtitlePath) {
@@ -305,6 +362,7 @@ for (const video of await Video.findAll()) {
           ? { privacyStatus: 'unlisted' }
           : {}),
       },
+      ...(enLocalization ? { localizations: { en: enLocalization } } : {}),
     }),
   )
 }

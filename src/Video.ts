@@ -5,11 +5,24 @@ import { z } from 'zod'
 import fs from 'fs'
 
 const VideoFrontMatter = z.object({
-  title: z.string(),
+  title: z.string().describe('The talk title.'),
+  youtubeTitle: z
+    .union([
+      z.string(),
+      z.object({
+        en: z.string(),
+        th: z.string(),
+      }),
+    ])
+    .optional()
+    .describe(
+      'Customized title for YouTube. If not specified, the talk title will be used.',
+    ),
   speaker: z.string(),
   youtube: z.string(),
   managed: z.boolean(),
   description: z.string().optional(),
+  englishDescription: z.string().optional(),
   published: z.boolean().optional(),
   subtitles: z.array(z.string()).optional(),
 })
