@@ -359,7 +359,14 @@ for (const video of await Video.findAll()) {
           ? { privacyStatus: 'unlisted' }
           : {}),
       },
-      ...(enLocalization ? { localizations: { en: enLocalization } } : {}),
+      ...(enLocalization
+        ? {
+            localizations: {
+              en: enLocalization,
+              th: { title: snippet.title, description: snippet.description },
+            },
+          }
+        : {}),
     }),
   )
 }
