@@ -57,5 +57,5 @@ const events = [
     },
   }),
   new Event('bkkjs17', 'Bkk.js #17 - Developer Showtime'),
-  new Event('bkkoss', 'Bangkok Open Source Hackathon'),
+  new Event('bangkok', 'Bangkok Open Source Hackathon'),
 ]
