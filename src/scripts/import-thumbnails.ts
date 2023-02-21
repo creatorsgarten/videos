@@ -1,4 +1,4 @@
-import { Video } from '../Video'
+import { Video, getDefaultImageFilePath } from '../Video'
 import fs from 'fs'
 import { execFileSync } from 'child_process'
 import { getState, setState } from '../StateStorage'
@@ -6,7 +6,7 @@ import crypto from 'crypto'
 
 const videos = await Video.findAll()
 for (const video of videos) {
-  const imageFilePath = video.imageFilePath
+  const imageFilePath = getDefaultImageFilePath(video)
   if (!fs.existsSync(imageFilePath)) {
     console.log('Missing image file:', imageFilePath)
     try {

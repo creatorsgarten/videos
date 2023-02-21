@@ -20,6 +20,12 @@ For easy consumption, the contents is this repository is published as a single J
 
 3. Put the refresh token in GitHub Secrets as `GOOGLE_REFRESH_TOKEN`.
 
+### Import YouTube video
+
+```sh
+./bin/import --event <event> --slug <slug> --video https://youtu.be/<videoId>
+```
+
 ### Exploring YouTube API with `tsx`
 
 ```

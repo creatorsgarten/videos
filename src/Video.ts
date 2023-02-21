@@ -46,7 +46,7 @@ export class Video {
       const event = path.basename(path.dirname(filePath))
       const parsed = grayMatter.read(filePath)
       const { data, content } = parsed
-      const imageFilePath = filePath.replace(/\.md$/, '.jpg')
+      const imageFilePath = getDefaultImageFilePath({ filePath })
       const englishSubtitlePath = filePath.replace(/\.md$/, '_en.vtt')
       videos.push(
         new Video(
@@ -73,4 +73,8 @@ export class Video {
       englishSubtitlePath: this.englishSubtitlePath,
     }
   }
+}
+
+export function getDefaultImageFilePath(video: Pick<Video, 'filePath'>) {
+  return video.filePath.replace(/\.md$/, '.jpg')
 }

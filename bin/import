@@ -1,0 +1,96 @@
+#!/usr/bin/env ruby
+require 'yaml'
+require 'fileutils'
+require 'optparse'
+
+options = {}
+
+OptionParser.new do |opts|
+  opts.banner = "Usage: bin/import [options]"
+
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    exit
+  end
+
+  opts.on("-e", "--event EVENT", "Event name") do |e|
+    options[:event] = e
+  end
+
+  opts.on("-s", "--slug SLUG", "Video slug") do |s|
+    options[:slug] = s
+  end
+
+  opts.on("-v", "--video VIDEO", "YouTube video ID") do |v|
+    options[:video] = v
+  end
+end.parse!
+
+# Validate options
+if options[:event].nil? || options[:slug].nil? || options[:video].nil?
+  puts "Error: Missing required options"
+  puts "Run with --help for usage"
+  exit 1
+end
+
+# Parse a YouTube ID from a URL
+youtube = options[:video]
+youtube = youtube[/youtube\.com\/watch\?v=([^&]+)/, 1] || youtube[/youtu\.be\/([^?&]+)/, 1] || youtube[/([^&\/?]+)/, 1]
+raise "Cannot parse YouTube video ID from #{youtube}" unless youtube
+
+# Validate that "event" and "slug" are valid
+event = options[:event]
+slug = options[:slug]
+raise "Invalid event #{event} - only letters, numbers, and dashes allowed" unless event =~ /^[a-z0-9-]+$/
+raise "Invalid slug #{slug} - only letters, numbers, and dashes allowed" unless slug =~ /^[a-z0-9-]+$/
+
+out_file = "data/videos/#{event}/#{slug}.md"
+if File.exist? out_file
+  puts "File already exists: #{out_file}"
+else
+  # Try to scrape the video title from YouTube using regex to match
+  # <title>Video Title - YouTube</title> in the HTML.
+  title = "TITLE FOR #{youtube}"
+  begin
+    html = `curl -s "https://www.youtube.com/watch?v=#{youtube}"`
+    title = html[/\<title\>(.*) - YouTube\<\/title\>/, 1]
+  rescue
+    puts "Warning: Could not scrape video title from YouTube"
+  end
+
+  video = {
+    title: title,
+    event: event,
+    slug: slug,
+    speaker: 'SPEAKER',
+    youtube: youtube,
+    managed: true,
+    published: false,
+  }
+
+  puts "Writing #{out_file}"
+  FileUtils.mkdir_p File.dirname(out_file)
+
+  # Convert all keys to strings
+  video = video.map { |k, v| [k.to_s, v] }.to_h
+
+  # Remove "event" and "slug" from the YAML frontmatter
+  video.delete("event")
+  video.delete("slug")
+
+  # Write YAML frontmatter
+  File.write out_file, video.to_yaml + "---\n"
+end
+
+# Try to load the thumbnail video from YouTube by getting the maxresdefault.jpg image using curl.
+# If that fails, delete the file.
+thumbnail_file = out_file.sub(/\.md$/, ".jpg")
+unless File.exist? thumbnail_file
+  thumbnail_url = "https://img.youtube.com/vi/#{youtube}/maxresdefault.jpg"
+  puts "Downloading thumbnail #{thumbnail_url}"
+  system "curl -s -o #{thumbnail_file} #{thumbnail_url}"
+  if File.exist?(thumbnail_file) && File.size(thumbnail_file) < 1000
+    puts "Warning: Thumbnail file is too small, deleting"
+    File.delete thumbnail_file
+  end
+end
