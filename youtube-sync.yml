@@ -1231,3 +1231,167 @@ video:vbIWSwz8NxQ:caption:en:
     isDraft: false
   state:
     id: AUieDaYCnCzv_14RYORLcuIj8Om_CCMn8ASni-AooMPxOsA_5q91pYFj
+thumbnail:N8eBpiCXgNE:
+  spec:
+    videoId: N8eBpiCXgNE
+    filePath: data/videos/bkkoss/traffy.jpg
+    hash: 10006d44f32df34b697a865b94a60f9b3937936d64b9958471c483bf3c9f3dcf
+  state: {}
+thumbnail:Wfu_DL29FL0:
+  spec:
+    videoId: Wfu_DL29FL0
+    filePath: data/videos/bkkoss/code-and-the-city.jpg
+    hash: 46cd8c1d41029cc7905124f2363efaf57d852a51d274cec06cd5624e5560ac78
+  state: {}
+thumbnail:hbVoyXLWD98:
+  spec:
+    videoId: hbVoyXLWD98
+    filePath: data/videos/bkkoss/techthaiban.jpg
+    hash: f4652caceb8fae67f98d8fc236c442b7e4237ae80566ecb9ef0ee1b962c8120f
+  state: {}
+thumbnail:ztHxfz7nGVE:
+  spec:
+    videoId: ztHxfz7nGVE
+    filePath: data/videos/bkkoss/muse.jpg
+    hash: 74c6b38a350ce297afabd2998d1eccdfcf9d217078a7c23b313f381cac5af4bf
+  state: {}
+video:N8eBpiCXgNE:
+  spec:
+    id: N8eBpiCXgNE
+    snippet:
+      title: >-
+        ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง by
+        Wasan Pattara-atikom
+      description: >-
+        Event: Bangkok Open Source Hackathon
+
+        https://creatorsgarten.org/wiki/Hacks/bkkoss
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Wfu_DL29FL0:
+  spec:
+    id: Wfu_DL29FL0
+    snippet:
+      title: >-
+        Code and the City: Bettering society with code by Lookkid Withee
+        Poositasai
+      description: >-
+        Event: Bangkok Open Source Hackathon
+
+        https://creatorsgarten.org/wiki/Hacks/bkkoss
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:hbVoyXLWD98:
+  spec:
+    id: hbVoyXLWD98
+    snippet:
+      title: 'Tech Thaiban Model: Empower Local by Kulachat Kena'
+      description: >-
+        Event: Bangkok Open Source Hackathon
+
+        https://creatorsgarten.org/wiki/Hacks/bkkoss
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ztHxfz7nGVE:
+  spec:
+    id: ztHxfz7nGVE
+    snippet:
+      title: 'muse foundation: for-social profit impact by Sira Sujjinanont'
+      description: >-
+        Event: Bangkok Open Source Hackathon
+
+        https://creatorsgarten.org/wiki/Hacks/bkkoss
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
