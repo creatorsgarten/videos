@@ -1234,25 +1234,25 @@ video:vbIWSwz8NxQ:caption:en:
 thumbnail:N8eBpiCXgNE:
   spec:
     videoId: N8eBpiCXgNE
-    filePath: data/videos/bkkoss/traffy.jpg
+    filePath: data/videos/bangkok/traffy.jpg
     hash: 10006d44f32df34b697a865b94a60f9b3937936d64b9958471c483bf3c9f3dcf
   state: {}
 thumbnail:Wfu_DL29FL0:
   spec:
     videoId: Wfu_DL29FL0
-    filePath: data/videos/bkkoss/code-and-the-city.jpg
+    filePath: data/videos/bangkok/code-and-the-city.jpg
     hash: af9bd7e21b38a4b7f60df1348334ecc8ba37a594e39d98b5c49eed34fb7298d5
   state: {}
 thumbnail:hbVoyXLWD98:
   spec:
     videoId: hbVoyXLWD98
-    filePath: data/videos/bkkoss/techthaiban.jpg
+    filePath: data/videos/bangkok/techthaiban.jpg
     hash: 68600fe98bf24c514ca2a5296af9c84065a13d85fe73439d8ddd1b79979c1e37
   state: {}
 thumbnail:ztHxfz7nGVE:
   spec:
     videoId: ztHxfz7nGVE
-    filePath: data/videos/bkkoss/muse.jpg
+    filePath: data/videos/bangkok/muse.jpg
     hash: b82b9475d37eca9b56004371d549585e938cf1ba6b7aea83900039b0299fd38a
   state: {}
 video:N8eBpiCXgNE:
@@ -1265,7 +1265,7 @@ video:N8eBpiCXgNE:
       description: >-
         Event: Bangkok Open Source Hackathon
 
-        https://creatorsgarten.org/wiki/Hacks/bkkoss
+        https://grtn.org/e/bangkok
 
 
         Website:
@@ -1279,13 +1279,19 @@ video:N8eBpiCXgNE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook pages.
+        upcoming events via our Facebook page.
 
 
         For reuse of this video under a more permissive license please get in
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bangkok/v/traffy/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -1301,7 +1307,7 @@ video:Wfu_DL29FL0:
       description: >-
         Event: Bangkok Open Source Hackathon
 
-        https://creatorsgarten.org/wiki/Hacks/bkkoss
+        https://grtn.org/e/bangkok
 
 
         Website:
@@ -1315,13 +1321,19 @@ video:Wfu_DL29FL0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook pages.
+        upcoming events via our Facebook page.
 
 
         For reuse of this video under a more permissive license please get in
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bangkok/v/code-and-the-city/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -1335,7 +1347,7 @@ video:hbVoyXLWD98:
       description: >-
         Event: Bangkok Open Source Hackathon
 
-        https://creatorsgarten.org/wiki/Hacks/bkkoss
+        https://grtn.org/e/bangkok
 
 
         Website:
@@ -1349,13 +1361,19 @@ video:hbVoyXLWD98:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook pages.
+        upcoming events via our Facebook page.
 
 
         For reuse of this video under a more permissive license please get in
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bangkok/v/techthaiban/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -1369,7 +1387,7 @@ video:ztHxfz7nGVE:
       description: >-
         Event: Bangkok Open Source Hackathon
 
-        https://creatorsgarten.org/wiki/Hacks/bkkoss
+        https://grtn.org/e/bangkok
 
 
         Website:
@@ -1383,13 +1401,19 @@ video:ztHxfz7nGVE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook pages.
+        upcoming events via our Facebook page.
 
 
         For reuse of this video under a more permissive license please get in
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bangkok/v/muse/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
