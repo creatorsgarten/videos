@@ -3,12 +3,12 @@ import { GoogleOfflineAccess } from 'google-offline-access'
 import { google, youtube_v3 } from 'googleapis'
 import { isEqual } from 'lodash-es'
 import { Video } from '../Video'
-import { Event } from '../Event'
 import { getState, setState } from '../StateStorage'
 import fs from 'fs'
 import crypto from 'crypto'
 import { diff } from 'jest-diff'
 import chalk from 'chalk'
+import { getVideoTitle, getVideoDescription } from '../VideoMetadata'
 
 const googleOfflineAccess = new GoogleOfflineAccess({
   scopes: [
@@ -17,79 +17,6 @@ const googleOfflineAccess = new GoogleOfflineAccess({
   ],
 })
 const youtube = google.youtube('v3')
-
-function getSpeakers(video: Video) {
-  const { data } = video
-  return data.speaker.split(/;\s+/).join(', ')
-}
-
-function getDefaultTitle(video: Video) {
-  const { data } = video
-  return data.title + ' by ' + getSpeakers(video)
-}
-
-function getVideoTitle(video: Video, language?: 'en') {
-  const { data } = video
-  return (
-    (data.youtubeTitle &&
-      (typeof data.youtubeTitle === 'string'
-        ? data.youtubeTitle
-        : data.youtubeTitle[language || 'th'])) ||
-    getDefaultTitle(video)
-  )
-}
-
-async function getVideoDescription(
-  video: Video,
-  language?: 'en',
-): Promise<string> {
-  const event = await Event.findById(video.event)
-  const videoTitle = getVideoTitle(video, language)
-  const defaultTitle = getDefaultTitle(video)
-  const talkDescription =
-    (language === 'en' && video.data.englishDescription) ||
-    video.data.description
-  return [
-    ...(talkDescription
-      ? [
-          talkDescription.trim(),
-          '',
-          '',
-          '--------------------------------------------',
-        ]
-      : []),
-    ...(videoTitle !== defaultTitle
-      ? [`Talk title: ${video.data.title}`, `Speaker: ${getSpeakers(video)}`]
-      : []),
-    `Event: ${event.name}`,
-    event.url,
-    ...(event.externalOrganizer
-      ? [
-          '',
-          'Organized by: ' +
-            event.externalOrganizer.name +
-            (event.externalOrganizer.url
-              ? `\n${event.externalOrganizer.url}`
-              : ''),
-          '',
-          '',
-          '--------------------------------------------',
-          'Recorded and published by Creatorsgarten.',
-        ]
-      : []),
-    '',
-    'Website:',
-    'https://creatorsgarten.org',
-    '',
-    'Facebook:',
-    'https://facebook.com/creatorsgarten',
-    '',
-    'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.',
-    '',
-    'For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.',
-    'mail@creatorsgarten.org',
-  ].join('\n')
-}
 
 const argv = await yargs(process.argv.slice(2))
   .options({
