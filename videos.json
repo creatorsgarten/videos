@@ -100,6 +100,62 @@
       "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
+      "event": "bkkoss",
+      "slug": "code-and-the-city",
+      "data": {
+        "title": "Code and the City: Bettering society with code",
+        "speaker": "Lookkid Withee Poositasai",
+        "youtube": "Wfu_DL29FL0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkoss/code-and-the-city.md",
+      "imageFilePath": "data/videos/bkkoss/code-and-the-city.jpg"
+    },
+    {
+      "event": "bkkoss",
+      "slug": "muse",
+      "data": {
+        "title": "muse foundation: for-social profit impact",
+        "speaker": "Sira Sujjinanont",
+        "youtube": "ztHxfz7nGVE",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkoss/muse.md",
+      "imageFilePath": "data/videos/bkkoss/muse.jpg"
+    },
+    {
+      "event": "bkkoss",
+      "slug": "techthaiban",
+      "data": {
+        "title": "Tech Thaiban Model: Empower Local",
+        "speaker": "Kulachat Kena",
+        "youtube": "hbVoyXLWD98",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkoss/techthaiban.md",
+      "imageFilePath": "data/videos/bkkoss/techthaiban.jpg"
+    },
+    {
+      "event": "bkkoss",
+      "slug": "traffy",
+      "data": {
+        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
+        "speaker": "Wasan Pattara-atikom",
+        "youtube": "N8eBpiCXgNE",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkoss/traffy.md",
+      "imageFilePath": "data/videos/bkkoss/traffy.jpg"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
