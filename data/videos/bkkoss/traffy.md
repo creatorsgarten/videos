@@ -4,4 +4,11 @@ speaker: Wasan Pattara-atikom
 youtube: N8eBpiCXgNE
 managed: true
 published: false
+# description: |
+#   DESCRIPTION
+# englishDescription: |
+#   DESCRIPTION
+# youtubeTitle:
+#   th: VIDEO_TITLE
+#   en: VIDEO_TITLE
 ---
