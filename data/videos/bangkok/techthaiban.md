@@ -3,7 +3,7 @@ title: 'Tech Thaiban Model: Empower Local'
 speaker: Kulachat Kena
 youtube: hbVoyXLWD98
 managed: true
-published: false
+published: true
 description: |
   00:00 | ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู
   00:42 | ภูผาม่าน
