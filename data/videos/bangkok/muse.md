@@ -19,6 +19,9 @@ description: |
   17:40 | ที่ขององค์ความรู้โอเพนซอร์ซ
   18:08 | กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์
   19:03 | Conclusion
+
+  muse foundation
+  https://muse.as/
 # englishDescription: |
 #   DESCRIPTION
 # youtubeTitle:
