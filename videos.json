@@ -52,7 +52,8 @@
         "speaker": "Wasan Pattara-atikom",
         "youtube": "N8eBpiCXgNE",
         "managed": true,
-        "published": false
+        "description": "00:00 | Introduction\n01:17 | แนะนำ Traffy Fondue\n01:33 | Platform Revolution - จาก Pipeline สู่ Platform\n05:07 | LINE @traffyfondue\n07:02 | ตัวอย่าง\n09:00 | Dashboard\n09:46 | สถิติ\n10:43 | ต่างจังหวัด\n11:44 | สำรวจการใช้งาน\n12:55 | การใช้งานในกรุงเทพฯ\n23:20 | ตัวอย่างโจทย์และความเป็นไปได้\n27:22 | Open Data + API\n29:40 | รับสมัครผู้ร่วมทีม\n30:55 | Q&A\n",
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/bangkok/traffy.md",
