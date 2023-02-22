@@ -20,6 +20,12 @@ description: |
   10:10 | โมเดลการศึกษา
   12:22 | โมเดลการบริจาค
   14:40 | Conclusion
+
+  Tech Thaiban - เทคไทบ้าน
+  https://www.techthaiban.org/
+
+  Facebook Page เทคไทบ้าน
+  https://www.facebook.com/techthaiban.org
 # englishDescription: |
 #   DESCRIPTION
 # youtubeTitle:
