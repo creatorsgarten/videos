@@ -76,7 +76,7 @@ const events = [
     },
   }),
   new Event('bkkjs17', 'Bkk.js #17 - Developer Showtime', {
-    metaVersion: 1,
+    metaVersion: 2,
   }),
   new Event('bangkok', 'Bangkok Open Source Hackathon'),
 ]
