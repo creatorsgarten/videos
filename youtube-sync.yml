@@ -952,8 +952,8 @@ video:vbIWSwz8NxQ:
 thumbnail:vbIWSwz8NxQ:
   spec:
     videoId: vbIWSwz8NxQ
-    hash: c08c549cfd66cabf6bff0e04f1d3809872715963ab38101b1dfa3c17e0391da1
     filePath: data/videos/bkkjs17/blackbox.jpg
+    hash: 3e1dfe4b1cefe4009482d77a363eb41dcb04781cf6cc99b71895728fbb7ffc8a
   state: {}
 video:ltIvGLzMwzo:
   spec:
@@ -1027,8 +1027,8 @@ video:ltIvGLzMwzo:
 thumbnail:ltIvGLzMwzo:
   spec:
     videoId: ltIvGLzMwzo
-    hash: 3276b2c13f11c3c2fe686bb7e3853488156a162f9e112ad5bef6f37deba3e568
     filePath: data/videos/bkkjs17/manoonchai.jpg
+    hash: ad86b2d34f43dae28ccc5fd46fdccea211b7cdb3f811695616a202652016fd83
   state: {}
 video:le5M-5mhPY0:
   spec:
@@ -1095,8 +1095,8 @@ video:le5M-5mhPY0:
 thumbnail:le5M-5mhPY0:
   spec:
     videoId: le5M-5mhPY0
-    hash: e82279d0a5a9b9c8b5f13bdbb65545ded21bf65ca5feb1b919975ecf28c6740c
     filePath: data/videos/bkkjs17/nojs.jpg
+    hash: 3048f4e4d05953de686f564c8897e3c546e9e9f789068ebc4f9e4b9524591658
   state: {}
 video:J2THXXeQMxY:
   spec:
@@ -1153,8 +1153,8 @@ video:J2THXXeQMxY:
 thumbnail:J2THXXeQMxY:
   spec:
     videoId: J2THXXeQMxY
-    hash: 5f3aaf9f914f6d608992ea5724decf8586b2972b6aaa2c774dc0c0a284df8a59
     filePath: data/videos/bkkjs17/postr.jpg
+    hash: 7e9bc0de9b7c45cfa147ec6932146525058777892687b8dd73668473d3da6e01
   state: {}
 video:JuWzquQwt4g:
   spec:
@@ -1211,8 +1211,8 @@ video:JuWzquQwt4g:
 thumbnail:JuWzquQwt4g:
   spec:
     videoId: JuWzquQwt4g
-    hash: 281d08442fb0f7d5b375e4c5bb6a78cdc49caddcf9a25c1ba87c7ac5d6a10790
     filePath: data/videos/bkkjs17/ar.jpg
+    hash: c7425c9acbfa51ac29fe88388efb67a98a09356868f7c790a3efed908756e52d
   state: {}
 video:wrPz2Sp9EZU:
   spec:
@@ -1266,8 +1266,8 @@ video:wrPz2Sp9EZU:
 thumbnail:wrPz2Sp9EZU:
   spec:
     videoId: wrPz2Sp9EZU
-    hash: a08ecb07e3bb3767dd050844dad7e94264bc530f8cb3e229ff9db5589151a045
     filePath: data/videos/bkkjs17/typescript.jpg
+    hash: aaedcfad0beaf1c6fa3134dfb80c5cbb3919fa8b9dfa5315fcc65b212f61fb2e
   state: {}
 video:vbIWSwz8NxQ:caption:en:
   spec:
