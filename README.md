@@ -26,6 +26,12 @@ For easy consumption, the contents is this repository is published as a single J
 ./bin/import --event <event> --slug <slug> --video https://youtu.be/<videoId>
 ```
 
+### Check for differences
+
+```sh
+./bin/sync
+```
+
 ### Exploring YouTube API with `tsx`
 
 ```

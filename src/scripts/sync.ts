@@ -237,11 +237,11 @@ for (const video of await Video.findAll()) {
     description.slice(0, 5000).replace(/[<>]/g, '')
 
   const snippet: youtube_v3.Schema$VideoSnippet = {
-    title: sanitizeTitle(getVideoTitle(video)),
+    title: sanitizeTitle(await getVideoTitle(video)),
     description: sanitizeDescription(await getVideoDescription(video)),
   }
 
-  const enTitle = sanitizeTitle(getVideoTitle(video, 'en'))
+  const enTitle = sanitizeTitle(await getVideoTitle(video, 'en'))
   const enDescription = sanitizeDescription(
     await getVideoDescription(video, 'en'),
   )

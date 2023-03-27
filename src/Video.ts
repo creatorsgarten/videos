@@ -18,7 +18,14 @@ const VideoFrontMatter = z.object({
     .describe(
       'Customized title for YouTube. If not specified, the talk title will be used.',
     ),
-  speaker: z.string(),
+  speaker: z.string().optional(),
+  tagline: z.string().optional(),
+  team: z
+    .object({
+      name: z.string(),
+    })
+    .optional(),
+  type: z.enum(['talk', 'pitch']).default('talk'),
   youtube: z.string(),
   managed: z.boolean(),
   description: z.string().optional(),

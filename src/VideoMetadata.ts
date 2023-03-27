@@ -3,22 +3,31 @@ import { Event } from './Event'
 
 function getSpeakers(video: Video) {
   const { data } = video
-  return data.speaker.split(/;\s+/).join(', ')
+  return data.speaker!.split(/;\s+/).join(', ')
 }
 
-function getDefaultTitle(video: Video) {
+async function getDefaultTitle(video: Video) {
   const { data } = video
+  if (data.type === 'pitch') {
+    const event = await Event.findById(video.event)
+    return (
+      data.title +
+      (data.tagline ? ' - ' + data.tagline : '') +
+      ' | ' +
+      event.name
+    )
+  }
   return data.title + ' by ' + getSpeakers(video)
 }
 
-export function getVideoTitle(video: Video, language?: 'en') {
+export async function getVideoTitle(video: Video, language?: 'en') {
   const { data } = video
   return (
     (data.youtubeTitle &&
       (typeof data.youtubeTitle === 'string'
         ? data.youtubeTitle
         : data.youtubeTitle[language || 'th'])) ||
-    getDefaultTitle(video)
+    (await getDefaultTitle(video))
   )
 }
 
@@ -28,8 +37,8 @@ export async function getVideoDescription(
 ): Promise<string> {
   const event = await Event.findById(video.event)
   const version = event.metaVersion ?? 1
-  const videoTitle = getVideoTitle(video, language)
-  const defaultTitle = getDefaultTitle(video)
+  const videoTitle = await getVideoTitle(video, language)
+  const defaultTitle = await getDefaultTitle(video)
   const talkDescription =
     (language === 'en' && video.data.englishDescription) ||
     video.data.description
@@ -43,8 +52,12 @@ export async function getVideoDescription(
         ]
       : []),
     ...(videoTitle !== defaultTitle
-      ? [`Talk title: ${video.data.title}`, `Speaker: ${getSpeakers(video)}`]
+      ? [
+          `Talk title: ${video.data.title}`,
+          ...(video.data.speaker ? [`Speaker: ${getSpeakers(video)}`] : []),
+        ]
       : []),
+    ...(video.data.team ? [`Team: ${video.data.team.name}`] : []),
     `Event: ${event.name}`,
     event.url,
     ...(event.externalOrganizer
