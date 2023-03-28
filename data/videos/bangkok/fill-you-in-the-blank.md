@@ -4,7 +4,7 @@ tagline: เติมคุณในช่องว่าง
 type: pitch
 youtube: on25fTHEtus
 managed: true
-published: false
+published: true
 description: |
   Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ
 

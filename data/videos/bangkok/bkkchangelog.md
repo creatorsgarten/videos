@@ -3,7 +3,7 @@ title: BKK Changelog
 type: pitch
 youtube: inkQI5yRd_Y
 managed: true
-published: false
+published: true
 description: |
   A project to archive and generate a change log based on Traffy Fondue data.
 

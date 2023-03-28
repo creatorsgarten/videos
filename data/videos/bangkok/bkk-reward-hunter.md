@@ -4,7 +4,7 @@ tagline: ทำให้กรุงเทพฯน่าอยู่ขึ้�
 type: pitch
 youtube: yd3uA1XOtww
 managed: true
-published: false
+published: true
 description: |
   make this bkk a better place while earning money 😜🤑🥳win-win
 
