@@ -16,7 +16,10 @@ async function getDefaultTitle(video: Video) {
       ' | ' +
       event.name
     )
+  } else if (data.type === 'archive') {
+    return 'Garten Streams: ' + data.title
   }
+
   return data.title + ' by ' + getSpeakers(video)
 }
 
@@ -58,8 +61,10 @@ export async function getVideoDescription(
         ]
       : []),
     ...(video.data.team ? [`Team: ${video.data.team.name}`] : []),
-    `Event: ${event.name}`,
-    event.url,
+    ...(video.data.type !== 'archive' ? [
+      `Event: ${event.name}`,
+      event.url,
+    ] : []),
     ...(event.externalOrganizer
       ? [
           '',

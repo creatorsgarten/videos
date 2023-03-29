@@ -79,4 +79,5 @@ const events = [
     metaVersion: 2,
   }),
   new Event('bangkok', 'Bangkok Open Source Hackathon'),
+  new Event('archive', 'Stream Archives'),
 ]

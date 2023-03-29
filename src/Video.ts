@@ -25,7 +25,7 @@ const VideoFrontMatter = z.object({
       name: z.string(),
     })
     .optional(),
-  type: z.enum(['talk', 'pitch']).default('talk'),
+  type: z.enum(['talk', 'pitch', 'archive']).default('talk'),
   youtube: z.string(),
   managed: z.boolean(),
   description: z.string().optional(),
