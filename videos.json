@@ -1,6 +1,258 @@
 {
   "videos": [
     {
+      "event": "archive",
+      "slug": "bkkjs17",
+      "data": {
+        "title": "BKK.JS #17",
+        "type": "archive",
+        "youtube": "Pyp8IJbzLdo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs17.md",
+      "imageFilePath": "data/videos/archive/bkkjs17.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkoss-orientation",
+      "data": {
+        "title": "Bangkok Open Source Hackathon - Orientation",
+        "type": "archive",
+        "youtube": "qicLQYQolf0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkoss-orientation.md",
+      "imageFilePath": "data/videos/archive/bkkoss-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkoss-pitching",
+      "data": {
+        "title": "Bangkok Open Source Hackathon - Pitching",
+        "type": "archive",
+        "youtube": "hr3dEJO6L3o",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkoss-pitching.md",
+      "imageFilePath": "data/videos/archive/bkkoss-pitching.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "gql10-1",
+      "data": {
+        "title": "GraphQL Meetup 10.0 - Day 1",
+        "type": "archive",
+        "youtube": "1jqGRu5fP_8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/gql10-1.md",
+      "imageFilePath": "data/videos/archive/gql10-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "gql10-2",
+      "data": {
+        "title": "GraphQL Meetup 10.0 - Day 2",
+        "type": "archive",
+        "youtube": "rZzM5jnIKFo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/gql10-2.md",
+      "imageFilePath": "data/videos/archive/gql10-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2020",
+      "data": {
+        "title": "Hacktoberfest Thailand 2020",
+        "type": "archive",
+        "youtube": "6OS4iWfmApg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2020.md",
+      "imageFilePath": "data/videos/archive/hacktober2020.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2022-1",
+      "data": {
+        "title": "Hacktoberfest Thailand 2022 - Morning sessions",
+        "type": "archive",
+        "youtube": "GUCkjzD4IEQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2022-1.md",
+      "imageFilePath": "data/videos/archive/hacktober2022-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2022-2",
+      "data": {
+        "title": "Hacktoberfest Thailand 2022 - Afternoon sessions",
+        "type": "archive",
+        "youtube": "T6rdYlBmjJw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2022-2.md",
+      "imageFilePath": "data/videos/archive/hacktober2022-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-1",
+      "data": {
+        "title": "React Meetup 2022 - Part 1",
+        "type": "archive",
+        "youtube": "ldctCYCYxSc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-1.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-2",
+      "data": {
+        "title": "React Meetup 2022 - Part 2",
+        "type": "archive",
+        "youtube": "JfTbhig4MOc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-2.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-3",
+      "data": {
+        "title": "React Meetup 2022 - Part 3",
+        "type": "archive",
+        "youtube": "kyWtr20b8Ew",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-3.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-3.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht3",
+      "data": {
+        "title": "The Stupid Hackathon Thailand #3 - Pitching",
+        "type": "archive",
+        "youtube": "xzAgKTgAhjs",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht3.md",
+      "imageFilePath": "data/videos/archive/sht3.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht4-orientation",
+      "data": {
+        "title": "stupid hackathon thailand the fourth / virtual 2020 - Orientation",
+        "type": "archive",
+        "youtube": "QDj6vV0wxQ4",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht4-orientation.md",
+      "imageFilePath": "data/videos/archive/sht4-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht4-pitch",
+      "data": {
+        "title": "stupid hackathon thailand the fourth / virtual 2020 - Pitching",
+        "type": "archive",
+        "youtube": "CPd-ZUgA-w0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht4-pitch.md",
+      "imageFilePath": "data/videos/archive/sht4-pitch.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht5",
+      "data": {
+        "title": "The 5th StuP1d H@CK THaIL@Nd - Pitching",
+        "type": "archive",
+        "youtube": "nmK5p5RovuA",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht5.md",
+      "imageFilePath": "data/videos/archive/sht5.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-orientation",
+      "data": {
+        "title": "The ៦th Stupid Hackathon in Thailand - First meet",
+        "type": "archive",
+        "youtube": "AzvXWANuNxw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-orientation.md",
+      "imageFilePath": "data/videos/archive/sht6-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-pitch",
+      "data": {
+        "title": "The ៦th Stupid Hackathon Thailand",
+        "type": "archive",
+        "youtube": "nKFO4ujdnQ8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-pitch.md",
+      "imageFilePath": "data/videos/archive/sht6-pitch.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-special",
+      "data": {
+        "title": "The ៦th Stupid Hackathon in Thailand - Special session",
+        "type": "archive",
+        "youtube": "DjSkA1isb-c",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-special.md",
+      "imageFilePath": "data/videos/archive/sht6-special.jpg"
+    },
+    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
