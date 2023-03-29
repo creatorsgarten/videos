@@ -2292,3 +2292,763 @@ video:yd3uA1XOtww:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:1jqGRu5fP_8:
+  spec:
+    videoId: 1jqGRu5fP_8
+    filePath: data/videos/archive/gql10-1.jpg
+    hash: 0f9840b85715b34cc2e6ed78fec5d15c631233345c5045750412d09b1ffb32fd
+  state: {}
+thumbnail:6OS4iWfmApg:
+  spec:
+    videoId: 6OS4iWfmApg
+    filePath: data/videos/archive/hacktober2020.jpg
+    hash: 032007fe574efae74cc774b8565d11412743b63d5df5e7657753a2fdc2e927b5
+  state: {}
+thumbnail:AzvXWANuNxw:
+  spec:
+    videoId: AzvXWANuNxw
+    filePath: data/videos/archive/sht6-orientation.jpg
+    hash: 3a7105ebc1a12d3ea66bd35eb2d54a178449746312446a5f4bb5dd8f3a79728d
+  state: {}
+thumbnail:CPd-ZUgA-w0:
+  spec:
+    videoId: CPd-ZUgA-w0
+    filePath: data/videos/archive/sht4-pitch.jpg
+    hash: 5a36fa12c297d28ad07ec2175b8aecc7a554b0dc2a7398f73f3917d5ba1b669e
+  state: {}
+thumbnail:DjSkA1isb-c:
+  spec:
+    videoId: DjSkA1isb-c
+    filePath: data/videos/archive/sht6-special.jpg
+    hash: 3a7105ebc1a12d3ea66bd35eb2d54a178449746312446a5f4bb5dd8f3a79728d
+  state: {}
+thumbnail:GUCkjzD4IEQ:
+  spec:
+    videoId: GUCkjzD4IEQ
+    filePath: data/videos/archive/hacktober2022-1.jpg
+    hash: bb511427e5fc79be7ab44a7dbe63c3930b8d880091ddcca270e73405ee918b87
+  state: {}
+thumbnail:JfTbhig4MOc:
+  spec:
+    videoId: JfTbhig4MOc
+    filePath: data/videos/archive/reactmeetup2022-2.jpg
+    hash: f153be555855566f0a78fef99da02d48c0506c87217108337de1000df9f0b464
+  state: {}
+thumbnail:Pyp8IJbzLdo:
+  spec:
+    videoId: Pyp8IJbzLdo
+    filePath: data/videos/archive/bkkjs17.jpg
+    hash: b459249260e58a293ebd63fa4abfbcbc1065f00792a189340c3b02b0cf72bd3e
+  state: {}
+thumbnail:QDj6vV0wxQ4:
+  spec:
+    videoId: QDj6vV0wxQ4
+    filePath: data/videos/archive/sht4-orientation.jpg
+    hash: 5a36fa12c297d28ad07ec2175b8aecc7a554b0dc2a7398f73f3917d5ba1b669e
+  state: {}
+thumbnail:T6rdYlBmjJw:
+  spec:
+    videoId: T6rdYlBmjJw
+    filePath: data/videos/archive/hacktober2022-2.jpg
+    hash: bb511427e5fc79be7ab44a7dbe63c3930b8d880091ddcca270e73405ee918b87
+  state: {}
+thumbnail:hr3dEJO6L3o:
+  spec:
+    videoId: hr3dEJO6L3o
+    filePath: data/videos/archive/bkkoss-pitching.jpg
+    hash: e6b96148ceba3c2f6b02baf63ded3555bbd06b5065142407c935175ace2dbe8a
+  state: {}
+thumbnail:kyWtr20b8Ew:
+  spec:
+    videoId: kyWtr20b8Ew
+    filePath: data/videos/archive/reactmeetup2022-3.jpg
+    hash: f153be555855566f0a78fef99da02d48c0506c87217108337de1000df9f0b464
+  state: {}
+thumbnail:ldctCYCYxSc:
+  spec:
+    videoId: ldctCYCYxSc
+    filePath: data/videos/archive/reactmeetup2022-1.jpg
+    hash: f153be555855566f0a78fef99da02d48c0506c87217108337de1000df9f0b464
+  state: {}
+thumbnail:nKFO4ujdnQ8:
+  spec:
+    videoId: nKFO4ujdnQ8
+    filePath: data/videos/archive/sht6-pitch.jpg
+    hash: 3a7105ebc1a12d3ea66bd35eb2d54a178449746312446a5f4bb5dd8f3a79728d
+  state: {}
+thumbnail:nmK5p5RovuA:
+  spec:
+    videoId: nmK5p5RovuA
+    filePath: data/videos/archive/sht5.jpg
+    hash: 761be343457703b892dbd69f388aea2782c65b86a35d3202fa73bdc8d5828500
+  state: {}
+thumbnail:qicLQYQolf0:
+  spec:
+    videoId: qicLQYQolf0
+    filePath: data/videos/archive/bkkoss-orientation.jpg
+    hash: e6b96148ceba3c2f6b02baf63ded3555bbd06b5065142407c935175ace2dbe8a
+  state: {}
+thumbnail:rZzM5jnIKFo:
+  spec:
+    videoId: rZzM5jnIKFo
+    filePath: data/videos/archive/gql10-2.jpg
+    hash: 0f9840b85715b34cc2e6ed78fec5d15c631233345c5045750412d09b1ffb32fd
+  state: {}
+thumbnail:xzAgKTgAhjs:
+  spec:
+    videoId: xzAgKTgAhjs
+    filePath: data/videos/archive/sht3.jpg
+    hash: be217ac2bb9792bcf2f169cc17072adf2726c050e52b8e7b1dac7233f2fcc84e
+  state: {}
+video:1jqGRu5fP_8:
+  spec:
+    id: 1jqGRu5fP_8
+    snippet:
+      title: 'Garten Streams: GraphQL Meetup 10.0 - Day 1'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/gql10-1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:6OS4iWfmApg:
+  spec:
+    id: 6OS4iWfmApg
+    snippet:
+      title: 'Garten Streams: Hacktoberfest Thailand 2020'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/hacktober2020/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:AzvXWANuNxw:
+  spec:
+    id: AzvXWANuNxw
+    snippet:
+      title: 'Garten Streams: The ៦th Stupid Hackathon in Thailand - First meet'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht6-orientation/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:CPd-ZUgA-w0:
+  spec:
+    id: CPd-ZUgA-w0
+    snippet:
+      title: >-
+        Garten Streams: stupid hackathon thailand the fourth / virtual 2020 -
+        Pitching
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht4-pitch/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:DjSkA1isb-c:
+  spec:
+    id: DjSkA1isb-c
+    snippet:
+      title: 'Garten Streams: The ៦th Stupid Hackathon in Thailand - Special session'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht6-special/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:GUCkjzD4IEQ:
+  spec:
+    id: GUCkjzD4IEQ
+    snippet:
+      title: 'Garten Streams: Hacktoberfest Thailand 2022 - Morning sessions'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/hacktober2022-1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:JfTbhig4MOc:
+  spec:
+    id: JfTbhig4MOc
+    snippet:
+      title: 'Garten Streams: React Meetup 2022 - Part 2'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/reactmeetup2022-2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Pyp8IJbzLdo:
+  spec:
+    id: Pyp8IJbzLdo
+    snippet:
+      title: 'Garten Streams: BKK.JS #17'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/bkkjs17/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:QDj6vV0wxQ4:
+  spec:
+    id: QDj6vV0wxQ4
+    snippet:
+      title: >-
+        Garten Streams: stupid hackathon thailand the fourth / virtual 2020 -
+        Orientation
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht4-orientation/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:T6rdYlBmjJw:
+  spec:
+    id: T6rdYlBmjJw
+    snippet:
+      title: 'Garten Streams: Hacktoberfest Thailand 2022 - Afternoon sessions'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/hacktober2022-2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:hr3dEJO6L3o:
+  spec:
+    id: hr3dEJO6L3o
+    snippet:
+      title: 'Garten Streams: Bangkok Open Source Hackathon - Pitching'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/bkkoss-pitching/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:kyWtr20b8Ew:
+  spec:
+    id: kyWtr20b8Ew
+    snippet:
+      title: 'Garten Streams: React Meetup 2022 - Part 3'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/reactmeetup2022-3/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ldctCYCYxSc:
+  spec:
+    id: ldctCYCYxSc
+    snippet:
+      title: 'Garten Streams: React Meetup 2022 - Part 1'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/reactmeetup2022-1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:nKFO4ujdnQ8:
+  spec:
+    id: nKFO4ujdnQ8
+    snippet:
+      title: 'Garten Streams: The ៦th Stupid Hackathon Thailand'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht6-pitch/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:nmK5p5RovuA:
+  spec:
+    id: nmK5p5RovuA
+    snippet:
+      title: 'Garten Streams: The 5th StuP1d H@CK THaIL@Nd - Pitching'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht5/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:qicLQYQolf0:
+  spec:
+    id: qicLQYQolf0
+    snippet:
+      title: 'Garten Streams: Bangkok Open Source Hackathon - Orientation'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/bkkoss-orientation/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:rZzM5jnIKFo:
+  spec:
+    id: rZzM5jnIKFo
+    snippet:
+      title: 'Garten Streams: GraphQL Meetup 10.0 - Day 2'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/gql10-2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xzAgKTgAhjs:
+  spec:
+    id: xzAgKTgAhjs
+    snippet:
+      title: 'Garten Streams: The Stupid Hackathon Thailand #3 - Pitching'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht3/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
