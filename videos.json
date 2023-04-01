@@ -444,6 +444,9 @@
       "slug": "thailand-area-ranking",
       "data": {
         "title": "Thailand Area Ranking",
+        "team": {
+          "name": "TensorMiK"
+        },
         "type": "pitch",
         "youtube": "TTU2oSlbT_w",
         "managed": true,
