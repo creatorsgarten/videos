@@ -3288,3 +3288,165 @@ video:kXfi4FhzCi8:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:7qelbJphNyI:
+  spec:
+    videoId: 7qelbJphNyI
+    filePath: data/videos/creativecodingmeetup/web-wo-gameengine.jpg
+    hash: 9a9303e7f6e0a87c91c0a971ba7cc0e86034520db684e89128b87d19f334aa56
+  state: {}
+thumbnail:eNoHorGFVIc:
+  spec:
+    videoId: eNoHorGFVIc
+    filePath: data/videos/creativecodingmeetup/svg.jpg
+    hash: c17fab46b6cf18fddf79f147f13db8857983be037c826701cf1243c802e1e882
+  state: {}
+thumbnail:qzbyQAnqWYk:
+  spec:
+    videoId: qzbyQAnqWYk
+    filePath: data/videos/creativecodingmeetup/sdf.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+video:7qelbJphNyI:
+  spec:
+    id: 7qelbJphNyI
+    snippet:
+      title: ทำเกมบนเว็บแบบไม่ใช้ game engine นั้นเป็นอย่างไร by Wachirawit Wacharak
+      description: >-
+        จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine
+        จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/web-wo-gameengine/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:eNoHorGFVIc:
+  spec:
+    id: eNoHorGFVIc
+    snippet:
+      title: Fractal Animation with SVG by Nattawut Phetmak
+      description: >-
+        แฟร็กทัล (fractal)
+        เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด
+        จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า
+        SVG ขนาดเล็กจิ๋วอีกหละ ...
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/svg/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:qzbyQAnqWYk:
+  spec:
+    id: qzbyQAnqWYk
+    snippet:
+      title: The power of signed distance functions by Thai Pangsakulyanont
+      description: >-
+        Signed distance function (SDF)
+        เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic
+        รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/sdf/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
