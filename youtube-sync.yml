@@ -3138,3 +3138,45 @@ video:b2TRUel47YY:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:c9TB7rDX0HU:
+  spec:
+    videoId: c9TB7rDX0HU
+    filePath: data/videos/archive/creativecodingmeetup.jpg
+    hash: 59dd770d44c8a7ede045d38a81c529aad56e50e69fb631b02d14dfd4ec526fdf
+  state: {}
+video:c9TB7rDX0HU:
+  spec:
+    id: c9TB7rDX0HU
+    snippet:
+      title: 'Garten Streams: Creative Coding Meetup #1'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/creativecodingmeetup/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
