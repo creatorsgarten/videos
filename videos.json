@@ -610,6 +610,22 @@
     },
     {
       "event": "creativecodingmeetup",
+      "slug": "ai",
+      "data": {
+        "title": "ฉันอยากให้ AI เป็นทาสจะทำอย่างไร",
+        "speaker": "Watid Jinggit",
+        "type": "talk",
+        "youtube": "J4bILD7KCWk",
+        "managed": true,
+        "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/creativecodingmeetup/ai.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/ai.jpg"
+    },
+    {
+      "event": "creativecodingmeetup",
       "slug": "interactive-art",
       "data": {
         "title": "Interactive art",
@@ -655,6 +671,22 @@
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sdf.md",
       "imageFilePath": "data/videos/creativecodingmeetup/sdf.jpg"
+    },
+    {
+      "event": "creativecodingmeetup",
+      "slug": "sonic-thread",
+      "data": {
+        "title": "Sonic thread — Interactive sonic experience with Pure Data",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "0btQNQkj41s",
+        "managed": true,
+        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/creativecodingmeetup/sonic-thread.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/sonic-thread.jpg"
     },
     {
       "event": "creativecodingmeetup",
