@@ -609,6 +609,38 @@
       "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
+      "event": "creativecodingmeetup",
+      "slug": "interactive-art",
+      "data": {
+        "title": "Interactive art",
+        "speaker": "Pun Pitanpitayarat",
+        "type": "talk",
+        "youtube": "KCPjgyDsuN4",
+        "managed": true,
+        "description": "เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/creativecodingmeetup/interactive-art.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/interactive-art.jpg"
+    },
+    {
+      "event": "creativecodingmeetup",
+      "slug": "regular-expression",
+      "data": {
+        "title": "Regular expression as an irregular musical expression",
+        "speaker": "Karnpapon Boonput",
+        "type": "talk",
+        "youtube": "kXfi4FhzCi8",
+        "managed": true,
+        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/creativecodingmeetup/regular-expression.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/regular-expression.jpg"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
