@@ -1,6 +1,8 @@
 ---
 title: Thailand Area Ranking
 type: pitch
+team:
+  name: TensorMiK
 youtube: TTU2oSlbT_w
 managed: true
 published: true
