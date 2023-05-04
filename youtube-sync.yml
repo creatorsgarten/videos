@@ -3450,3 +3450,116 @@ video:qzbyQAnqWYk:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:0btQNQkj41s:
+  spec:
+    videoId: 0btQNQkj41s
+    filePath: data/videos/creativecodingmeetup/sonic-thread.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:J4bILD7KCWk:
+  spec:
+    videoId: J4bILD7KCWk
+    filePath: data/videos/creativecodingmeetup/ai.jpg
+    hash: c6ad2376defad13b595ca8e8378726dd77b02b989d3c308e62e34581eff77d44
+  state: {}
+video:0btQNQkj41s:
+  spec:
+    id: 0btQNQkj41s
+    snippet:
+      title: Sonic thread — Interactive sonic experience with Pure Data by SPEAKER
+      description: >-
+        การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive
+        ที่เข้าถึงโสตสัมผัส
+        ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้
+        ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.)
+        ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ
+        ขนาดและขอบเขตของงาน
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/sonic-thread/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:J4bILD7KCWk:
+  spec:
+    id: J4bILD7KCWk
+    snippet:
+      title: ฉันอยากให้ AI เป็นทาสจะทำอย่างไร by Watid Jinggit
+      description: >-
+        เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง
+        snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง
+        เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้
+        แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ
+        ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/ai/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
