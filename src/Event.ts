@@ -80,4 +80,5 @@ const events = [
   }),
   new Event('bangkok', 'Bangkok Open Source Hackathon'),
   new Event('archive', 'Stream Archives'),
+  new Event('creativecodingmeetup', 'Creative Coding Meetup'),
 ]
