@@ -706,7 +706,7 @@
     },
     {
       "event": "creativecodingmeetup",
-      "slug": "web-wo-gameengine",
+      "slug": "web-no-engine",
       "data": {
         "title": "ทำเกมบนเว็บแบบไม่ใช้ game engine นั้นเป็นอย่างไร",
         "speaker": "Wachirawit Wacharak",
@@ -717,8 +717,8 @@
         "published": false
       },
       "content": "",
-      "filePath": "data/videos/creativecodingmeetup/web-wo-gameengine.md",
-      "imageFilePath": "data/videos/creativecodingmeetup/web-wo-gameengine.jpg"
+      "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
     },
     {
       "event": "hacktoberfest2022",
