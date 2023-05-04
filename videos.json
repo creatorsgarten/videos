@@ -72,6 +72,20 @@
     },
     {
       "event": "archive",
+      "slug": "creativecodingmeetup",
+      "data": {
+        "title": "Creative Coding Meetup #1",
+        "type": "archive",
+        "youtube": "c9TB7rDX0HU",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/creativecodingmeetup.md",
+      "imageFilePath": "data/videos/archive/creativecodingmeetup.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "gql10-1",
       "data": {
         "title": "GraphQL Meetup 10.0 - Day 1",
