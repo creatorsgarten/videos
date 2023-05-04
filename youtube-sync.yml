@@ -3180,3 +3180,111 @@ video:c9TB7rDX0HU:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:KCPjgyDsuN4:
+  spec:
+    videoId: KCPjgyDsuN4
+    filePath: data/videos/creativecodingmeetup/interactive-art.jpg
+    hash: 402d2273c80ccce3c0ce99e0280e065408f485b5bb4d5b291435fe03baeb3e43
+  state: {}
+thumbnail:kXfi4FhzCi8:
+  spec:
+    videoId: kXfi4FhzCi8
+    filePath: data/videos/creativecodingmeetup/regular-expression.jpg
+    hash: 8c6e4d7240903c451457bc9b6c288b53921f865186dd2b058e231578176be071
+  state: {}
+video:KCPjgyDsuN4:
+  spec:
+    id: KCPjgyDsuN4
+    snippet:
+      title: Interactive art by Pun Pitanpitayarat
+      description: >-
+        เบื้องหลังงาน interactive และ immersive art
+        ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/interactive-art/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:kXfi4FhzCi8:
+  spec:
+    id: kXfi4FhzCi8
+    snippet:
+      title: >-
+        Regular expression as an irregular musical expression by Karnpapon
+        Boonput
+      description: >-
+        an exploration of how seemingly incomprehensible patterns and rules can
+        be translated into a form of artistic expression.
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/regular-expression/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
