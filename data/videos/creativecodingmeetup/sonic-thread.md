@@ -1,6 +1,6 @@
 ---
 title: Sonic thread — Interactive sonic experience with Pure Data
-speaker: SPEAKER
+speaker: Thanapat Ryan Ogaslert
 youtube: 0btQNQkj41s
 managed: true
 published: false
