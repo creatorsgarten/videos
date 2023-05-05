@@ -3184,13 +3184,13 @@ thumbnail:KCPjgyDsuN4:
   spec:
     videoId: KCPjgyDsuN4
     filePath: data/videos/creativecodingmeetup/interactive-art.jpg
-    hash: 3e60b112f0e2a0df616ad71fc4e756dddb3eb193fdb5693413bf5e9db4683a63
+    hash: 39e00d54940b5a26959ddebb4b069372bbbb3c66d27b3c13a7189ef6ddd55864
   state: {}
 thumbnail:kXfi4FhzCi8:
   spec:
     videoId: kXfi4FhzCi8
     filePath: data/videos/creativecodingmeetup/regular-expression.jpg
-    hash: 26fa66bf20baa7f4c2448a9bfa5a04c00f9fb6f2d65f8e03eae9874447c90ca4
+    hash: d0adb6f2f6520dc5e1cad78500ae5f7c9293cb325e8fcc18bd43f36735d90d97
   state: {}
 video:KCPjgyDsuN4:
   spec:
@@ -3376,19 +3376,19 @@ thumbnail:7qelbJphNyI:
   spec:
     videoId: 7qelbJphNyI
     filePath: data/videos/creativecodingmeetup/web-no-engine.jpg
-    hash: 3639b576e21dc0b2f6e398f8b2fbe6a6d9d8f5349b35c08eb2dd86e76da36473
+    hash: 50ebbc87c28cf06d2d09c88f0f500b506fc4eb832ae642c38a842940edbc46d8
   state: {}
 thumbnail:eNoHorGFVIc:
   spec:
     videoId: eNoHorGFVIc
     filePath: data/videos/creativecodingmeetup/svg.jpg
-    hash: cabc0db41243bba226226aea6ff26aeb93189ccb57f7087a74231937ce939017
+    hash: bcde425fc7d1206fe782266254ab225cb888324ed1bf799d75063fe364eaaaf6
   state: {}
 thumbnail:qzbyQAnqWYk:
   spec:
     videoId: qzbyQAnqWYk
     filePath: data/videos/creativecodingmeetup/sdf.jpg
-    hash: 19cdaecf034d2388a793b2aa7bf5aaf1a506c3c83f6f692e1fd8e4e80372cb2a
+    hash: 4aca1fdbbec54576933c86c87d29aa224e7d72d8f0ec099fb7093dd2800c747d
   state: {}
 video:7qelbJphNyI:
   spec:
@@ -3398,6 +3398,16 @@ video:7qelbJphNyI:
       description: >-
         จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine
         จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม
+
+
+        Play the game
+
+        https://bocchi-the-crane.tauhoo.dev/
+
+
+        Speaker’s website
+
+        https://tauhoo.dev/
 
 
 
@@ -3449,6 +3459,21 @@ video:eNoHorGFVIc:
         SVG ขนาดเล็กจิ๋วอีกหละ ...
 
 
+        Slides
+
+        https://neizod.dev/fractal-demo/
+
+
+        Speaker’s website
+
+        https://neizod.dev/
+
+
+        GitHub
+
+        https://github.com/neizod
+
+
 
         --------------------------------------------
 
@@ -3490,7 +3515,9 @@ video:qzbyQAnqWYk:
   spec:
     id: qzbyQAnqWYk
     snippet:
-      title: The power of signed distance functions by Thai Pangsakulyanont
+      title: >-
+        วาดรูปด้วยโค้ดสั้นๆ กับคอนเซปต์ Signed distance functions (SDF) - Thai
+        Pangsakulyanont
       description: >-
         Signed distance function (SDF)
         เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic
@@ -3525,6 +3552,11 @@ video:qzbyQAnqWYk:
         08:47 | Learning resources
 
 
+        Speaker’s channel
+
+        https://www.youtube.com/@dtinth
+
+
         Recommended videos
 
         https://youtu.be/svLzmFuSBhk
@@ -3542,6 +3574,10 @@ video:qzbyQAnqWYk:
 
 
         --------------------------------------------
+
+        Talk title: The power of signed distance functions (SDF)
+
+        Speaker: Thai Pangsakulyanont
 
         Event: Creative Coding Meetup
 
@@ -3572,22 +3608,208 @@ video:qzbyQAnqWYk:
         etc.), please visit:
 
         https://grtn.org/e/creativecodingmeetup/v/sdf/edit
+      defaultLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
+    localizations:
+      en:
+        title: The power of signed distance functions (SDF) by Thai Pangsakulyanont
+        description: >-
+          Signed distance function (SDF)
+          เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic
+          รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF
+
+
+          Source code and references:
+
+          https://d4h.cc/sdf
+
+
+          00:00 | Intro
+
+          01:06 | What is GLSL fragment shader?
+
+          01:51 | What is Signed Distance Function?
+
+          03:03 | How to write an SDF?
+
+          04:26 | Using the SDF
+
+          04:57 | Composing SDFs
+
+          06:37 | Let’s draw!
+
+          07:19 | Transforming the space
+
+          08:12 | Code compression
+
+          08:28 | Beyond 2D: 3d ray-marching
+
+          08:47 | Learning resources
+
+
+          Speaker’s channel
+
+          https://www.youtube.com/@dtinth
+
+
+          Recommended videos
+
+          https://youtu.be/svLzmFuSBhk
+
+          https://youtu.be/BNZtUB7yhX4
+
+          https://youtu.be/0ifChJ0nJfM
+
+          https://youtu.be/8--5LwHRhjk
+
+          https://youtu.be/BFld4EBO2RE
+
+          https://youtu.be/PGtv-dBi2wE
+
+
+
+          --------------------------------------------
+
+          Event: Creative Coding Meetup
+
+          https://grtn.org/e/creativecodingmeetup
+
+
+          Website:
+
+          https://creatorsgarten.org
+
+
+          Facebook:
+
+          https://facebook.com/creatorsgarten
+
+
+          Please consider supporting us by subscribing to the channel, and
+          follow upcoming events via our Facebook page.
+
+
+          For reuse of this video under a more permissive license please get in
+          touch with us. The speakers retain the copyright for their
+          performances.
+
+          mail@creatorsgarten.org
+
+
+          To edit the video metadata (title, description, timestamps, thumbnail,
+          etc.), please visit:
+
+          https://grtn.org/e/creativecodingmeetup/v/sdf/edit
+      th:
+        title: >-
+          วาดรูปด้วยโค้ดสั้นๆ กับคอนเซปต์ Signed distance functions (SDF) - Thai
+          Pangsakulyanont
+        description: >-
+          Signed distance function (SDF)
+          เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic
+          รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF
+
+
+          Source code and references:
+
+          https://d4h.cc/sdf
+
+
+          00:00 | Intro
+
+          01:06 | What is GLSL fragment shader?
+
+          01:51 | What is Signed Distance Function?
+
+          03:03 | How to write an SDF?
+
+          04:26 | Using the SDF
+
+          04:57 | Composing SDFs
+
+          06:37 | Let’s draw!
+
+          07:19 | Transforming the space
+
+          08:12 | Code compression
+
+          08:28 | Beyond 2D: 3d ray-marching
+
+          08:47 | Learning resources
+
+
+          Speaker’s channel
+
+          https://www.youtube.com/@dtinth
+
+
+          Recommended videos
+
+          https://youtu.be/svLzmFuSBhk
+
+          https://youtu.be/BNZtUB7yhX4
+
+          https://youtu.be/0ifChJ0nJfM
+
+          https://youtu.be/8--5LwHRhjk
+
+          https://youtu.be/BFld4EBO2RE
+
+          https://youtu.be/PGtv-dBi2wE
+
+
+
+          --------------------------------------------
+
+          Talk title: The power of signed distance functions (SDF)
+
+          Speaker: Thai Pangsakulyanont
+
+          Event: Creative Coding Meetup
+
+          https://grtn.org/e/creativecodingmeetup
+
+
+          Website:
+
+          https://creatorsgarten.org
+
+
+          Facebook:
+
+          https://facebook.com/creatorsgarten
+
+
+          Please consider supporting us by subscribing to the channel, and
+          follow upcoming events via our Facebook page.
+
+
+          For reuse of this video under a more permissive license please get in
+          touch with us. The speakers retain the copyright for their
+          performances.
+
+          mail@creatorsgarten.org
+
+
+          To edit the video metadata (title, description, timestamps, thumbnail,
+          etc.), please visit:
+
+          https://grtn.org/e/creativecodingmeetup/v/sdf/edit
   state: {}
 thumbnail:0btQNQkj41s:
   spec:
     videoId: 0btQNQkj41s
     filePath: data/videos/creativecodingmeetup/sonic-thread.jpg
-    hash: 9f605d0135639977ec5f05a1bfc13dbe269af37dcd40a57d1cdf3afd2e99834a
+    hash: 1a165953c3b9a908757d58574f3e32b4074c1365508d553a9624e76efd6399e8
   state: {}
 thumbnail:J4bILD7KCWk:
   spec:
     videoId: J4bILD7KCWk
     filePath: data/videos/creativecodingmeetup/ai.jpg
-    hash: 2348d595d27c54572527955de7b00d005072d4a9d679f45b280032ca8d16ffb5
+    hash: 23de6654ecbedacf988890007b18c15f32daa9d2f48acb5971f1ee6764386ac7
   state: {}
 video:0btQNQkj41s:
   spec:
@@ -3603,6 +3825,11 @@ video:0btQNQkj41s:
         ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.)
         ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ
         ขนาดและขอบเขตของงาน
+
+
+        Speaker’s channel
+
+        https://www.youtube.com/@crsrcrsr9902
 
 
 
@@ -3655,6 +3882,16 @@ video:J4bILD7KCWk:
         ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต
 
 
+        Speaker’s website
+
+        https://viz.studio/
+
+
+        Facebook page
+
+        https://www.facebook.com/VIZstudioCompany
+
+
 
         --------------------------------------------
 
@@ -3702,3 +3939,69 @@ video:kXfi4FhzCi8:caption:en:
     isDraft: false
   state:
     id: AUieDabycbNI_SZVRn4LvXMwnd0f94ClHLufjT-g7LjRNpCrIivLEJvc
+thumbnail:kOJr_KzYg_Y:
+  spec:
+    videoId: kOJr_KzYg_Y
+    filePath: data/videos/creativecodingmeetup/live-coding.jpg
+    hash: 008fb3d95b018f6d0c0411d71ebb8365152b3ed39730f82119eaa6f307588660
+  state: {}
+video:kOJr_KzYg_Y:
+  spec:
+    id: kOJr_KzYg_Y
+    snippet:
+      title: Creative coding in live coding context by Wasawat Somno
+      description: >-
+        Literature review of what current tool do people use for live coding
+        music/visual. Will show the example from my previous little project from
+        sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js,
+        Veda(GLSL), and TouchDesigner and explain some little for each program
+        detail + pros/cons.
+
+
+        Speaker’s website
+
+        https://www.wsdigital.dev/
+
+
+        GitHub
+
+        https://github.com/dodadoa
+
+
+
+        --------------------------------------------
+
+        Event: Creative Coding Meetup
+
+        https://grtn.org/e/creativecodingmeetup
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/creativecodingmeetup/v/live-coding/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
