@@ -644,12 +644,12 @@
       "event": "creativecodingmeetup",
       "slug": "live-coding",
       "data": {
-        "title": "Creative coding in live coding context",
+        "title": "Creative coding in live coding context (+ live coding session)",
         "speaker": "Wasawat Somno",
         "type": "talk",
         "youtube": "kOJr_KzYg_Y",
         "managed": true,
-        "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n",
+        "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n\n00:00 | Intro\n00:50 | Examples\n02:28 | History\n04:40 | Node editor vs Text editor\n05:50 | Sound\n06:30 | Pure Data\n07:45 | SuperCollider\n09:30 | Tidal Cycles\n11:40 | Tidal Cycles - Demo\n14:24 | Orca\n15:12 | Sound - Summary\n16:10 | Visual\n17:25 | Visual - Common Infrastructure\n17:44 | GLSL\n19:32 | Hydra\n21:42 | p5.js\n22:14 | Hydra - Demo\n23:11 | TouchDesigner\n24:39 | TouchDesigner - Demo\n25:39 | Visual - Summary\n26:08 | Audio-Reactive Visul\n26:45 | Inter-Operability\n28:28 | Conclusions\n29:45 | Post-event Live Coding Session\n",
         "published": false
       },
       "content": "",
@@ -705,7 +705,7 @@
         "type": "talk",
         "youtube": "0btQNQkj41s",
         "managed": true,
-        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n",
+        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n\n00:00 | Introduction\n01:20 | Modular Synthesizer\n04:25 | Pure Data\n05:47 | Audio programming 101\n06:59 | Addition\n07:33 | Pure Data functions\n08:35 | The instrument for today\n09:49 | I/O\n10:24 | Demo - Transient to Kinetic\n11:56 | Demo - Violator\n12:53 | Demo - Solo flute with electronics\n15:15 | Pure Data flavors\n16:47 | Max/MSP\n17:17 | ZIG SIM\n18:44 | Live demo\n20:45 | Dissecting the patch\n24:38 | Creating a patch from scratch\n25:30 | Sequencer\n26:54 | Incrementing number\n28:06 | Adding a kick drum\n29:44 | Randomization\n30:50 | Synth\n33:00 | Signal modulation\n34:29 | Creating GUI\n35:35 | Frequency modulation\n36:42 | Conclusions\n",
         "published": false
       },
       "content": "",
