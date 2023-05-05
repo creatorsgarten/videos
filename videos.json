@@ -617,7 +617,7 @@
         "type": "talk",
         "youtube": "J4bILD7KCWk",
         "managed": true,
-        "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n",
+        "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n",
         "published": false
       },
       "content": "",
@@ -639,6 +639,22 @@
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/interactive-art.md",
       "imageFilePath": "data/videos/creativecodingmeetup/interactive-art.jpg"
+    },
+    {
+      "event": "creativecodingmeetup",
+      "slug": "live-coding",
+      "data": {
+        "title": "Creative coding in live coding context",
+        "speaker": "Wasawat Somno",
+        "type": "talk",
+        "youtube": "kOJr_KzYg_Y",
+        "managed": true,
+        "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/creativecodingmeetup/live-coding.md",
+      "imageFilePath": "data/videos/creativecodingmeetup/live-coding.jpg"
     },
     {
       "event": "creativecodingmeetup",
@@ -664,12 +680,16 @@
       "event": "creativecodingmeetup",
       "slug": "sdf",
       "data": {
-        "title": "The power of signed distance functions",
+        "title": "The power of signed distance functions (SDF)",
+        "youtubeTitle": {
+          "en": "The power of signed distance functions (SDF) by Thai Pangsakulyanont",
+          "th": "วาดรูปด้วยโค้ดสั้นๆ กับคอนเซปต์ Signed distance functions (SDF) - Thai Pangsakulyanont"
+        },
         "speaker": "Thai Pangsakulyanont",
         "type": "talk",
         "youtube": "qzbyQAnqWYk",
         "managed": true,
-        "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\n00:00 | Intro\n01:06 | What is GLSL fragment shader?\n01:51 | What is Signed Distance Function?\n03:03 | How to write an SDF?\n04:26 | Using the SDF\n04:57 | Composing SDFs\n06:37 | Let’s draw!\n07:19 | Transforming the space\n08:12 | Code compression\n08:28 | Beyond 2D: 3d ray-marching\n08:47 | Learning resources\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
+        "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\n00:00 | Intro\n01:06 | What is GLSL fragment shader?\n01:51 | What is Signed Distance Function?\n03:03 | How to write an SDF?\n04:26 | Using the SDF\n04:57 | Composing SDFs\n06:37 | Let’s draw!\n07:19 | Transforming the space\n08:12 | Code compression\n08:28 | Beyond 2D: 3d ray-marching\n08:47 | Learning resources\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
         "published": false
       },
       "content": "",
@@ -685,7 +705,7 @@
         "type": "talk",
         "youtube": "0btQNQkj41s",
         "managed": true,
-        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n",
+        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n",
         "published": false
       },
       "content": "",
@@ -701,7 +721,7 @@
         "type": "talk",
         "youtube": "eNoHorGFVIc",
         "managed": true,
-        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n",
+        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n",
         "published": false
       },
       "content": "",
@@ -717,7 +737,7 @@
         "type": "talk",
         "youtube": "7qelbJphNyI",
         "managed": true,
-        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n",
+        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n",
         "published": false
       },
       "content": "",
