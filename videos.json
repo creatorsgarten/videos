@@ -649,7 +649,7 @@
         "type": "talk",
         "youtube": "kXfi4FhzCi8",
         "managed": true,
-        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n",
+        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\n00:00 | Introduction\n00:34 | Talk starts\n01:16 | music\n02:31 | properties of sound wave\n04:44 | time period\n06:34 | “anu”\n07:46 | development\n13:23 | Tech stack\n14:00 | Application architecture\n15:12 | Regex implementation\n17:44 | External connection\n18:57 | Clock scheduling\n22:57 | Latest iteration\n23:58 | Demo\n",
         "published": false
       },
       "content": "",
