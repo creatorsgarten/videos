@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+
+base = ARGV[0]
+files = Dir["#{base}/*.png"]
+
+files.each do |f|
+  tga = f.sub(/\.png/, '.tga')
+  jpeg = f.sub(/\.png/, '.jpg')
+  next if f == jpeg
+  next if File.exist?(jpeg) && File.size(jpeg) < 128 * 1024 && File.size(jpeg) > 0
+  system "rm", "-f", jpeg
+  p f
+
+  # Convert png to bmp first
+  system "convert", f, "-compress", "none", tga
+
+  # Use cjpeg to convert bmp to jpeg. Try quality values from 100 downto 60
+  # and keep the first one that produces a file smaller than 128KB.
+  100.downto(60).each do |q|
+    system "/opt/homebrew/opt/mozjpeg/bin/cjpeg", "-quality", q.to_s, "-outfile", jpeg, tga
+    puts "  #{File.size(jpeg)} (quality #{q})"
+    if File.exist?(jpeg) && File.size(jpeg) < 128 * 1024 && File.size(jpeg) > 0
+      system "rm", "-f", tga
+      break
+    end
+  end
+end
