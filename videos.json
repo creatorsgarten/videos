@@ -690,11 +690,15 @@
         "youtube": "qzbyQAnqWYk",
         "managed": true,
         "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\n00:00 | Intro\n01:06 | What is GLSL fragment shader?\n01:51 | What is Signed Distance Function?\n03:03 | How to write an SDF?\n04:26 | Using the SDF\n04:57 | Composing SDFs\n06:37 | Let’s draw!\n07:19 | Transforming the space\n08:12 | Code compression\n08:28 | Beyond 2D: 3d ray-marching\n08:47 | Learning resources\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
-        "published": false
+        "published": false,
+        "subtitles": [
+          "en"
+        ]
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sdf.md",
-      "imageFilePath": "data/videos/creativecodingmeetup/sdf.jpg"
+      "imageFilePath": "data/videos/creativecodingmeetup/sdf.jpg",
+      "englishSubtitlePath": "data/videos/creativecodingmeetup/sdf_en.vtt"
     },
     {
       "event": "creativecodingmeetup",
