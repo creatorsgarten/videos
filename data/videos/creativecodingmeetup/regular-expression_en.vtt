@@ -1,1574 +1,1554 @@
 WEBVTT
 
 1
-00:00:05.171 --> 00:00:16.000
-The next session is "Regular Expression as an Irregular Musical Expression".
-
-2
-00:00:16.000 --> 00:00:18.000
-Please give him a round of applause.
-
-3
-00:00:22.000 --> 00:00:28.000
-If you can't hear the sound, you can listen to it on live.
-
-4
-00:00:30.000 --> 00:00:32.000
-Facebook Live.
-
-5
-00:00:32.000 --> 00:00:34.000
-Okay, please go ahead.
-
-6
-00:00:34.000 --> 00:00:36.000
+00:00:00.670 --> 00:00:02.670
 Hello, I'm Jim.
 
-7
-00:00:36.000 --> 00:00:40.000
+2
+00:00:02.670 --> 00:00:06.670
 My profile is not very interesting, so I'll skip it.
 
-8
-00:00:40.000 --> 00:00:48.000
+3
+00:00:06.670 --> 00:00:14.670
 The topic of the session is "Regular Expression as an Irregular Musical Expression".
 
-9
-00:00:48.000 --> 00:00:50.000
+4
+00:00:14.670 --> 00:00:16.670
 If I translate it, it will be confusing.
 
-10
-00:00:50.000 --> 00:00:52.000
+5
+00:00:16.670 --> 00:00:18.670
 so, I won't translate it.
 
-11
-00:00:52.000 --> 00:00:54.000
+6
+00:00:18.670 --> 00:00:20.670
 But you will understand what it is, eventually.
 
-12
-00:00:54.000 --> 00:00:58.000
+7
+00:00:20.670 --> 00:00:24.670
 My background is a graphic designer.
 
-13
-00:00:58.000 --> 00:01:04.000
+8
+00:00:24.670 --> 00:00:30.670
 I'm also an amateur electronic musician.
 
-14
-00:01:04.000 --> 00:01:08.000
+9
+00:00:30.670 --> 00:00:34.670
 I'm interested in writing codes.
 
-15
-00:01:08.000 --> 00:01:10.000
+10
+00:00:34.670 --> 00:00:36.670
 I just wrote a code a few years ago.
 
-16
-00:01:10.000 --> 00:01:14.000
+11
+00:00:36.670 --> 00:00:40.670
 so I'm quiet a relatively newbie in this field.
 
-17
-00:01:14.000 --> 00:01:18.000
+12
+00:00:40.670 --> 00:00:44.670
 Let's start with the word "music".
 
-18
-00:01:18.000 --> 00:01:24.000
+13
+00:00:44.670 --> 00:00:50.670
 since, It weaved the world of "graphic design" and "codes" together, personally.
 
-19
-00:01:28.000 --> 00:01:30.000
+14
+00:00:54.670 --> 00:00:56.670
 What is music?
 
-20
-00:01:30.000 --> 00:01:44.000
-According to Edgard Varèse, he is a french composer also known as the "Father of Electronic Music".
+15
+00:00:56.670 --> 00:01:10.670
+According to Edgard VarĂ¨se, he is a french composer also known as the "Father of Electronic Music".
 
-21
-00:01:44.000 --> 00:01:48.000
+16
+00:01:10.670 --> 00:01:14.670
 "Music is a sound that is organized".
 
-22
-00:01:48.000 --> 00:01:50.000
+17
+00:01:14.670 --> 00:01:16.670
 however,
 
-23
-00:01:50.000 --> 00:01:56.000
+18
+00:01:16.670 --> 00:01:22.670
 some might not fully agreed with that definition, it's debatable.
 
-24
-00:01:56.000 --> 00:01:58.000
-but I'll use his term for a starting point
+19
+00:01:22.670 --> 00:01:24.670
+but I'll use his term as a starting point
 
-25
-00:01:58.000 --> 00:02:00.000
+20
+00:01:24.670 --> 00:01:26.670
 so, what is a fundamental of "organized sound" then?
 
-26
-00:02:00.000 --> 00:02:08.000
+21
+00:01:26.670 --> 00:01:34.670
 fundamentally, "Sound wave" is the basis of any sound.
 
-27
-00:02:08.000 --> 00:02:14.000
+22
+00:01:34.670 --> 00:01:40.670
 Sound is the vibration of the object through the medium.
 
-28
-00:02:14.000 --> 00:02:18.514
+23
+00:01:40.670 --> 00:01:45.184
 for example, When I hit the table
 
-29
-00:02:18.515 --> 00:02:24.999
+24
+00:01:45.185 --> 00:01:51.669
 the object will vibrate and the molecule in the air will be pushed into the ear of the audience.
 
-30
-00:02:25.000 --> 00:02:28.000
+25
+00:01:51.670 --> 00:01:54.670
 so the air act as a medium
 
-31
-00:02:28.000 --> 00:02:30.942
+26
+00:01:54.670 --> 00:01:57.612
 and you can hear the sound
 
-32
-00:02:30.943 --> 00:02:36.000
+27
+00:01:57.613 --> 00:02:02.670
 let's look at the properties of sound wave.
 
-33
-00:02:36.000 --> 00:02:38.000
+28
+00:02:02.670 --> 00:02:04.670
 What is it?
 
-34
-00:02:38.000 --> 00:02:42.000
+29
+00:02:04.670 --> 00:02:08.670
 the first thing is wavelength.
 
-35
-00:02:42.000 --> 00:02:46.000
+30
+00:02:08.670 --> 00:02:12.670
 the moment before the wave is repeated itself.
 
-36
-00:02:46.000 --> 00:02:50.000
+31
+00:02:12.670 --> 00:02:16.670
 The next one is amplitude.
 
-37
-00:02:50.000 --> 00:02:58.000
+32
+00:02:16.670 --> 00:02:24.670
 Ampitude is the rate of displacement.
 
-38
-00:02:58.000 --> 00:03:02.000
+33
+00:02:24.670 --> 00:02:28.670
 normally, we perceive it as a "loudness"
 
-39
-00:03:02.000 --> 00:03:04.000
+34
+00:02:28.670 --> 00:02:30.670
 the other one is the frequency.
 
-40
-00:03:04.000 --> 00:03:10.000
+35
+00:02:30.670 --> 00:02:36.670
 Frequency is the number of repetitions of the wavelength in one second.
 
-41
-00:03:10.000 --> 00:03:16.000
+36
+00:02:36.670 --> 00:02:42.670
 for example, note A is 440 Hz.
 
-42
-00:03:16.000 --> 00:03:22.000
+37
+00:02:42.670 --> 00:02:48.670
 It will vibrate 44,000 times per second.
 
-43
-00:03:22.000 --> 00:03:23.914
+38
+00:02:48.670 --> 00:02:50.584
 human will perceive it as a note A
 
-44
-00:03:23.915 --> 00:03:28.343
+39
+00:02:50.585 --> 00:02:55.013
 the next is time-period, similar to wavelength
 
-45
-00:03:28.344 --> 00:03:30.414
+40
+00:02:55.014 --> 00:02:57.084
 the difference is wavelength more about a "space"
 
-46
-00:03:30.415 --> 00:03:31.971
+41
+00:02:57.085 --> 00:02:58.641
 but time-period is about "time"
 
-47
-00:03:31.972 --> 00:03:34.585
+42
+00:02:58.642 --> 00:03:01.255
 (before it's repeating itself)
 
-48
-00:03:34.586 --> 00:03:39.156
+43
+00:03:01.256 --> 00:03:05.826
 "velocity" is the speed at which the sound travels.
 
-49
-00:03:39.157 --> 00:03:43.086
+44
+00:03:05.827 --> 00:03:09.756
 so, the sound that happen in the water.
 
-50
-00:03:43.087 --> 00:03:45.457
+45
+00:03:09.757 --> 00:03:12.127
 the velocity will be different
 
-51
-00:03:45.458 --> 00:03:47.999
+46
+00:03:12.128 --> 00:03:14.669
 from the sound travel through the air.
 
-52
-00:03:48.000 --> 00:03:54.000
+47
+00:03:14.670 --> 00:03:20.670
 The next video will be an inspiration for the software I wrote.
 
-53
-00:03:54.000 --> 00:04:00.000
+48
+00:03:20.670 --> 00:03:26.670
 I will pull out one of the properties.
 
-54
-00:04:00.000 --> 00:04:02.000
+49
+00:03:26.670 --> 00:03:28.670
 In the video, despite there is no sound at all.
 
-55
-00:04:02.000 --> 00:04:04.400
+50
+00:03:28.670 --> 00:03:31.070
 but it can be reminisced
 
-56
-00:04:04.401 --> 00:04:06.956
+51
+00:03:31.071 --> 00:03:33.626
 to one of the element I've just talked about
 
-57
-00:04:06.957 --> 00:04:12.000
+52
+00:03:33.627 --> 00:03:38.670
 I want everyone try to think, what is that property?.
 
-58
-00:04:15.429 --> 00:04:17.971
+53
+00:03:42.099 --> 00:03:44.641
 This is a real event.
 
-59
-00:04:17.972 --> 00:04:19.743
+54
+00:03:44.642 --> 00:03:46.413
 I means, inspired by real event
 
-60
-00:04:19.744 --> 00:04:26.000
+55
+00:03:46.414 --> 00:03:52.670
 When I search for information on the internet, I clicked and clicked.
 
-61
-00:04:26.000 --> 00:04:30.343
+56
+00:03:52.670 --> 00:03:57.013
 What is related to the properties of sound wave is
 
-62
-00:04:30.344 --> 00:04:31.999
+57
+00:03:57.014 --> 00:03:58.669
 "time period"
 
-63
-00:04:32.000 --> 00:04:36.000
+58
+00:03:58.670 --> 00:04:02.670
 the time before it repeats itself.
 
-64
-00:04:36.000 --> 00:04:40.000
+59
+00:04:02.670 --> 00:04:06.670
 If you go back to see it, there will be a starting point.
 
-65
-00:04:40.000 --> 00:04:44.000
+60
+00:04:06.670 --> 00:04:10.670
 Stop and rewind.
 
-66
-00:04:44.000 --> 00:04:48.000
+61
+00:04:10.670 --> 00:04:14.670
 Let's look at the word "time period".
 
-67
-00:04:48.000 --> 00:04:52.000
+62
+00:04:14.670 --> 00:04:18.670
 When it repeats itself, it is called periodic event.
 
-68
-00:04:52.000 --> 00:04:56.000
+63
+00:04:18.670 --> 00:04:22.670
 It is an event that repeats itself.
 
-69
-00:04:56.000 --> 00:05:06.000
+64
+00:04:22.670 --> 00:04:32.670
 The event is one of the methods that musicians use.
 
-70
-00:05:06.000 --> 00:05:08.000
+65
+00:04:32.670 --> 00:04:34.670
 I will give an example.
 
-71
-00:05:08.000 --> 00:05:10.000
+66
+00:04:34.670 --> 00:04:36.670
 Does anyone have no idea what a fizzbuzz is?
 
-72
-00:05:10.000 --> 00:05:12.000
+67
+00:04:36.670 --> 00:04:38.670
 Everyone probably knows.
 
-73
-00:05:12.000 --> 00:05:16.000
+68
+00:04:38.670 --> 00:04:42.670
 Fizzbuzz is a game, sort of.
 
-74
-00:05:16.000 --> 00:05:22.000
+69
+00:04:42.670 --> 00:04:48.670
 It is a game that teaches children how to do division.
 
-75
-00:05:22.000 --> 00:05:26.000
+70
+00:04:48.670 --> 00:04:52.670
 If it is divided by three and remains is zero, it is called "fizz"
 
-76
-00:05:26.000 --> 00:05:28.000
+71
+00:04:52.670 --> 00:04:54.670
 if it is divided by five and remains is zero, it is called  "buzz"
 
-77
-00:05:28.000 --> 00:05:32.000
+72
+00:04:54.670 --> 00:04:58.670
 if it is divided by both three and five, it is called "fizzbuzz"
 
-78
-00:05:42.000 --> 00:05:44.000
+73
+00:05:08.670 --> 00:05:10.670
 you'll notice, I didn't do anything in the first event.
 
-79
-00:05:44.000 --> 00:05:46.000
+74
+00:05:10.670 --> 00:05:12.670
 also the second event I didn't make any sound.
 
-80
-00:05:46.000 --> 00:05:48.871
+75
+00:05:12.670 --> 00:05:15.541
 The third event I spoke "fizz"
 
-81
-00:05:48.872 --> 00:05:49.999
+76
+00:05:15.542 --> 00:05:16.669
 and so on..
 
-82
-00:05:50.000 --> 00:05:54.000
+77
+00:05:16.670 --> 00:05:20.670
 What happens is an "interval (of time)".
 
-83
-00:05:54.000 --> 00:06:00.000
+78
+00:05:20.670 --> 00:05:26.670
 Interval is the time period between one stage and another stage.
 
-84
-00:06:00.000 --> 00:06:08.000
+79
+00:05:26.670 --> 00:05:34.670
 One of the main element of music is rhythm.
 
-85
-00:06:08.000 --> 00:06:12.000
+80
+00:05:34.670 --> 00:05:38.670
 in this sense, rhythm is nothing more than just a management of interval (of time).
 
-86
-00:06:12.000 --> 00:06:16.000
+81
+00:05:38.670 --> 00:05:42.670
 This is a hardware model.
 
-87
-00:06:16.000 --> 00:06:20.000
+82
+00:05:42.670 --> 00:05:46.670
 This is a software model (step-sequencer).
 
-88
-00:06:20.001 --> 00:06:22.885
+83
+00:05:46.671 --> 00:05:49.555
 Everyone might be familiar with
 
-89
-00:06:22.886 --> 00:06:28.000
+84
+00:05:49.556 --> 00:05:54.670
 if you have played GarageBand, you will notice the timeline.
 
-90
-00:06:28.000 --> 00:06:30.428
+85
+00:05:54.670 --> 00:05:57.098
 ultimately says, timeline is just
 
-91
-00:06:30.429 --> 00:06:34.000
+86
+00:05:57.099 --> 00:06:00.670
 an event management (interval of time).
 
-92
-00:06:34.000 --> 00:06:40.000
+87
+00:06:00.670 --> 00:06:06.670
 This is the software that I wrote.
 
-93
-00:06:40.000 --> 00:06:44.000
+88
+00:06:06.670 --> 00:06:10.670
 "anu" is a Thai prefix that is used with other words.
 
-94
-00:06:44.000 --> 00:06:48.000
+89
+00:06:10.670 --> 00:06:14.670
 "anu" means "small", "tiny", "sub"
 
-95
-00:06:48.000 --> 00:06:52.000
+90
+00:06:14.670 --> 00:06:18.670
 eg. "anupak"(molecule), "anukun"(support), "anukrom"(series).
 
-96
-00:06:52.000 --> 00:06:58.000
+91
+00:06:18.670 --> 00:06:24.670
 metaphor to the software that can prefix with others.
 
-97
-00:07:00.529 --> 00:07:03.157
+92
+00:06:27.199 --> 00:06:29.827
 objectives
 
-98
-00:07:03.158 --> 00:07:05.200
+93
+00:06:29.828 --> 00:06:31.870
 I want it to be just a "frontend"
 
-99
-00:07:05.201 --> 00:07:08.000
+94
+00:06:31.871 --> 00:06:34.670
 for any "backend" that can understand
 
-100
-00:07:08.000 --> 00:07:09.471
+95
+00:06:34.670 --> 00:06:36.141
 the supported protocols
 
-101
-00:07:09.472 --> 00:07:14.000
+96
+00:06:36.142 --> 00:06:40.670
 currently, it supports OSC, Open Sound Control and MIDI.
 
-102
-00:07:14.000 --> 00:07:16.000
+97
+00:06:40.670 --> 00:06:42.670
 The second one is the deterministic / stochastic processes.
 
-103
-00:07:16.000 --> 00:07:18.000
+98
+00:06:42.670 --> 00:06:44.670
 basically, a semi-random semi-deterministic
 
-104
-00:07:18.000 --> 00:07:20.000
+99
+00:06:44.670 --> 00:06:46.670
 I will explain it later.
 
-105
-00:07:20.000 --> 00:07:22.000
+100
+00:06:46.670 --> 00:06:48.670
 The third one is "(live) performance-oriented"
 
-106
-00:07:22.000 --> 00:07:24.000
+101
+00:06:48.670 --> 00:06:50.670
 initially, I wrote this for live performance
 
-107
-00:07:24.000 --> 00:07:26.000
+102
+00:06:50.670 --> 00:06:52.670
 but eventually it never been performed anywhere
 
-108
-00:07:26.000 --> 00:07:28.000
+103
+00:06:52.670 --> 00:06:54.670
 so
 
-109
-00:07:28.000 --> 00:07:30.000
+104
+00:06:54.670 --> 00:06:56.670
 next one is "low dependencies"
 
-110
-00:07:30.000 --> 00:07:32.000
+105
+00:06:56.670 --> 00:06:58.670
 means it should depends other library as less as possible
 
-111
-00:07:32.000 --> 00:07:33.800
+106
+00:06:58.670 --> 00:07:00.470
 since I don't want to keep updating dependencies
 
-112
-00:07:33.801 --> 00:07:35.999
+107
+00:07:00.471 --> 00:07:02.669
 or some "breaking change"
 
-113
-00:07:36.000 --> 00:07:38.000
+108
+00:07:02.670 --> 00:07:04.670
 also it is easier to see how it is broken.
 
-114
-00:07:38.000 --> 00:07:40.000
+109
+00:07:04.670 --> 00:07:06.670
 so it's easier for maintenace
 
-115
-00:07:40.000 --> 00:07:42.000
+110
+00:07:06.670 --> 00:07:08.670
 the last one, since I am from
 
-116
-00:07:42.000 --> 00:07:44.000
+111
+00:07:08.670 --> 00:07:10.670
 a "graphic design" background.
 
-117
-00:07:44.000 --> 00:07:46.000
+112
+00:07:10.670 --> 00:07:12.670
 It must have a connection to its vision.
 
-118
-00:07:46.000 --> 00:07:50.000
+113
+00:07:12.670 --> 00:07:16.670
 Let's see how to develop the application that I wrote.
 
-119
-00:07:50.000 --> 00:07:54.000
+114
+00:07:16.670 --> 00:07:20.670
 Let's look at the overall image first.
 
-120
-00:07:54.000 --> 00:08:00.000
+115
+00:07:20.670 --> 00:07:26.670
 This is the software that I wrote using JavaScript only.
 
-121
-00:08:00.000 --> 00:08:04.000
+116
+00:07:26.670 --> 00:07:30.670
 I did not use any framework, React, Svelte or anything.
 
-122
-00:08:04.000 --> 00:08:10.000
+117
+00:07:30.670 --> 00:07:36.670
 When you click search, it will match the index.
 
-123
-00:08:10.000 --> 00:08:14.000
+118
+00:07:36.670 --> 00:07:40.670
 It will add a class "current".
 
-124
-00:08:14.000 --> 00:08:16.000
+119
+00:07:40.670 --> 00:07:42.670
 It will be actived
 
-125
-00:08:16.000 --> 00:08:22.000
+120
+00:07:42.670 --> 00:07:48.670
 this does not work at all, because it manipulates the DOM directly.
 
-126
-00:08:22.000 --> 00:08:28.000
+121
+00:07:48.670 --> 00:07:54.670
 By manipulating the DOM(document object model) directly
 
-127
-00:08:28.000 --> 00:08:30.000
+122
+00:07:54.670 --> 00:07:56.670
 it will cause a lot of performace problems.
 
-128
-00:08:30.000 --> 00:08:32.000
+123
+00:07:56.670 --> 00:07:58.670
 (for step-sequencer application)
 
-129
-00:08:32.000 --> 00:08:36.000
+124
+00:07:58.670 --> 00:08:02.670
 I will explain further.
 
-130
-00:08:36.000 --> 00:08:40.000
+125
+00:08:02.670 --> 00:08:06.670
 This is the amended version by sending a msg to trigger a sound.
 
-131
-00:09:10.000 --> 00:09:14.000
+126
+00:08:36.670 --> 00:08:40.670
 I use SuperCollider as a backend
 
-132
-00:09:14.000 --> 00:09:18.000
+127
+00:08:40.670 --> 00:08:44.670
 sending out an OSC(open sound control)
 
-133
-00:09:18.000 --> 00:09:26.000
+128
+00:08:44.670 --> 00:08:52.670
 since, I cannot compose other part while clicking
 
-134
-00:09:26.000 --> 00:09:30.000
+129
+00:08:52.670 --> 00:08:56.670
 so a "step" was introduced
 
-135
-00:09:30.000 --> 00:09:34.000
+130
+00:08:56.670 --> 00:09:00.670
 it will be the result of the next video.
 
-136
-00:09:34.000 --> 00:09:40.443
+131
+00:09:00.670 --> 00:09:07.113
 oh ok, It will checked-out one of the objective of the project.
 
-137
-00:09:40.444 --> 00:09:44.199
+132
+00:09:07.114 --> 00:09:10.869
 It is a "visualize syntactic connectedness"
 
-138
-00:09:44.200 --> 00:09:50.000
+133
+00:09:10.870 --> 00:09:16.670
 the audience will get a clue what's going on
 
-139
-00:09:52.886 --> 00:09:58.171
+134
+00:09:19.556 --> 00:09:24.841
 this is the amended version
 
-140
-00:10:11.300 --> 00:10:14.770
+135
+00:09:37.970 --> 00:09:41.440
 the problem is that it cannot compose
 
-141
-00:10:14.771 --> 00:10:20.042
+136
+00:09:41.441 --> 00:09:46.712
 a complex pattern when I use normal searching
 
-142
-00:10:20.043 --> 00:10:20.900
+137
+00:09:46.713 --> 00:09:47.570
 so,
 
-143
-00:10:20.901 --> 00:10:24.143
+138
+00:09:47.571 --> 00:09:50.813
 I added the function of the regular expression.
 
-144
-00:10:24.144 --> 00:10:26.586
+139
+00:09:50.814 --> 00:09:53.256
 for anyone who don't know about Regular Expression
 
-145
-00:10:26.587 --> 00:10:29.999
+140
+00:09:53.257 --> 00:09:56.669
 basically, it is just an another method of searching
 
-146
-00:10:30.000 --> 00:10:33.000
+141
+00:09:56.670 --> 00:09:59.670
 so you can define a complex pattern for searching
 
-147
-00:10:33.001 --> 00:10:38.000
+142
+00:09:59.671 --> 00:10:04.670
 eg. I can validate if the text message is an email or not.
 
-148
-00:10:38.000 --> 00:10:40.214
+143
+00:10:04.670 --> 00:10:06.884
 I can search if the text message is an email or not.
 
-149
-00:10:40.215 --> 00:10:41.999
+144
+00:10:06.885 --> 00:10:08.669
 phone number or not, etc.
 
-150
-00:10:42.000 --> 00:10:46.000
+145
+00:10:08.670 --> 00:10:12.670
 for example
 
-151
-00:10:46.000 --> 00:10:53.842
+146
+00:10:12.670 --> 00:10:20.512
 the letter "?", will match preceding character('u') 0 time or 1 time
 
-152
-00:10:53.843 --> 00:10:55.086
+147
+00:10:20.513 --> 00:10:21.756
 the letter "+"
 
-153
-00:10:55.087 --> 00:11:01.071
+148
+00:10:21.757 --> 00:10:27.741
 will match preceding character('r') 1 time or more times
 
-154
-00:11:04.057 --> 00:11:08.114
+149
+00:10:30.727 --> 00:10:34.784
 This is an implementation of a RegEx(Regular Expression).
 
-155
-00:11:08.115 --> 00:11:11.414
+150
+00:10:34.785 --> 00:10:38.084
 so we can creating more complex patterns
 
-156
-00:11:21.871 --> 00:11:22.842
+151
+00:10:48.541 --> 00:10:49.512
 ok so,
 
-157
-00:11:22.843 --> 00:11:28.000
+152
+00:10:49.513 --> 00:10:54.670
 What is deterministic and stochastic?
 
-158
-00:11:28.000 --> 00:11:32.557
+153
+00:10:54.670 --> 00:10:59.227
 Stochastic is used in Iannis Xenakis's meaning
 
-159
-00:11:32.558 --> 00:11:34.414
+154
+00:10:59.228 --> 00:11:01.084
 Xenakis is a Greece composer
 
-160
-00:11:34.415 --> 00:11:36.999
+155
+00:11:01.085 --> 00:11:03.669
 he was nearly in the same period with John Cage
 
-161
-00:11:37.000 --> 00:11:40.043
+156
+00:11:03.670 --> 00:11:06.713
 but Xenakis is known to be an "Avant-garde" composer
 
-162
-00:11:40.044 --> 00:11:42.571
+157
+00:11:06.714 --> 00:11:09.241
 while John Cage is experimental composer
 
-163
-00:11:42.572 --> 00:11:46.100
+158
+00:11:09.242 --> 00:11:12.770
 there are similarities, but different in details.
 
-164
-00:11:46.101 --> 00:11:48.129
+159
+00:11:12.771 --> 00:11:14.799
 Avant-garde, adopts an extreme position within a certain tradition
 
-165
-00:11:48.130 --> 00:11:49.629
+160
+00:11:14.800 --> 00:11:16.299
 eg. controlling some element
 
-166
-00:11:49.666 --> 00:11:50.713
+161
+00:11:16.336 --> 00:11:17.383
 by creating system that let it determine itself
 
-167
-00:11:50.714 --> 00:11:53.999
+162
+00:11:17.384 --> 00:11:20.669
 that allow the system to create the flow.
 
-168
-00:11:54.000 --> 00:12:00.000
+163
+00:11:20.670 --> 00:11:26.670
 For example, Xenakis's work "Achorripsis" (1956)
 
-169
-00:12:00.000 --> 00:12:02.600
+164
+00:11:26.670 --> 00:11:29.270
 he used the algorithm
 
-170
-00:12:02.601 --> 00:12:05.999
+165
+00:11:29.271 --> 00:11:32.669
 well, not really, its a formula called "Poisson distribution".
 
-171
-00:12:06.000 --> 00:12:12.000
+166
+00:11:32.670 --> 00:11:38.670
 It's the distribution of events that occur randomly
 
-172
-00:12:12.000 --> 00:12:15.000
+167
+00:11:38.670 --> 00:11:41.670
 to make a score(notation)
 
-173
-00:12:15.000 --> 00:12:19.000
+168
+00:11:41.670 --> 00:11:45.670
 so I use the word "stochastic" in this meaning.
 
-174
-00:12:19.001 --> 00:12:19.899
+169
+00:11:45.671 --> 00:11:46.569
 what I means is,
 
-175
-00:12:19.900 --> 00:12:23.000
+170
+00:11:46.570 --> 00:11:49.670
 Even though you know what's going to happen
 
-176
-00:12:23.000 --> 00:12:26.000
+171
+00:11:49.670 --> 00:11:52.670
 with these RegEx pattern, but in the context of music,
 
-177
-00:12:26.000 --> 00:12:32.000
+172
+00:11:52.670 --> 00:11:58.670
 you can't say that music matches what you want.
 
-178
-00:12:32.000 --> 00:12:37.000
+173
+00:11:58.670 --> 00:12:03.670
 There will be a half-random and half-deterministic
 
-179
-00:12:41.000 --> 00:12:43.000
+174
+00:12:07.670 --> 00:12:09.670
 let's try implementing it with the hardware.
 
-180
-00:12:54.157 --> 00:12:56.514
+175
+00:12:20.827 --> 00:12:23.184
 This is a modular synthesizer.
 
-181
-00:12:56.515 --> 00:13:00.499
+176
+00:12:23.185 --> 00:12:27.169
 The message is CV control voltage.
 
-182
-00:13:00.500 --> 00:13:02.042
+177
+00:12:27.170 --> 00:12:28.712
 It's the hardware language.
 
-183
-00:13:04.614 --> 00:13:07.300
+178
+00:12:31.284 --> 00:12:33.970
 this will checked-out the objectives's "back-end agnostic"
 
-184
-00:13:07.301 --> 00:13:08.500
+179
+00:12:33.971 --> 00:12:35.170
 with hardware
 
-185
-00:13:09.543 --> 00:13:12.371
+180
+00:12:36.213 --> 00:12:39.041
 this is integrating with another software
 
-186
-00:13:12.372 --> 00:13:15.114
+181
+00:12:39.042 --> 00:12:41.784
 called Pilot.
 
-187
-00:13:18.000 --> 00:13:20.999
+182
+00:12:44.670 --> 00:12:47.669
 Now we have achieved 3 objectives.
 
-188
-00:13:21.000 --> 00:13:23.329
+183
+00:12:47.670 --> 00:12:49.999
 only 2 left
 
-189
-00:13:23.529 --> 00:13:25.056
+184
+00:12:50.199 --> 00:12:51.726
 let's talk about "Tech Stack"
 
-190
-00:13:25.057 --> 00:13:27.000
+185
+00:12:51.727 --> 00:12:53.670
 who uses Electron?
 
-191
-00:13:29.972 --> 00:13:32.013
+186
+00:12:56.642 --> 00:12:58.683
 "anu" was written in 2019.
 
-192
-00:13:32.014 --> 00:13:34.214
+187
+00:12:58.684 --> 00:13:00.884
 using Electron
 
-193
-00:13:34.215 --> 00:13:36.913
+188
+00:13:00.885 --> 00:13:03.583
 but I changed it to Tauri (in 2023)
 
-194
-00:13:38.571 --> 00:13:41.386
+189
+00:13:05.241 --> 00:13:08.056
 anyone using Rust?
 
-195
-00:13:41.387 --> 00:13:43.286
+190
+00:13:08.057 --> 00:13:09.956
 cool, lol
 
-196
-00:13:44.471 --> 00:13:48.729
+191
+00:13:11.141 --> 00:13:15.399
 The result is the size has been reduced drastically
 
-197
-00:13:48.730 --> 00:13:50.999
+192
+00:13:15.400 --> 00:13:17.669
 from ~120 MB to ~ 9 MB.
 
-198
-00:13:51.000 --> 00:13:54.000
+193
+00:13:17.670 --> 00:13:20.670
 but I have to set up the optimization profile.
 
-199
-00:13:54.000 --> 00:13:57.000
-But to be fair, even if I didn't set it up, 
+194
+00:13:20.670 --> 00:13:23.670
+But to be fair, even if I didn't set it up,
 
-200
-00:13:57.000 --> 00:14:00.000
+195
+00:13:23.670 --> 00:13:26.670
 it will be reduced by 10 times anyway.
 
-201
-00:14:01.329 --> 00:14:03.000
+196
+00:13:27.999 --> 00:13:29.670
 Let's look at the architecture.
 
-202
-00:14:03.543 --> 00:14:08.243
+197
+00:13:30.213 --> 00:13:34.913
 The main part of Tauri is the Rust code.
 
-203
-00:14:08.244 --> 00:14:08.941
+198
+00:13:34.914 --> 00:13:35.611
 for backend
 
-204
-00:14:09.000 --> 00:14:12.000
+199
+00:13:35.670 --> 00:13:38.670
 The frontend is JavaScript.
 
-205
-00:14:12.000 --> 00:14:15.000
+200
+00:13:38.670 --> 00:13:41.670
 I use the backend to store modules that do not have on the frontend.
 
-206
-00:14:15.000 --> 00:14:18.000
+201
+00:13:41.670 --> 00:13:44.670
 I use the backend to store modules that do not have on the frontend.
 
-207
-00:14:18.000 --> 00:14:22.543
+202
+00:13:44.670 --> 00:13:49.213
 Since Tauri does not use Chromium at all.
 
-208
-00:14:22.544 --> 00:14:24.657
+203
+00:13:49.214 --> 00:13:51.327
 that's why the (application)size was very small.
 
-209
-00:14:24.658 --> 00:14:27.314
+204
+00:13:51.328 --> 00:13:53.984
 instead It uses WebView.
 
-210
-00:14:27.414 --> 00:14:32.457
+205
+00:13:54.084 --> 00:13:59.127
 but WebView doesn't have requestMidiAccess method
 
-211
-00:14:32.458 --> 00:14:34.400
+206
+00:13:59.128 --> 00:14:01.070
 so I have to write MIDI module in backend(Rust) instead
 
-212
-00:14:34.401 --> 00:14:37.429
+207
+00:14:01.071 --> 00:14:04.099
 then call the function via `invoke`
 
-213
-00:14:39.000 --> 00:14:42.000
+208
+00:14:05.670 --> 00:14:08.670
 this is the architecture of the frontend.
 
-214
-00:14:42.000 --> 00:14:44.614
+209
+00:14:08.670 --> 00:14:11.284
 If you have ever written Processing or OpenFramework,
 
-215
-00:14:44.615 --> 00:14:47.143
+210
+00:14:11.285 --> 00:14:13.813
 It will use the similar structure
 
-216
-00:14:47.386 --> 00:14:49.314
+211
+00:14:14.056 --> 00:14:15.984
 there will be an `install`(function) that runs once.
 
-217
-00:14:49.315 --> 00:14:51.757
+212
+00:14:15.985 --> 00:14:18.427
 There will be an `init` also runs once.
 
-218
-00:14:51.758 --> 00:14:54.529
+213
+00:14:18.428 --> 00:14:21.199
 and `run`, and `update` that will run as a loop
 
-219
-00:14:57.643 --> 00:15:03.971
+214
+00:14:24.313 --> 00:14:30.641
 There will be no dependency except for the CLI of Tauri.
 
-220
-00:15:05.386 --> 00:15:10.257
+215
+00:14:32.056 --> 00:14:36.927
 I will checked-out  "low dependency / less obscurantism"
 
-221
-00:15:12.000 --> 00:15:15.270
+216
+00:14:38.670 --> 00:14:41.940
 next, let's see how to implement the regular expression.
 
-222
-00:15:15.271 --> 00:15:18.000
+217
+00:14:41.941 --> 00:14:44.670
 In the first version, I used a very straightforward method.
 
-223
-00:15:18.000 --> 00:15:21.000
+218
+00:14:44.670 --> 00:14:47.670
 In the first version, I used a very straightforward method.
 
-224
-00:15:21.000 --> 00:15:24.000
+219
+00:14:47.670 --> 00:14:50.670
 The problem is this.
 
-225
-00:15:24.000 --> 00:15:27.000
+220
+00:14:50.670 --> 00:14:53.670
 This is it.
 
-226
-00:15:27.000 --> 00:15:30.000
+221
+00:14:53.670 --> 00:14:56.670
 If you have implemented the regular expression,
 
-227
-00:15:30.000 --> 00:15:33.000
+222
+00:14:56.670 --> 00:14:59.670
 You will understand that it will cause a case like this case.
 
-228
-00:15:33.000 --> 00:15:36.000
+223
+00:14:59.670 --> 00:15:02.670
 The case called catastrophic backtracking.
 
-229
-00:15:36.000 --> 00:15:38.614
+224
+00:15:02.670 --> 00:15:05.284
 The case called catastrophic backtracking.
 
-230
-00:15:38.615 --> 00:15:42.586
+225
+00:15:05.285 --> 00:15:09.256
 basically, RegEx cannot prevent us to use a pattern
 
-231
-00:15:42.587 --> 00:15:46.429
+226
+00:15:09.257 --> 00:15:13.099
 that will cause a long recursive finding
 
-232
-00:15:46.430 --> 00:15:50.999
+227
+00:15:13.100 --> 00:15:17.669
 weather it can find or cannot, since it will takes a long long time
 
-233
-00:15:51.000 --> 00:15:54.000
+228
+00:15:17.670 --> 00:15:20.670
 it doesn't work with my application at all
 
-234
-00:15:55.029 --> 00:15:57.000
+229
+00:15:21.699 --> 00:15:23.670
 otherwise, it may be stuck (freezed).
 
-235
-00:15:57.000 --> 00:16:00.000
+230
+00:15:23.670 --> 00:15:26.670
 If we send a empty capture group
 
-236
-00:16:00.000 --> 00:16:01.943
+231
+00:15:26.670 --> 00:15:28.613
 if we send a capture group.
 
-237
-00:16:01.944 --> 00:16:03.643
+232
+00:15:28.614 --> 00:15:30.313
 oh, spoiled, sorry
 
-238
-00:16:03.644 --> 00:16:06.000
+233
+00:15:30.314 --> 00:15:32.670
 The question is,
 
-239
-00:16:06.000 --> 00:16:09.000
+234
+00:15:32.670 --> 00:15:35.670
 How will we prevent this case?
 
-240
-00:16:09.000 --> 00:16:12.000
+235
+00:15:35.670 --> 00:15:38.670
 How will we prevent this case?
 
-241
-00:16:12.000 --> 00:16:15.000
+236
+00:15:38.670 --> 00:15:41.670
 my question was
 
-242
-00:16:15.000 --> 00:16:18.000
+237
+00:15:41.670 --> 00:15:44.670
 how will we know whether the program (RegEx solver) will runs forever
 
-243
-00:16:18.000 --> 00:16:21.000
+238
+00:15:44.670 --> 00:15:47.670
 or stop at some point?
 
-244
-00:16:21.186 --> 00:16:23.300
+239
+00:15:47.856 --> 00:15:49.970
 does it sound familiar?
 
-245
-00:16:23.301 --> 00:16:25.514
+240
+00:15:49.971 --> 00:15:52.184
 yes, it is a Halting problem
 
-246
-00:16:26.857 --> 00:16:27.857
+241
+00:15:53.527 --> 00:15:54.527
 classic
 
-247
-00:16:30.000 --> 00:16:31.900
+242
+00:15:56.670 --> 00:15:58.570
 What I did was,
 
-248
-00:16:31.901 --> 00:16:36.000
+243
+00:15:58.571 --> 00:16:02.670
 the first thing I did was sending a message to the worker thread.
 
-249
-00:16:36.000 --> 00:16:38.086
+244
+00:16:02.670 --> 00:16:04.756
 the thread that handle RegEx
 
-250
-00:16:38.087 --> 00:16:39.470
+245
+00:16:04.757 --> 00:16:06.140
 send "onload"
 
-251
-00:16:39.471 --> 00:16:42.000
+246
+00:16:06.141 --> 00:16:08.670
 when worker recieved "onload" msg
 
-252
-00:16:42.000 --> 00:16:45.000
+247
+00:16:08.670 --> 00:16:11.670
 the first thing it's going to do is
 
-253
-00:16:45.000 --> 00:16:48.000
+248
+00:16:11.670 --> 00:16:14.670
 it will throw out the "timeout" back to main thread.
 
-254
-00:16:48.000 --> 00:16:51.000
+249
+00:16:14.670 --> 00:16:17.670
 If the task takes too long, I set it to after 250 ms.
 
-255
-00:16:51.000 --> 00:16:54.000
+250
+00:16:17.670 --> 00:16:20.670
 If it's not too long, just clear the timeout.
 
-256
-00:16:54.000 --> 00:16:57.000
+251
+00:16:20.670 --> 00:16:23.670
 And send the message back.
 
-257
-00:16:57.000 --> 00:17:00.000
+252
+00:16:23.670 --> 00:16:26.670
 Whether it's an error message or whatever.
 
-258
-00:17:01.357 --> 00:17:04.100
+253
+00:16:28.027 --> 00:16:30.770
 Back to the main thread
 
-259
-00:17:06.000 --> 00:17:09.000
+254
+00:16:32.670 --> 00:16:35.670
 how do we know that the RegEx pattern we wrote
 
-260
-00:17:09.000 --> 00:17:12.000
+255
+00:16:35.670 --> 00:16:38.670
 will run all the time or leave the loop?
 
-261
-00:17:12.000 --> 00:17:15.000
+256
+00:16:38.670 --> 00:16:41.670
 so I use a technique called 2-pointer.
 
-262
-00:17:15.000 --> 00:17:18.000
+257
+00:16:41.670 --> 00:16:44.670
 Slow pointer and fast pointer.
 
-263
-00:17:18.000 --> 00:17:20.443
+258
+00:16:44.670 --> 00:16:47.113
 If anyone used to play Leetcode
 
-264
-00:17:20.444 --> 00:17:21.929
+259
+00:16:47.114 --> 00:16:48.599
 you'll be familiar with it.
 
-265
-00:17:21.930 --> 00:17:23.999
+260
+00:16:48.600 --> 00:16:50.669
 eg. Circular Dependencies sort of thing
 
-266
-00:17:24.986 --> 00:17:27.000
+261
+00:16:51.656 --> 00:16:53.670
 it's used to check if two position is "meet" or not
 
-267
-00:17:27.000 --> 00:17:30.000
+262
+00:16:53.670 --> 00:16:56.670
 there should be a gap between the slow one
 
-268
-00:17:30.000 --> 00:17:33.000
+263
+00:16:56.670 --> 00:16:59.670
 and the fast one, like a rabbit and a turtle.
 
-269
-00:17:33.000 --> 00:17:36.000
+264
+00:16:59.670 --> 00:17:02.670
 When the turtle follows the rabbit,
 
-270
-00:17:36.000 --> 00:17:38.100
+265
+00:17:02.670 --> 00:17:04.770
 there will be a gap between what follows.
 
-271
-00:17:38.101 --> 00:17:38.999
+266
+00:17:04.771 --> 00:17:05.669
 if not, or a slow index = fast index
 
-272
-00:17:39.000 --> 00:17:42.000
+267
+00:17:05.670 --> 00:17:08.670
 its means, the loop occurance.
 
-273
-00:17:45.000 --> 00:17:48.000
+268
+00:17:11.670 --> 00:17:14.670
 Now, the external connection
 
-274
-00:17:48.000 --> 00:17:51.000
+269
+00:17:14.670 --> 00:17:17.670
 currently support just two, MIDI and OSC(open sound control)
 
-275
-00:17:51.000 --> 00:17:54.000
+270
+00:17:17.670 --> 00:17:20.670
 as I said earlier,
 
-276
-00:17:54.000 --> 00:17:57.000
+271
+00:17:20.670 --> 00:17:23.670
 it can't request MIDI access on WebView.
 
-277
-00:17:57.000 --> 00:18:00.000
+272
+00:17:23.670 --> 00:17:26.670
 So, I had to write MIDI module in Rust
 
-278
-00:18:00.000 --> 00:18:03.000
+273
+00:17:26.670 --> 00:17:29.670
 simply, we just had to declare the procedural macro
 
-279
-00:18:03.000 --> 00:18:04.171
+274
+00:17:29.670 --> 00:17:30.841
 here
 
-280
-00:18:04.714 --> 00:18:05.999
+275
+00:17:31.384 --> 00:17:32.669
 and then
 
-281
-00:18:06.000 --> 00:18:09.000
+276
+00:17:32.670 --> 00:17:35.670
 we register it in the main app.
 
-282
-00:18:09.000 --> 00:18:12.000
+277
+00:17:35.670 --> 00:17:38.670
 now we can call via `invoke`
 
-283
-00:18:12.000 --> 00:18:17.771
+278
+00:17:38.670 --> 00:17:44.441
 we can invoke Rust code from JavaScript side.
 
-284
-00:18:20.000 --> 00:18:23.000
+279
+00:17:46.670 --> 00:17:49.670
 We can invoke it.
 
-285
-00:18:23.000 --> 00:18:26.000
+280
+00:17:49.670 --> 00:17:52.670
 Open sound control or OSC
 
-286
-00:18:26.000 --> 00:18:29.000
+281
+00:17:52.670 --> 00:17:55.670
 is a protocol.
 
-287
-00:18:29.000 --> 00:18:32.000
+282
+00:17:55.670 --> 00:17:58.670
 This is quite long. I can't explain it.
 
-288
-00:18:32.000 --> 00:18:35.000
+283
+00:17:58.670 --> 00:18:01.670
 basically, I use nom as a parser combinator.
 
-289
-00:18:35.157 --> 00:18:38.000
+284
+00:18:01.827 --> 00:18:04.670
 It's similar to PEG
 
-290
-00:18:38.000 --> 00:18:41.000
+285
+00:18:04.670 --> 00:18:07.670
 but with PEG you have to write a gramma
 
-291
-00:18:41.000 --> 00:18:44.000
+286
+00:18:07.670 --> 00:18:10.670
 it will pass the message (byte-array) directly.
 
-292
-00:18:44.000 --> 00:18:47.000
+287
+00:18:10.670 --> 00:18:13.670
 The speed is good.
 
-293
-00:18:47.000 --> 00:18:50.000
+288
+00:18:13.670 --> 00:18:16.670
 tbh, I don't know the difference that much
 
-294
-00:18:50.000 --> 00:18:53.842
+289
+00:18:16.670 --> 00:18:20.512
 it's just looks interesting
 
-295
-00:18:53.843 --> 00:18:56.000
+290
+00:18:20.513 --> 00:18:22.670
 so, I used nom.
 
-296
-00:18:57.843 --> 00:18:59.499
+291
+00:18:24.513 --> 00:18:26.169
 Another important part
 
-297
-00:18:59.500 --> 00:19:03.329
+292
+00:18:26.170 --> 00:18:29.999
 of the application is the sequencer.
 
-298
-00:19:03.330 --> 00:19:05.685
+293
+00:18:30.000 --> 00:18:32.355
 The timing of the sequencer
 
-299
-00:19:05.686 --> 00:19:07.643
+294
+00:18:32.356 --> 00:18:34.313
 shouldn't be jittery.
 
-300
-00:19:07.644 --> 00:19:09.186
+295
+00:18:34.314 --> 00:18:35.856
 it have to be stable
 
-301
-00:19:09.187 --> 00:19:14.000
+296
+00:18:35.857 --> 00:18:40.670
 There must be an robust implementation of the clock.
 
-302
-00:19:14.000 --> 00:19:16.400
+297
+00:18:40.670 --> 00:18:43.070
 What will I use between these three?
 
-303
-00:19:16.401 --> 00:19:18.671
+298
+00:18:43.071 --> 00:18:45.341
 Date.now(), setInterval, setTimeOut.
 
-304
-00:19:18.672 --> 00:19:23.000
+299
+00:18:45.342 --> 00:18:49.670
 The first thing I used was setTimeOut.
 
-305
-00:19:23.000 --> 00:19:26.000
+300
+00:18:49.670 --> 00:18:52.670
 very straightforward and naive
 
-306
-00:19:26.000 --> 00:19:29.000
+301
+00:18:52.670 --> 00:18:55.670
 eventaully it didn't work.
 
-307
-00:19:29.000 --> 00:19:32.000
+302
+00:18:55.670 --> 00:18:58.670
 I asked myself again.
 
-308
-00:19:32.000 --> 00:19:35.000
+303
+00:18:58.670 --> 00:19:01.670
 What should I use?
 
-309
-00:19:35.000 --> 00:19:37.243
+304
+00:19:01.670 --> 00:19:03.913
 Date.now, setInterval, setTimeOut.
 
-310
-00:19:37.244 --> 00:19:38.470
+305
+00:19:03.914 --> 00:19:05.140
 setTimeout already tried
 
-311
-00:19:38.471 --> 00:19:40.999
+306
+00:19:05.141 --> 00:19:07.669
 so there were two left.
 
-312
-00:19:41.000 --> 00:19:44.000
+307
+00:19:07.670 --> 00:19:10.670
 But the all options was wrong.
 
-313
-00:19:44.000 --> 00:19:47.000
+308
+00:19:10.670 --> 00:19:13.670
 The right question should be "where to run the clock?"
 
-314
-00:19:47.000 --> 00:19:50.000
+309
+00:19:13.670 --> 00:19:16.670
 because the main thread
 
-315
-00:19:50.000 --> 00:19:53.000
+310
+00:19:16.670 --> 00:19:19.670
 has the duties of rendering
 
-316
-00:19:53.000 --> 00:19:56.000
+311
+00:19:19.670 --> 00:19:22.670
 to disturb the timing of the clock.
 
-317
-00:19:56.000 --> 00:19:59.000
+312
+00:19:22.670 --> 00:19:25.670
 I used to use the event loop.
 
-318
-00:19:59.000 --> 00:20:02.000
+313
+00:19:25.670 --> 00:19:28.670
 Event loop is another topic
 
-319
-00:20:02.000 --> 00:20:05.000
+314
+00:19:28.670 --> 00:19:31.670
 that can be found on the Internet.
 
-320
-00:20:05.000 --> 00:20:08.000
+315
+00:19:31.670 --> 00:19:34.670
 basically, Event-loop
 
-321
-00:20:08.000 --> 00:20:11.000
+316
+00:19:34.670 --> 00:19:37.670
 it doesn't guarantee
 
-322
-00:20:11.000 --> 00:20:14.000
+317
+00:19:37.670 --> 00:19:40.670
 that the task you put in the queue
 
-323
-00:20:14.000 --> 00:20:17.000
+318
+00:19:40.670 --> 00:19:43.670
 will work as planned.
 
-324
-00:20:17.000 --> 00:20:20.642
+319
+00:19:43.670 --> 00:19:47.312
 It's not very suitable for the timing
 
-325
-00:20:20.643 --> 00:20:24.899
+320
+00:19:47.313 --> 00:19:51.569
 that requires high precision.
 
-326
-00:20:24.900 --> 00:20:27.085
+321
+00:19:51.570 --> 00:19:53.755
 The next method I used was
 
-327
-00:20:27.086 --> 00:20:30.656
+322
+00:19:53.756 --> 00:19:57.326
 setInterval on worker thread.
 
-328
-00:20:30.657 --> 00:20:33.199
+323
+00:19:57.327 --> 00:19:59.869
 This method almost works.
 
-329
-00:20:33.200 --> 00:20:35.000
+324
+00:19:59.870 --> 00:20:01.670
 But the problem is
 
-330
-00:20:35.000 --> 00:20:38.000
+325
+00:20:01.670 --> 00:20:04.670
 when you wanted to change the tempo in the middle of the song,
 
-331
-00:20:38.000 --> 00:20:41.000
+326
+00:20:04.670 --> 00:20:07.670
 it will cause a problem.
 
-332
-00:20:43.371 --> 00:20:45.099
+327
+00:20:10.041 --> 00:20:11.769
 The last method I use is
 
-333
-00:20:45.100 --> 00:20:47.000
+328
+00:20:11.770 --> 00:20:13.670
 audio context current time.
 
-334
-00:20:47.000 --> 00:20:50.000
+329
+00:20:13.670 --> 00:20:16.670
 Current time is double precision 64 bits.
 
-335
-00:20:50.000 --> 00:20:53.000
+330
+00:20:16.670 --> 00:20:19.670
 It means that the
 
-336
-00:20:53.000 --> 00:20:56.000
+331
+00:20:19.670 --> 00:20:22.670
 accuracy of the floating point will be very high
 
-337
-00:20:56.000 --> 00:20:59.000
+332
+00:20:22.670 --> 00:20:25.670
 therefore, it is very suitable for
 
-338
-00:20:59.000 --> 00:21:02.000
+333
+00:20:25.670 --> 00:20:28.670
 high precision handling
 
-339
-00:21:02.000 --> 00:21:05.000
+334
+00:20:28.670 --> 00:20:31.670
 such as timing and tempo.
 
-340
-00:21:05.000 --> 00:21:08.000
+335
+00:20:31.670 --> 00:20:34.670
 This is the updated version.
 
-341
-00:21:08.000 --> 00:21:11.000
+336
+00:20:34.670 --> 00:20:37.670
 There is a "start" msg,
 
-342
-00:21:11.000 --> 00:21:14.000
+337
+00:20:37.670 --> 00:20:40.670
 and "interval", and "stop"
 
-343
-00:21:14.000 --> 00:21:17.000
+338
+00:20:40.670 --> 00:20:43.670
 from the first one, there is only a start.
 
-344
-00:21:17.000 --> 00:21:21.313
+339
+00:20:43.670 --> 00:20:47.983
 what's been developed from previous version was
 
-345
-00:21:21.314 --> 00:21:22.429
+340
+00:20:47.984 --> 00:20:49.099
 this function
 
-346
-00:21:22.430 --> 00:21:24.986
+341
+00:20:49.100 --> 00:20:51.656
 the actual function quite long
 
-347
-00:21:24.987 --> 00:21:27.299
+342
+00:20:51.657 --> 00:20:53.969
 but it can be boiled down
 
-348
-00:21:27.300 --> 00:21:30.299
+343
+00:20:53.970 --> 00:20:56.969
 to understand as this.
 
-349
-00:21:30.300 --> 00:21:32.000
+344
+00:20:56.970 --> 00:20:58.670
 While it sets the...
 
-350
-00:21:37.000 --> 00:21:40.000
+345
+00:21:03.670 --> 00:21:06.670
 It has to keep checking the queue.
 
-351
-00:21:40.000 --> 00:21:43.000
+346
+00:21:06.670 --> 00:21:09.670
 It has to check the nextNoteTime.
 
-352
-00:21:43.000 --> 00:21:46.000
+347
+00:21:09.670 --> 00:21:12.670
 It's time to
 
-353
-00:21:46.000 --> 00:21:49.000
+348
+00:21:12.670 --> 00:21:15.670
 "is it ready for the next note(tick)"?.
 
-354
-00:21:49.000 --> 00:21:52.000
+349
+00:21:15.670 --> 00:21:18.670
 There is a scheduleAheadTime.
 
-355
-00:21:52.000 --> 00:21:54.557
+350
+00:21:18.670 --> 00:21:21.227
 We will check the time
 
-356
-00:21:54.558 --> 00:21:56.986
+351
+00:21:21.228 --> 00:21:23.656
 until the next note.
 
-357
-00:21:56.987 --> 00:22:00.500
+352
+00:21:23.657 --> 00:21:27.170
 the results is the timing will be very precise
 
-358
-00:22:01.000 --> 00:22:04.000
+353
+00:21:27.670 --> 00:21:30.670
 this is a bit tricky (to implement).
 
-359
-00:22:04.000 --> 00:22:07.000
+354
+00:21:30.670 --> 00:21:33.670
 since, setTimeOut
 
-360
-00:22:07.000 --> 00:22:09.400
+355
+00:21:33.670 --> 00:21:36.070
 although you already have a precise time,
 
-361
-00:22:09.401 --> 00:22:12.613
+356
+00:21:36.071 --> 00:21:39.283
 guaranteed time to play precisely
 
-362
-00:22:12.614 --> 00:22:14.214
+357
+00:21:39.284 --> 00:21:40.884
 but it's not
 
-363
-00:22:14.215 --> 00:22:15.914
+358
+00:21:40.885 --> 00:21:42.584
 I tried using setTimeOut but it's not works
 
-364
-00:22:16.471 --> 00:22:22.000
+359
+00:21:43.141 --> 00:21:48.670
 so I use the audioContext's time instead.
 
-365
-00:22:22.000 --> 00:22:25.000
+360
+00:21:48.670 --> 00:21:51.670
 The audio contact has a function called
 
-366
-00:22:25.000 --> 00:22:26.386
+361
+00:21:51.670 --> 00:21:53.056
 "start()"
 
-367
-00:22:26.387 --> 00:22:28.586
+362
+00:21:53.057 --> 00:21:55.256
 which accept "timestamp" as an argument
 
-368
-00:22:28.587 --> 00:22:32.357
+363
+00:21:55.257 --> 00:21:59.027
 tell it when to "start" and when to "stop"
 
-369
-00:22:32.358 --> 00:22:37.000
+364
+00:21:59.028 --> 00:22:03.670
 since we already have a very precise time
 
-370
-00:22:37.000 --> 00:22:40.000
+365
+00:22:03.670 --> 00:22:06.670
 and audio contact that can run the right time.
 
-371
-00:22:40.000 --> 00:22:43.000
+366
+00:22:06.670 --> 00:22:09.670
 "start" then "stop" immediately.
 
-372
-00:22:43.000 --> 00:22:46.000
+367
+00:22:09.670 --> 00:22:12.670
 Then use "onended" as a callback
 
-373
-00:22:46.000 --> 00:22:47.871
+368
+00:22:12.670 --> 00:22:14.541
 to run the application
 
-374
-00:22:47.872 --> 00:22:50.186
+369
+00:22:14.542 --> 00:22:16.856
 it's a little tricky and the flow is strange
 
-375
-00:22:50.187 --> 00:22:52.914
+370
+00:22:16.857 --> 00:22:19.584
 but I can't think of a better way.
 
-376
-00:22:52.915 --> 00:22:56.214
+371
+00:22:19.585 --> 00:22:22.884
 If you know how to improve the code, please let me know.
 
-377
-00:22:58.214 --> 00:23:01.985
+372
+00:22:24.884 --> 00:22:28.655
 This is the latest version.
 
-378
-00:23:01.986 --> 00:23:04.000
+373
+00:22:28.656 --> 00:22:30.670
 you might notice that I completely removed
 
-379
-00:23:04.000 --> 00:23:07.000
+374
+00:22:30.670 --> 00:22:33.670
 the form that has input.
 
-380
-00:23:07.000 --> 00:23:12.429
+375
+00:22:33.670 --> 00:22:39.099
 personally, I like Vim's workflow.
 
-381
-00:23:12.430 --> 00:23:16.000
+376
+00:22:39.100 --> 00:22:42.670
 I don't wanted to use the mouse
 
-382
-00:23:16.000 --> 00:23:19.000
+377
+00:22:42.670 --> 00:22:45.670
 while performing.
 
-383
-00:23:19.000 --> 00:23:22.000
+378
+00:22:45.670 --> 00:22:48.670
 quite distractive and annoying.
 
-384
-00:23:22.586 --> 00:23:26.243
+379
+00:22:49.256 --> 00:22:52.913
 This is the console.
 
-385
-00:23:31.000 --> 00:23:34.000
+380
+00:22:57.670 --> 00:23:00.670
 so this checked-out "(live)performance-oriented".
 
-386
-00:23:34.000 --> 00:23:37.000
+381
+00:23:00.670 --> 00:23:03.670
 I use it to perform.
 
-387
-00:23:38.700 --> 00:23:42.357
+382
+00:23:05.370 --> 00:23:09.027
 the objectives is now completed
 
-388
-00:23:42.358 --> 00:23:44.214
+383
+00:23:09.028 --> 00:23:10.884
 5 options.
 
-389
-00:23:46.000 --> 00:23:47.657
+384
+00:23:12.670 --> 00:23:14.327
 It's done.
 
-390
-00:23:47.658 --> 00:23:52.943
+385
+00:23:14.328 --> 00:23:19.613
 "anu" is an open-source so anyone can PR
 
-391
-00:23:52.944 --> 00:23:55.986
+386
+00:23:19.614 --> 00:23:22.656
 or open an issue or anything
 
-392
-00:23:59.086 --> 00:24:03.829
+387
+00:23:25.756 --> 00:23:30.499
 now I'll show you the demo
 
-393
-00:28:34.000 --> 00:28:37.000
+388
+00:28:00.670 --> 00:28:03.670
 That's about it.
 
