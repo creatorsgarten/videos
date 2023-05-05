@@ -721,7 +721,7 @@
         "type": "talk",
         "youtube": "eNoHorGFVIc",
         "managed": true,
-        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n",
+        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n\n00:00 | Introduction\n00:58 | Fractal\n02:57 | Why SVG\n04:05 | Megagon\n05:58 | SVG animations\n06:45 | Infinite zooming\n07:07 | SMIL (SVG animation)\n08:06 | Non-linearity of zooming\n09:02 | Representing exponential animation\n12:01 | Final results\n",
         "published": false
       },
       "content": "",
@@ -737,7 +737,7 @@
         "type": "talk",
         "youtube": "7qelbJphNyI",
         "managed": true,
-        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n",
+        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n\n00:00 | Introduction\n00:46 | Inspiration\n01:14 | Sketches\n01:28 | Interface design\n01:40 | Tech stack\n02:06 | Blender vs THREE.js\n05:01 | Game architecture\n08:32 | Vector world vs Angle world\n10:23 | Reflection angle calculation\n12:20 | Conclusions\n",
         "published": false
       },
       "content": "",
