@@ -10,18 +10,17 @@ description: |
   Source code: karnpapon/anu
   https://github.com/karnpapon/anu
 
-  00:00 | Introduction
-  00:34 | Talk starts
-  01:16 | music
-  02:31 | properties of sound wave
-  04:44 | time period
-  06:34 | “anu”
-  07:46 | development
-  13:23 | Tech stack
-  14:00 | Application architecture
-  15:12 | Regex implementation
-  17:44 | External connection
-  18:57 | Clock scheduling
-  22:57 | Latest iteration
-  23:58 | Demo
+  00:00 | Talk starts
+  00:42 | music
+  01:57 | properties of sound wave
+  04:10 | time period
+  06:00 | “anu”
+  07:12 | development
+  12:49 | Tech stack
+  13:26 | Application architecture
+  14:38 | Regex implementation
+  17:10 | External connection
+  18:23 | Clock scheduling
+  22:23 | Latest iteration
+  23:24 | Demo
 ---
