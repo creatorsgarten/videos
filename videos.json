@@ -644,17 +644,21 @@
       "event": "creativecodingmeetup",
       "slug": "regular-expression",
       "data": {
-        "title": "Regular expression as an irregular musical expression",
+        "title": "Regular Expression as an Irregular Musical Expression",
         "speaker": "Karnpapon Boonput",
         "type": "talk",
         "youtube": "kXfi4FhzCi8",
         "managed": true,
-        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\n00:00 | Talk starts\n00:42 | music\n01:57 | properties of sound wave\n04:10 | time period\n06:00 | “anu”\n07:12 | development\n12:49 | Tech stack\n13:26 | Application architecture\n14:38 | Regex implementation\n17:10 | External connection\n18:23 | Clock scheduling\n22:23 | Latest iteration\n23:24 | Demo\n",
-        "published": false
+        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\nanu-processing (visual)\nhttps://github.com/karnpapon/anu-processing\n\nanu-supercollider (sound)\nhttps://github.com/karnpapon/anu/blob/app/sc-osc-example.scd\n\n00:00 | Talk starts\n00:42 | music\n01:57 | properties of sound wave\n04:10 | time period\n06:00 | “anu”\n07:12 | development\n12:49 | Tech stack\n13:26 | Application architecture\n14:38 | Regex implementation\n17:10 | External connection\n18:23 | Clock scheduling\n22:23 | Latest iteration\n23:24 | Demo\n",
+        "published": false,
+        "subtitles": [
+          "en"
+        ]
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/regular-expression.md",
-      "imageFilePath": "data/videos/creativecodingmeetup/regular-expression.jpg"
+      "imageFilePath": "data/videos/creativecodingmeetup/regular-expression.jpg",
+      "englishSubtitlePath": "data/videos/creativecodingmeetup/regular-expression_en.vtt"
     },
     {
       "event": "creativecodingmeetup",
