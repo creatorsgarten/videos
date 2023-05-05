@@ -3651,6 +3651,7 @@ video:qzbyQAnqWYk:
 
         https://grtn.org/e/creativecodingmeetup/v/sdf/edit
       defaultLanguage: th
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -4198,3 +4199,13 @@ video:kOJr_KzYg_Y:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:qzbyQAnqWYk:caption:en:
+  spec:
+    videoId: qzbyQAnqWYk
+    filePath: data/videos/creativecodingmeetup/sdf_en.vtt
+    language: en
+    name: English
+    hash: 3a7257e6394c6f645ae596b6633fee04f69bba46787e3284832d5107171b0101
+    isDraft: false
+  state:
+    id: AUieDab39Y-QZHB-2c5vuY_XOBiixFclfkTJDOdfscpVuHoD22vHS-kq
