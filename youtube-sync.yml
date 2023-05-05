@@ -3832,6 +3832,59 @@ video:0btQNQkj41s:
         https://www.youtube.com/@crsrcrsr9902
 
 
+        00:00 | Introduction
+
+        01:20 | Modular Synthesizer
+
+        04:25 | Pure Data
+
+        05:47 | Audio programming 101
+
+        06:59 | Addition
+
+        07:33 | Pure Data functions
+
+        08:35 | The instrument for today
+
+        09:49 | I/O
+
+        10:24 | Demo - Transient to Kinetic
+
+        11:56 | Demo - Violator
+
+        12:53 | Demo - Solo flute with electronics
+
+        15:15 | Pure Data flavors
+
+        16:47 | Max/MSP
+
+        17:17 | ZIG SIM
+
+        18:44 | Live demo
+
+        20:45 | Dissecting the patch
+
+        24:38 | Creating a patch from scratch
+
+        25:30 | Sequencer
+
+        26:54 | Incrementing number
+
+        28:06 | Adding a kick drum
+
+        29:44 | Randomization
+
+        30:50 | Synth
+
+        33:00 | Signal modulation
+
+        34:29 | Creating GUI
+
+        35:35 | Frequency modulation
+
+        36:42 | Conclusions
+
+
 
         --------------------------------------------
 
@@ -3949,7 +4002,9 @@ video:kOJr_KzYg_Y:
   spec:
     id: kOJr_KzYg_Y
     snippet:
-      title: Creative coding in live coding context by Wasawat Somno
+      title: >-
+        Creative coding in live coding context (+ live coding session) by
+        Wasawat Somno
       description: >-
         Literature review of what current tool do people use for live coding
         music/visual. Will show the example from my previous little project from
@@ -3966,6 +4021,55 @@ video:kOJr_KzYg_Y:
         GitHub
 
         https://github.com/dodadoa
+
+
+        00:00 | Intro
+
+        00:50 | Examples
+
+        02:28 | History
+
+        04:40 | Node editor vs Text editor
+
+        05:50 | Sound
+
+        06:30 | Pure Data
+
+        07:45 | SuperCollider
+
+        09:30 | Tidal Cycles
+
+        11:40 | Tidal Cycles - Demo
+
+        14:24 | Orca
+
+        15:12 | Sound - Summary
+
+        16:10 | Visual
+
+        17:25 | Visual - Common Infrastructure
+
+        17:44 | GLSL
+
+        19:32 | Hydra
+
+        21:42 | p5.js
+
+        22:14 | Hydra - Demo
+
+        23:11 | TouchDesigner
+
+        24:39 | TouchDesigner - Demo
+
+        25:39 | Visual - Summary
+
+        26:08 | Audio-Reactive Visul
+
+        26:45 | Inter-Operability
+
+        28:28 | Conclusions
+
+        29:45 | Post-event Live Coding Session
 
 
 
