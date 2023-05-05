@@ -25,6 +25,9 @@ description: |
   08:28 | Beyond 2D: 3d ray-marching
   08:47 | Learning resources
 
+  Speaker’s channel
+  https://www.youtube.com/@dtinth
+
   Recommended videos
   https://youtu.be/svLzmFuSBhk
   https://youtu.be/BNZtUB7yhX4
