@@ -6,4 +6,10 @@ managed: true
 published: false
 description: |
   จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม
+
+  Play the game
+  https://bocchi-the-crane.tauhoo.dev/
+
+  Speaker’s website
+  https://tauhoo.dev/
 ---

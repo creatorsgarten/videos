@@ -1,5 +1,8 @@
 ---
-title: The power of signed distance functions
+title: The power of signed distance functions (SDF)
+youtubeTitle:
+  th: วาดรูปด้วยโค้ดสั้นๆ กับคอนเซปต์ Signed distance functions (SDF) - Thai Pangsakulyanont
+  en: The power of signed distance functions (SDF) by Thai Pangsakulyanont
 speaker: Thai Pangsakulyanont
 youtube: qzbyQAnqWYk
 managed: true
