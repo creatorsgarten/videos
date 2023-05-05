@@ -3190,7 +3190,7 @@ thumbnail:kXfi4FhzCi8:
   spec:
     videoId: kXfi4FhzCi8
     filePath: data/videos/creativecodingmeetup/regular-expression.jpg
-    hash: 0173174ea1302ad8020df361c8803cb462905cf370b34888b77934f181280726
+    hash: 26fa66bf20baa7f4c2448a9bfa5a04c00f9fb6f2d65f8e03eae9874447c90ca4
   state: {}
 video:KCPjgyDsuN4:
   spec:
@@ -3285,7 +3285,7 @@ video:kXfi4FhzCi8:
     id: kXfi4FhzCi8
     snippet:
       title: >-
-        Regular expression as an irregular musical expression by Karnpapon
+        Regular Expression as an Irregular Musical Expression by Karnpapon
         Boonput
       description: >-
         an exploration of how seemingly incomprehensible patterns and rules can
@@ -3295,6 +3295,16 @@ video:kXfi4FhzCi8:
         Source code: karnpapon/anu
 
         https://github.com/karnpapon/anu
+
+
+        anu-processing (visual)
+
+        https://github.com/karnpapon/anu-processing
+
+
+        anu-supercollider (sound)
+
+        https://github.com/karnpapon/anu/blob/app/sc-osc-example.scd
 
 
         00:00 | Talk starts
@@ -3356,6 +3366,7 @@ video:kXfi4FhzCi8:
         etc.), please visit:
 
         https://grtn.org/e/creativecodingmeetup/v/regular-expression/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -3681,3 +3692,13 @@ video:J4bILD7KCWk:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:kXfi4FhzCi8:caption:en:
+  spec:
+    videoId: kXfi4FhzCi8
+    filePath: data/videos/creativecodingmeetup/regular-expression_en.vtt
+    language: en
+    name: English
+    hash: 05658f6f2ae82a113de675c650703894971a5ce547bdfc731ecafc79b9ba7631
+    isDraft: false
+  state:
+    id: AUieDabycbNI_SZVRn4LvXMwnd0f94ClHLufjT-g7LjRNpCrIivLEJvc
