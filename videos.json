@@ -618,7 +618,7 @@
         "youtube": "J4bILD7KCWk",
         "managed": true,
         "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n\n00:00 | Introduction\n00:27 | Midjourney\n01:47 | Stable Diffusion\n03:21 | Why Stable Diffusion\n05:13 | Stable Diffusion Web UI\n07:03 | Example - People\n07:57 | Example - Animals\n08:33 | Example - Mona Lisa\n09:33 | Example - Creation of Adam with style changes\n11:22 | Example - The Last Supper with face insertion\n12:30 | Training AI to recreate a person’s face\n13:54 | Example - Being on a TED stage\n14:25 | Prompting demo\n15:43 | Production assets creation\n19:04 | Creating 360° image\n19:55 | Creating textures for 3D models\n20:35 | Retouching with AI\n21:40 | AI-generated videos\n23:19 | Dataset source: LAION.ai\n23:37 | Have I been trained?\n24:55 | More resources\n25:44 | NoAI movement\n29:04 | Conclusions\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/ai.md",
@@ -634,7 +634,7 @@
         "youtube": "KCPjgyDsuN4",
         "managed": true,
         "description": "เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน\n\nSpeaker’s website\nhttps://www.punpitan.com/\n\nInstagram\nhttps://instagram.com/punpitan/\n\n00:00 | Introduction\n01:18 | Reel\n03:29 | Future scape 2015 / Origin story\n05:05 | tomtom 2015\n06:17 | Cage 2017\n09:33 | Sangsom Moonism 2019\n11:26 | AP world 2019\n14:39 | เทพประทานเพลง 2020\n16:44 | Meet tony 2022\n18:00 | Montage of skipped slides\n18:14 | Quark IV\n\nReferences\n\nKinect programming tutorial\nhttps://www.youtube.com/watch?v=E1eIg54clGo\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/interactive-art.md",
@@ -650,7 +650,7 @@
         "youtube": "kOJr_KzYg_Y",
         "managed": true,
         "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n\n00:00 | Intro\n00:50 | Examples\n02:28 | History\n04:40 | Node editor vs Text editor\n05:50 | Sound\n06:30 | Pure Data\n07:45 | SuperCollider\n09:30 | Tidal Cycles\n11:40 | Tidal Cycles - Demo\n14:24 | Orca\n15:12 | Sound - Summary\n16:10 | Visual\n17:25 | Visual - Common Infrastructure\n17:44 | GLSL\n19:32 | Hydra\n21:42 | p5.js\n22:14 | Hydra - Demo\n23:11 | TouchDesigner\n24:39 | TouchDesigner - Demo\n25:39 | Visual - Summary\n26:08 | Audio-Reactive Visul\n26:45 | Inter-Operability\n28:28 | Conclusions\n29:45 | Post-event Live Coding Session\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/live-coding.md",
@@ -666,7 +666,7 @@
         "youtube": "kXfi4FhzCi8",
         "managed": true,
         "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\nanu-processing (visual)\nhttps://github.com/karnpapon/anu-processing\n\nanu-supercollider (sound)\nhttps://github.com/karnpapon/anu/blob/app/sc-osc-example.scd\n\n00:00 | Talk starts\n00:42 | music\n01:57 | properties of sound wave\n04:10 | time period\n06:00 | “anu”\n07:12 | development\n12:49 | Tech stack\n13:26 | Application architecture\n14:38 | Regex implementation\n17:10 | External connection\n18:23 | Clock scheduling\n22:23 | Latest iteration\n23:24 | Demo\n",
-        "published": false,
+        "published": true,
         "subtitles": [
           "en"
         ]
@@ -690,7 +690,7 @@
         "youtube": "qzbyQAnqWYk",
         "managed": true,
         "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\n00:00 | Intro\n01:06 | What is GLSL fragment shader?\n01:51 | What is Signed Distance Function?\n03:03 | How to write an SDF?\n04:26 | Using the SDF\n04:57 | Composing SDFs\n06:37 | Let’s draw!\n07:19 | Transforming the space\n08:12 | Code compression\n08:28 | Beyond 2D: 3d ray-marching\n08:47 | Learning resources\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
-        "published": false,
+        "published": true,
         "subtitles": [
           "en"
         ]
@@ -710,7 +710,7 @@
         "youtube": "0btQNQkj41s",
         "managed": true,
         "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n\n00:00 | Introduction\n01:20 | Modular Synthesizer\n04:25 | Pure Data\n05:47 | Audio programming 101\n06:59 | Addition\n07:33 | Pure Data functions\n08:35 | The instrument for today\n09:49 | I/O\n10:24 | Demo - Transient to Kinetic\n11:56 | Demo - Violator\n12:53 | Demo - Solo flute with electronics\n15:15 | Pure Data flavors\n16:47 | Max/MSP\n17:17 | ZIG SIM\n18:44 | Live demo\n20:45 | Dissecting the patch\n24:38 | Creating a patch from scratch\n25:30 | Sequencer\n26:54 | Incrementing number\n28:06 | Adding a kick drum\n29:44 | Randomization\n30:50 | Synth\n33:00 | Signal modulation\n34:29 | Creating GUI\n35:35 | Frequency modulation\n36:42 | Conclusions\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sonic-thread.md",
@@ -726,7 +726,7 @@
         "youtube": "eNoHorGFVIc",
         "managed": true,
         "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n\n00:00 | Introduction\n00:58 | Fractal\n02:57 | Why SVG\n04:05 | Megagon\n05:58 | SVG animations\n06:45 | Infinite zooming\n07:07 | SMIL (SVG animation)\n08:06 | Non-linearity of zooming\n09:02 | Representing exponential animation\n12:01 | Final results\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/svg.md",
@@ -742,7 +742,7 @@
         "youtube": "7qelbJphNyI",
         "managed": true,
         "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n\n00:00 | Introduction\n00:46 | Inspiration\n01:14 | Sketches\n01:28 | Interface design\n01:40 | Tech stack\n02:06 | Blender vs THREE.js\n05:01 | Game architecture\n08:32 | Vector world vs Angle world\n10:23 | Reflection angle calculation\n12:20 | Conclusions\n",
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
