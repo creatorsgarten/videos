@@ -3278,7 +3278,7 @@ video:KCPjgyDsuN4:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:kXfi4FhzCi8:
   spec:
@@ -3370,7 +3370,7 @@ video:kXfi4FhzCi8:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 thumbnail:7qelbJphNyI:
   spec:
@@ -3466,7 +3466,7 @@ video:7qelbJphNyI:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:eNoHorGFVIc:
   spec:
@@ -3551,7 +3551,7 @@ video:eNoHorGFVIc:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:qzbyQAnqWYk:
   spec:
@@ -3655,7 +3655,7 @@ video:qzbyQAnqWYk:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
     localizations:
       en:
         title: The power of signed distance functions (SDF) by Thai Pangsakulyanont
@@ -3963,7 +3963,7 @@ video:0btQNQkj41s:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:J4bILD7KCWk:
   spec:
@@ -4070,7 +4070,7 @@ video:J4bILD7KCWk:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:kXfi4FhzCi8:caption:en:
   spec:
@@ -4197,7 +4197,7 @@ video:kOJr_KzYg_Y:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:qzbyQAnqWYk:caption:en:
   spec:
