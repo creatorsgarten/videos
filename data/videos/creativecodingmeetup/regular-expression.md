@@ -3,7 +3,7 @@ title: Regular Expression as an Irregular Musical Expression
 speaker: Karnpapon Boonput
 youtube: kXfi4FhzCi8
 managed: true
-published: false
+published: true
 subtitles: [en]
 description: |
   an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.
