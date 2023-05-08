@@ -295,6 +295,20 @@
       "imageFilePath": "data/videos/archive/sht6-special.jpg"
     },
     {
+      "event": "archive",
+      "slug": "vscodeday2023",
+      "data": {
+        "title": "VS Code Day 2023",
+        "type": "archive",
+        "youtube": "0d0Po170y7U",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/vscodeday2023.md",
+      "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
+    },
+    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
