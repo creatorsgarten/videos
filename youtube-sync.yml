@@ -4209,3 +4209,45 @@ video:qzbyQAnqWYk:caption:en:
     isDraft: false
   state:
     id: AUieDab39Y-QZHB-2c5vuY_XOBiixFclfkTJDOdfscpVuHoD22vHS-kq
+thumbnail:0d0Po170y7U:
+  spec:
+    videoId: 0d0Po170y7U
+    filePath: data/videos/archive/vscodeday2023.jpg
+    hash: cc81faf5baca8058f9803de8e0a5f2b12bd750b66b19b90827a9c21128f38dd9
+  state: {}
+video:0d0Po170y7U:
+  spec:
+    id: 0d0Po170y7U
+    snippet:
+      title: 'Garten Streams: VS Code Day 2023'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/vscodeday2023/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
