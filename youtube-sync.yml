@@ -4619,3 +4619,95 @@ video:xTlsYVT5Oc4:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:RVMlHxYldfk:
+  spec:
+    videoId: RVMlHxYldfk
+    filePath: data/videos/vscodeday2023/codespaces.jpg
+    hash: a7ce2bf83423d647704b2887fc9fa2cf5929469ade7cea421c77cb86f6f15864
+  state: {}
+thumbnail:ezsjCVXlOW0:
+  spec:
+    videoId: ezsjCVXlOW0
+    filePath: data/videos/vscodeday2023/vscode-dev.jpg
+    hash: 6aee7cf333e58c723246e60f3cca02ed95cd9fe89cf9d463743d7a0becd480ec
+  state: {}
+video:RVMlHxYldfk:
+  spec:
+    id: RVMlHxYldfk
+    snippet:
+      title: Introduction to GitHub Codespaces by Piti Champeethong
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/codespaces/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ezsjCVXlOW0:
+  spec:
+    id: ezsjCVXlOW0
+    snippet:
+      title: vscode.dev by Jirachai Chansivanon
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/vscode-dev/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
