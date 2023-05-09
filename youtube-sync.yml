@@ -4251,3 +4251,371 @@ video:0d0Po170y7U:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:1EI-YdsPM3E:
+  spec:
+    videoId: 1EI-YdsPM3E
+    filePath: data/videos/vscodeday2023/contribute.jpg
+    hash: 45eef7f30139dc29e86e5227b470456bce29347ddbbebf0dbaa10658ec4020e2
+  state: {}
+thumbnail:2u-HaBECoKU:
+  spec:
+    videoId: 2u-HaBECoKU
+    filePath: data/videos/vscodeday2023/codespaces.jpg
+    hash: a7ce2bf83423d647704b2887fc9fa2cf5929469ade7cea421c77cb86f6f15864
+  state: {}
+thumbnail:ApIarHh3u14:
+  spec:
+    videoId: ApIarHh3u14
+    filePath: data/videos/vscodeday2023/quantum.jpg
+    hash: 79b9cc0d0cff86611254e7ccdc5517950ca553198891b799c5aa8c6e63e410ee
+  state: {}
+thumbnail:aeTydSml28M:
+  spec:
+    videoId: aeTydSml28M
+    filePath: data/videos/vscodeday2023/python.jpg
+    hash: c33113d7789738e859e6c65359d9128571c3718e5db480fcb3d91ed9cc0856e9
+  state: {}
+thumbnail:ccImhwmp0Ak:
+  spec:
+    videoId: ccImhwmp0Ak
+    filePath: data/videos/vscodeday2023/copilot.jpg
+    hash: e1b8f8912fc1d36c98c74a2bb62fd253f6f09321a04cf571c1d29c1bec51f5fd
+  state: {}
+thumbnail:eRZgg0vD0WE:
+  spec:
+    videoId: eRZgg0vD0WE
+    filePath: data/videos/vscodeday2023/build-extension.jpg
+    hash: bcfeb8a82f05b84f08a0b0b44c3e4fed5d7fe28f63e45a9b081f49d0d360b221
+  state: {}
+thumbnail:kx9_RDsAKRY:
+  spec:
+    videoId: kx9_RDsAKRY
+    filePath: data/videos/vscodeday2023/shortcuts.jpg
+    hash: dccb7fc727d30ecbdcac4e45c2001f7cb52bf56d3faf6323ea85704b0acf79d0
+  state: {}
+thumbnail:xTlsYVT5Oc4:
+  spec:
+    videoId: xTlsYVT5Oc4
+    filePath: data/videos/vscodeday2023/vscode-dev.jpg
+    hash: 6aee7cf333e58c723246e60f3cca02ed95cd9fe89cf9d463743d7a0becd480ec
+  state: {}
+video:1EI-YdsPM3E:
+  spec:
+    id: 1EI-YdsPM3E
+    snippet:
+      title: Contributing to VS Code by Phantip Kokilanon, Sirasit Boonklang
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/contribute/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:2u-HaBECoKU:
+  spec:
+    id: 2u-HaBECoKU
+    snippet:
+      title: Introduction to GitHub Codespaces by Piti Champeethong
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/codespaces/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ApIarHh3u14:
+  spec:
+    id: ApIarHh3u14
+    snippet:
+      title: Quantum in VS Code and Microsoft Azure by Supasate Vorathammathorn
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/quantum/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:aeTydSml28M:
+  spec:
+    id: aeTydSml28M
+    snippet:
+      title: Python in VS Code by Kanin Kearpimy
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/python/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ccImhwmp0Ak:
+  spec:
+    id: ccImhwmp0Ak
+    snippet:
+      title: TypeScript in VS Code and GitHub Copilot by Thada Wangthammang
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/copilot/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:eRZgg0vD0WE:
+  spec:
+    id: eRZgg0vD0WE
+    snippet:
+      title: Building your first VS Code extension by Kittikorn Prasertsak
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/build-extension/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:kx9_RDsAKRY:
+  spec:
+    id: kx9_RDsAKRY
+    snippet:
+      title: VS Code keyboard shortcuts in 15 minutes by Manassarn Manoonchai
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/shortcuts/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xTlsYVT5Oc4:
+  spec:
+    id: xTlsYVT5Oc4
+    snippet:
+      title: vscode.dev by Jirachai Chansivanon
+      description: >-
+        Event: VS Code Day 2023 Thailand
+
+        https://grtn.org/e/vscodeday2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vscodeday2023/v/vscode-dev/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
