@@ -996,6 +996,126 @@
       "content": "",
       "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
       "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "build-extension",
+      "data": {
+        "title": "Building your first VS Code extension",
+        "speaker": "Kittikorn Prasertsak",
+        "type": "talk",
+        "youtube": "eRZgg0vD0WE",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/build-extension.md",
+      "imageFilePath": "data/videos/vscodeday2023/build-extension.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "codespaces",
+      "data": {
+        "title": "Introduction to GitHub Codespaces",
+        "speaker": "Piti Champeethong",
+        "type": "talk",
+        "youtube": "2u-HaBECoKU",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/codespaces.md",
+      "imageFilePath": "data/videos/vscodeday2023/codespaces.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "contribute",
+      "data": {
+        "title": "Contributing to VS Code",
+        "speaker": "Phantip Kokilanon; Sirasit Boonklang",
+        "type": "talk",
+        "youtube": "1EI-YdsPM3E",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/contribute.md",
+      "imageFilePath": "data/videos/vscodeday2023/contribute.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "copilot",
+      "data": {
+        "title": "TypeScript in VS Code and GitHub Copilot",
+        "speaker": "Thada Wangthammang",
+        "type": "talk",
+        "youtube": "ccImhwmp0Ak",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/copilot.md",
+      "imageFilePath": "data/videos/vscodeday2023/copilot.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "python",
+      "data": {
+        "title": "Python in VS Code",
+        "speaker": "Kanin Kearpimy",
+        "type": "talk",
+        "youtube": "aeTydSml28M",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/python.md",
+      "imageFilePath": "data/videos/vscodeday2023/python.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "quantum",
+      "data": {
+        "title": "Quantum in VS Code and Microsoft Azure",
+        "speaker": "Supasate Vorathammathorn",
+        "type": "talk",
+        "youtube": "ApIarHh3u14",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/quantum.md",
+      "imageFilePath": "data/videos/vscodeday2023/quantum.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "shortcuts",
+      "data": {
+        "title": "VS Code keyboard shortcuts in 15 minutes",
+        "speaker": "Manassarn Manoonchai",
+        "type": "talk",
+        "youtube": "kx9_RDsAKRY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/shortcuts.md",
+      "imageFilePath": "data/videos/vscodeday2023/shortcuts.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "vscode-dev",
+      "data": {
+        "title": "vscode.dev",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "xTlsYVT5Oc4",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/vscode-dev.md",
+      "imageFilePath": "data/videos/vscodeday2023/vscode-dev.jpg"
     }
   ]
 }
