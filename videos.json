@@ -1006,7 +1006,7 @@
         "type": "talk",
         "youtube": "eRZgg0vD0WE",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/build-extension.md",
@@ -1021,7 +1021,7 @@
         "type": "talk",
         "youtube": "RVMlHxYldfk",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/codespaces.md",
@@ -1036,7 +1036,7 @@
         "type": "talk",
         "youtube": "1EI-YdsPM3E",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/contribute.md",
@@ -1051,7 +1051,7 @@
         "type": "talk",
         "youtube": "ccImhwmp0Ak",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/copilot.md",
@@ -1066,7 +1066,7 @@
         "type": "talk",
         "youtube": "aeTydSml28M",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/python.md",
@@ -1081,7 +1081,7 @@
         "type": "talk",
         "youtube": "ApIarHh3u14",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/quantum.md",
@@ -1096,7 +1096,7 @@
         "type": "talk",
         "youtube": "kx9_RDsAKRY",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/shortcuts.md",
@@ -1111,7 +1111,7 @@
         "type": "talk",
         "youtube": "ezsjCVXlOW0",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/vscode-dev.md",
