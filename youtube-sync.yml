@@ -4711,3 +4711,45 @@ video:ezsjCVXlOW0:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:74nmsQFzltw:
+  spec:
+    videoId: 74nmsQFzltw
+    filePath: data/videos/archive/functional.jpg
+    hash: 8a96a407cb9a2e18a39467f5418c9f9120245b57ca226a9b2e1b042267359ea6
+  state: {}
+video:74nmsQFzltw:
+  spec:
+    id: 74nmsQFzltw
+    snippet:
+      title: 'Garten Streams: Functional Programming Meetup #1'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/functional/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
