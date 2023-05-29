@@ -777,6 +777,96 @@
       "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
     },
     {
+      "event": "functional",
+      "slug": "algebraic-structure",
+      "data": {
+        "title": "Algebraic structure :: the power of mathematical abstraction",
+        "speaker": "Natechawin Suthison",
+        "type": "talk",
+        "youtube": "F5_17LqLmU4",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/algebraic-structure.md",
+      "imageFilePath": "data/videos/functional/algebraic-structure.jpg"
+    },
+    {
+      "event": "functional",
+      "slug": "cross-platform",
+      "data": {
+        "title": "Cross-platform reproducible environment setup",
+        "speaker": "Karnsiree Wongkolkitsilp",
+        "type": "talk",
+        "youtube": "bn7MU7tRSI0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/cross-platform.md",
+      "imageFilePath": "data/videos/functional/cross-platform.jpg"
+    },
+    {
+      "event": "functional",
+      "slug": "pakman",
+      "data": {
+        "title": "A new build system built in Elixir and Alpine Linux",
+        "speaker": "Sakchai Siripanyawuth",
+        "type": "talk",
+        "youtube": "8A4IAK2Pedg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/pakman.md",
+      "imageFilePath": "data/videos/functional/pakman.jpg"
+    },
+    {
+      "event": "functional",
+      "slug": "pitfalls",
+      "data": {
+        "title": "Soft introduction to Option and pitfalls in TypeScript",
+        "speaker": "Chayatan Angsuwan",
+        "type": "talk",
+        "youtube": "B60nabM4hgk",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/pitfalls.md",
+      "imageFilePath": "data/videos/functional/pitfalls.jpg"
+    },
+    {
+      "event": "functional",
+      "slug": "problem-solving",
+      "data": {
+        "title": "Practical guide to functional problem solving and design",
+        "speaker": "Chakrit Riddghani",
+        "type": "talk",
+        "youtube": "xCyRAH2X9FQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/problem-solving.md",
+      "imageFilePath": "data/videos/functional/problem-solving.jpg"
+    },
+    {
+      "event": "functional",
+      "slug": "tortilla",
+      "data": {
+        "title": "Tortilla endofunctors, and more jokes about monads",
+        "speaker": "Chayapatr Archiwaranguprok",
+        "type": "talk",
+        "youtube": "JGmWEAuaj2s",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/functional/tortilla.md",
+      "imageFilePath": "data/videos/functional/tortilla.jpg"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
