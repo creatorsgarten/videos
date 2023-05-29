@@ -4753,3 +4753,291 @@ video:74nmsQFzltw:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:8A4IAK2Pedg:
+  spec:
+    videoId: 8A4IAK2Pedg
+    filePath: data/videos/functional/pakman.jpg
+    hash: 9580fd617cab4fba652220df0c4a9487ebd307bdff9ddc6aecb6b4ae9402fa26
+  state: {}
+thumbnail:B60nabM4hgk:
+  spec:
+    videoId: B60nabM4hgk
+    filePath: data/videos/functional/pitfalls.jpg
+    hash: 7b86ca9b3653f16a79a6f1a31516f5b05b91ab680c944a0d5e8abf3506aaeed1
+  state: {}
+thumbnail:F5_17LqLmU4:
+  spec:
+    videoId: F5_17LqLmU4
+    filePath: data/videos/functional/algebraic-structure.jpg
+    hash: e4c6f8d741691df4106dc90943f853498601cc2e9cf2415716f7feb874a66a66
+  state: {}
+thumbnail:JGmWEAuaj2s:
+  spec:
+    videoId: JGmWEAuaj2s
+    filePath: data/videos/functional/tortilla.jpg
+    hash: 3c861040799090bda8bfff1576a3ccb4e80676bebeecbad4f4e18a9ac1422282
+  state: {}
+thumbnail:bn7MU7tRSI0:
+  spec:
+    videoId: bn7MU7tRSI0
+    filePath: data/videos/functional/cross-platform.jpg
+    hash: 21fa12108c28a2238db6658b75ebb33f2081405250528ec5ab77de0197eb0d91
+  state: {}
+thumbnail:xCyRAH2X9FQ:
+  spec:
+    videoId: xCyRAH2X9FQ
+    filePath: data/videos/functional/problem-solving.jpg
+    hash: 5ba20806b89b4a515201d32c4d21907d4d4692d91f839b80388e6d01bb515e92
+  state: {}
+video:8A4IAK2Pedg:
+  spec:
+    id: 8A4IAK2Pedg
+    snippet:
+      title: >-
+        A new build system built in Elixir and Alpine Linux by Sakchai
+        Siripanyawuth
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/pakman/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:B60nabM4hgk:
+  spec:
+    id: B60nabM4hgk
+    snippet:
+      title: >-
+        Soft introduction to Option and pitfalls in TypeScript by Chayatan
+        Angsuwan
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/pitfalls/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:F5_17LqLmU4:
+  spec:
+    id: F5_17LqLmU4
+    snippet:
+      title: >-
+        Algebraic structure :: the power of mathematical abstraction by
+        Natechawin Suthison
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/algebraic-structure/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:JGmWEAuaj2s:
+  spec:
+    id: JGmWEAuaj2s
+    snippet:
+      title: >-
+        Tortilla endofunctors, and more jokes about monads by Chayapatr
+        Archiwaranguprok
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/tortilla/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:bn7MU7tRSI0:
+  spec:
+    id: bn7MU7tRSI0
+    snippet:
+      title: >-
+        Cross-platform reproducible environment setup by Karnsiree
+        Wongkolkitsilp
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/cross-platform/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xCyRAH2X9FQ:
+  spec:
+    id: xCyRAH2X9FQ
+    snippet:
+      title: >-
+        Practical guide to functional problem solving and design by Chakrit
+        Riddghani
+      description: >-
+        Event: Functional Programming Meetup #1
+
+        https://grtn.org/e/functional
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional/v/problem-solving/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
