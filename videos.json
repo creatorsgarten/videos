@@ -310,6 +310,20 @@
     },
     {
       "event": "archive",
+      "slug": "svelte1",
+      "data": {
+        "title": "Svelte Meetup Bangkok #1",
+        "type": "archive",
+        "youtube": "2TFbpD4M8_c",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/svelte1.md",
+      "imageFilePath": "data/videos/archive/svelte1.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "vscodeday2023",
       "data": {
         "title": "VS Code Day 2023",
