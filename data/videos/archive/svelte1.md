@@ -1,7 +1,7 @@
 ---
 title: 'Svelte Meetup Bangkok #1'
 type: archive
-youtube: 2TFbpD4M8_c
+youtube: 8mFIdglKjYA
 managed: true
 published: false
 ---
