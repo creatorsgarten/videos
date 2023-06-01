@@ -785,7 +785,7 @@
         "type": "talk",
         "youtube": "F5_17LqLmU4",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/algebraic-structure.md",
@@ -800,7 +800,7 @@
         "type": "talk",
         "youtube": "bn7MU7tRSI0",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/cross-platform.md",
@@ -815,7 +815,7 @@
         "type": "talk",
         "youtube": "8A4IAK2Pedg",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/pakman.md",
@@ -830,7 +830,7 @@
         "type": "talk",
         "youtube": "B60nabM4hgk",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/pitfalls.md",
@@ -845,7 +845,7 @@
         "type": "talk",
         "youtube": "xCyRAH2X9FQ",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/problem-solving.md",
@@ -860,7 +860,7 @@
         "type": "talk",
         "youtube": "JGmWEAuaj2s",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/functional/tortilla.md",
