@@ -3057,8 +3057,8 @@ video:xzAgKTgAhjs:
 thumbnail:2TFbpD4M8_c:
   spec:
     videoId: 2TFbpD4M8_c
-    filePath: data/videos/archive/svelte1.jpg
-    hash: a4d1eaace3b29ad7865bcd0119ca960869c399472b433307a7d0f64b1d8f4292
+    filePath: data/videos/archive/bkkjs14-1.jpg
+    hash: 09a1750a2757837bd2dbbf215c9808b4ec3d29a7ff79c6c57f2c5a1c7a79dba4
   state: {}
 thumbnail:b2TRUel47YY:
   spec:
@@ -3070,7 +3070,7 @@ video:2TFbpD4M8_c:
   spec:
     id: 2TFbpD4M8_c
     snippet:
-      title: 'Garten Streams: Svelte Meetup Bangkok #1'
+      title: 'Garten Streams: BKK.JS #14 Return of the BKK.JS - Part 1'
       description: >-
 
         Website:
@@ -3096,7 +3096,7 @@ video:2TFbpD4M8_c:
         To edit the video metadata (title, description, timestamps, thumbnail,
         etc.), please visit:
 
-        https://grtn.org/e/archive/v/svelte1/edit
+        https://grtn.org/e/archive/v/bkkjs14-1/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -5040,4 +5040,46 @@ video:xCyRAH2X9FQ:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
+  state: {}
+thumbnail:8mFIdglKjYA:
+  spec:
+    videoId: 8mFIdglKjYA
+    filePath: data/videos/archive/svelte1.jpg
+    hash: a4d1eaace3b29ad7865bcd0119ca960869c399472b433307a7d0f64b1d8f4292
+  state: {}
+video:8mFIdglKjYA:
+  spec:
+    id: 8mFIdglKjYA
+    snippet:
+      title: 'Garten Streams: Svelte Meetup Bangkok #1'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/svelte1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
   state: {}
