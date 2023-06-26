@@ -1007,6 +1007,111 @@
       "imageFilePath": "data/videos/hacktoberfest2022/tdeb.jpg"
     },
     {
+      "event": "msbuild2023",
+      "slug": "azure-linux",
+      "data": {
+        "title": "Building apps more secure with Azure Linux for AKS",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "Pj6pI6fCLiI",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/azure-linux.md",
+      "imageFilePath": "data/videos/msbuild2023/azure-linux.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "codespaces",
+      "data": {
+        "title": "Build faster with GitHub Copilot X and Codespaces",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "vc4Ie7rpU_Y",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/codespaces.md",
+      "imageFilePath": "data/videos/msbuild2023/codespaces.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "era-of-copilot",
+      "data": {
+        "title": "The era of the AI Copilot",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "GY8ifITzFS8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/era-of-copilot.md",
+      "imageFilePath": "data/videos/msbuild2023/era-of-copilot.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "imagine-cup",
+      "data": {
+        "title": "Learning from Imagine Cup participants",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "39CCj2yLfn0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/imagine-cup.md",
+      "imageFilePath": "data/videos/msbuild2023/imagine-cup.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "msfabric-powerbi",
+      "data": {
+        "title": "Data analytics for the era of AI with Microsoft Fabric and Power BI",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "fv8ohV-TNSM",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/msfabric-powerbi.md",
+      "imageFilePath": "data/videos/msbuild2023/msfabric-powerbi.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "nextgen-ai-dev",
+      "data": {
+        "title": "Next generation AI for developers with the Microsoft Cloud",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "gRsbvzN4cJE",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/nextgen-ai-dev.md",
+      "imageFilePath": "data/videos/msbuild2023/nextgen-ai-dev.jpg"
+    },
+    {
+      "event": "msbuild2023",
+      "slug": "shaping-future-of-work",
+      "data": {
+        "title": "Shaping the future of work with AI",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "fJzMU4xrz74",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/msbuild2023/shaping-future-of-work.md",
+      "imageFilePath": "data/videos/msbuild2023/shaping-future-of-work.jpg"
+    },
+    {
       "event": "reactmeetup0922",
       "slug": "open-source-in-fully-remote-company",
       "data": {
