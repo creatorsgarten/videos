@@ -5449,3 +5449,45 @@ video:vc4Ie7rpU_Y:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:VXBSWZPEHcM:
+  spec:
+    videoId: VXBSWZPEHcM
+    filePath: data/videos/archive/sht7.jpg
+    hash: d3cbb4c5504580342c4d06048d8bccd9cabdc06cd50ef11f1c22c9deeccc43e2
+  state: {}
+video:VXBSWZPEHcM:
+  spec:
+    id: VXBSWZPEHcM
+    snippet:
+      title: 'Garten Streams: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht7/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
