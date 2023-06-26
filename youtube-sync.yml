@@ -5125,3 +5125,327 @@ video:aBXDiariKco:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:39CCj2yLfn0:
+  spec:
+    videoId: 39CCj2yLfn0
+    filePath: data/videos/msbuild2023/imagine-cup.jpg
+    hash: fca1cacbd38a09d48bd3de9b5cb23dd5c24bba81b76c2d327918b22538fef901
+  state: {}
+thumbnail:GY8ifITzFS8:
+  spec:
+    videoId: GY8ifITzFS8
+    filePath: data/videos/msbuild2023/era-of-copilot.jpg
+    hash: 36fab681027b530395db1b5c1e33da4bfc56b91726be270ebae21825076749f5
+  state: {}
+thumbnail:Pj6pI6fCLiI:
+  spec:
+    videoId: Pj6pI6fCLiI
+    filePath: data/videos/msbuild2023/azure-linux.jpg
+    hash: 3cd5c30c3303c8054e8792be0bb4af558e57cd855ce896ebdc3a62511a1d49e4
+  state: {}
+thumbnail:fJzMU4xrz74:
+  spec:
+    videoId: fJzMU4xrz74
+    filePath: data/videos/msbuild2023/shaping-future-of-work.jpg
+    hash: 192c3de18bcb75fca2275cce944c72dcf5dbf119866ada958dfc6ce8ed717e42
+  state: {}
+thumbnail:fv8ohV-TNSM:
+  spec:
+    videoId: fv8ohV-TNSM
+    filePath: data/videos/msbuild2023/msfabric-powerbi.jpg
+    hash: 2eee198a7f4eeb9658843a6514d546a469180d90a394a33306fbbbec2fc7ff4a
+  state: {}
+thumbnail:gRsbvzN4cJE:
+  spec:
+    videoId: gRsbvzN4cJE
+    filePath: data/videos/msbuild2023/nextgen-ai-dev.jpg
+    hash: 79fa8701048ed02e07f9502f6a15db9d510305dbcd3efd45823bf6cd671570f5
+  state: {}
+thumbnail:vc4Ie7rpU_Y:
+  spec:
+    videoId: vc4Ie7rpU_Y
+    filePath: data/videos/msbuild2023/codespaces.jpg
+    hash: 14bd1d30ce6f712a7d2dc5dbc1fceeeaffc446924dedcb82684fa58bca4322ce
+  state: {}
+video:39CCj2yLfn0:
+  spec:
+    id: 39CCj2yLfn0
+    snippet:
+      title: Learning from Imagine Cup participants by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/imagine-cup/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:GY8ifITzFS8:
+  spec:
+    id: GY8ifITzFS8
+    snippet:
+      title: The era of the AI Copilot by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/era-of-copilot/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Pj6pI6fCLiI:
+  spec:
+    id: Pj6pI6fCLiI
+    snippet:
+      title: Building apps more secure with Azure Linux for AKS by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/azure-linux/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:fJzMU4xrz74:
+  spec:
+    id: fJzMU4xrz74
+    snippet:
+      title: Shaping the future of work with AI by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/shaping-future-of-work/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:fv8ohV-TNSM:
+  spec:
+    id: fv8ohV-TNSM
+    snippet:
+      title: >-
+        Data analytics for the era of AI with Microsoft Fabric and Power BI by
+        SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/msfabric-powerbi/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:gRsbvzN4cJE:
+  spec:
+    id: gRsbvzN4cJE
+    snippet:
+      title: Next generation AI for developers with the Microsoft Cloud by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/nextgen-ai-dev/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:vc4Ie7rpU_Y:
+  spec:
+    id: vc4Ie7rpU_Y
+    snippet:
+      title: Build faster with GitHub Copilot X and Codespaces by SPEAKER
+      description: >-
+        Event: Microsoft Build - After Party Thailand
+
+        https://grtn.org/e/msbuild2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/msbuild2023/v/codespaces/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
