@@ -324,6 +324,20 @@
     },
     {
       "event": "archive",
+      "slug": "sht7",
+      "data": {
+        "title": "The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand",
+        "type": "archive",
+        "youtube": "VXBSWZPEHcM",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht7.md",
+      "imageFilePath": "data/videos/archive/sht7.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "svelte1",
       "data": {
         "title": "Svelte Meetup Bangkok #1",
