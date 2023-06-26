@@ -4219,7 +4219,7 @@ video:0d0Po170y7U:
   spec:
     id: 0d0Po170y7U
     snippet:
-      title: 'Garten Streams: VS Code Day 2023'
+      title: 'Garten Streams: VS Code Day 2023 - Thailand'
       description: >-
 
         Website:
@@ -5078,6 +5078,48 @@ video:8mFIdglKjYA:
         etc.), please visit:
 
         https://grtn.org/e/archive/v/svelte1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+thumbnail:aBXDiariKco:
+  spec:
+    videoId: aBXDiariKco
+    filePath: data/videos/archive/msbuild2023.jpg
+    hash: 88c062c1de5a6f45574471617b0f49aa2a8c756b24b71181138c2f8a685d20c3
+  state: {}
+video:aBXDiariKco:
+  spec:
+    id: aBXDiariKco
+    snippet:
+      title: 'Garten Streams: Microsoft Build - After Party Thailand'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/msbuild2023/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
