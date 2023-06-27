@@ -61,7 +61,7 @@ const events = [
   new Event('svelte1', 'Svelte Meetup Bangkok #1', {
     metaVersion: 1,
   }),
-  new Event('shit6', 'The ៦th Stupid Hackathon in Thailand', {
+  new Event('sht6', 'The ៦th Stupid Hackathon in Thailand', {
     metaVersion: 1,
   }),
   new Event('hacktoberfest2022', 'Hacktoberfest Thailand 2022', {
