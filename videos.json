@@ -184,6 +184,20 @@
     },
     {
       "event": "archive",
+      "slug": "reactmeetup0623",
+      "data": {
+        "title": "React Meetup 06/23",
+        "type": "archive",
+        "youtube": "IuxQdDsmJvY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup0623.md",
+      "imageFilePath": "data/videos/archive/reactmeetup0623.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "reactmeetup2022-1",
       "data": {
         "title": "React Meetup 2022 - Part 1",
