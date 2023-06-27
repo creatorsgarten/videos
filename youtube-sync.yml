@@ -5491,3 +5491,45 @@ video:VXBSWZPEHcM:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:IuxQdDsmJvY:
+  spec:
+    videoId: IuxQdDsmJvY
+    filePath: data/videos/archive/reactmeetup0623.jpg
+    hash: 83bccf0300dcab797983727c608436e6144ba54a4eead14b962a429db4f16b67
+  state: {}
+video:IuxQdDsmJvY:
+  spec:
+    id: IuxQdDsmJvY
+    snippet:
+      title: 'Garten Streams: React Meetup 06/23'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/reactmeetup0623/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
