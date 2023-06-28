@@ -1,6 +1,6 @@
 ---
-title: session5 reject client side   HD 1080p
-speaker: SPEAKER
+title: ละทิ้ง Client-Side JavaScript หวนคืนสู่ Server-Side Rendering
+speaker: Phumrapee Limpianchop
 youtube: jM0njSK-bPg
 managed: true
 published: false
