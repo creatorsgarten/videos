@@ -5607,3 +5607,235 @@ video:IuxQdDsmJvY:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:LY3e3IAezBQ:
+  spec:
+    videoId: LY3e3IAezBQ
+    filePath: data/videos/reactmeetup0623/headless-component.jpg
+    hash: 763495dedfd893b856192c491deb6abb261d70ff654c6d4dc342d792bc3fb618
+  state: {}
+thumbnail:MR7GaoZDABc:
+  spec:
+    videoId: MR7GaoZDABc
+    filePath: data/videos/reactmeetup0623/blazing-fast.jpg
+    hash: 5136f118e47df44ff9f327014e4d4304854690884bb223102035b404d63d921f
+  state: {}
+thumbnail:ZEKtdhlzMBA:
+  spec:
+    videoId: ZEKtdhlzMBA
+    filePath: data/videos/reactmeetup0623/framer-motion.jpg
+    hash: bcb780ecf9274b4bff76b2befced6ad07d0b1e4a689da5e167aceee798c3455a
+  state: {}
+thumbnail:g4zUmjKXqms:
+  spec:
+    videoId: g4zUmjKXqms
+    filePath: data/videos/reactmeetup0623/react-saga.jpg
+    hash: d7d76cc835e3362b57ac2cfbbd3a80c4bd3d125d3c33a4da312c681163632c67
+  state: {}
+thumbnail:jM0njSK-bPg:
+  spec:
+    videoId: jM0njSK-bPg
+    filePath: data/videos/reactmeetup0623/reject-client-side.jpg
+    hash: d7dde0dc4aab336473a5f3d4e52caadba1611923338ded97c76c7b498ccb3a8a
+  state: {}
+video:LY3e3IAezBQ:
+  spec:
+    id: LY3e3IAezBQ
+    snippet:
+      title: >-
+        Building a Long-Lived Component with Headless Components by Komkanit
+        Sujautra
+      description: >-
+        Event: React Meetup 09/22
+
+        https://grtn.org/e/reactmeetup0623
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0623/v/headless-component/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:MR7GaoZDABc:
+  spec:
+    id: MR7GaoZDABc
+    snippet:
+      title: How to make snappy apps! by ธีรภัทร เมืองพูล
+      description: >-
+        Event: React Meetup 09/22
+
+        https://grtn.org/e/reactmeetup0623
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0623/v/blazing-fast/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ZEKtdhlzMBA:
+  spec:
+    id: ZEKtdhlzMBA
+    snippet:
+      title: Framer Motion is EZ by Phat Thaveepholcharoen
+      description: >-
+        Event: React Meetup 09/22
+
+        https://grtn.org/e/reactmeetup0623
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0623/v/framer-motion/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:g4zUmjKXqms:
+  spec:
+    id: g4zUmjKXqms
+    snippet:
+      title: Level Up your Redux with Redux-Saga by สมภพ กุละปาลานนท์
+      description: >-
+        Event: React Meetup 09/22
+
+        https://grtn.org/e/reactmeetup0623
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0623/v/react-saga/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:jM0njSK-bPg:
+  spec:
+    id: jM0njSK-bPg
+    snippet:
+      title: session5 reject client side   HD 1080p by SPEAKER
+      description: >-
+        Event: React Meetup 09/22
+
+        https://grtn.org/e/reactmeetup0623
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0623/v/reject-client-side/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
