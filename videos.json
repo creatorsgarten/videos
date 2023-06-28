@@ -1141,6 +1141,81 @@
       "imageFilePath": "data/videos/msbuild2023/shaping-future-of-work.jpg"
     },
     {
+      "event": "reactmeetup0623",
+      "slug": "blazing-fast",
+      "data": {
+        "title": "How to make snappy apps!",
+        "speaker": "ธีรภัทร เมืองพูล",
+        "type": "talk",
+        "youtube": "MR7GaoZDABc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/blazing-fast.md",
+      "imageFilePath": "data/videos/reactmeetup0623/blazing-fast.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "framer-motion",
+      "data": {
+        "title": "Framer Motion is EZ",
+        "speaker": "Phat Thaveepholcharoen",
+        "type": "talk",
+        "youtube": "ZEKtdhlzMBA",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/framer-motion.md",
+      "imageFilePath": "data/videos/reactmeetup0623/framer-motion.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "headless-component",
+      "data": {
+        "title": "Building a Long-Lived Component with Headless Components",
+        "speaker": "Komkanit Sujautra",
+        "type": "talk",
+        "youtube": "LY3e3IAezBQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/headless-component.md",
+      "imageFilePath": "data/videos/reactmeetup0623/headless-component.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "react-saga",
+      "data": {
+        "title": "Level Up your Redux with Redux-Saga",
+        "speaker": "สมภพ กุละปาลานนท์",
+        "type": "talk",
+        "youtube": "g4zUmjKXqms",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/react-saga.md",
+      "imageFilePath": "data/videos/reactmeetup0623/react-saga.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "reject-client-side",
+      "data": {
+        "title": "session5 reject client side   HD 1080p",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "jM0njSK-bPg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/reject-client-side.md",
+      "imageFilePath": "data/videos/reactmeetup0623/reject-client-side.jpg"
+    },
+    {
       "event": "reactmeetup0922",
       "slug": "open-source-in-fully-remote-company",
       "data": {
