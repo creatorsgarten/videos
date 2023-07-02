@@ -5611,31 +5611,31 @@ thumbnail:LY3e3IAezBQ:
   spec:
     videoId: LY3e3IAezBQ
     filePath: data/videos/reactmeetup0623/headless-component.jpg
-    hash: 763495dedfd893b856192c491deb6abb261d70ff654c6d4dc342d792bc3fb618
+    hash: 6eaaf005fb94c17e56901dd2a2cfbdb2723b00b842e3adb55de01778f8c18f50
   state: {}
 thumbnail:MR7GaoZDABc:
   spec:
     videoId: MR7GaoZDABc
     filePath: data/videos/reactmeetup0623/blazing-fast.jpg
-    hash: 5136f118e47df44ff9f327014e4d4304854690884bb223102035b404d63d921f
+    hash: fe50e376676bc019bc2641a166f7c9ab8126a0546f829457e24615fc541fd357
   state: {}
 thumbnail:ZEKtdhlzMBA:
   spec:
     videoId: ZEKtdhlzMBA
     filePath: data/videos/reactmeetup0623/framer-motion.jpg
-    hash: bcb780ecf9274b4bff76b2befced6ad07d0b1e4a689da5e167aceee798c3455a
+    hash: 417f39ab29a9317fb666d944bf3fc91ea7af708c7e02aaa6e456fd3753855184
   state: {}
 thumbnail:g4zUmjKXqms:
   spec:
     videoId: g4zUmjKXqms
-    filePath: data/videos/reactmeetup0623/react-saga.jpg
-    hash: d7d76cc835e3362b57ac2cfbbd3a80c4bd3d125d3c33a4da312c681163632c67
+    filePath: data/videos/reactmeetup0623/redux-saga.jpg
+    hash: e4f5158a5abb064d5e4432d93a4ff663144ccd4b45b72c290b15b6e6c5a3af98
   state: {}
 thumbnail:jM0njSK-bPg:
   spec:
     videoId: jM0njSK-bPg
     filePath: data/videos/reactmeetup0623/reject-client-side.jpg
-    hash: d7dde0dc4aab336473a5f3d4e52caadba1611923338ded97c76c7b498ccb3a8a
+    hash: e223b0fb292d757affb70fc5ea55c628f5a02116d0f6fa7d7ff7bbbf50e91813
   state: {}
 video:LY3e3IAezBQ:
   spec:
@@ -5793,7 +5793,7 @@ video:g4zUmjKXqms:
         To edit the video metadata (title, description, timestamps, thumbnail,
         etc.), please visit:
 
-        https://grtn.org/e/reactmeetup0623/v/react-saga/edit
+        https://grtn.org/e/reactmeetup0623/v/redux-saga/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
