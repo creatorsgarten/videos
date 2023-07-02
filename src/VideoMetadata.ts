@@ -18,6 +18,8 @@ async function getDefaultTitle(video: Video) {
     )
   } else if (data.type === 'archive') {
     return 'Garten Streams: ' + data.title
+  } else if (data.speaker === undefined) {
+    return data.title
   }
 
   return data.title + ' by ' + getSpeakers(video)
