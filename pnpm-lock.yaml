@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   chalk:
     specifier: ^5.1.2
@@ -44,8 +48,8 @@ dependencies:
     specifier: ^17.6.0
     version: 17.6.0
   zod:
-    specifier: ^3.19.1
-    version: 3.19.1
+    specifier: ^3.21.4
+    version: 3.21.4
 
 devDependencies:
   '@types/inquirer':
@@ -1992,6 +1996,6 @@ packages:
       yargs-parser: 21.1.1
     dev: false
 
-  /zod@3.19.1:
-    resolution: {integrity: sha512-LYjZsEDhCdYET9ikFu6dVPGp2YH9DegXjdJToSzD9rO6fy4qiRYFoyEYwps88OseJlPyl2NOe2iJuhEhL7IpEA==}
+  /zod@3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
     dev: false
