@@ -1043,7 +1043,7 @@
         "type": "talk",
         "youtube": "Pj6pI6fCLiI",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/azure-linux.md",
@@ -1057,7 +1057,7 @@
         "type": "talk",
         "youtube": "vc4Ie7rpU_Y",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/codespaces.md",
@@ -1071,7 +1071,7 @@
         "type": "talk",
         "youtube": "GY8ifITzFS8",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/era-of-copilot.md",
@@ -1085,7 +1085,7 @@
         "type": "talk",
         "youtube": "39CCj2yLfn0",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/imagine-cup.md",
@@ -1099,7 +1099,7 @@
         "type": "talk",
         "youtube": "fv8ohV-TNSM",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/msfabric-powerbi.md",
@@ -1113,7 +1113,7 @@
         "type": "talk",
         "youtube": "gRsbvzN4cJE",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/nextgen-ai-dev.md",
@@ -1127,7 +1127,7 @@
         "type": "talk",
         "youtube": "fJzMU4xrz74",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/shaping-future-of-work.md",
