@@ -5171,7 +5171,7 @@ video:39CCj2yLfn0:
   spec:
     id: 39CCj2yLfn0
     snippet:
-      title: Learning from Imagine Cup participants by SPEAKER
+      title: Learning from Imagine Cup participants
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5211,7 +5211,7 @@ video:GY8ifITzFS8:
   spec:
     id: GY8ifITzFS8
     snippet:
-      title: The era of the AI Copilot by SPEAKER
+      title: The era of the AI Copilot
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5251,7 +5251,7 @@ video:Pj6pI6fCLiI:
   spec:
     id: Pj6pI6fCLiI
     snippet:
-      title: Building apps more secure with Azure Linux for AKS by SPEAKER
+      title: Building apps more secure with Azure Linux for AKS
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5291,7 +5291,7 @@ video:fJzMU4xrz74:
   spec:
     id: fJzMU4xrz74
     snippet:
-      title: Shaping the future of work with AI by SPEAKER
+      title: Shaping the future of work with AI
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5331,9 +5331,7 @@ video:fv8ohV-TNSM:
   spec:
     id: fv8ohV-TNSM
     snippet:
-      title: >-
-        Data analytics for the era of AI with Microsoft Fabric and Power BI by
-        SPEAKER
+      title: Data analytics for the era of AI with Microsoft Fabric and Power BI
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5373,7 +5371,7 @@ video:gRsbvzN4cJE:
   spec:
     id: gRsbvzN4cJE
     snippet:
-      title: Next generation AI for developers with the Microsoft Cloud by SPEAKER
+      title: Next generation AI for developers with the Microsoft Cloud
       description: >-
         Event: Microsoft Build - After Party Thailand
 
@@ -5413,7 +5411,7 @@ video:vc4Ie7rpU_Y:
   spec:
     id: vc4Ie7rpU_Y
     snippet:
-      title: Build faster with GitHub Copilot X and Codespaces by SPEAKER
+      title: Build faster with GitHub Copilot X and Codespaces
       description: >-
         Event: Microsoft Build - After Party Thailand
 
