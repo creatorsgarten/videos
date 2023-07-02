@@ -1187,7 +1187,7 @@
     },
     {
       "event": "reactmeetup0623",
-      "slug": "react-saga",
+      "slug": "redux-saga",
       "data": {
         "title": "Level Up your Redux with Redux-Saga",
         "speaker": "สมภพ กุละปาลานนท์",
@@ -1197,8 +1197,8 @@
         "published": false
       },
       "content": "",
-      "filePath": "data/videos/reactmeetup0623/react-saga.md",
-      "imageFilePath": "data/videos/reactmeetup0623/react-saga.jpg"
+      "filePath": "data/videos/reactmeetup0623/redux-saga.md",
+      "imageFilePath": "data/videos/reactmeetup0623/redux-saga.jpg"
     },
     {
       "event": "reactmeetup0623",
