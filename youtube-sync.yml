@@ -5839,3 +5839,91 @@ video:jM0njSK-bPg:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:4pHImuREacg:
+  spec:
+    videoId: 4pHImuREacg
+    filePath: data/videos/archive/functional2-2.jpg
+    hash: 095d99dc567889042c3e92b9aa7df648396d3a6d1a6f70c5da86523c5f88d361
+  state: {}
+thumbnail:ku42RMFPR9Y:
+  spec:
+    videoId: ku42RMFPR9Y
+    filePath: data/videos/archive/functional2-1.jpg
+    hash: 095d99dc567889042c3e92b9aa7df648396d3a6d1a6f70c5da86523c5f88d361
+  state: {}
+video:4pHImuREacg:
+  spec:
+    id: 4pHImuREacg
+    snippet:
+      title: >-
+        Garten Streams: Functional Meetup #2: Elm for Frontend Developers - Part
+        2
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/functional2-2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ku42RMFPR9Y:
+  spec:
+    id: ku42RMFPR9Y
+    snippet:
+      title: >-
+        Garten Streams: Functional Meetup #2: Elm for Frontend Developers - Part
+        1
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/functional2-1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
