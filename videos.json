@@ -100,6 +100,34 @@
     },
     {
       "event": "archive",
+      "slug": "functional2-1",
+      "data": {
+        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 1",
+        "type": "archive",
+        "youtube": "ku42RMFPR9Y",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/functional2-1.md",
+      "imageFilePath": "data/videos/archive/functional2-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "functional2-2",
+      "data": {
+        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 2",
+        "type": "archive",
+        "youtube": "4pHImuREacg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/functional2-2.md",
+      "imageFilePath": "data/videos/archive/functional2-2.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "gql10-1",
       "data": {
         "title": "GraphQL Meetup 10.0 - Day 1",
