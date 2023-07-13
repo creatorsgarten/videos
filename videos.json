@@ -1184,7 +1184,7 @@
         "type": "talk",
         "youtube": "MR7GaoZDABc",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/blazing-fast.md",
@@ -1199,7 +1199,7 @@
         "type": "talk",
         "youtube": "ZEKtdhlzMBA",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/framer-motion.md",
@@ -1214,7 +1214,7 @@
         "type": "talk",
         "youtube": "LY3e3IAezBQ",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/headless-component.md",
@@ -1229,7 +1229,7 @@
         "type": "talk",
         "youtube": "g4zUmjKXqms",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/redux-saga.md",
@@ -1244,7 +1244,7 @@
         "type": "talk",
         "youtube": "jM0njSK-bPg",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/reject-client-side.md",
