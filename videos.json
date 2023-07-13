@@ -44,6 +44,20 @@
     },
     {
       "event": "archive",
+      "slug": "bkkjs18",
+      "data": {
+        "title": "BKK.JS #18",
+        "type": "archive",
+        "youtube": "jcV3SaQvYhs",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs18.md",
+      "imageFilePath": "data/videos/archive/bkkjs18.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "bkkoss-orientation",
       "data": {
         "title": "Bangkok Open Source Hackathon - Orientation",
