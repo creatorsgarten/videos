@@ -3,5 +3,5 @@ title: ละทิ้ง Client-Side JavaScript หวนคืนสู่ Ser
 speaker: Phumrapee Limpianchop
 youtube: jM0njSK-bPg
 managed: true
-published: false
+published: true
 ---
