@@ -85,4 +85,5 @@ const events = [
   new Event('functional', 'Functional Programming Meetup #1'),
   new Event('msbuild2023', 'Microsoft Build - After Party Thailand'),
   new Event('reactmeetup0623', 'React Meetup 06/23'),
+  new Event('bkkjs18', 'Bkk.js #18 - คิดถึงเลยอยากเจอ'),
 ]
