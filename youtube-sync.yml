@@ -5969,3 +5969,191 @@ video:jcV3SaQvYhs:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:47oIXnbQXps:
+  spec:
+    videoId: 47oIXnbQXps
+    filePath: data/videos/bkkjs18/nanostores.jpg
+    hash: c1b98edfa398b02a33988894f03364155da90084310d7fc7262dbb0fff9b82f0
+  state: {}
+thumbnail:Bm0RWdSCqxM:
+  spec:
+    videoId: Bm0RWdSCqxM
+    filePath: data/videos/bkkjs18/firebase.jpg
+    hash: 23bffb11ca835a44dd81c9f44e779cee8b45ec2680f6007800b755805a14061f
+  state: {}
+thumbnail:IjBp3KdJW6M:
+  spec:
+    videoId: IjBp3KdJW6M
+    filePath: data/videos/bkkjs18/magento.jpg
+    hash: 5d5f5b97e65004fec9035d8f6f0610caca891b32326acadac4ef24934b23d00c
+  state: {}
+thumbnail:Wd7oETbK5vY:
+  spec:
+    videoId: Wd7oETbK5vY
+    filePath: data/videos/bkkjs18/iconify.jpg
+    hash: 844608e16e20ccd158e8f62e0c3ffb91af5addc781d7cf50bf5bd7c559f5fb83
+  state: {}
+video:47oIXnbQXps:
+  spec:
+    id: 47oIXnbQXps
+    snippet:
+      title: >-
+        Atomic cross-framework state manager with nanostores by Phumrapee
+        Limpianchop
+      description: >-
+        Event: Bkk.js #18 - คิดถึงเลยอยากเจอ
+
+        https://grtn.org/e/bkkjs18
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs18/v/nanostores/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Bm0RWdSCqxM:
+  spec:
+    id: Bm0RWdSCqxM
+    snippet:
+      title: >-
+        Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd
+        Gen by Jirawat Karanwittayakar
+      description: >-
+        Event: Bkk.js #18 - คิดถึงเลยอยากเจอ
+
+        https://grtn.org/e/bkkjs18
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs18/v/firebase/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:IjBp3KdJW6M:
+  spec:
+    id: IjBp3KdJW6M
+    snippet:
+      title: Magento in the modern era by Akarawuth Tamrareang, Warat Wongmaneekit
+      description: >-
+        Event: Bkk.js #18 - คิดถึงเลยอยากเจอ
+
+        https://grtn.org/e/bkkjs18
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs18/v/magento/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Wd7oETbK5vY:
+  spec:
+    id: Wd7oETbK5vY
+    snippet:
+      title: Iconify Web Component by Thai Pangsakulyanont
+      description: >-
+        Event: Bkk.js #18 - คิดถึงเลยอยากเจอ
+
+        https://grtn.org/e/bkkjs18
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook page.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs18/v/iconify/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
