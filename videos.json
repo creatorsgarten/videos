@@ -736,6 +736,66 @@
       "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
+      "event": "bkkjs18",
+      "slug": "firebase",
+      "data": {
+        "title": "Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd Gen",
+        "speaker": "Jirawat Karanwittayakarn",
+        "type": "talk",
+        "youtube": "Bm0RWdSCqxM",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs18/firebase.md",
+      "imageFilePath": "data/videos/bkkjs18/firebase.jpg"
+    },
+    {
+      "event": "bkkjs18",
+      "slug": "iconify",
+      "data": {
+        "title": "Iconify Web Component",
+        "speaker": "Thai Pangsakulyanont",
+        "type": "talk",
+        "youtube": "Wd7oETbK5vY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs18/iconify.md",
+      "imageFilePath": "data/videos/bkkjs18/iconify.jpg"
+    },
+    {
+      "event": "bkkjs18",
+      "slug": "magento",
+      "data": {
+        "title": "Magento in the modern era",
+        "speaker": "Akarawuth Tamrareang; Warat Wongmaneekit",
+        "type": "talk",
+        "youtube": "IjBp3KdJW6M",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs18/magento.md",
+      "imageFilePath": "data/videos/bkkjs18/magento.jpg"
+    },
+    {
+      "event": "bkkjs18",
+      "slug": "nanostores",
+      "data": {
+        "title": "Atomic cross-framework state manager with nanostores",
+        "speaker": "Phumrapee Limpianchop",
+        "type": "talk",
+        "youtube": "47oIXnbQXps",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs18/nanostores.md",
+      "imageFilePath": "data/videos/bkkjs18/nanostores.jpg"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
