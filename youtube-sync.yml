@@ -1,5 +1,6 @@
 video:uDZIraaY5s8:
   spec:
+    id: uDZIraaY5s8
     snippet:
       title: The rise journey of brain-computer interface by Isaman Sangbamrung
       description: >-
@@ -42,11 +43,16 @@ video:uDZIraaY5s8:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/bci/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: uDZIraaY5s8
   state: {}
 thumbnail:uDZIraaY5s8:
   spec:
@@ -56,6 +62,7 @@ thumbnail:uDZIraaY5s8:
   state: {}
 video:8aVdlBhY6zU:
   spec:
+    id: 8aVdlBhY6zU
     snippet:
       title: >-
         How to contribute tech community with your blog by Monthira
@@ -119,11 +126,16 @@ video:8aVdlBhY6zU:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/blog/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: 8aVdlBhY6zU
   state: {}
 thumbnail:8aVdlBhY6zU:
   spec:
@@ -133,6 +145,7 @@ thumbnail:8aVdlBhY6zU:
   state: {}
 video:raaiHUinw8c:
   spec:
+    id: raaiHUinw8c
     snippet:
       title: GraalVM สัมผัสความแรงส์ในภาษาที่คุ้นเคย by Bhuridech Sudsee
       description: >-
@@ -167,11 +180,16 @@ video:raaiHUinw8c:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/graalvm/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: raaiHUinw8c
   state: {}
 thumbnail:raaiHUinw8c:
   spec:
@@ -181,6 +199,7 @@ thumbnail:raaiHUinw8c:
   state: {}
 video:nQa3foXwzGE:
   spec:
+    id: nQa3foXwzGE
     snippet:
       title: Joy UI, React components that spark joy by Siriwat Kunaporn
       description: >-
@@ -219,11 +238,16 @@ video:nQa3foXwzGE:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/joy-ui/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: nQa3foXwzGE
   state: {}
 thumbnail:nQa3foXwzGE:
   spec:
@@ -233,6 +257,7 @@ thumbnail:nQa3foXwzGE:
   state: {}
 video:nfnP0W0ZL94:
   spec:
+    id: nfnP0W0ZL94
     snippet:
       title: Monorepo 101 by Kitpipat Jaritwong
       description: >-
@@ -278,11 +303,16 @@ video:nfnP0W0ZL94:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/monorepo/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: nfnP0W0ZL94
   state: {}
 thumbnail:nfnP0W0ZL94:
   spec:
@@ -292,6 +322,7 @@ thumbnail:nfnP0W0ZL94:
   state: {}
 video:XD3n9J-eV1g:
   spec:
+    id: XD3n9J-eV1g
     snippet:
       title: How I contributed to Prisma by Jarupong Pajakgo
       description: >-
@@ -325,11 +356,16 @@ video:XD3n9J-eV1g:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/prisma/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: XD3n9J-eV1g
   state: {}
 thumbnail:XD3n9J-eV1g:
   spec:
@@ -339,6 +375,7 @@ thumbnail:XD3n9J-eV1g:
   state: {}
 video:KeyDrr4Qxg0:
   spec:
+    id: KeyDrr4Qxg0
     snippet:
       title: >-
         มาเขียนหนังสือ The Data Engineering Book สำหรับคนไทยเพื่อคนไทยกัน by
@@ -379,11 +416,16 @@ video:KeyDrr4Qxg0:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/hacktoberfest2022/v/tdeb/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: KeyDrr4Qxg0
   state: {}
 thumbnail:KeyDrr4Qxg0:
   spec:
@@ -393,6 +435,7 @@ thumbnail:KeyDrr4Qxg0:
   state: {}
 video:kS-LvjiZzUE:
   spec:
+    id: kS-LvjiZzUE
     snippet:
       title: Basic Svelte for React & Vue Developers by Manassarn Manoonchai
       description: >-
@@ -426,11 +469,16 @@ video:kS-LvjiZzUE:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/svelte1/v/basic-svelte-for-react-and-vue-developers/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: kS-LvjiZzUE
   state: {}
 thumbnail:kS-LvjiZzUE:
   spec:
@@ -440,6 +488,7 @@ thumbnail:kS-LvjiZzUE:
   state: {}
 video:EAaXA0PFXBA:
   spec:
+    id: EAaXA0PFXBA
     snippet:
       title: Web dev มือใหม่ vs SvelteKit by Tong Khemmathiti
       description: >-
@@ -472,11 +521,16 @@ video:EAaXA0PFXBA:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/svelte1/v/newbie-vs-sveltekit/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: EAaXA0PFXBA
   state: {}
 thumbnail:EAaXA0PFXBA:
   spec:
@@ -486,6 +540,7 @@ thumbnail:EAaXA0PFXBA:
   state: {}
 video:S1jUjA4mz0U:
   spec:
+    id: S1jUjA4mz0U
     snippet:
       title: Serverless SvelteKit Project by Thanatat Tamtan
       description: >-
@@ -518,11 +573,16 @@ video:S1jUjA4mz0U:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/svelte1/v/serverless-sveltekit-project/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: S1jUjA4mz0U
   state: {}
 thumbnail:S1jUjA4mz0U:
   spec:
@@ -532,6 +592,7 @@ thumbnail:S1jUjA4mz0U:
   state: {}
 video:ZRQg3b4Y_1A:
   spec:
+    id: ZRQg3b4Y_1A
     snippet:
       title: 'Bangkok: Svelte in every codebase by Kongkeit Khunpanitchot'
       description: >-
@@ -564,10 +625,15 @@ video:ZRQg3b4Y_1A:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/svelte1/v/svelte-in-every-codebase/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-    id: ZRQg3b4Y_1A
   state: {}
 thumbnail:ZRQg3b4Y_1A:
   spec:
@@ -577,6 +643,7 @@ thumbnail:ZRQg3b4Y_1A:
   state: {}
 video:IVwBbhHOvSQ:
   spec:
+    id: IVwBbhHOvSQ
     snippet:
       title: >-
         Shipping open source software in a fully remote company by Mahatthana
@@ -616,11 +683,16 @@ video:IVwBbhHOvSQ:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0922/v/open-source-in-fully-remote-company/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: IVwBbhHOvSQ
   state: {}
 thumbnail:IVwBbhHOvSQ:
   spec:
@@ -630,6 +702,7 @@ thumbnail:IVwBbhHOvSQ:
   state: {}
 video:iFBxlPXrZRo:
   spec:
+    id: iFBxlPXrZRo
     snippet:
       title: Implementing micro-animations with react-spring by Kanisorn Sutham
       description: >-
@@ -667,11 +740,16 @@ video:iFBxlPXrZRo:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0922/v/react-spring/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: iFBxlPXrZRo
   state: {}
 thumbnail:iFBxlPXrZRo:
   spec:
@@ -681,6 +759,7 @@ thumbnail:iFBxlPXrZRo:
   state: {}
 video:yvfsIaj6WVM:
   spec:
+    id: yvfsIaj6WVM
     snippet:
       title: Justice for React.StrictMode by Wit Jintanasathirakul
       description: >-
@@ -718,11 +797,16 @@ video:yvfsIaj6WVM:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0922/v/strict-mode/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: yvfsIaj6WVM
   state: {}
 thumbnail:yvfsIaj6WVM:
   spec:
@@ -732,6 +816,7 @@ thumbnail:yvfsIaj6WVM:
   state: {}
 video:-lZ5ndZhu8c:
   spec:
+    id: '-lZ5ndZhu8c'
     snippet:
       title: Meaningful React Component API with TypeScript by Kunanan Tassuwan
       description: >-
@@ -769,11 +854,16 @@ video:-lZ5ndZhu8c:
         touch with us. The speakers retain the copyright for their performances.
 
         mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/reactmeetup0922/v/typescript/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: public
-    id: '-lZ5ndZhu8c'
   state: {}
 thumbnail:-lZ5ndZhu8c:
   spec:
@@ -824,7 +914,7 @@ video:vbIWSwz8NxQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -880,7 +970,7 @@ video:vbIWSwz8NxQ:
 
 
           Please consider supporting us by subscribing to the channel, and
-          follow upcoming events via our Facebook page.
+          follow upcoming events via our Facebook pages.
 
 
           For reuse of this video under a more permissive license please get in
@@ -934,7 +1024,7 @@ video:vbIWSwz8NxQ:
 
 
           Please consider supporting us by subscribing to the channel, and
-          follow upcoming events via our Facebook page.
+          follow upcoming events via our Facebook pages.
 
 
           For reuse of this video under a more permissive license please get in
@@ -1006,7 +1096,7 @@ video:ltIvGLzMwzo:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1074,7 +1164,7 @@ video:le5M-5mhPY0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1132,7 +1222,7 @@ video:J2THXXeQMxY:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1190,7 +1280,7 @@ video:JuWzquQwt4g:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1245,7 +1335,7 @@ video:wrPz2Sp9EZU:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1359,7 +1449,7 @@ video:N8eBpiCXgNE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1446,7 +1536,7 @@ video:Wfu_DL29FL0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1530,7 +1620,7 @@ video:hbVoyXLWD98:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1607,7 +1697,7 @@ video:ztHxfz7nGVE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1710,7 +1800,7 @@ video:3HGzSV3fRGQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1778,7 +1868,7 @@ video:8EC1OLZOZyo:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1861,7 +1951,7 @@ video:ErotrrAm0eU:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -1940,7 +2030,7 @@ video:JhhmE1chbWQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2008,7 +2098,7 @@ video:TTU2oSlbT_w:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2075,7 +2165,7 @@ video:inkQI5yRd_Y:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2148,7 +2238,7 @@ video:on25fTHEtus:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2209,7 +2299,7 @@ video:su14UUhSVrM:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2276,7 +2366,7 @@ video:yd3uA1XOtww:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2420,7 +2510,7 @@ video:1jqGRu5fP_8:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2456,7 +2546,7 @@ video:6OS4iWfmApg:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2492,7 +2582,7 @@ video:AzvXWANuNxw:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2530,7 +2620,7 @@ video:CPd-ZUgA-w0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2566,7 +2656,7 @@ video:DjSkA1isb-c:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2602,7 +2692,7 @@ video:GUCkjzD4IEQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2638,7 +2728,7 @@ video:JfTbhig4MOc:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2674,7 +2764,7 @@ video:Pyp8IJbzLdo:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2712,7 +2802,7 @@ video:QDj6vV0wxQ4:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2748,7 +2838,7 @@ video:T6rdYlBmjJw:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2784,7 +2874,7 @@ video:hr3dEJO6L3o:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2820,7 +2910,7 @@ video:kyWtr20b8Ew:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2856,7 +2946,7 @@ video:ldctCYCYxSc:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2892,7 +2982,7 @@ video:nKFO4ujdnQ8:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2928,7 +3018,7 @@ video:nmK5p5RovuA:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -2964,7 +3054,7 @@ video:qicLQYQolf0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3000,7 +3090,7 @@ video:rZzM5jnIKFo:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3036,7 +3126,7 @@ video:xzAgKTgAhjs:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3084,7 +3174,7 @@ video:2TFbpD4M8_c:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3120,7 +3210,7 @@ video:b2TRUel47YY:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3162,7 +3252,7 @@ video:c9TB7rDX0HU:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3262,7 +3352,7 @@ video:KCPjgyDsuN4:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3353,7 +3443,7 @@ video:kXfi4FhzCi8:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3450,7 +3540,7 @@ video:7qelbJphNyI:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3535,7 +3625,7 @@ video:eNoHorGFVIc:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3637,7 +3727,7 @@ video:qzbyQAnqWYk:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -3732,7 +3822,7 @@ video:qzbyQAnqWYk:
 
 
           Please consider supporting us by subscribing to the channel, and
-          follow upcoming events via our Facebook page.
+          follow upcoming events via our Facebook pages.
 
 
           For reuse of this video under a more permissive license please get in
@@ -3827,7 +3917,7 @@ video:qzbyQAnqWYk:
 
 
           Please consider supporting us by subscribing to the channel, and
-          follow upcoming events via our Facebook page.
+          follow upcoming events via our Facebook pages.
 
 
           For reuse of this video under a more permissive license please get in
@@ -3947,7 +4037,7 @@ video:0btQNQkj41s:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4054,7 +4144,7 @@ video:J4bILD7KCWk:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4181,7 +4271,7 @@ video:kOJr_KzYg_Y:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4233,7 +4323,7 @@ video:0d0Po170y7U:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4321,7 +4411,7 @@ video:1EI-YdsPM3E:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4401,7 +4491,7 @@ video:ApIarHh3u14:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4441,7 +4531,7 @@ video:aeTydSml28M:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4481,7 +4571,7 @@ video:ccImhwmp0Ak:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4521,7 +4611,7 @@ video:eRZgg0vD0WE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4561,7 +4651,7 @@ video:kx9_RDsAKRY:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4653,7 +4743,7 @@ video:RVMlHxYldfk:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4693,7 +4783,7 @@ video:ezsjCVXlOW0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4735,7 +4825,7 @@ video:74nmsQFzltw:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4813,7 +4903,7 @@ video:8A4IAK2Pedg:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4855,7 +4945,7 @@ video:B60nabM4hgk:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4897,7 +4987,7 @@ video:F5_17LqLmU4:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4939,7 +5029,7 @@ video:JGmWEAuaj2s:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -4981,7 +5071,7 @@ video:bn7MU7tRSI0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5023,7 +5113,7 @@ video:xCyRAH2X9FQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5065,7 +5155,7 @@ video:8mFIdglKjYA:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5107,7 +5197,7 @@ video:aBXDiariKco:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5189,7 +5279,7 @@ video:39CCj2yLfn0:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5229,7 +5319,7 @@ video:GY8ifITzFS8:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5269,7 +5359,7 @@ video:Pj6pI6fCLiI:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5309,7 +5399,7 @@ video:fJzMU4xrz74:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5349,7 +5439,7 @@ video:fv8ohV-TNSM:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5389,7 +5479,7 @@ video:gRsbvzN4cJE:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5429,7 +5519,7 @@ video:vc4Ie7rpU_Y:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5545,7 +5635,7 @@ video:VXBSWZPEHcM:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5587,7 +5677,7 @@ video:IuxQdDsmJvY:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5659,7 +5749,7 @@ video:LY3e3IAezBQ:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5699,7 +5789,7 @@ video:MR7GaoZDABc:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5739,7 +5829,7 @@ video:ZEKtdhlzMBA:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5779,7 +5869,7 @@ video:g4zUmjKXqms:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5821,7 +5911,7 @@ video:jM0njSK-bPg:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5871,7 +5961,7 @@ video:4pHImuREacg:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5909,7 +5999,7 @@ video:ku42RMFPR9Y:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -5964,7 +6054,7 @@ video:jcV3SaQvYhs:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -6046,7 +6136,7 @@ video:47oIXnbQXps:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -6059,6 +6149,9 @@ video:47oIXnbQXps:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs18/v/nanostores/edit
+
+
+        #javascript #js #webdev #react #astro #nanostores
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -6088,7 +6181,7 @@ video:Bm0RWdSCqxM:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -6128,7 +6221,7 @@ video:IjBp3KdJW6M:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
@@ -6168,7 +6261,7 @@ video:Wd7oETbK5vY:
 
 
         Please consider supporting us by subscribing to the channel, and follow
-        upcoming events via our Facebook page.
+        upcoming events via our Facebook pages.
 
 
         For reuse of this video under a more permissive license please get in
