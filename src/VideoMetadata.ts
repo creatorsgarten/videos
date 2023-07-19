@@ -63,10 +63,9 @@ export async function getVideoDescription(
         ]
       : []),
     ...(video.data.team ? [`Team: ${video.data.team.name}`] : []),
-    ...(video.data.type !== 'archive' ? [
-      `Event: ${event.name}`,
-      event.url,
-    ] : []),
+    ...(video.data.type !== 'archive'
+      ? [`Event: ${event.name}`, event.url]
+      : []),
     ...(event.externalOrganizer
       ? [
           '',
@@ -88,18 +87,15 @@ export async function getVideoDescription(
     'Facebook:',
     'https://facebook.com/creatorsgarten',
     '',
-    version >= 2
-      ? 'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook page.'
-      : 'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.',
+    'Please consider supporting us by subscribing to the channel, and follow upcoming events via our Facebook pages.',
     '',
     'For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.',
     'mail@creatorsgarten.org',
-    ...(event.metaVersion >= 2
-      ? [
-          '',
-          'To edit the video metadata (title, description, timestamps, thumbnail, etc.), please visit:',
-          `https://grtn.org/e/${video.event}/v/${video.slug}/edit`,
-        ]
+    '',
+    'To edit the video metadata (title, description, timestamps, thumbnail, etc.), please visit:',
+    `https://grtn.org/e/${video.event}/v/${video.slug}/edit`,
+    ...(video.data.tags
+      ? ['', video.data.tags.map((tag) => `#${tag}`).join(' ')]
       : []),
   ].join('\n')
 }

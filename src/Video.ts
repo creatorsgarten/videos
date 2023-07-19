@@ -32,6 +32,7 @@ const VideoFrontMatter = z.object({
   englishDescription: z.string().optional(),
   published: z.boolean().optional(),
   subtitles: z.array(z.string()).optional(),
+  tags: z.array(z.string()).optional(),
 })
 type VideoFrontMatter = z.infer<typeof VideoFrontMatter>
 

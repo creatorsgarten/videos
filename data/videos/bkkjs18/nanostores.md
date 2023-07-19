@@ -4,6 +4,7 @@ speaker: Phumrapee Limpianchop
 youtube: 47oIXnbQXps
 managed: true
 published: false
+tags: [javascript, js, webdev, react, astro, nanostores]
 description: |
   0:00:00 | Introduction
   0:00:09 | Existing state management solutions
