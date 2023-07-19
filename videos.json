@@ -641,7 +641,12 @@
         "youtube": "JuWzquQwt4g",
         "managed": true,
         "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "js",
+          "ar",
+          "unity"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/ar.md",
@@ -665,6 +670,10 @@
         "published": true,
         "subtitles": [
           "en"
+        ],
+        "tags": [
+          "softwaredevelopment",
+          "testing"
         ]
       },
       "content": "",
@@ -698,7 +707,12 @@
         "youtube": "le5M-5mhPY0",
         "managed": true,
         "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "javascript",
+          "js",
+          "css"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/nojs.md",
@@ -730,7 +744,11 @@
         "youtube": "wrPz2Sp9EZU",
         "managed": true,
         "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "typescript",
+          "ts"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/typescript.md",
@@ -815,7 +833,12 @@
         "youtube": "J4bILD7KCWk",
         "managed": true,
         "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n\n00:00 | Introduction\n00:27 | Midjourney\n01:47 | Stable Diffusion\n03:21 | Why Stable Diffusion\n05:13 | Stable Diffusion Web UI\n07:03 | Example - People\n07:57 | Example - Animals\n08:33 | Example - Mona Lisa\n09:33 | Example - Creation of Adam with style changes\n11:22 | Example - The Last Supper with face insertion\n12:30 | Training AI to recreate a person’s face\n13:54 | Example - Being on a TED stage\n14:25 | Prompting demo\n15:43 | Production assets creation\n19:04 | Creating 360° image\n19:55 | Creating textures for 3D models\n20:35 | Retouching with AI\n21:40 | AI-generated videos\n23:19 | Dataset source: LAION.ai\n23:37 | Have I been trained?\n24:55 | More resources\n25:44 | NoAI movement\n29:04 | Conclusions\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "ai",
+          "stablediffusion",
+          "midjourney"
+        ]
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/ai.md",
@@ -939,7 +962,12 @@
         "youtube": "7qelbJphNyI",
         "managed": true,
         "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n\n00:00 | Introduction\n00:46 | Inspiration\n01:14 | Sketches\n01:28 | Interface design\n01:40 | Tech stack\n02:06 | Blender vs THREE.js\n05:01 | Game architecture\n08:32 | Vector world vs Angle world\n10:23 | Reflection angle calculation\n12:20 | Conclusions\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "javascript",
+          "js",
+          "gamedevelopment"
+        ]
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
@@ -969,7 +997,12 @@
         "type": "talk",
         "youtube": "bn7MU7tRSI0",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "devops",
+          "nix",
+          "automation"
+        ]
       },
       "content": "",
       "filePath": "data/videos/functional/cross-platform.md",
@@ -984,7 +1017,14 @@
         "type": "talk",
         "youtube": "8A4IAK2Pedg",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "devops",
+          "docker",
+          "pakman",
+          "alpine",
+          "elixir"
+        ]
       },
       "content": "",
       "filePath": "data/videos/functional/pakman.md",
@@ -999,7 +1039,10 @@
         "type": "talk",
         "youtube": "B60nabM4hgk",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "typescript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/functional/pitfalls.md",
@@ -1014,7 +1057,11 @@
         "type": "talk",
         "youtube": "xCyRAH2X9FQ",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "softwaredevelopment",
+          "problemsolving"
+        ]
       },
       "content": "",
       "filePath": "data/videos/functional/problem-solving.md",
@@ -1093,7 +1140,13 @@
         "youtube": "nQa3foXwzGE",
         "managed": true,
         "description": "Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก\n\nJoy UI\nhttps://mui.com/joy-ui/getting-started/overview/\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "materialui",
+          "javascript",
+          "js",
+          "reactjs"
+        ]
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/joy-ui.md",
@@ -1109,7 +1162,10 @@
         "youtube": "nfnP0W0ZL94",
         "managed": true,
         "description": "Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน\n\n00:00 | Intro\n00:46 | What is a repository?\n06:00 | What is a monorepo?\n06:37 | What are the differences?\n13:23 | Questions\n",
-        "published": true
+        "published": true,
+        "tags": [
+          "turborepo monorepo"
+        ]
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/monorepo.md",
@@ -1125,7 +1181,11 @@
         "youtube": "XD3n9J-eV1g",
         "managed": true,
         "description": "เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ dev version, และหา solution ให้คนใน community",
-        "published": true
+        "published": true,
+        "tags": [
+          "database",
+          "prisma"
+        ]
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/prisma.md",
@@ -1155,7 +1215,12 @@
         "type": "talk",
         "youtube": "Pj6pI6fCLiI",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "azure",
+          "linux",
+          "docker"
+        ]
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/azure-linux.md",
@@ -1169,7 +1234,12 @@
         "type": "talk",
         "youtube": "vc4Ie7rpU_Y",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "githubcopilot",
+          "codegeneration",
+          "codespaces"
+        ]
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/codespaces.md",
@@ -1183,7 +1253,11 @@
         "type": "talk",
         "youtube": "GY8ifITzFS8",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "ai",
+          "githubcopilot"
+        ]
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/era-of-copilot.md",
@@ -1211,7 +1285,12 @@
         "type": "talk",
         "youtube": "fv8ohV-TNSM",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "powerbi",
+          "microsoftfabric",
+          "dataanalytics"
+        ]
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/msfabric-powerbi.md",
@@ -1254,7 +1333,13 @@
         "type": "talk",
         "youtube": "MR7GaoZDABc",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "react",
+          "reactjs",
+          "js",
+          "javascript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/blazing-fast.md",
@@ -1269,7 +1354,15 @@
         "type": "talk",
         "youtube": "ZEKtdhlzMBA",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "react",
+          "reactjs",
+          "js",
+          "javascript",
+          "framer",
+          "framermotion"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/framer-motion.md",
@@ -1284,7 +1377,10 @@
         "type": "talk",
         "youtube": "LY3e3IAezBQ",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "react"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/headless-component.md",
@@ -1299,7 +1395,13 @@
         "type": "talk",
         "youtube": "g4zUmjKXqms",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "redux",
+          "reactjs",
+          "js",
+          "javascript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/redux-saga.md",
@@ -1314,7 +1416,17 @@
         "type": "talk",
         "youtube": "jM0njSK-bPg",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "astrojs",
+          "nextjs",
+          "react",
+          "vue",
+          "svelte",
+          "typescript",
+          "javascript",
+          "js"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0623/reject-client-side.md",
@@ -1344,7 +1456,13 @@
         "type": "talk",
         "youtube": "iFBxlPXrZRo",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "reactspring",
+          "react",
+          "js",
+          "javascript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0922/react-spring.md",
@@ -1359,7 +1477,13 @@
         "type": "talk",
         "youtube": "yvfsIaj6WVM",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "react",
+          "reactjs",
+          "js",
+          "javascript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0922/strict-mode.md",
@@ -1374,7 +1498,13 @@
         "type": "talk",
         "youtube": "-lZ5ndZhu8c",
         "managed": true,
-        "published": true
+        "published": true,
+        "tags": [
+          "react",
+          "typescript",
+          "js",
+          "javascript"
+        ]
       },
       "content": "",
       "filePath": "data/videos/reactmeetup0922/typescript.md",
@@ -1390,7 +1520,12 @@
         "youtube": "kS-LvjiZzUE",
         "managed": true,
         "description": "Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue",
-        "published": true
+        "published": true,
+        "tags": [
+          "svelte",
+          "tutorial",
+          "webdevelopment"
+        ]
       },
       "content": "",
       "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md",
@@ -1406,7 +1541,11 @@
         "youtube": "EAaXA0PFXBA",
         "managed": true,
         "description": "จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte",
-        "published": true
+        "published": true,
+        "tags": [
+          "svelte",
+          "sveltekit"
+        ]
       },
       "content": "",
       "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md",
@@ -1422,7 +1561,14 @@
         "youtube": "S1jUjA4mz0U",
         "managed": true,
         "description": "ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?",
-        "published": true
+        "published": true,
+        "tags": [
+          "devops",
+          "svelte",
+          "sveltekit",
+          "cloudflare",
+          "cloudflareworkers"
+        ]
       },
       "content": "",
       "filePath": "data/videos/svelte1/serverless-sveltekit-project.md",
