@@ -4,6 +4,7 @@ speaker: Wasit Jingjit; Watid Jingjit
 youtube: JuWzquQwt4g
 managed: true
 published: true
+tags: [js, ar, unity]
 description: |
   เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที
 
