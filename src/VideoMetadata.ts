@@ -41,7 +41,6 @@ export async function getVideoDescription(
   language?: 'en',
 ): Promise<string> {
   const event = await Event.findById(video.event)
-  const version = event.metaVersion ?? 1
   const videoTitle = await getVideoTitle(video, language)
   const defaultTitle = await getDefaultTitle(video)
   const talkDescription =
