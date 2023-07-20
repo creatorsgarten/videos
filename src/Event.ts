@@ -81,9 +81,29 @@ const events = [
   new Event('bangkok', 'Bangkok Open Source Hackathon'),
   new Event('archive', 'Stream Archives'),
   new Event('creativecodingmeetup', 'Creative Coding Meetup'),
-  new Event('vscodeday2023', 'VS Code Day 2023 - Thailand'),
+  new Event('vscodeday2023', 'VS Code Day 2023 - Thailand', {
+    externalOrganizer: {
+      name: 'Spark Tech Thailand',
+      url: 'https://www.facebook.com/SparkTechTH',
+    },
+  }),
   new Event('functional', 'Functional Programming Meetup #1'),
-  new Event('msbuild2023', 'Microsoft Build - After Party Thailand'),
-  new Event('reactmeetup0623', 'React Meetup 06/23'),
-  new Event('bkkjs18', 'Bkk.js #18 - คิดถึงเลยอยากเจอ'),
+  new Event('msbuild2023', 'Microsoft Build - After Party Thailand', {
+    externalOrganizer: {
+      name: 'Spark Tech Thailand',
+      url: 'https://www.facebook.com/SparkTechTH',
+    },
+  }),
+  new Event('reactmeetup0623', 'React Meetup 06/23', {
+    externalOrganizer: {
+      name: 'React ไปวันๆ',
+      url: 'https://www.facebook.com/devMasterSomeday/',
+    },
+  }),
+  new Event('bkkjs18', 'Bkk.js #18 - คิดถึงเลยอยากเจอ', {
+    externalOrganizer: {
+      name: 'Web Developer Thailand',
+      url: 'https://www.facebook.com/web.developer.th',
+    },
+  }),
 ]
