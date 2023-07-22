@@ -6633,3 +6633,129 @@ video:Wd7oETbK5vY:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:GdooNVWY3kQ:
+  spec:
+    videoId: GdooNVWY3kQ
+    filePath: data/videos/archive/typescript1.jpg
+    hash: 0600b7110bf9e846a96b33847492b7b17f4fb1233981cb22c224f3a99f157f21
+  state: {}
+thumbnail:riUzuz5QZBo:
+  spec:
+    videoId: riUzuz5QZBo
+    filePath: data/videos/archive/sideproject.jpg
+    hash: 2b50dd3c268915461cc66559f21920ec7d78951bf569e744f01613aaf5c311d2
+  state: {}
+thumbnail:yEti_mtpXJ8:
+  spec:
+    videoId: yEti_mtpXJ8
+    filePath: data/videos/archive/mathsatsundown.jpg
+    hash: 5afcc891247f386e6bc9da83b278868efd6ff1d7b94513856d25ca9163bbe964
+  state: {}
+video:GdooNVWY3kQ:
+  spec:
+    id: GdooNVWY3kQ
+    snippet:
+      title: 'Garten Streams: TypeScript Community Meetup'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/typescript1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:riUzuz5QZBo:
+  spec:
+    id: riUzuz5QZBo
+    snippet:
+      title: 'Garten Streams: Side Projects Showdown'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sideproject/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:yEti_mtpXJ8:
+  spec:
+    id: yEti_mtpXJ8
+    snippet:
+      title: 'Garten Streams: Maths at Sundown'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/mathsatsundown/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
