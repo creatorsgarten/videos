@@ -213,6 +213,20 @@
     },
     {
       "event": "archive",
+      "slug": "mathsatsundown",
+      "data": {
+        "title": "Maths at Sundown",
+        "type": "archive",
+        "youtube": "yEti_mtpXJ8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/mathsatsundown.md",
+      "imageFilePath": "data/videos/archive/mathsatsundown.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "msbuild2023",
       "data": {
         "title": "Microsoft Build - After Party Thailand",
@@ -396,6 +410,20 @@
     },
     {
       "event": "archive",
+      "slug": "sideproject",
+      "data": {
+        "title": "Side Projects Showdown",
+        "type": "archive",
+        "youtube": "riUzuz5QZBo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sideproject.md",
+      "imageFilePath": "data/videos/archive/sideproject.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "svelte1",
       "data": {
         "title": "Svelte Meetup Bangkok #1",
@@ -407,6 +435,20 @@
       "content": "",
       "filePath": "data/videos/archive/svelte1.md",
       "imageFilePath": "data/videos/archive/svelte1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "typescript1",
+      "data": {
+        "title": "TypeScript Community Meetup",
+        "type": "archive",
+        "youtube": "GdooNVWY3kQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/typescript1.md",
+      "imageFilePath": "data/videos/archive/typescript1.jpg"
     },
     {
       "event": "archive",
