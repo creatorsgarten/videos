@@ -6989,3 +6989,663 @@ video:vMWpCWoKotQ:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:7V7h0idgP7o:
+  spec:
+    videoId: 7V7h0idgP7o
+    filePath: data/videos/sideproject/elysia.jpg
+    hash: 07d268093dbd26f7723b14aeb933b9b01bfeb8480eeb1a358a5027d97ef840de
+  state: {}
+thumbnail:R7pHSGT9VVc:
+  spec:
+    videoId: R7pHSGT9VVc
+    filePath: data/videos/sideproject/zero-share.jpg
+    hash: 6d963e615ac5639cfbd08c904f5e5e0d092a419e7b2e8fbefd4a0f9175876e95
+  state: {}
+thumbnail:Vxmb6xTMulE:
+  spec:
+    videoId: Vxmb6xTMulE
+    filePath: data/videos/sideproject/ham.jpg
+    hash: 3d3bb2bf5afb3cb86551f324b6e6cbca038e5ce6b5dd172369b630c020f9dfba
+  state: {}
+thumbnail:aZkXvmro_uo:
+  spec:
+    videoId: aZkXvmro_uo
+    filePath: data/videos/sideproject/narze.jpg
+    hash: e3b8b9d445ca86bd72d5a67b261f1ed7422f2e23d950e696843dd7fbac7ae1ec
+  state: {}
+thumbnail:b_4u0YcM3ao:
+  spec:
+    videoId: b_4u0YcM3ao
+    filePath: data/videos/sideproject/eeg.jpg
+    hash: 22d82166448d97a1aa71919d10e29ea4f5785ea20cbbcc2059312a1f4228be0a
+  state: {}
+thumbnail:fJHgUd1QINQ:
+  spec:
+    videoId: fJHgUd1QINQ
+    filePath: data/videos/sideproject/dtinth.jpg
+    hash: 6abdedfd9a28f5e3c2694cfdc2424e241f7a26a171c8ae81f0633bd8fb93b3ff
+  state: {}
+thumbnail:jcfyL8dceGo:
+  spec:
+    videoId: jcfyL8dceGo
+    filePath: data/videos/sideproject/laser-tag.jpg
+    hash: 1d3383c89369e32ccef9c92697f06e8d6396cfb01c635eeae0dcf03091b6e528
+  state: {}
+thumbnail:jcjyVy23pS8:
+  spec:
+    videoId: jcjyVy23pS8
+    filePath: data/videos/sideproject/ts-patterns.jpg
+    hash: 7c0f992c387522c74ec0e16f641f10380312d8cd2c2cec8101f0c59e8b84f476
+  state: {}
+thumbnail:mByVF0ZhqfM:
+  spec:
+    videoId: mByVF0ZhqfM
+    filePath: data/videos/sideproject/mangaweb.jpg
+    hash: 4060961e523e328900de393f5e35bdfb04d748bcf1ea0aee59f881a0047b390b
+  state: {}
+thumbnail:rvoQ1rZF2LE:
+  spec:
+    videoId: rvoQ1rZF2LE
+    filePath: data/videos/sideproject/cosnatsu.jpg
+    hash: 3fc890e3c4ad081949c95325b98f7ab77f0ec11fafff1e7e987fad2199f6c82e
+  state: {}
+thumbnail:vn433iUZQSU:
+  spec:
+    videoId: vn433iUZQSU
+    filePath: data/videos/sideproject/pixiv.jpg
+    hash: 221f19830da280dd2637c0fd50dd6d812d43134fe928c761fdf76587c982eb63
+  state: {}
+video:7V7h0idgP7o:
+  spec:
+    id: 7V7h0idgP7o
+    snippet:
+      title: >-
+        Elysia - TypeScript framework that is (almost) as fast as Rust with e2e
+        Type Safety | Side Project S
+      description: >-
+        17x faster than Express
+
+        TypeScript that is as fast as Rust.
+
+        End-to-end type safety like tRPC.
+
+        As easy as Express, and Fastify.
+
+        With automated tools like Ruby on Rails
+
+
+        Featured in BETH stack here: https://youtu.be/cpzowDDJj24
+
+
+        Docs: https://elysiajs.com/
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/elysia/edit
+
+
+        #typescript #webframeworks
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:R7pHSGT9VVc:
+  spec:
+    id: R7pHSGT9VVc
+    snippet:
+      title: >-
+        ZeroShare - A client-side secure P2P file sharing using WebRTC | Side
+        Project Showdown
+      description: >-
+        A client-side secure P2P file sharing using WebRTC
+
+
+        Code: https://github.com/ntsd/zero-share
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/zero-share/edit
+
+
+        #webrtc #typescript #svelte
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Vxmb6xTMulE:
+  spec:
+    id: Vxmb6xTMulE
+    snippet:
+      title: >-
+        Dev with $15 Built a Personal Playground of 10+ Side Projects with
+        Cutting edge technology | Side Pr
+      description: >-
+        Talk about:
+          1. Blazing fast homepage https://ham-san.net/
+          2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/
+          3. Running SQLite in a browser https://aibou.ham-san.net/
+          4. All-Platform Chatbot https://hambot.ham-san.net/
+          5. Self-deployed Notion https://notes.ham-san.net/
+        + What i learn doing side projects
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/ham/edit
+
+
+        #typescript #svelte #nextjs #webassemly #ffmpeg #graphql #line #discord
+        #indexeddb
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:aZkXvmro_uo:
+  spec:
+    id: aZkXvmro_uo
+    snippet:
+      title: ChatOS + Garden-Astro | Side Project Showdown
+      description: >-
+        ChatOS: https://chat.narze.live/
+
+        Digital Garden: https://garden.narze.live/
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/narze/edit
+
+
+        #js #javascript #astrom #digitalgarden #chatbot
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:b_4u0YcM3ao:
+  spec:
+    id: b_4u0YcM3ao
+    snippet:
+      title: EEG Brain interface - สร้างดนตรีจากคลื่นสมอง | Side Project Showdown
+      description: >-
+        Slides:
+        https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/eeg/edit
+
+
+        #eeg #music #creative
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:fJHgUd1QINQ:
+  spec:
+    id: fJHgUd1QINQ
+    snippet:
+      title: ansr - Kahoot alternative | Side Project Showdown
+      description: >-
+        Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย
+        Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~
+
+
+        Code: https://github.com/wonderfulsoftware/ansr
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/dtinth/edit
+
+
+        #js #javascript #line #kahoot
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:jcfyL8dceGo:
+  spec:
+    id: jcfyL8dceGo
+    snippet:
+      title: LaserTag Library - สำหรับทำ laser tag อย่างง่าย | Side Project Showdown
+      description: >-
+        เป็น library สำหรับทำ laser tag อย่างง่าย
+        เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม
+
+
+        Code: https://github.com/vixtory09678/laser-tag-library
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/laser-tag/edit
+
+
+        #lasertag #arduino #microcontroller
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:jcjyVy23pS8:
+  spec:
+    id: jcjyVy23pS8
+    snippet:
+      title: Piko Monster | Side Project Showdown
+      description: >-
+        จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate
+        data ด้วย Notion ครับ
+
+
+        Slide:
+        https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/ts-patterns/edit
+
+
+        #unity #firebase #notion #googlesheets #typescript
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:mByVF0ZhqfM:
+  spec:
+    id: mByVF0ZhqfM
+    snippet:
+      title: 'MangaWeb: เว็บอ่านการ์ตูนส่วนตัว | Side Project Showdown'
+      description: >-
+        Code: https://github.com/wutipong/mangaweb
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/mangaweb/edit
+
+
+        #go #golang #svelte
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:rvoQ1rZF2LE:
+  spec:
+    id: rvoQ1rZF2LE
+    snippet:
+      title: CosNatsu Image Generator | Side Project Showdown
+      description: >-
+        เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2
+
+
+        Code: https://github.com/exzenous/cosnatsu-imgcampaign
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/cosnatsu/edit
+
+
+        #fabricjs #vue #vuejs #azure
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:vn433iUZQSU:
+  spec:
+    id: vn433iUZQSU
+    snippet:
+      title: >-
+        Pixiv bookmarks manager - Search your own pixiv bookmarks with filters |
+        Side Project Showdown
+      description: >-
+        เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000
+        ภาพเราจะกลับไปค้นหาภาพยังไงดี!????
+
+
+        Code: https://github.com/rayriffy/pixiv-bookmarks-visualizer
+
+
+
+        --------------------------------------------
+
+        Event: Side Project Showdown
+
+        https://grtn.org/e/sideproject
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/sideproject/v/pixiv/edit
+
+
+        #pixiv #js #javascript #nextjs
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
