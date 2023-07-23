@@ -6789,6 +6789,13 @@ video:1o_cNJMZr0Y:
     snippet:
       title: To be a dinosaur with Typescript on Deno by Jirachai Chansivanon
       description: >-
+        มาเรียนรู้เกี่ยวกับการสร้างเว็บแอป TypeScript และ Deno
+        ซึ่งเป็นรันไทม์ที่ทันสมัยและเน้นที่ความปลอดภัย
+
+
+
+        --------------------------------------------
+
         Event: TypeScript Community Meetup
 
         https://grtn.org/e/typescript1
@@ -6829,6 +6836,9 @@ video:1o_cNJMZr0Y:
         etc.), please visit:
 
         https://grtn.org/e/typescript1/v/deno/edit
+
+
+        #typescript #deno #js #javascript #security
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -6840,6 +6850,13 @@ video:3JrOUs7wmhU:
     snippet:
       title: TypeScript for DevOps by Thada Wangthammang
       description: >-
+        มาเรียนรู้เกี่ยวกับการปรับแต่งและจัดการ DevOps ด้วย TypeScript 100%
+        โดยไม่ต้องตั้งค่า Infra เอง
+
+
+
+        --------------------------------------------
+
         Event: TypeScript Community Meetup
 
         https://grtn.org/e/typescript1
@@ -6880,6 +6897,9 @@ video:3JrOUs7wmhU:
         etc.), please visit:
 
         https://grtn.org/e/typescript1/v/devops/edit
+
+
+        #typescript #devops #github
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -6893,6 +6913,35 @@ video:Gaa3Te6bqrw:
         Easily publishing fully-typed dependency with confidence by Phumrapee
         Limpianchop
       description: >-
+        มาเรียนรู้เกี่ยวกับการ Publish Dependency แบบง่าย ๆ ด้วย GitHub Actions
+        และสร้าง Provenance สำหรับแพ็คเกจด้วย npm
+
+
+        Public template: https://github.com/rayriffy/quick-npm
+
+
+        Sample code: https://l.rayriffy.com/changesets-keynote
+
+        Slides: https://l.rayriffy.com/changesets-demo
+
+
+        00:00 | Introduction
+
+        01:35 | Problems studied from real-life events
+
+        04:10 | Demo #1: Automating package publishing process
+
+        20:46 | Demo #2: Getting verified badge on npm package with provenance
+        statements
+
+        27:28 | Conclusion
+
+        28:06 | Q&A
+
+
+
+        --------------------------------------------
+
         Event: TypeScript Community Meetup
 
         https://grtn.org/e/typescript1
@@ -6933,6 +6982,9 @@ video:Gaa3Te6bqrw:
         etc.), please visit:
 
         https://grtn.org/e/typescript1/v/npm/edit
+
+
+        #typesciprt #js #javascript #es6 #npm
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -6944,6 +6996,15 @@ video:vMWpCWoKotQ:
     snippet:
       title: Advanced Generics by Kongkeit Khunpanitchote
       description: >-
+        มาเรียนรู้เกี่ยวกับการใช้ Generic
+        สำหรับการเขียนโค้ดที่ยืดหยุ่นและมีความซับซ้อนสูงขึ้น
+        เพื่อลดความผิดพลาดที่อาจเกิดขึ้นตอนเขียนโค้ด
+        โดยเฉพาะเวลาใช้กับโครงสร้างข้อมูลที่มีขนาดใหญ่และมีการเปลี่ยนแปลงบ่อย
+
+
+
+        --------------------------------------------
+
         Event: TypeScript Community Meetup
 
         https://grtn.org/e/typescript1
@@ -6984,6 +7045,9 @@ video:vMWpCWoKotQ:
         etc.), please visit:
 
         https://grtn.org/e/typescript1/v/advanced-generics/edit
+
+
+        #typescript
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -7690,6 +7754,98 @@ video:Z1RO-799lps:
         etc.), please visit:
 
         https://grtn.org/e/scisart/v/digitizing-ghost/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+thumbnail:6s4A796J800:
+  spec:
+    videoId: 6s4A796J800
+    filePath: data/videos/mathsatsundown/paradigms.jpg
+    hash: c81a5597ba492a5374e8e49260f5fc465739c4bdb567b8b6e2aaa0a9d1acc57e
+  state: {}
+thumbnail:sIDwvORIX1Q:
+  spec:
+    videoId: sIDwvORIX1Q
+    filePath: data/videos/mathsatsundown/history.jpg
+    hash: 80572b44c0fffd02c78fb236d1c2398db43a5953c26294a136738759edea729f
+  state: {}
+video:6s4A796J800:
+  spec:
+    id: 6s4A796J800
+    snippet:
+      title: 'Paradigms of Mathematics: คณิตศาสตร์อย่างที่ไม่ควรจะเป็น'
+      description: >-
+        Event: Maths at Sundown - a prelude to sciยศาสตร์ night
+
+        https://grtn.org/e/mathsatsundown
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/mathsatsundown/v/paradigms/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:sIDwvORIX1Q:
+  spec:
+    id: sIDwvORIX1Q
+    snippet:
+      title: 'History of Mathematics: คณิตศาสตร์ภาษามนุษย์'
+      description: >-
+        Event: Maths at Sundown - a prelude to sciยศาสตร์ night
+
+        https://grtn.org/e/mathsatsundown
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/mathsatsundown/v/history/edit
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
