@@ -1553,6 +1553,244 @@
       "imageFilePath": "data/videos/reactmeetup0922/typescript.jpg"
     },
     {
+      "event": "sideproject",
+      "slug": "cosnatsu",
+      "data": {
+        "title": "CosNatsu Image Generator",
+        "type": "pitch",
+        "youtube": "rvoQ1rZF2LE",
+        "managed": true,
+        "description": "เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2\n\nCode: https://github.com/exzenous/cosnatsu-imgcampaign\n",
+        "published": false,
+        "tags": [
+          "fabricjs",
+          "vue",
+          "vuejs",
+          "azure"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/cosnatsu.md",
+      "imageFilePath": "data/videos/sideproject/cosnatsu.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "dtinth",
+      "data": {
+        "title": "ansr",
+        "tagline": "Kahoot alternative",
+        "type": "pitch",
+        "youtube": "fJHgUd1QINQ",
+        "managed": true,
+        "description": "Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~\n\nCode: https://github.com/wonderfulsoftware/ansr\n",
+        "published": false,
+        "tags": [
+          "js",
+          "javascript",
+          "line",
+          "kahoot"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/dtinth.md",
+      "imageFilePath": "data/videos/sideproject/dtinth.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "eeg",
+      "data": {
+        "title": "EEG Brain interface",
+        "tagline": "สร้างดนตรีจากคลื่นสมอง",
+        "type": "pitch",
+        "youtube": "b_4u0YcM3ao",
+        "managed": true,
+        "description": "Slides: https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view\n",
+        "published": false,
+        "tags": [
+          "eeg",
+          "music",
+          "creative"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/eeg.md",
+      "imageFilePath": "data/videos/sideproject/eeg.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "elysia",
+      "data": {
+        "title": "Elysia",
+        "tagline": "TypeScript framework that is (almost) as fast as Rust with e2e Type Safety",
+        "type": "pitch",
+        "youtube": "7V7h0idgP7o",
+        "managed": true,
+        "description": "17x faster than Express\nTypeScript that is as fast as Rust.\nEnd-to-end type safety like tRPC.\nAs easy as Express, and Fastify.\nWith automated tools like Ruby on Rails\n\nFeatured in BETH stack here: https://youtu.be/cpzowDDJj24\n\nDocs: https://elysiajs.com/\n",
+        "published": false,
+        "tags": [
+          "typescript",
+          "webframeworks"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/elysia.md",
+      "imageFilePath": "data/videos/sideproject/elysia.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "ham",
+      "data": {
+        "title": "Dev with $15 Built a Personal Playground of 10+ Side Projects with Cutting edge technology",
+        "type": "pitch",
+        "youtube": "Vxmb6xTMulE",
+        "managed": true,
+        "description": "Talk about:\n  1. Blazing fast homepage https://ham-san.net/\n  2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/\n  3. Running SQLite in a browser https://aibou.ham-san.net/\n  4. All-Platform Chatbot https://hambot.ham-san.net/\n  5. Self-deployed Notion https://notes.ham-san.net/\n+ What i learn doing side projects\n",
+        "published": false,
+        "tags": [
+          "typescript",
+          "svelte",
+          "nextjs",
+          "webassemly",
+          "ffmpeg",
+          "graphql",
+          "line",
+          "discord",
+          "indexeddb"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/ham.md",
+      "imageFilePath": "data/videos/sideproject/ham.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "laser-tag",
+      "data": {
+        "title": "LaserTag Library",
+        "tagline": "สำหรับทำ laser tag อย่างง่าย",
+        "type": "pitch",
+        "youtube": "jcfyL8dceGo",
+        "managed": true,
+        "description": "เป็น library สำหรับทำ laser tag อย่างง่าย เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม\n\nCode: https://github.com/vixtory09678/laser-tag-library\n",
+        "published": false,
+        "tags": [
+          "lasertag",
+          "arduino",
+          "microcontroller"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/laser-tag.md",
+      "imageFilePath": "data/videos/sideproject/laser-tag.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "mangaweb",
+      "data": {
+        "title": "MangaWeb: เว็บอ่านการ์ตูนส่วนตัว",
+        "type": "pitch",
+        "youtube": "mByVF0ZhqfM",
+        "managed": true,
+        "description": "Code: https://github.com/wutipong/mangaweb\n",
+        "published": false,
+        "tags": [
+          "go",
+          "golang",
+          "svelte"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/mangaweb.md",
+      "imageFilePath": "data/videos/sideproject/mangaweb.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "narze",
+      "data": {
+        "title": "ChatOS + Garden-Astro",
+        "type": "pitch",
+        "youtube": "aZkXvmro_uo",
+        "managed": true,
+        "description": "ChatOS: https://chat.narze.live/\nDigital Garden: https://garden.narze.live/\n",
+        "published": false,
+        "tags": [
+          "js",
+          "javascript",
+          "astrom",
+          "digitalgarden",
+          "chatbot"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/narze.md",
+      "imageFilePath": "data/videos/sideproject/narze.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "pixiv",
+      "data": {
+        "title": "Pixiv bookmarks manager",
+        "tagline": "Search your own pixiv bookmarks with filters",
+        "type": "pitch",
+        "youtube": "vn433iUZQSU",
+        "managed": true,
+        "description": "เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????\n\nCode: https://github.com/rayriffy/pixiv-bookmarks-visualizer\n",
+        "published": false,
+        "tags": [
+          "pixiv",
+          "js",
+          "javascript",
+          "nextjs"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/pixiv.md",
+      "imageFilePath": "data/videos/sideproject/pixiv.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "ts-patterns",
+      "data": {
+        "title": "Piko Monster",
+        "type": "pitch",
+        "youtube": "jcjyVy23pS8",
+        "managed": true,
+        "description": "จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate data ด้วย Notion ครับ\n\nSlide: https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view\n",
+        "published": false,
+        "tags": [
+          "unity",
+          "firebase",
+          "notion",
+          "googlesheets",
+          "typescript"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/ts-patterns.md",
+      "imageFilePath": "data/videos/sideproject/ts-patterns.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "zero-share",
+      "data": {
+        "title": "ZeroShare",
+        "tagline": "A client-side secure P2P file sharing using WebRTC",
+        "type": "pitch",
+        "youtube": "R7pHSGT9VVc",
+        "managed": true,
+        "description": "A client-side secure P2P file sharing using WebRTC\n\nCode: https://github.com/ntsd/zero-share\n",
+        "published": false,
+        "tags": [
+          "webrtc",
+          "typescript",
+          "svelte"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/zero-share.md",
+      "imageFilePath": "data/videos/sideproject/zero-share.jpg"
+    },
+    {
       "event": "svelte1",
       "slug": "basic-svelte-for-react-and-vue-developers",
       "data": {
