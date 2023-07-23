@@ -1553,6 +1553,21 @@
       "imageFilePath": "data/videos/reactmeetup0922/typescript.jpg"
     },
     {
+      "event": "scisart",
+      "slug": "digitizing-ghost",
+      "data": {
+        "title": "ไสยศาสตร์แห่งอนาคต",
+        "speaker": "พัทน์ ภัทรนุธาพร",
+        "type": "talk",
+        "youtube": "Z1RO-799lps",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/scisart/digitizing-ghost.md",
+      "imageFilePath": "data/videos/scisart/digitizing-ghost.jpg"
+    },
+    {
       "event": "sideproject",
       "slug": "cosnatsu",
       "data": {
