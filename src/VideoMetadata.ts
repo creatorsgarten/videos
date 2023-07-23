@@ -51,7 +51,6 @@ export async function getVideoDescription(
       ? [
           talkDescription.trim(),
           '',
-          '',
           '--------------------------------------------',
         ]
       : []),
@@ -73,8 +72,6 @@ export async function getVideoDescription(
             (event.externalOrganizer.url
               ? `\n${event.externalOrganizer.url}`
               : ''),
-          '',
-          '',
           '--------------------------------------------',
           'Recorded and published by Creatorsgarten.',
         ]
