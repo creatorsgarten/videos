@@ -1125,6 +1125,21 @@
       "imageFilePath": "data/videos/functional/tortilla.jpg"
     },
     {
+      "event": "functional2",
+      "slug": "unlock-elm",
+      "data": {
+        "title": "Unlocking Elm's Full-stack Potential",
+        "speaker": "Mario Rogic; Charlon Ascoville",
+        "type": "talk",
+        "youtube": "6jK2GvN728g",
+        "managed": true,
+        "published": "2023-08-24"
+      },
+      "content": "",
+      "filePath": "data/videos/functional2/unlock-elm.md",
+      "imageFilePath": "data/videos/functional2/unlock-elm.jpg"
+    },
+    {
       "event": "hacktoberfest2022",
       "slug": "bci",
       "data": {
