@@ -805,7 +805,7 @@
         "type": "talk",
         "youtube": "Bm0RWdSCqxM",
         "managed": true,
-        "published": false
+        "published": "2023-07-26"
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/firebase.md",
@@ -820,7 +820,7 @@
         "type": "talk",
         "youtube": "Wd7oETbK5vY",
         "managed": true,
-        "published": false
+        "published": "2023-07-26"
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/iconify.md",
@@ -835,7 +835,7 @@
         "type": "talk",
         "youtube": "IjBp3KdJW6M",
         "managed": true,
-        "published": false
+        "published": "2023-07-26"
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/magento.md",
@@ -851,7 +851,7 @@
         "youtube": "47oIXnbQXps",
         "managed": true,
         "description": "0:00:00 | Introduction\n0:00:09 | Existing state management solutions\n0:01:27 | Storeon - a prelude before nanostores\n0:02:43 | Nanostores - an atomic state manager\n0:03:41 | Extending atom capabilities with plugins\n0:04:11 | Demo\n",
-        "published": false,
+        "published": "2023-07-26",
         "tags": [
           "javascript",
           "js",
