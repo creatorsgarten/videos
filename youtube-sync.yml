@@ -7727,3 +7727,49 @@ video:sIDwvORIX1Q:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:6jK2GvN728g:
+  spec:
+    videoId: 6jK2GvN728g
+    filePath: data/videos/functional2/unlock-elm.jpg
+    hash: 3b18564614453d15047bfcd4cfd9a58e45eaba722a91ff8450ebb0b8a84b6c1f
+  state: {}
+video:6jK2GvN728g:
+  spec:
+    id: 6jK2GvN728g
+    snippet:
+      title: Unlocking Elm's Full-stack Potential by Mario Rogic, Charlon Ascoville
+      description: >-
+        Event: Functional Meetup #2: Elm for Frontend Developers
+
+        https://grtn.org/e/functional2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/functional2/v/unlock-elm/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
