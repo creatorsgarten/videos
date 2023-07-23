@@ -1632,6 +1632,66 @@
       "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
     },
     {
+      "event": "typescript1",
+      "slug": "advanced-generics",
+      "data": {
+        "title": "Advanced Generics",
+        "speaker": "Kongkeit Khunpanitchote",
+        "type": "talk",
+        "youtube": "vMWpCWoKotQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/typescript1/advanced-generics.md",
+      "imageFilePath": "data/videos/typescript1/advanced-generics.jpg"
+    },
+    {
+      "event": "typescript1",
+      "slug": "deno",
+      "data": {
+        "title": "To be a dinosaur with Typescript on Deno",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "1o_cNJMZr0Y",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/typescript1/deno.md",
+      "imageFilePath": "data/videos/typescript1/deno.jpg"
+    },
+    {
+      "event": "typescript1",
+      "slug": "devops",
+      "data": {
+        "title": "TypeScript for DevOps",
+        "speaker": "Thada Wangthammang",
+        "type": "talk",
+        "youtube": "3JrOUs7wmhU",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/typescript1/devops.md",
+      "imageFilePath": "data/videos/typescript1/devops.jpg"
+    },
+    {
+      "event": "typescript1",
+      "slug": "npm",
+      "data": {
+        "title": "Easily publishing fully-typed dependency with confidence",
+        "speaker": "Phumrapee Limpianchop",
+        "type": "talk",
+        "youtube": "Gaa3Te6bqrw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/typescript1/npm.md",
+      "imageFilePath": "data/videos/typescript1/npm.jpg"
+    },
+    {
       "event": "vscodeday2023",
       "slug": "build-extension",
       "data": {
