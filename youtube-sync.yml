@@ -7649,3 +7649,49 @@ video:vn433iUZQSU:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:Z1RO-799lps:
+  spec:
+    videoId: Z1RO-799lps
+    filePath: data/videos/scisart/digitizing-ghost.jpg
+    hash: deb20cac729eba2d2c6b86f2937f1b5ba75b7ca7679b510f7d568e18c653aaff
+  state: {}
+video:Z1RO-799lps:
+  spec:
+    id: Z1RO-799lps
+    snippet:
+      title: ไสยศาสตร์แห่งอนาคต by พัทน์ ภัทรนุธาพร
+      description: >-
+        Event: Sciยศาสตร์ Night: คืนไสยศาสตร์เดือนวิทยาศาสตร์กรุงเทพฯ
+
+        https://grtn.org/e/scisart
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/scisart/v/digitizing-ghost/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
