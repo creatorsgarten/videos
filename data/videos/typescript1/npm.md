@@ -3,7 +3,7 @@ title: Easily publishing fully-typed dependency with confidence
 speaker: Phumrapee Limpianchop
 youtube: Gaa3Te6bqrw
 managed: true
-published: '2023-08-07'
+published: '2023-09-07'
 tags: [typesciprt, js, javascript, es6, npm]
 description: |
   มาเรียนรู้เกี่ยวกับการ Publish Dependency แบบง่าย ๆ ด้วย GitHub Actions และสร้าง Provenance สำหรับแพ็คเกจด้วย npm
