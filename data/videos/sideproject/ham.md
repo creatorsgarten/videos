@@ -3,7 +3,7 @@ title: Dev with $15 Built a Personal Playground of 10+ Side Projects with Cuttin
 type: pitch
 youtube: Vxmb6xTMulE
 managed: true
-published: '2023-08-21'
+published: '2023-09-21'
 tags:
   [
     typescript,

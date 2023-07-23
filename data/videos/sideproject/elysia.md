@@ -4,7 +4,7 @@ tagline: TypeScript framework that is (almost) as fast as Rust with e2e Type Saf
 type: pitch
 youtube: 7V7h0idgP7o
 managed: true
-published: '2023-08-21'
+published: '2023-09-21'
 tags: [typescript, webframeworks]
 description: |
   17x faster than Express

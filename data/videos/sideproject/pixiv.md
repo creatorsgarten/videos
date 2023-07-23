@@ -4,7 +4,7 @@ tagline: Search your own pixiv bookmarks with filters
 type: pitch
 youtube: vn433iUZQSU
 managed: true
-published: '2023-08-21'
+published: '2023-09-21'
 tags: [pixiv, js, javascript, nextjs]
 description: |
   เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????
