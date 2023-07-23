@@ -90,4 +90,5 @@ const events = [
   }),
   new Event('sideproject', 'Side Project Showdown'),
   new Event('scisart', 'Sciยศาสตร์ Night: คืนไสยศาสตร์เดือนวิทยาศาสตร์กรุงเทพฯ'),
+  new Event('mathsatsundown', 'Maths at Sundown - a prelude to sciยศาสตร์ night'),
 ]
