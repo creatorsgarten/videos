@@ -82,4 +82,10 @@ const events = [
       url: 'https://www.facebook.com/web.developer.th',
     },
   }),
+  new Event('typescript1', 'TypeScript Community Meetup', {
+    externalOrganizer: {
+      name: 'TypeScript Thailand',
+      url: 'https://www.facebook.com/groups/typescriptthailand',
+    },
+  }),
 ]
