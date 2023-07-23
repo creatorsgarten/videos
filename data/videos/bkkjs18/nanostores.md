@@ -3,7 +3,7 @@ title: Atomic cross-framework state manager with nanostores
 speaker: Phumrapee Limpianchop
 youtube: 47oIXnbQXps
 managed: true
-published: false
+published: '2023-07-26'
 tags: [javascript, js, webdev, react, astro, nanostores]
 description: |
   0:00:00 | Introduction
