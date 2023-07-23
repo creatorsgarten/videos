@@ -88,4 +88,5 @@ const events = [
       url: 'https://www.facebook.com/groups/typescriptthailand',
     },
   }),
+  new Event('sideproject', 'Side Project Showdown'),
 ]
