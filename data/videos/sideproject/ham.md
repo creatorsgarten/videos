@@ -3,8 +3,19 @@ title: Dev with $15 Built a Personal Playground of 10+ Side Projects with Cuttin
 type: pitch
 youtube: Vxmb6xTMulE
 managed: true
-published: false
-tags: [typescript, svelte, nextjs, webassemly, ffmpeg, graphql, line, discord, indexeddb]
+published: '2023-08-21'
+tags:
+  [
+    typescript,
+    svelte,
+    nextjs,
+    webassemly,
+    ffmpeg,
+    graphql,
+    line,
+    discord,
+    indexeddb,
+  ]
 description: |
   Talk about:
     1. Blazing fast homepage https://ham-san.net/
