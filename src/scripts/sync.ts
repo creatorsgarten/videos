@@ -280,7 +280,9 @@ for (const video of await Video.findAll()) {
       status: {
         embeddable: true,
         selfDeclaredMadeForKids: false,
-        ...(data.published === true
+        ...(typeof data.published === 'string'
+          ? { privacyStatus: getPublishedFlag(data.published) }
+          : data.published === true
           ? { privacyStatus: 'public' }
           : data.published === false
           ? { privacyStatus: 'unlisted' }
@@ -296,6 +298,15 @@ for (const video of await Video.findAll()) {
         : {}),
     }),
   )
+}
+
+function getPublishedFlag(timeToPublish: string) {
+  if (!timeToPublish.includes('T')) {
+    timeToPublish += 'T08:00:00Z'
+  }
+  const time = new Date(timeToPublish)
+  const now = new Date()
+  return now >= time ? 'public' : 'unlisted'
 }
 
 const idsToReconcile = new Map<string, any>()

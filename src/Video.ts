@@ -30,7 +30,9 @@ const VideoFrontMatter = z.object({
   managed: z.boolean(),
   description: z.string().optional(),
   englishDescription: z.string().optional(),
-  published: z.boolean().optional(),
+  published: z
+    .union([z.boolean(), z.string().regex(/^\d{4}-\d{2}-\d{2}(?:T[\d:.]+Z)?$/)])
+    .optional(),
   subtitles: z.array(z.string()).optional(),
   tags: z.array(z.string()).optional(),
 })

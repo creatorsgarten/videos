@@ -10,6 +10,8 @@ on:
       - 'bin/**'
       - '.github/workflows/sync.yml'
   workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
 
 jobs:
   sync:
