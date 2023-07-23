@@ -3,7 +3,7 @@ title: 'BKK.JS #18'
 type: archive
 youtube: jcV3SaQvYhs
 managed: true
-published: false
+published: '2024-04-23'
 description: |
   0:01:43 | Magento in the modern era
   0:44:54 | Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd Gen
