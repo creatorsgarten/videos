@@ -6759,3 +6759,233 @@ video:yEti_mtpXJ8:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:1o_cNJMZr0Y:
+  spec:
+    videoId: 1o_cNJMZr0Y
+    filePath: data/videos/typescript1/deno.jpg
+    hash: e026f7ed2d71a8995f7455fbf4f26bd963ccefaa9704eb31d9685de2e4a8865e
+  state: {}
+thumbnail:3JrOUs7wmhU:
+  spec:
+    videoId: 3JrOUs7wmhU
+    filePath: data/videos/typescript1/devops.jpg
+    hash: 73ac9b637090869639a76784be3528668df392c92072813d29cb31edd94b288c
+  state: {}
+thumbnail:Gaa3Te6bqrw:
+  spec:
+    videoId: Gaa3Te6bqrw
+    filePath: data/videos/typescript1/npm.jpg
+    hash: aafe3848f3f30c43f1528fcfee3cc7936c4d9de4f2e68907fd1bf00e09e9311a
+  state: {}
+thumbnail:vMWpCWoKotQ:
+  spec:
+    videoId: vMWpCWoKotQ
+    filePath: data/videos/typescript1/advanced-generics.jpg
+    hash: 23a813430735ecbebc75f48ed5507b0b76a5725bf7fbe9e209435379232c8d3a
+  state: {}
+video:1o_cNJMZr0Y:
+  spec:
+    id: 1o_cNJMZr0Y
+    snippet:
+      title: To be a dinosaur with Typescript on Deno by Jirachai Chansivanon
+      description: >-
+        Event: TypeScript Community Meetup
+
+        https://grtn.org/e/typescript1
+
+
+        Organized by: TypeScript Thailand
+
+        https://www.facebook.com/groups/typescriptthailand
+
+
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/typescript1/v/deno/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:3JrOUs7wmhU:
+  spec:
+    id: 3JrOUs7wmhU
+    snippet:
+      title: TypeScript for DevOps by Thada Wangthammang
+      description: >-
+        Event: TypeScript Community Meetup
+
+        https://grtn.org/e/typescript1
+
+
+        Organized by: TypeScript Thailand
+
+        https://www.facebook.com/groups/typescriptthailand
+
+
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/typescript1/v/devops/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Gaa3Te6bqrw:
+  spec:
+    id: Gaa3Te6bqrw
+    snippet:
+      title: >-
+        Easily publishing fully-typed dependency with confidence by Phumrapee
+        Limpianchop
+      description: >-
+        Event: TypeScript Community Meetup
+
+        https://grtn.org/e/typescript1
+
+
+        Organized by: TypeScript Thailand
+
+        https://www.facebook.com/groups/typescriptthailand
+
+
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/typescript1/v/npm/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:vMWpCWoKotQ:
+  spec:
+    id: vMWpCWoKotQ
+    snippet:
+      title: Advanced Generics by Kongkeit Khunpanitchote
+      description: >-
+        Event: TypeScript Community Meetup
+
+        https://grtn.org/e/typescript1
+
+
+        Organized by: TypeScript Thailand
+
+        https://www.facebook.com/groups/typescriptthailand
+
+
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/typescript1/v/advanced-generics/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
