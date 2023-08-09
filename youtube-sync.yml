@@ -7633,7 +7633,7 @@ video:Z1RO-799lps:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 thumbnail:6s4A796J800:
   spec:
@@ -7685,7 +7685,7 @@ video:6s4A796J800:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:sIDwvORIX1Q:
   spec:
@@ -7725,7 +7725,7 @@ video:sIDwvORIX1Q:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 thumbnail:6jK2GvN728g:
   spec:
