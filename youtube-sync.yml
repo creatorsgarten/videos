@@ -2641,7 +2641,7 @@ video:CPd-ZUgA-w0:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:DjSkA1isb-c:
   spec:
@@ -2823,7 +2823,7 @@ video:QDj6vV0wxQ4:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:T6rdYlBmjJw:
   spec:
