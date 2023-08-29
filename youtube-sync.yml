@@ -3195,7 +3195,7 @@ video:2TFbpD4M8_c:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:b2TRUel47YY:
   spec:
@@ -3231,7 +3231,7 @@ video:b2TRUel47YY:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 thumbnail:c9TB7rDX0HU:
   spec:
