@@ -7773,3 +7773,45 @@ video:6jK2GvN728g:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:51KibnrQO5g:
+  spec:
+    videoId: 51KibnrQO5g
+    filePath: data/videos/archive/github1.jpg
+    hash: f7c621b837918ecdd92c431f8836508f9dd60073109321ef6d6abd1cb8d013c3
+  state: {}
+video:51KibnrQO5g:
+  spec:
+    id: 51KibnrQO5g
+    snippet:
+      title: 'Garten Streams: GitHub Community Meetup'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/github1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
