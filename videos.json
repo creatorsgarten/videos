@@ -101,6 +101,20 @@
     },
     {
       "event": "archive",
+      "slug": "cssmeetup0823",
+      "data": {
+        "title": "CSS Meetup 16.08.2023",
+        "type": "archive",
+        "youtube": "U6CdYFhc-tk",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/cssmeetup0823.md",
+      "imageFilePath": "data/videos/archive/cssmeetup0823.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "functional",
       "data": {
         "title": "Functional Programming Meetup #1",
