@@ -1942,6 +1942,27 @@
     },
     {
       "event": "svelte1",
+      "slug": "state-of-s",
+      "data": {
+        "title": "The future of \"S\"",
+        "speaker": "Phumrapee Limpianchop",
+        "type": "talk",
+        "youtube": "Mem2Lso1DQo",
+        "managed": true,
+        "published": false,
+        "tags": [
+          "solidjs",
+          "javascript",
+          "js",
+          "webdevelopment"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/state-of-s.md",
+      "imageFilePath": "data/videos/svelte1/state-of-s.jpg"
+    },
+    {
+      "event": "svelte1",
       "slug": "svelte-in-every-codebase",
       "data": {
         "title": "Bangkok: Svelte in every codebase",
