@@ -1949,7 +1949,7 @@
         "type": "talk",
         "youtube": "Mem2Lso1DQo",
         "managed": true,
-        "published": false,
+        "published": true,
         "tags": [
           "solidjs",
           "javascript",
