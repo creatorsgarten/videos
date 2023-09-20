@@ -1647,7 +1647,7 @@
         "youtube": "rvoQ1rZF2LE",
         "managed": true,
         "description": "เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2\n\nCode: https://github.com/exzenous/cosnatsu-imgcampaign\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "fabricjs",
           "vue",
@@ -1669,7 +1669,7 @@
         "youtube": "fJHgUd1QINQ",
         "managed": true,
         "description": "Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~\n\nCode: https://github.com/wonderfulsoftware/ansr\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "js",
           "javascript",
@@ -1691,7 +1691,7 @@
         "youtube": "b_4u0YcM3ao",
         "managed": true,
         "description": "Slides: https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "eeg",
           "music",
@@ -1712,7 +1712,7 @@
         "youtube": "7V7h0idgP7o",
         "managed": true,
         "description": "17x faster than Express\nTypeScript that is as fast as Rust.\nEnd-to-end type safety like tRPC.\nAs easy as Express, and Fastify.\nWith automated tools like Ruby on Rails\n\nFeatured in BETH stack here: https://youtu.be/cpzowDDJj24\n\nDocs: https://elysiajs.com/\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "typescript",
           "webframeworks"
@@ -1731,7 +1731,7 @@
         "youtube": "Vxmb6xTMulE",
         "managed": true,
         "description": "Talk about:\n  1. Blazing fast homepage https://ham-san.net/\n  2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/\n  3. Running SQLite in a browser https://aibou.ham-san.net/\n  4. All-Platform Chatbot https://hambot.ham-san.net/\n  5. Self-deployed Notion https://notes.ham-san.net/\n+ What i learn doing side projects\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "typescript",
           "svelte",
@@ -1758,7 +1758,7 @@
         "youtube": "jcfyL8dceGo",
         "managed": true,
         "description": "เป็น library สำหรับทำ laser tag อย่างง่าย เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม\n\nCode: https://github.com/vixtory09678/laser-tag-library\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "lasertag",
           "arduino",
@@ -1778,7 +1778,7 @@
         "youtube": "mByVF0ZhqfM",
         "managed": true,
         "description": "Code: https://github.com/wutipong/mangaweb\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "go",
           "golang",
@@ -1798,7 +1798,7 @@
         "youtube": "aZkXvmro_uo",
         "managed": true,
         "description": "ChatOS: https://chat.narze.live/\nDigital Garden: https://garden.narze.live/\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "js",
           "javascript",
@@ -1821,7 +1821,7 @@
         "youtube": "vn433iUZQSU",
         "managed": true,
         "description": "เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????\n\nCode: https://github.com/rayriffy/pixiv-bookmarks-visualizer\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "pixiv",
           "js",
@@ -1842,7 +1842,7 @@
         "youtube": "jcjyVy23pS8",
         "managed": true,
         "description": "จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate data ด้วย Notion ครับ\n\nSlide: https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "unity",
           "firebase",
@@ -1865,7 +1865,7 @@
         "youtube": "R7pHSGT9VVc",
         "managed": true,
         "description": "A client-side secure P2P file sharing using WebRTC\n\nCode: https://github.com/ntsd/zero-share\n",
-        "published": "2023-09-21",
+        "published": "2023-09-22",
         "tags": [
           "webrtc",
           "typescript",
