@@ -7906,3 +7906,235 @@ video:Mem2Lso1DQo:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:GgwnfjGbKpk:
+  spec:
+    videoId: GgwnfjGbKpk
+    filePath: data/videos/cssmeetup0823/flexbox.jpg
+    hash: 1c3ae74335ba8d667106f2df8d6ded074c2a64a8b3a13f0caa228e98b58b22f7
+  state: {}
+thumbnail:GkVQ_GW6gFI:
+  spec:
+    videoId: GkVQ_GW6gFI
+    filePath: data/videos/cssmeetup0823/css-variables.jpg
+    hash: 23955a202b47c94319a8417f039019b5fe04c07c651455df3e7be8fcb1ef87cc
+  state: {}
+thumbnail:WpCR96qzCUo:
+  spec:
+    videoId: WpCR96qzCUo
+    filePath: data/videos/cssmeetup0823/css-container-query.jpg
+    hash: a64b6316e09399701696087d502d23c025dc464076dbc01852cf315c0fa1c4fd
+  state: {}
+thumbnail:jV_bIbtKY-I:
+  spec:
+    videoId: jV_bIbtKY-I
+    filePath: data/videos/cssmeetup0823/thai-ui.jpg
+    hash: b3e28ac79d4137eba81e1a4052902c0af5b28f6ba79365a50d1fc05f1f5e47df
+  state: {}
+thumbnail:xWSyWOdDlY4:
+  spec:
+    videoId: xWSyWOdDlY4
+    filePath: data/videos/cssmeetup0823/css-in-2023.jpg
+    hash: 3fabf120b07d184d796ea8c4703015d383e8c9eb5a6a1a625c547b3fadf43c86
+  state: {}
+video:GgwnfjGbKpk:
+  spec:
+    id: GgwnfjGbKpk
+    snippet:
+      title: Reading CSS Flexbox specs by วสวัตติ์ สมโน
+      description: >-
+        Event: CSS Meetup 16.08.2023
+
+        https://grtn.org/e/cssmeetup0823
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/cssmeetup0823/v/flexbox/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:GkVQ_GW6gFI:
+  spec:
+    id: GkVQ_GW6gFI
+    snippet:
+      title: Unleash the true power of CSS Variables by ศิริวัชร์ คุณาพร
+      description: >-
+        Event: CSS Meetup 16.08.2023
+
+        https://grtn.org/e/cssmeetup0823
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/cssmeetup0823/v/css-variables/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:WpCR96qzCUo:
+  spec:
+    id: WpCR96qzCUo
+    snippet:
+      title: CSS Container Query by Poowanart Korbkum
+      description: >-
+        Event: CSS Meetup 16.08.2023
+
+        https://grtn.org/e/cssmeetup0823
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/cssmeetup0823/v/css-container-query/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:jV_bIbtKY-I:
+  spec:
+    id: jV_bIbtKY-I
+    snippet:
+      title: >-
+        Thai UI: Towards building a design system for all Thais by Chayapatr
+        Archiwaranguprok, Phoomparin Ma
+      description: >-
+        Event: CSS Meetup 16.08.2023
+
+        https://grtn.org/e/cssmeetup0823
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/cssmeetup0823/v/thai-ui/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xWSyWOdDlY4:
+  spec:
+    id: xWSyWOdDlY4
+    snippet:
+      title: CSS 2023 What you need to know? by อธิวัฒน์ สีนาค
+      description: >-
+        Event: CSS Meetup 16.08.2023
+
+        https://grtn.org/e/cssmeetup0823
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/cssmeetup0823/v/css-in-2023/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
