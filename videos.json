@@ -1044,6 +1044,81 @@
       "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
     },
     {
+      "event": "cssmeetup0823",
+      "slug": "css-container-query",
+      "data": {
+        "title": "CSS Container Query",
+        "speaker": "Poowanart Korbkum",
+        "type": "talk",
+        "youtube": "WpCR96qzCUo",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-container-query.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-container-query.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-in-2023",
+      "data": {
+        "title": "CSS 2023 What you need to know?",
+        "speaker": "อธิวัฒน์ สีนาค",
+        "type": "talk",
+        "youtube": "xWSyWOdDlY4",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-in-2023.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-variables",
+      "data": {
+        "title": "Unleash the true power of CSS Variables",
+        "speaker": "ศิริวัชร์ คุณาพร",
+        "type": "talk",
+        "youtube": "GkVQ_GW6gFI",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-variables.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-variables.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "flexbox",
+      "data": {
+        "title": "Reading CSS Flexbox specs",
+        "speaker": "วสวัตติ์ สมโน",
+        "type": "talk",
+        "youtube": "GgwnfjGbKpk",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/flexbox.md",
+      "imageFilePath": "data/videos/cssmeetup0823/flexbox.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "thai-ui",
+      "data": {
+        "title": "Thai UI: Towards building a design system for all Thais",
+        "speaker": "Chayapatr Archiwaranguprok; Phoomparin Mano",
+        "type": "talk",
+        "youtube": "jV_bIbtKY-I",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/thai-ui.md",
+      "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
+    },
+    {
       "event": "functional",
       "slug": "algebraic-structure",
       "data": {
@@ -1639,6 +1714,106 @@
       "imageFilePath": "data/videos/scisart/digitizing-ghost.jpg"
     },
     {
+      "event": "svelte1",
+      "slug": "basic-svelte-for-react-and-vue-developers",
+      "data": {
+        "title": "Basic Svelte for React & Vue Developers",
+        "speaker": "Manassarn Manoonchai",
+        "type": "talk",
+        "youtube": "kS-LvjiZzUE",
+        "managed": true,
+        "description": "Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue",
+        "published": true,
+        "tags": [
+          "svelte",
+          "tutorial",
+          "webdevelopment"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md",
+      "imageFilePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.jpg"
+    },
+    {
+      "event": "svelte1",
+      "slug": "newbie-vs-sveltekit",
+      "data": {
+        "title": "Web dev มือใหม่ vs SvelteKit",
+        "speaker": "Tong Khemmathiti",
+        "type": "talk",
+        "youtube": "EAaXA0PFXBA",
+        "managed": true,
+        "description": "จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte",
+        "published": true,
+        "tags": [
+          "svelte",
+          "sveltekit"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md",
+      "imageFilePath": "data/videos/svelte1/newbie-vs-sveltekit.jpg"
+    },
+    {
+      "event": "svelte1",
+      "slug": "serverless-sveltekit-project",
+      "data": {
+        "title": "Serverless SvelteKit Project",
+        "speaker": "Thanatat Tamtan",
+        "type": "talk",
+        "youtube": "S1jUjA4mz0U",
+        "managed": true,
+        "description": "ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?",
+        "published": true,
+        "tags": [
+          "devops",
+          "svelte",
+          "sveltekit",
+          "cloudflare",
+          "cloudflareworkers"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/serverless-sveltekit-project.md",
+      "imageFilePath": "data/videos/svelte1/serverless-sveltekit-project.jpg"
+    },
+    {
+      "event": "svelte1",
+      "slug": "state-of-s",
+      "data": {
+        "title": "The future of \"S\"",
+        "speaker": "Phumrapee Limpianchop",
+        "type": "talk",
+        "youtube": "Mem2Lso1DQo",
+        "managed": true,
+        "published": true,
+        "tags": [
+          "solidjs",
+          "javascript",
+          "js",
+          "webdevelopment"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/state-of-s.md",
+      "imageFilePath": "data/videos/svelte1/state-of-s.jpg"
+    },
+    {
+      "event": "svelte1",
+      "slug": "svelte-in-every-codebase",
+      "data": {
+        "title": "Bangkok: Svelte in every codebase",
+        "speaker": "Kongkeit Khunpanitchot",
+        "type": "talk",
+        "youtube": "ZRQg3b4Y_1A",
+        "managed": true,
+        "description": "Let's put Svelte in every codebase possible, even in a cross library one"
+      },
+      "content": "",
+      "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
+      "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
+    },
+    {
       "event": "sideproject",
       "slug": "cosnatsu",
       "data": {
@@ -1875,106 +2050,6 @@
       "content": "",
       "filePath": "data/videos/sideproject/zero-share.md",
       "imageFilePath": "data/videos/sideproject/zero-share.jpg"
-    },
-    {
-      "event": "svelte1",
-      "slug": "basic-svelte-for-react-and-vue-developers",
-      "data": {
-        "title": "Basic Svelte for React & Vue Developers",
-        "speaker": "Manassarn Manoonchai",
-        "type": "talk",
-        "youtube": "kS-LvjiZzUE",
-        "managed": true,
-        "description": "Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue",
-        "published": true,
-        "tags": [
-          "svelte",
-          "tutorial",
-          "webdevelopment"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.md",
-      "imageFilePath": "data/videos/svelte1/basic-svelte-for-react-and-vue-developers.jpg"
-    },
-    {
-      "event": "svelte1",
-      "slug": "newbie-vs-sveltekit",
-      "data": {
-        "title": "Web dev มือใหม่ vs SvelteKit",
-        "speaker": "Tong Khemmathiti",
-        "type": "talk",
-        "youtube": "EAaXA0PFXBA",
-        "managed": true,
-        "description": "จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte",
-        "published": true,
-        "tags": [
-          "svelte",
-          "sveltekit"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/svelte1/newbie-vs-sveltekit.md",
-      "imageFilePath": "data/videos/svelte1/newbie-vs-sveltekit.jpg"
-    },
-    {
-      "event": "svelte1",
-      "slug": "serverless-sveltekit-project",
-      "data": {
-        "title": "Serverless SvelteKit Project",
-        "speaker": "Thanatat Tamtan",
-        "type": "talk",
-        "youtube": "S1jUjA4mz0U",
-        "managed": true,
-        "description": "ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?",
-        "published": true,
-        "tags": [
-          "devops",
-          "svelte",
-          "sveltekit",
-          "cloudflare",
-          "cloudflareworkers"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/svelte1/serverless-sveltekit-project.md",
-      "imageFilePath": "data/videos/svelte1/serverless-sveltekit-project.jpg"
-    },
-    {
-      "event": "svelte1",
-      "slug": "state-of-s",
-      "data": {
-        "title": "The future of \"S\"",
-        "speaker": "Phumrapee Limpianchop",
-        "type": "talk",
-        "youtube": "Mem2Lso1DQo",
-        "managed": true,
-        "published": true,
-        "tags": [
-          "solidjs",
-          "javascript",
-          "js",
-          "webdevelopment"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/svelte1/state-of-s.md",
-      "imageFilePath": "data/videos/svelte1/state-of-s.jpg"
-    },
-    {
-      "event": "svelte1",
-      "slug": "svelte-in-every-codebase",
-      "data": {
-        "title": "Bangkok: Svelte in every codebase",
-        "speaker": "Kongkeit Khunpanitchot",
-        "type": "talk",
-        "youtube": "ZRQg3b4Y_1A",
-        "managed": true,
-        "description": "Let's put Svelte in every codebase possible, even in a cross library one"
-      },
-      "content": "",
-      "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
-      "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
     },
     {
       "event": "typescript1",
