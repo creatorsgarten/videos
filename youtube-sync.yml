@@ -7974,7 +7974,7 @@ video:GgwnfjGbKpk:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:GkVQ_GW6gFI:
   spec:
@@ -8014,7 +8014,7 @@ video:GkVQ_GW6gFI:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:WpCR96qzCUo:
   spec:
@@ -8054,7 +8054,7 @@ video:WpCR96qzCUo:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:jV_bIbtKY-I:
   spec:
@@ -8096,7 +8096,7 @@ video:jV_bIbtKY-I:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:xWSyWOdDlY4:
   spec:
@@ -8136,5 +8136,5 @@ video:xWSyWOdDlY4:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
