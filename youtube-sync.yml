@@ -8138,3 +8138,99 @@ video:xWSyWOdDlY4:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:i58lEAFqDlw:
+  spec:
+    videoId: i58lEAFqDlw
+    filePath: data/videos/github1/logistic.jpg
+    hash: 8381439d4377c61c5eca5a50745310b7fa3164290a1ca01506cfb1990f1a7bc2
+  state: {}
+thumbnail:q8yd7qfiL1g:
+  spec:
+    videoId: q8yd7qfiL1g
+    filePath: data/videos/github1/election.jpg
+    hash: 7fed2ce1a2ced9d7499cd04f50dc0375f50e0274154b3b1ca3cf9df4ef6d0b57
+  state: {}
+video:i58lEAFqDlw:
+  spec:
+    id: i58lEAFqDlw
+    snippet:
+      title: >-
+        Using GitHub as a database for rich content and video processing by
+        Phumrapee Limpianchop, Thai Pang
+      description: >-
+        Event: GitHub Community Meetup #1
+
+        https://grtn.org/e/github1
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/github1/v/logistic/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:q8yd7qfiL1g:
+  spec:
+    id: q8yd7qfiL1g
+    snippet:
+      title: >-
+        Thailand General Election 2023 website optimization with GitHub by
+        Panjamapong Sermsawatsri
+      description: >-
+        Event: GitHub Community Meetup #1
+
+        https://grtn.org/e/github1
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/github1/v/election/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
