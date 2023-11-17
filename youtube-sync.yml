@@ -8190,7 +8190,7 @@ video:i58lEAFqDlw:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:q8yd7qfiL1g:
   spec:
@@ -8232,5 +8232,5 @@ video:q8yd7qfiL1g:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
