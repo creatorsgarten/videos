@@ -1,698 +1,929 @@
 WEBVTT
 
-00:00.000 --> 00:03.000
+1
+00:00:00.000 --> 00:00:03.000
 Hello Hello
 
-00:03.000 --> 00:04.000
+2
+00:00:03.000 --> 00:00:04.000
 Sawadee Krub
 
-00:04.000 --> 00:05.000
+3
+00:00:04.000 --> 00:00:05.000
 Sawadee Krub
 
-00:05.000 --> 00:06.000
+4
+00:00:05.000 --> 00:00:06.000
 Okay, so...
 
-00:06.000 --> 00:08.000
+5
+00:00:06.000 --> 00:00:08.000
 Here
 
-00:08.000 --> 00:21.000
+6
+00:00:08.000 --> 00:00:21.000
 Okay, if you follow TechStack on YouTube, like Theo or ThePrimeagen, you should be familiar with this video.
 
-00:21.000 --> 00:22.000
+7
+00:00:21.000 --> 00:00:22.000
 Hello Hello
 
-00:22.000 --> 00:24.000
+8
+00:00:22.000 --> 00:00:24.000
 Oh, it's so close.
 
-00:24.000 --> 00:30.000
+9
+00:00:24.000 --> 00:00:30.000
 Recently, about 2-3 days ago, someone made a stack called BETHStack.
 
-00:30.000 --> 00:33.000
+10
+00:00:30.000 --> 00:00:33.000
 If you go on Twitter, there are quite a lot of people who know it.
 
-00:33.000 --> 00:38.000
+11
+00:00:33.000 --> 00:00:38.000
 Here, there is a stack called Elysia.
 
-00:38.000 --> 00:45.000
+12
+00:00:38.000 --> 00:00:45.000
 Elysia is a type script web framework that is very fast.
 
-00:45.000 --> 00:53.000
+13
+00:00:45.000 --> 00:00:53.000
 If anyone doesn't know, just think of it as writing a code that is similar to Xpress but it's faster than Xpress.
 
-00:53.000 --> 00:54.000
+14
+00:00:53.000 --> 00:00:54.000
 Like 17,000.
 
-00:54.000 --> 01:10.000
+15
+00:00:54.000 --> 00:01:10.000
 If you write it on TypeScript, and if you write it as a multi-trade, it will be as fast as Rustactic or GoFiber.
 
-01:10.000 --> 01:15.000
+16
+00:01:10.000 --> 00:01:15.000
 It's very fast to run TypeScript on a web server.
 
-01:15.000 --> 01:19.000
+17
+00:01:15.000 --> 00:01:19.000
 17 times, 20 times, it sounds very strange.
 
-01:19.000 --> 01:22.000
+18
+00:01:19.000 --> 00:01:22.000
 Everything can happen by writing.
 
-01:22.000 --> 01:23.000
+19
+00:01:22.000 --> 00:01:23.000
 Two things.
 
-01:23.000 --> 01:27.000
+20
+00:01:23.000 --> 00:01:27.000
 The framework is written as a run on BUN.
 
-01:27.000 --> 01:31.000
+21
+00:01:27.000 --> 00:01:31.000
 BUN is like a very fast run time.
 
-01:31.000 --> 01:33.000
+22
+00:01:31.000 --> 00:01:33.000
 In the future, they will try to replace it with Node.
 
-01:33.000 --> 01:40.000
+23
+00:01:33.000 --> 00:01:40.000
 But here, another one is that we have an algorithm called Static Code Analysis and Dynamic Code Injection.
 
-01:40.000 --> 01:47.000
+24
+00:01:40.000 --> 00:01:47.000
 It's like we read the code of the writer and it makes the code come up again by cutting out other overheads.
 
-01:47.000 --> 01:51.000
+25
+00:01:47.000 --> 00:01:51.000
 But today, I'm not going to talk about why it's fast or why it's like this.
 
-01:51.000 --> 01:56.000
+26
+00:01:51.000 --> 00:01:56.000
 But I'm going to talk about why people like to use Elysia and how is the developer experience.
 
-01:56.000 --> 02:05.000
+27
+00:01:56.000 --> 00:02:05.000
 Well, if anyone has ever written a backend, they will know that normally when we write authentication, we will use a fairly long time to set up.
 
-02:05.000 --> 02:07.000
+28
+00:02:05.000 --> 00:02:07.000
 Like 2 hours, 3 hours.
 
-02:07.000 --> 02:13.000
+29
+00:02:07.000 --> 00:02:13.000
 But in Elysia, if anyone has ever written Elysia, now there is an experimental project called Elysia Elf.
 
-02:13.000 --> 02:17.000
+30
+00:02:13.000 --> 00:02:17.000
 The main thing is that it allows us to set up Elysia project.
 
-02:17.000 --> 02:19.000
+31
+00:02:17.000 --> 00:02:19.000
 Everything is very easy.
 
-02:19.000 --> 02:21.000
+32
+00:02:19.000 --> 00:02:21.000
 We just need to type in the command.
 
-02:21.000 --> 02:23.000
+33
+00:02:21.000 --> 00:02:23.000
 Let's see how it works.
 
-02:23.000 --> 02:27.000
+34
+00:02:23.000 --> 00:02:27.000
 Well, let me put the mic down and increase the screen size a little bit.
 
-02:27.000 --> 02:29.000
+35
+00:02:27.000 --> 00:02:29.000
 Oh, it's just 1 mic, right?
 
-02:29.000 --> 02:31.000
+36
+00:02:29.000 --> 00:02:31.000
 Yes, it's 1 mic.
 
-02:31.000 --> 02:37.000
+37
+00:02:31.000 --> 00:02:37.000
 Okay, so the way to create Elysia project, we type in the code called BUN create Elysia and the name of the project you want.
 
-02:37.000 --> 02:39.000
+38
+00:02:37.000 --> 00:02:39.000
 I set the project name to 08.
 
-02:39.000 --> 02:41.000
+39
+00:02:39.000 --> 00:02:41.000
 This one doesn't look at the screen.
 
-02:41.000 --> 02:43.000
+40
+00:02:41.000 --> 00:02:43.000
 I'll drag this one a little bit.
 
-02:43.000 --> 02:45.000
+41
+00:02:43.000 --> 00:02:45.000
 Okay, the main thing will be like this.
 
-02:45.000 --> 02:47.000
+42
+00:02:45.000 --> 00:02:47.000
 We type in the code called BUN create.
 
-02:47.000 --> 02:49.000
+43
+00:02:47.000 --> 00:02:49.000
 BUN create like this and we get the project.
 
-02:49.000 --> 02:51.000
+44
+00:02:49.000 --> 00:02:51.000
 Then we type in the code called CD.
 
-02:51.000 --> 02:55.000
+45
+00:02:51.000 --> 00:02:55.000
 Okay, if we go to the code here, we will have a code that looks like this.
 
-02:55.000 --> 02:57.000
+46
+00:02:55.000 --> 00:02:57.000
 Sort index.
 
-02:57.000 --> 02:59.000
+47
+00:02:57.000 --> 00:02:59.000
 This is one of the Elysia servers.
 
-02:59.000 --> 03:01.000
+48
+00:02:59.000 --> 00:03:01.000
 The main thing is that we type in the code.
 
-03:01.000 --> 03:05.000
+49
+00:03:01.000 --> 00:03:05.000
 Okay, do dot get and then say that this method can do what.
 
-03:05.000 --> 03:07.000
+50
+00:03:05.000 --> 00:03:07.000
 It's like xpress.
 
-03:07.000 --> 03:09.000
+51
+00:03:07.000 --> 00:03:09.000
 Think of it like xpress.
 
-03:09.000 --> 03:11.000
+52
+00:03:09.000 --> 00:03:11.000
 But we don't have a request.
 
-03:11.000 --> 03:13.000
+53
+00:03:11.000 --> 00:03:13.000
 We just send the value back and it will be a server.
 
-03:13.000 --> 03:17.000
+54
+00:03:13.000 --> 00:03:17.000
 Now, let's try to set up the authentication.
 
-03:17.000 --> 03:23.000
+55
+00:03:17.000 --> 00:03:23.000
 First, we set up the restdit stack.
 
-03:23.000 --> 03:25.000
+56
+00:03:23.000 --> 00:03:25.000
 Then we run the docker.
 
-03:25.000 --> 03:27.000
+57
+00:03:25.000 --> 00:03:27.000
 Actually, it should have run already.
 
-03:27.000 --> 03:29.000
+58
+00:03:27.000 --> 00:03:29.000
 Run the docker.
 
-03:29.000 --> 03:31.000
+59
+00:03:29.000 --> 00:03:31.000
 Run the docker postgres to be the authentication.
 
-03:31.000 --> 03:35.000
+60
+00:03:31.000 --> 00:03:35.000
 Here, you see that I just created a new project, right?
 
-03:35.000 --> 03:37.000
+61
+00:03:35.000 --> 00:03:37.000
 Here, it will have an experimental one.
 
-03:37.000 --> 03:41.000
+62
+00:03:37.000 --> 00:03:41.000
 If you have ever written Laravel or Ruby on Rails, it will have CLI for generating projects.
 
-03:41.000 --> 03:45.000
+63
+00:03:41.000 --> 00:03:45.000
 Elysia also has it, the name is f.
 
-03:45.000 --> 03:49.000
+64
+00:03:45.000 --> 00:03:49.000
 When we type in this command, I type in the word f add.
 
-03:49.000 --> 03:51.000
+65
+00:03:49.000 --> 00:03:51.000
 This will be all the plugins that we can use.
 
-03:51.000 --> 03:53.000
+66
+00:03:51.000 --> 00:03:53.000
 What do you want?
 
-03:53.000 --> 03:55.000
+67
+00:03:53.000 --> 00:03:55.000
 For example, if you want to get GraphQL, want to get Strict plugin, want to get Swagger plugin, then enter.
 
-03:55.000 --> 03:59.000
+68
+00:03:55.000 --> 00:03:59.000
 Then answer a few questions and it will be like.
 
-03:59.000 --> 04:03.000
+69
+00:03:59.000 --> 00:04:03.000
 The host will update the back side.
 
-04:03.000 --> 04:05.000
+70
+00:04:03.000 --> 00:04:05.000
 Hey, what plugins have we added?
 
-04:05.000 --> 04:09.000
+71
+00:04:05.000 --> 00:04:09.000
 Then we add that we want to get GraphQL plugins.
 
-04:09.000 --> 04:11.000
+72
+00:04:09.000 --> 00:04:11.000
 Then it will extend everything to all.
 
-04:11.000 --> 04:13.000
+73
+00:04:11.000 --> 00:04:13.000
 Here, we will try to run the server first.
 
-04:13.000 --> 04:15.000
+74
+00:04:13.000 --> 00:04:15.000
 Pnpmdata.
 
-04:15.000 --> 04:17.000
+75
+00:04:15.000 --> 00:04:17.000
 Run server to port 3000.
 
-04:17.000 --> 04:19.000
+76
+00:04:17.000 --> 00:04:19.000
 Go to localhost 3000.
 
-04:19.000 --> 04:21.000
+77
+00:04:19.000 --> 00:04:21.000
 Swagger.
 
-04:21.000 --> 04:23.000
+78
+00:04:21.000 --> 00:04:23.000
 It will have all the Swagger files.
 
-04:23.000 --> 04:27.000
+79
+00:04:23.000 --> 00:04:27.000
 This is that we don't have to write the API itself to see what it wants.
 
-04:27.000 --> 04:33.000
+80
+00:04:27.000 --> 00:04:33.000
 Here, the cool thing is that Elysia has a cheat.
 
-04:33.000 --> 04:35.000
+81
+00:04:33.000 --> 00:04:35.000
 Suppose we want to get authentication.
 
-04:35.000 --> 04:37.000
+82
+00:04:35.000 --> 00:04:37.000
 We type in elf generate auth.
 
-04:37.000 --> 04:39.000
+83
+00:04:37.000 --> 00:04:39.000
 And say that we want to get ORM.
 
-04:39.000 --> 04:41.000
+84
+00:04:39.000 --> 00:04:41.000
 I'll take Prisma.
 
-04:41.000 --> 04:43.000
+85
+00:04:41.000 --> 00:04:43.000
 And save Redis for saving sessions.
 
-04:43.000 --> 04:45.000
+86
+00:04:43.000 --> 00:04:45.000
 Here, if you have ever used it.
 
-04:45.000 --> 04:47.000
+87
+00:04:45.000 --> 00:04:47.000
 If you use Prisma, it's like an ORM of TypeScript.
 
-04:47.000 --> 04:49.000
+88
+00:04:47.000 --> 00:04:49.000
 It makes it possible to write code.
 
-04:49.000 --> 04:51.000
+89
+00:04:49.000 --> 00:04:51.000
 It's very easy to manage with database.
 
-04:51.000 --> 04:53.000
+90
+00:04:51.000 --> 00:04:53.000
 I take the database as a postcase.
 
-04:53.000 --> 04:55.000
+91
+00:04:53.000 --> 00:04:55.000
 And set the URL to be something like this.
 
-04:55.000 --> 04:57.000
+92
+00:04:55.000 --> 00:04:57.000
 Database URL.
 
-04:57.000 --> 04:59.000
+93
+00:04:57.000 --> 00:04:59.000
 Do you want to migrate database?
 
-04:59.000 --> 05:01.000
+94
+00:04:59.000 --> 00:05:01.000
 Yes.
 
-05:01.000 --> 05:03.000
+95
+00:05:01.000 --> 00:05:03.000
 Here, the rest.
 
-05:03.000 --> 05:05.000
+96
+00:05:03.000 --> 00:05:05.000
 This one will manage the data migration for all of these.
 
-05:05.000 --> 05:07.000
+97
+00:05:05.000 --> 00:05:07.000
 And it will ask if I want to get OAuth provider.
 
-05:07.000 --> 05:09.000
+98
+00:05:07.000 --> 00:05:09.000
 Just a moment.
 
-05:09.000 --> 05:11.000
+99
+00:05:09.000 --> 00:05:11.000
 Wait a minute.
 
-05:11.000 --> 05:13.000
+100
+00:05:11.000 --> 00:05:13.000
 Wait a minute.
 
-05:13.000 --> 05:15.000
+101
+00:05:13.000 --> 00:05:15.000
 Postcase.
 
-05:15.000 --> 05:17.000
+102
+00:05:15.000 --> 00:05:17.000
 And then.
 
-05:17.000 --> 05:19.000
+103
+00:05:17.000 --> 00:05:19.000
 I forgot to migrate database.
 
-05:19.000 --> 05:21.000
+104
+00:05:19.000 --> 00:05:21.000
 But it's okay.
 
-05:21.000 --> 05:23.000
+105
+00:05:21.000 --> 00:05:23.000
 File location.
 
-05:23.000 --> 05:25.000
+106
+00:05:23.000 --> 00:05:25.000
 Okay, all done.
 
-05:25.000 --> 05:27.000
+107
+00:05:25.000 --> 00:05:27.000
 I just type this.
 
-05:27.000 --> 05:29.000
+108
+00:05:27.000 --> 00:05:29.000
 And I run pnpm run dev.
 
-05:29.000 --> 05:31.000
+109
+00:05:29.000 --> 00:05:31.000
 Go to swagger.
 
-05:31.000 --> 05:33.000
+110
+00:05:31.000 --> 00:05:33.000
 There is an additional part.
 
-05:33.000 --> 05:35.000
+111
+00:05:33.000 --> 00:05:35.000
 It's about authentication.
 
-05:35.000 --> 05:37.000
+112
+00:05:35.000 --> 00:05:37.000
 All these libraries will come.
 
-05:37.000 --> 05:39.000
+113
+00:05:37.000 --> 00:05:39.000
 It will create this file.
 
-05:39.000 --> 05:41.000
+114
+00:05:39.000 --> 00:05:41.000
 Auth.ts
 
-05:41.000 --> 05:43.000
+115
+00:05:41.000 --> 00:05:43.000
 src.js
 
-05:43.000 --> 05:45.000
+116
+00:05:43.000 --> 00:05:45.000
 All of them.
 
-05:45.000 --> 05:47.000
+117
+00:05:45.000 --> 00:05:47.000
 I will try to create a user.
 
-05:47.000 --> 05:49.000
+118
+00:05:47.000 --> 00:05:49.000
 Take one as src.js
 
-05:49.000 --> 05:51.000
+119
+00:05:49.000 --> 00:05:51.000
 and take it as src.js src.js src.js src.js
 
-05:51.000 --> 05:53.000
+120
+00:05:51.000 --> 00:05:53.000
 src.js
 
-05:53.000 --> 05:55.000
+121
+00:05:53.000 --> 00:05:55.000
 src.js src.js src.js src.js
 
-05:55.000 --> 05:57.000
+122
+00:05:55.000 --> 00:05:57.000
 src.js src.js src.js
 
-05:57.000 --> 05:59.000
+123
+00:05:57.000 --> 00:05:59.000
 src.js src.js
 
-05:59.000 --> 06:01.000
+124
+00:05:59.000 --> 00:06:01.000
 Now I'm trying to do a sign in.
 
-06:01.000 --> 06:03.000
+125
+00:06:01.000 --> 00:06:03.000
 Okay.
 
-06:03.000 --> 06:05.000
+126
+00:06:03.000 --> 00:06:05.000
 Of course, swagger is quite useful.
 
-06:05.000 --> 06:07.000
+127
+00:06:05.000 --> 00:06:07.000
 The timer is off.
 
-06:07.000 --> 06:09.000
+128
+00:06:07.000 --> 00:06:09.000
 The concept is
 
-06:09.000 --> 06:11.000
+129
+00:06:09.000 --> 00:06:11.000
 Elysia can do something called n2n type-shifting.
 
-06:11.000 --> 06:17.000
+130
+00:06:11.000 --> 00:06:17.000
 If you have ever written in RPC, you can use the type in the server on Cayenne, right?
 
-06:17.000 --> 06:21.000
+131
+00:06:17.000 --> 00:06:21.000
 Elysian can do it too, but it's less full.
 
-06:21.000 --> 06:28.000
+132
+00:06:21.000 --> 00:06:28.000
 Suppose I have a server, I add a folder called identity.
 
-06:28.000 --> 06:30.000
+133
+00:06:28.000 --> 00:06:30.000
 This is a project that has been set up.
 
-06:30.000 --> 06:33.000
+134
+00:06:30.000 --> 00:06:33.000
 Let's say it's in normal JS and use it.
 
-06:33.000 --> 06:36.000
+135
+00:06:33.000 --> 00:06:36.000
 It's an easy one, it's a normal JS project.
 
-06:36.000 --> 06:40.000
+136
+00:06:36.000 --> 00:06:40.000
 But now we'll see that it imports the type from this server.
 
-06:40.000 --> 06:43.000
+137
+00:06:40.000 --> 00:06:43.000
 The server will come from this type.
 
-06:43.000 --> 06:51.000
+138
+00:06:43.000 --> 00:06:51.000
 I want it to add a type as a source.
 
-06:51.000 --> 06:56.000
+139
+00:06:51.000 --> 00:06:56.000
 Type, add as source, index.ts
 
-06:56.000 --> 07:00.000
+140
+00:06:56.000 --> 00:07:00.000
 And I said that I exported the type of this server.
 
-07:00.000 --> 07:07.000
+141
+00:07:00.000 --> 00:07:07.000
 Export, type of app.
 
-07:07.000 --> 07:10.000
+142
+00:07:07.000 --> 00:07:10.000
 I can use the type of this server.
 
-07:10.000 --> 07:12.000
+143
+00:07:10.000 --> 00:07:12.000
 I can use it on Cayenne.
 
-07:12.000 --> 07:19.000
+144
+00:07:12.000 --> 00:07:19.000
 And then I'll go back here and run it at identity.
 
-07:19.000 --> 07:22.000
+145
+00:07:19.000 --> 00:07:22.000
 08 run server Elysian together.
 
-07:22.000 --> 07:25.000
+146
+00:07:22.000 --> 00:07:25.000
 And then run the server in JS together.
 
-07:25.000 --> 07:31.000
+147
+00:07:25.000 --> 00:07:31.000
 Go to localhost 3001.
 
-07:31.000 --> 07:36.000
+148
+00:07:31.000 --> 00:07:36.000
 Okay, here you can see that we go to the server here.
 
-07:36.000 --> 07:39.000
+149
+00:07:36.000 --> 00:07:39.000
 Okay, reload for a moment.
 
-07:39.000 --> 07:41.000
+150
+00:07:39.000 --> 00:07:41.000
 And then go to this server.
 
-07:41.000 --> 07:44.000
+151
+00:07:41.000 --> 00:07:44.000
 This server, this API comes from the type we imported from the server.
 
-07:44.000 --> 07:46.000
+152
+00:07:44.000 --> 00:07:46.000
 And then enter into one function called identity.
 
-07:46.000 --> 07:49.000
+153
+00:07:46.000 --> 00:07:49.000
 This one is like a trpc for connecting Cayenne to the server.
 
-07:49.000 --> 07:51.000
+154
+00:07:49.000 --> 00:07:51.000
 By which we can type.
 
-07:51.000 --> 07:54.000
+155
+00:07:51.000 --> 00:07:54.000
 For example, in the server, I said that I have an API.
 
-07:54.000 --> 07:56.000
+156
+00:07:54.000 --> 00:07:56.000
 Index and auth, right?
 
-07:56.000 --> 07:57.000
+157
+00:07:56.000 --> 00:07:57.000
 In auth, what is it?
 
-07:57.000 --> 07:58.000
+158
+00:07:57.000 --> 00:07:58.000
 You can click and see it.
 
-07:58.000 --> 08:00.000
+159
+00:07:58.000 --> 00:08:00.000
 And then say, if we want to sign in, right?
 
-08:00.000 --> 08:01.000
+160
+00:08:00.000 --> 00:08:01.000
 And then call the post.
 
-08:01.000 --> 08:05.000
+161
+00:08:01.000 --> 00:08:05.000
 And then say that there is a parameter that we can insert.
 
-08:05.000 --> 08:06.000
+162
+00:08:05.000 --> 00:08:06.000
 Here, type save.
 
-08:06.000 --> 08:08.000
+163
+00:08:06.000 --> 00:08:08.000
 And if there is a change in the server, the Cayenne will change as well.
 
-08:08.000 --> 08:13.000
+164
+00:08:08.000 --> 00:08:13.000
 Here, I will try to create, let's say, create a new endpoint API.
 
-08:13.000 --> 08:14.000
+165
+00:08:13.000 --> 00:08:14.000
 And see if there is any more.
 
-08:14.000 --> 08:16.000
+166
+00:08:14.000 --> 00:08:16.000
 Now we have auth and index, right?
 
-08:16.000 --> 08:19.000
+167
+00:08:16.000 --> 00:08:19.000
 Therefore, we will try to create another endpoint.
 
-08:19.000 --> 08:20.000
+168
+00:08:19.000 --> 00:08:20.000
 Come up and see.
 
-08:20.000 --> 08:21.000
+169
+00:08:20.000 --> 00:08:21.000
 It looks like this.
 
-08:21.000 --> 08:23.000
+170
+00:08:21.000 --> 00:08:23.000
 I secretly have a point in case I can't keep up.
 
-08:23.000 --> 08:25.000
+171
+00:08:23.000 --> 00:08:25.000
 Therefore, I keep this one.
 
-08:25.000 --> 08:27.000
+172
+00:08:25.000 --> 00:08:27.000
 And then run, add method, check get.
 
-08:27.000 --> 08:29.000
+173
+00:08:27.000 --> 00:08:29.000
 Go to the slash android slash skadi.
 
-08:29.000 --> 08:31.000
+174
+00:08:29.000 --> 00:08:31.000
 And you will get this JSON back.
 
-08:31.000 --> 08:32.000
+175
+00:08:31.000 --> 00:08:32.000
 Here we go to Cayenne again.
 
-08:32.000 --> 08:34.000
+176
+00:08:32.000 --> 00:08:34.000
 We type the word API dot.
 
-08:34.000 --> 08:35.000
+177
+00:08:34.000 --> 00:08:35.000
 You will see that it has an additional path.
 
-08:35.000 --> 08:36.000
+178
+00:08:35.000 --> 00:08:36.000
 It's an android like just now.
 
-08:36.000 --> 08:37.000
+179
+00:08:36.000 --> 00:08:37.000
 And then dot skadi.
 
-08:37.000 --> 08:38.000
+180
+00:08:37.000 --> 00:08:38.000
 And then.
 
-08:38.000 --> 08:39.000
+181
+00:08:38.000 --> 00:08:39.000
 This is the method that we want.
 
-08:39.000 --> 08:40.000
+182
+00:08:39.000 --> 00:08:40.000
 Save.
 
-08:40.000 --> 08:42.000
+183
+00:08:40.000 --> 00:08:42.000
 We take the mouse to the data.
 
-08:42.000 --> 08:43.000
+184
+00:08:42.000 --> 00:08:43.000
 The mouse to where?
 
-08:43.000 --> 08:44.000
+185
+00:08:43.000 --> 00:08:44.000
 Data.
 
-08:44.000 --> 08:46.000
+186
+00:08:44.000 --> 00:08:46.000
 You will see that all types come from the server side.
 
-08:46.000 --> 08:48.000
+187
+00:08:46.000 --> 00:08:48.000
 For example, I said that there is ID, there is a name, there is a type.
 
-08:48.000 --> 08:50.000
+188
+00:08:48.000 --> 00:08:50.000
 All of these will be here.
 
-08:50.000 --> 08:52.000
+189
+00:08:50.000 --> 00:08:52.000
 Therefore, I will try to run on this one.
 
-08:52.000 --> 08:54.000
+190
+00:08:52.000 --> 00:08:54.000
 Save and run.
 
-08:54.000 --> 08:56.000
+191
+00:08:54.000 --> 00:08:56.000
 OK, this one is a bit missing.
 
-08:56.000 --> 08:57.000
+192
+00:08:56.000 --> 00:08:57.000
 The image is missing.
 
-08:57.000 --> 08:59.000
+193
+00:08:57.000 --> 00:08:59.000
 Therefore, I will add the image in.
 
-08:59.000 --> 09:02.000
+194
+00:08:59.000 --> 00:09:02.000
 We go to server Elysia.
 
-09:02.000 --> 09:05.000
+195
+00:09:02.000 --> 00:09:05.000
 And then we type the word bun f add.
 
-09:05.000 --> 09:07.000
+196
+00:09:05.000 --> 00:09:07.000
 To be static.
 
-09:07.000 --> 09:09.000
+197
+00:09:07.000 --> 00:09:09.000
 static plugin
 
-09:09.000 --> 09:11.000
+198
+00:09:09.000 --> 00:09:11.000
 add static plugin
 
-09:11.000 --> 09:13.000
+199
+00:09:11.000 --> 00:09:13.000
 add folder
 
-09:13.000 --> 09:15.000
+200
+00:09:13.000 --> 00:09:15.000
 of this
 
-09:15.000 --> 09:17.000
+201
+00:09:15.000 --> 00:09:17.000
 go to public
 
-09:17.000 --> 09:19.000
+202
+00:09:17.000 --> 00:09:19.000
 add image
 
-09:19.000 --> 09:21.000
+203
+00:09:19.000 --> 00:09:21.000
 reveal in finder
 
-09:21.000 --> 09:23.000
+204
+00:09:21.000 --> 00:09:23.000
 copy image
 
-09:23.000 --> 09:25.000
+205
+00:09:23.000 --> 00:09:25.000
 and paste in here
 
-09:25.000 --> 09:27.000
+206
+00:09:25.000 --> 00:09:27.000
 this is from API
 
-09:27.000 --> 09:29.000
+207
+00:09:27.000 --> 00:09:29.000
 we call
 
-09:29.000 --> 09:31.000
+208
+00:09:29.000 --> 00:09:31.000
 static plugin
 
-09:31.000 --> 09:33.000
+209
+00:09:31.000 --> 00:09:33.000
 default is public folder
 
-09:33.000 --> 09:35.000
+210
+00:09:33.000 --> 00:09:35.000
 try reload
 
-09:35.000 --> 09:37.000
+211
+00:09:35.000 --> 00:09:37.000
 you will see
 
-09:37.000 --> 09:39.000
+212
+00:09:37.000 --> 00:09:39.000
 what happen
 
-09:39.000 --> 09:41.000
+213
+00:09:39.000 --> 00:09:41.000
 I forgot to run server
 
-09:41.000 --> 09:43.000
+214
+00:09:41.000 --> 00:09:43.000
 go to
 
-09:43.000 --> 09:45.000
+215
+00:09:43.000 --> 00:09:45.000
 server
 
-09:45.000 --> 09:47.000
+216
+00:09:45.000 --> 00:09:47.000
 go to server
 
-09:47.000 --> 09:49.000
+217
+00:09:47.000 --> 00:09:49.000
 run
 
-09:49.000 --> 09:51.000
+218
+00:09:49.000 --> 00:09:51.000
 it will work
 
-09:51.000 --> 09:53.000
+219
+00:09:51.000 --> 00:09:53.000
 ok
 
-09:53.000 --> 09:55.000
+220
+00:09:53.000 --> 00:09:55.000
 another thing
 
-09:55.000 --> 09:57.000
+221
+00:09:55.000 --> 00:09:57.000
 you can
 
-09:57.000 --> 09:59.000
+222
+00:09:57.000 --> 00:09:59.000
 size in size out
 
-09:59.000 --> 10:01.000
+223
+00:09:59.000 --> 00:10:01.000
 if you write in react
 
-10:01.000 --> 10:03.000
+224
+00:10:01.000 --> 00:10:03.000
 you can do form authentication
 
-10:03.000 --> 10:05.000
+225
+00:10:03.000 --> 00:10:05.000
 but
 
-10:05.000 --> 10:07.000
+226
+00:10:05.000 --> 00:10:07.000
 in react query
 
-10:07.000 --> 10:09.000
+227
+00:10:07.000 --> 00:10:09.000
 you can type
 
-10:09.000 --> 10:11.000
+228
+00:10:09.000 --> 00:10:11.000
 any type
 
-10:11.000 --> 10:13.000
+229
+00:10:11.000 --> 00:10:13.000
 that's all
 
-10:13.000 --> 10:15.000
+230
+00:10:13.000 --> 00:10:15.000
 thank you
 
-10:15.000 --> 10:17.000
+231
+00:10:15.000 --> 00:10:17.000
 let's clap
 
-10:17.000 --> 10:19.000
+232
+00:10:17.000 --> 00:10:19.000
 yay
-
