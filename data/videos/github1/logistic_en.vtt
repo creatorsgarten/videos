@@ -1306,1557 +1306,978 @@ our own a wiki engine.
 
 293
 00:23:51.300 --> 00:23:53.300
-This wiki engine is called Content Skarten.
+It's called Contentsgarten.
 
 294
 00:23:53.300 --> 00:23:55.300
 I'll show you the features.
 
 295
-00:23:55.300 --> 00:23:59.300
-It's open source, headless, modern, and cloud-native.
+00:23:55.300 --> 00:24:01.300
+It's an open source, headless,
+modern, and cloud-native wiki engine.
 
 296
-00:23:59.300 --> 00:24:01.300
-It's a wiki engine.
+00:24:01.300 --> 00:24:07.300
+It uses Markdown syntax. To make text
+bold, use the usual ** syntax.
 
 297
-00:24:01.300 --> 00:24:03.300
-The main thing is to use Markdown syntax.
-
-298
-00:24:03.300 --> 00:24:05.300
-When you see this, it's Markdown.
-
-299
-00:24:05.300 --> 00:24:07.300
-If you want to add something, just add a flower.
-
-300
 00:24:07.300 --> 00:24:09.300
 No need to remember the new syntax.
 
-301
+298
 00:24:09.300 --> 00:24:12.300
 And the content is stored in Git.
 
+299
+00:24:12.300 --> 00:24:17.300
+All contents are stored in the
+"creatorsgarten/wiki" repo
+
+300
+00:24:17.300 --> 00:24:19.300
+as Markdown files.
+
+301
+00:24:19.300 --> 00:24:26.300
+We can make changes it on the web.
+There is a UI for it.
+
 302
-00:24:12.300 --> 00:24:14.300
-So if you go to Creator Skarten or wiki,
+00:24:26.300 --> 00:24:30.300
+We can also clone the repo
+and make changes in our own editor.
 
 303
-00:24:14.300 --> 00:24:17.300
-you'll see all the information.
+00:24:30.300 --> 00:24:37.300
+Or use "github.dev", which is VS Code
+in the browser, integrated with GitHub.
 
 304
-00:24:17.300 --> 00:24:19.300
-It's a Markdown file.
-
-305
-00:24:19.300 --> 00:24:21.300
-And when it's in Git,
-
-306
-00:24:21.300 --> 00:24:24.300
-the good thing is that we can fix it directly on the web.
-
-307
-00:24:24.300 --> 00:24:26.300
-We have a UI for fixing it on the web.
-
-308
-00:24:26.300 --> 00:24:30.300
-But we'll clone the repo to fix it in our own editor.
-
-309
-00:24:30.300 --> 00:24:32.300
-Or currently,
-
-310
-00:24:32.300 --> 00:24:35.300
-there's a web called github.dev
-
-311
-00:24:35.300 --> 00:24:37.300
-that is a VS Code in the browser.
-
-312
-00:24:37.300 --> 00:24:41.300
-It allows us to fix content
-
-313
-00:24:41.300 --> 00:24:44.300
-by using the VS Code editor,
-
-314
-00:24:44.300 --> 00:24:45.300
-but it's in the web.
-
-315
-00:24:45.300 --> 00:24:47.300
+00:24:37.300 --> 00:24:47.300
+We can make changes in VS Code anywhere.
 We've integrated this already.
 
-316
-00:24:47.300 --> 00:24:51.300
-If we go to the Creator Skarten wiki
+305
+00:24:47.300 --> 00:24:53.300
+If we go to any wiki page,
+and press the "." key,
 
-317
-00:24:51.300 --> 00:24:53.300
-and press the dot button,
-
-318
+306
 00:24:53.300 --> 00:24:56.300
 it'll take us to github.dev.
 
-319
-00:24:56.300 --> 00:25:01.300
-Or when we use VS Code to fix what we get,
+307
+00:24:56.300 --> 00:25:06.299
+If we use VS Code, we have GitHub Copilot,
+so we won't be writing alone.
 
-320
-00:25:01.300 --> 00:25:03.300
-when we write, we won't be writing alone
+308
+00:25:06.300 --> 00:25:11.300
+And if we want to make a large-scale
+change, for example,
 
-321
-00:25:03.300 --> 00:25:06.300
-because we have GitHub Code Pilot to help us write.
-
-322
-00:25:06.300 --> 00:25:10.300
-And if you want to make large scale changes,
-
-323
-00:25:10.300 --> 00:25:11.300
-for example,
-
-324
+309
 00:25:11.300 --> 00:25:14.300
-I want to fix many files at once,
+If I want to change many pages at once,
 
-325
-00:25:14.300 --> 00:25:17.300
-I don't have to write scripts to shoot APIs
+310
+00:25:14.300 --> 00:25:20.300
+I don't have to learn or create
+a script using any proprietary API;
 
-326
-00:25:17.300 --> 00:25:20.300
-to API Notion or API this and that.
+311
+00:25:20.300 --> 00:25:24.630
+I just clone the repo, write a script
+that makes changes to the files,
 
-327
-00:25:20.300 --> 00:25:21.300
-I can just import the repo,
+312
+00:25:24.631 --> 00:25:28.299
+and push them back to the wiki.
 
-328
-00:25:21.300 --> 00:25:23.300
-write scripts, fix files,
+313
+00:25:28.300 --> 00:25:33.300
+It's also tightly integrated with GitHub.
 
-329
-00:25:23.300 --> 00:25:26.300
-and commit push back to wiki.
+314
+00:25:33.300 --> 00:25:40.004
+When we change a page on the web,
+it actually calls the GitHub API
 
-330
-00:25:28.300 --> 00:25:31.300
-And the next feature is that it's very tight
+315
+00:25:40.005 --> 00:25:44.300
+to update the Markdown file
+directly on GitHub.
 
-331
-00:25:31.300 --> 00:25:33.300
-integrated with GitHub.
-
-332
-00:25:33.300 --> 00:25:37.300
-When we fix a page in the Content Skarten,
-
-333
-00:25:37.300 --> 00:25:39.300
-what happens is that it shoots APIs
-
-334
-00:25:39.300 --> 00:25:44.300
-to the GitHub API to fix that file directly on GitHub.
-
-335
+316
 00:25:44.300 --> 00:25:47.300
 We use GitHub as a source of truth.
 
-336
+317
 00:25:47.300 --> 00:25:50.300
 And when the information is on GitHub,
 
+318
+00:25:50.300 --> 00:25:55.300
+we can use many GitHub’s
+built-in features, such as webhooks.
+
+319
+00:25:55.300 --> 00:26:00.629
+When someone changes a page,
+it fires a webhook to Discord.
+
+320
+00:26:00.630 --> 00:26:04.180
+So I get notified on Discord whenever
+someone makes a change.
+
+321
+00:26:04.181 --> 00:26:09.300
+No need to write custom code. This is
+built in to GitHub and Discord.
+
+322
+00:26:09.300 --> 00:26:14.610
+As Git maintains a history
+of all the changes,
+
+323
+00:26:14.611 --> 00:26:19.659
+we don't have to implement
+history features ourselves.
+
+324
+00:26:19.660 --> 00:26:23.300
+The "History" link just
+takes you to GitHub.
+
+325
+00:26:24.300 --> 00:26:31.300
+As we built the system ourselves,
+we can add custom components.
+
+326
+00:26:31.300 --> 00:26:38.300
+For example, we want to discuss
+some parts of the content,
+
+327
+00:26:38.300 --> 00:26:43.300
+We want to mark it as such.
+So we have a speech bubble component.
+
+328
+00:26:43.300 --> 00:26:48.300
+So editors can talk to each other
+inside a wiki page.
+
+329
+00:26:48.300 --> 00:26:53.300
+Or sometimes we want to visualize
+the event feedback.
+
+330
+00:26:53.300 --> 00:26:56.300
+We have a Bar Chart component.
+
+331
+00:26:56.300 --> 00:27:05.300
+This page lists all our events,
+along with related links and pages.
+
+332
+00:27:05.300 --> 00:27:07.300
+It's a fairly advanced table.
+
+333
+00:27:07.300 --> 00:27:10.300
+But it's just one line of code here.
+
+334
+00:27:10.300 --> 00:27:13.300
+The engine can render templates.
+
+335
+00:27:13.300 --> 00:27:20.300
+And the template can, in turn, query other
+pages to generate a table.
+
+336
+00:27:20.300 --> 00:27:23.300
+This is using the Liquid
+templating language.
+
 337
-00:25:50.300 --> 00:25:53.300
-it allows us to use GitHub's various features,
+00:27:23.300 --> 00:27:28.300
+We don't have to maintain
+this table ourselves.
 
 338
-00:25:53.300 --> 00:25:55.300
-such as webhooks.
-
-339
-00:25:55.300 --> 00:25:58.300
-When someone fixes a page,
-
-340
-00:25:58.300 --> 00:26:01.300
-I set up a webhook to shoot it into Discord.
-
-341
-00:26:01.300 --> 00:26:03.300
-So when someone fixes it,
-
-342
-00:26:03.300 --> 00:26:04.300
-they know immediately.
-
-343
-00:26:04.300 --> 00:26:05.300
-You don't have to write a code
-
-344
-00:26:05.300 --> 00:26:07.300
-because it's a feature that GitHub has for you.
-
-345
-00:26:07.300 --> 00:26:09.300
-You don't have to implement it yourself.
-
-346
-00:26:09.300 --> 00:26:15.300
-And with the fact that Git has a history,
-
-347
-00:26:15.300 --> 00:26:17.300
-we don't have to implement features
-
-348
-00:26:17.300 --> 00:26:20.300
-that look at what this page is fixed.
-
-349
-00:26:20.300 --> 00:26:21.300
-When you press history,
-
-350
-00:26:21.300 --> 00:26:23.300
-it runs into GitHub.
-
-351
-00:26:24.300 --> 00:26:27.300
-And when it's a web that we do it ourselves,
-
-352
-00:26:27.300 --> 00:26:29.300
-we can do syntax,
-
-353
-00:26:29.300 --> 00:26:31.300
-do various components of ourselves.
-
-354
-00:26:31.300 --> 00:26:34.300
-For example, sometimes we want to have it.
-
-355
-00:26:34.300 --> 00:26:38.300
-We want to discuss some parts of the content,
-
-356
-00:26:38.300 --> 00:26:41.300
-but we're not ready to write a real text.
-
-357
-00:26:41.300 --> 00:26:43.300
-And then create a speech bubble like this.
-
-358
-00:26:43.300 --> 00:26:48.300
-Let people who are editors talk to each other.
-
-359
-00:26:48.300 --> 00:26:53.300
-Or sometimes we want to visualize the feedback of the work.
-
-360
-00:26:53.300 --> 00:26:56.300
-We do it like this.
-
-361
-00:26:56.300 --> 00:27:01.300
-Or this page will be the page that includes all our events.
-
-362
-00:27:01.300 --> 00:27:05.300
-We will have links related to each event.
-
-363
-00:27:05.300 --> 00:27:07.300
-You will see that it is a fairly advanced table.
-
-364
-00:27:07.300 --> 00:27:10.300
-But the code behind it is just this.
-
-365
-00:27:10.300 --> 00:27:13.300
-It can render templates.
-
-366
-00:27:13.300 --> 00:27:17.300
-And the template can query information from other pages
-
-367
-00:27:17.300 --> 00:27:20.300
-to generate a table.
-
-368
-00:27:20.300 --> 00:27:23.300
-This is using the language called Liquid.
-
-369
-00:27:23.300 --> 00:27:28.300
-So that we don't have to maintain this table.
-
-370
-00:27:28.300 --> 00:27:30.300
+00:27:28.300 --> 00:27:33.300
 When we create a new page,
-
-371
-00:27:30.300 --> 00:27:33.300
 this table will update accordingly.
 
-372
-00:27:33.300 --> 00:27:35.300
-This is from GitHub.
+339
+00:27:35.300 --> 00:27:47.300
+Each page can have structured data
+in the YAML Front Matter.
 
-373
-00:27:35.300 --> 00:27:40.300
-This is from the feature called Front Matter.
-
-374
-00:27:40.300 --> 00:27:47.300
-We can put a data structure that is YAML in each page.
-
-375
+340
 00:27:47.300 --> 00:27:51.300
-And those information will be put into the database,
+Those information will be
+indexed into the database,
 
-376
-00:27:51.300 --> 00:27:53.300
-which we can query later.
+341
+00:27:51.300 --> 00:27:55.299
+which can be queried
+via an API or from a template.
 
-377
-00:27:53.300 --> 00:27:55.300
-For example, this event page,
-
-378
+342
 00:27:55.300 --> 00:27:57.300
-we don't have to keep updating it all the time.
+We don't have to maintain index pages.
 
-379
+343
 00:27:57.300 --> 00:28:00.300
-It's just going to be queried from the database.
+We let the page query from the database.
 
-380
+344
 00:28:00.300 --> 00:28:04.300
-So this feature allows us to implement advanced features.
+So this feature allows us to implement
+more advanced features.
 
-381
+345
 00:28:04.300 --> 00:28:09.300
-For example, we can keep the website settings in the wiki.
+For example, website settings
+are also stored in the wiki,
 
-382
+346
 00:28:09.300 --> 00:28:14.300
-And the feature flags are kept in the wiki.
+as well as feature flags.
 
-383
-00:28:14.300 --> 00:28:16.300
-Or even the inventory,
+347
+00:28:14.300 --> 00:28:24.300
+Even the inventory of our equipments,
+we track them in this wiki page.
 
-384
-00:28:16.300 --> 00:28:18.300
-the tools that we track,
+348
+00:28:24.300 --> 00:28:30.300
+We don't need to deal with
+complex markdown tables;
 
-385
-00:28:18.300 --> 00:28:21.300
-whether there is any tool in the Creator's Garden.
+349
+00:28:30.300 --> 00:28:41.300
+we keep it as structured data, and use
+Liquid template to generate a nice table.
 
-386
-00:28:21.300 --> 00:28:24.300
-We have this page to track what tools we have.
-
-387
-00:28:24.300 --> 00:28:26.300
-But we don't write,
-
-388
-00:28:26.300 --> 00:28:30.300
-we don't keep the information as a markdown.
-
-389
-00:28:30.300 --> 00:28:32.300
-We keep it as YAML like this.
-
-390
-00:28:32.300 --> 00:28:36.300
-And then we write it as a script,
-
-391
-00:28:36.300 --> 00:28:41.300
-as a template to generate a beautiful chart again.
-
-392
+350
 00:28:41.300 --> 00:28:45.300
-Therefore, the advantage of keeping everything as YAML is that
+Therefore, the advantage of keeping
+information as YAML is that
 
-393
-00:28:45.300 --> 00:28:47.300
-it is machine readable.
+351
+00:28:45.300 --> 00:28:53.300
+it is machine readable. We can
+write scripts to maintain it.
 
-394
-00:28:47.300 --> 00:28:50.300
-We can write a script or write a tool
-
-395
-00:28:50.300 --> 00:28:53.300
-to update this information.
-
-396
-00:28:53.300 --> 00:28:54.300
-That's it.
-
-397
-00:28:54.300 --> 00:28:56.300
+352
+00:28:53.301 --> 00:28:56.300
 I like that it is open data.
 
-398
+353
 00:28:56.300 --> 00:28:59.300
 Finally, it is headless.
 
-399
-00:28:59.300 --> 00:29:01.300
-The web page that you see is not part of the content.
+354
+00:28:59.300 --> 00:29:03.300
+The web page that you see
+is not part of Contentsgarten.
 
-400
-00:29:01.300 --> 00:29:03.300
-It is part of the content garden.
+355
+00:29:03.300 --> 00:29:07.300
+Contentsgarten only provides APIs.
 
-401
-00:29:03.300 --> 00:29:05.300
-Because the content garden has only APIs.
-
-402
-00:29:05.300 --> 00:29:07.300
-There are APIs like this.
-
-403
+356
 00:29:07.300 --> 00:29:10.300
-For example, we shoot the API content garden search.
+It lets us view, search, and edit pages.
 
-404
+357
 00:29:10.300 --> 00:29:13.300
-Send match event location as cleft words.
+Here, we want to find events
+that took place at Cleverse.
 
-405
-00:29:13.300 --> 00:29:15.300
-When we shoot this API,
+358
+00:29:13.300 --> 00:29:17.300
+When we send the request,
+it will search the entire wiki
 
-406
-00:29:15.300 --> 00:29:17.300
-it will find the entire event.
-
-407
+359
 00:29:17.300 --> 00:29:22.300
-It will find the entire page that has event.location as cleft words.
+for a page whose "event.location"
+is equal to "Cleverse."
 
-408
-00:29:22.300 --> 00:29:25.300
-That is, we put the information into the wiki.
+360
+00:29:22.300 --> 00:29:29.300
+That is, we can put information into
+the wiki, then we can ask it questions.
 
-409
-00:29:25.300 --> 00:29:27.300
-And we ask the wiki question.
-
-410
-00:29:27.300 --> 00:29:29.300
-It will answer back.
-
-411
+361
 00:29:29.300 --> 00:29:30.300
 Okay.
 
-412
+362
 00:29:30.300 --> 00:29:34.300
-Next, this is the basic feature of this system.
+These are the basic features.
 
-413
+363
 00:29:34.300 --> 00:29:36.300
 Let's look at the tech stack.
 
-414
-00:29:36.300 --> 00:29:40.300
-The main thing is that the website is a repo.
+364
+00:29:36.300 --> 00:29:42.300
+First, our website is built with Astro.
 
-415
-00:29:40.300 --> 00:29:42.300
-Written with Astro.
+365
+00:29:42.300 --> 00:29:49.300
+Riffy recommended it in the
+previous BKK.JS meetup.
 
-416
-00:29:42.300 --> 00:29:46.300
-If you go to BKKJS event first,
+366
+00:29:49.300 --> 00:29:55.300
+if you want to know about Astro, you can
+watch the talk on YouTube channel.
 
-417
-00:29:46.300 --> 00:29:48.300
-Liffy will recommend Astro.
+367
+00:29:55.300 --> 00:30:01.300
+And the backend is Contentgarten.
+The code is in another repo.
 
-418
-00:29:48.300 --> 00:29:49.300
-Ah, call meetup.
+368
+00:30:01.300 --> 00:30:03.266
+It will talk to GitHub API
 
-419
-00:29:49.300 --> 00:29:50.300
-Yes.
+369
+00:30:03.267 --> 00:30:08.300
+to extract data from the repository
+that we consider to be a source of truth.
 
-420
-00:29:50.300 --> 00:29:51.300
-If you want to know about Astro,
-
-421
-00:29:51.300 --> 00:29:55.300
-you can watch the talk back on YouTube channel.
-
-422
-00:29:55.300 --> 00:29:58.300
-And the backend is the content garden.
-
-423
-00:29:58.300 --> 00:30:01.300
-The content garden will be at this repo.
-
-424
-00:30:01.300 --> 00:30:04.300
-Ah, the work is that it will talk to GitHub API
-
-425
-00:30:04.300 --> 00:30:08.300
-to extract data from the repository that we consider to be a source of truth.
-
-426
+370
 00:30:08.300 --> 00:30:16.300
-But, ah, remember the example that we found all the events that can be arranged at cleft words, right?
+But, recall the example where we query
+for events that happen at Cleverse.
 
-427
+371
 00:30:16.300 --> 00:30:20.300
-Ah, GitHub API does not have an API for this kind of query.
+GitHub API does not have
+an API for this kind of query.
 
-428
+372
 00:30:20.300 --> 00:30:25.300
-We have to, so we have to keep another database as a cache, an index.
+We have to use a database
+as a cache, or an index.
 
-429
-00:30:25.300 --> 00:30:27.300
-So, ah, the source of truth will be this.
+373
+00:30:25.300 --> 00:30:30.300
+So, the source of truth is on GitHub,
+but the data is indexed in MongoDB.
 
-430
-00:30:27.300 --> 00:30:30.300
-But the data will flow to MongoDB.
-
-431
+374
 00:30:30.300 --> 00:30:36.300
-And we will have to arrange the data format so that we can query the data that is in each file.
+And denormalize them so we can
+query the data in each file easily.
 
-432
+375
 00:30:36.300 --> 00:30:40.300
-Ah, so this is the content garden.
+So this is about Contentgarten.
 
-433
+376
 00:30:40.300 --> 00:30:42.300
 Let's come to the conclusion.
 
-434
-00:30:42.300 --> 00:30:49.300
-Ah, the takeaway for this talk is that I feel that GitHub ecosystem of GitHub
+377
+00:30:42.300 --> 00:30:50.199
+The takeaway for this talk is that
+I feel that GitHub ecosystem allows us
 
-435
-00:30:49.300 --> 00:30:55.300
-It allows us to build a custom wiki system as quickly as possible.
+378
+00:30:50.200 --> 00:30:55.300
+to build a custom wiki system
+with very little effort.
 
-436
-00:30:55.300 --> 00:30:56.300
-It is.
+379
+00:30:55.300 --> 00:31:11.300
+Without GitHub's various features like
+webhooks, APIs, github.dev, or Copilot,
 
-437
-00:30:56.300 --> 00:31:02.300
-I think that if we do not have, if we do not have webhook systems or GitHub API
-
-438
-00:31:02.300 --> 00:31:08.300
-that have API that stores history or various tools like GitHub.dev, something like this.
-
-439
-00:31:08.300 --> 00:31:11.300
-Or even GitHub co-pilot that helps me write code.
-
-440
+380
 00:31:11.300 --> 00:31:15.300
-Building a system like this, it should take a lot longer than this.
+building such system would
+have taken much longer
 
-441
-00:31:15.300 --> 00:31:19.300
-Well, I have to say that the content garden is very bare bones.
+381
+00:31:15.301 --> 00:31:18.900
+That said, Contentsgarten
+is very bare bones.
 
-442
-00:31:19.300 --> 00:31:21.300
-Even just deleting the page, it still can't do it.
+382
+00:31:18.901 --> 00:31:21.700
+It doesn't even have
+a "Delete page" feature.
 
-443
-00:31:21.300 --> 00:31:24.300
-But I don't have to implement because we don't delete the page often.
+383
+00:31:21.701 --> 00:31:24.942
+But it's not necessary,
+because we don't do that often.
 
-444
-00:31:24.300 --> 00:31:28.300
-But as I want to delete the page, I click into the repo and delete the file.
+384
+00:31:24.943 --> 00:31:30.299
+When I want to delete the page, I just
+delete it directly from GitHub UI.
 
-445
-00:31:28.300 --> 00:31:30.300
-Ah, don't have to implement it yourself.
-
-446
+385
 00:31:30.300 --> 00:31:36.300
-That is, we stand on top of the shoulder of giants.
+that is, we stand on top
+of the shoulder of giants.
 
-447
-00:31:36.300 --> 00:31:41.300
-The next thing is the data that we keep as plain text and keep it in the grid.
+386
+00:31:36.300 --> 00:31:46.300
+As the data is plain text in Git, we can
+build integrations more easily
 
-448
-00:31:41.300 --> 00:31:44.300
-It allows us to build things.
-
-449
-00:31:44.300 --> 00:31:46.300
-Add, add, add.
-
-450
+387
 00:31:46.300 --> 00:31:50.300
-Without using any API, like this.
+without using any proprietary API.
 
-451
-00:31:50.300 --> 00:31:53.300
-One idea that I used to think about is that I want to try to see that.
+388
+00:31:50.300 --> 00:31:55.300
+One idea it to visualize
+how pages interconnect.
 
-452
-00:31:53.300 --> 00:31:55.300
-Each page is connected.
-
-453
+389
 00:31:55.300 --> 00:31:57.300
 I did this with my own website.
 
-454
+390
 00:31:57.300 --> 00:32:05.300
-But it might be cool if we can see that each page is connected.
+It might be cool if we can see
+how each page are connected,
 
-455
+391
 00:32:05.300 --> 00:32:08.300
-And it becomes what is called a knowledge graph.
+so we can see the knowledge graph.
 
-456
-00:32:08.300 --> 00:32:12.300
-Or this tool is garden.org.
+392
+00:32:08.300 --> 00:32:18.557
+We also have "grtn.org" link shortener.
 
-457
-00:32:12.300 --> 00:32:16.300
-It is a link shortener that creators garden use.
+393
+00:32:18.558 --> 00:32:26.300
+We can avoid using costly
+link shortener services
 
-458
-00:32:16.300 --> 00:32:21.300
-Ah, in the past, we might have to give access to bitly or.
+394
+00:32:26.300 --> 00:32:32.300
+by leveraging the wiki as
+a short links database.
 
-459
-00:32:21.300 --> 00:32:22.300
-Or like.
+395
+00:32:32.300 --> 00:32:38.300
+Then make it so that grtn.org pulls data
+from the front matter here
 
-460
-00:32:22.300 --> 00:32:23.300
-Or like.
-
-461
-00:32:23.300 --> 00:32:26.300
-The service of some of the angels that might be expensive.
-
-462
-00:32:26.300 --> 00:32:29.300
-Ah, but when we have a content garden.
-
-463
-00:32:29.300 --> 00:32:32.300
-We put all the links in the wiki.
-
-464
-00:32:32.300 --> 00:32:35.300
-And then we write a program for garden.org.
-
-465
-00:32:35.300 --> 00:32:38.300
-Pull the information from the front matter here.
-
-466
+396
 00:32:38.300 --> 00:32:40.300
-And then manage the redirect.
+and redirect accordingly.
 
-467
-00:32:40.300 --> 00:32:44.300
-Well, I think that when the data is open.
+397
+00:32:40.300 --> 00:32:47.300
+When the data is easily accessible,
+it's convenient to do stuff.
 
-468
-00:32:44.300 --> 00:32:47.300
-We can easily do something with it.
+398
+00:32:47.300 --> 00:32:54.300
+Our YouTube channel banner,
+that Riffy showed earlier,
 
-469
-00:32:47.300 --> 00:32:49.300
-Or like on YouTube channel.
+399
+00:32:54.300 --> 00:32:59.300
+It draws information
+from the wiki as well.
 
-470
-00:32:49.300 --> 00:32:50.300
-What Liffy showed to see.
+400
+00:32:59.300 --> 00:33:04.300
+But I have to say that
+this tool is not a silver bullet.
 
-471
-00:32:50.300 --> 00:32:52.300
-That the channel banner.
+401
+00:33:04.300 --> 00:33:08.300
+There are many complaints.
+Some don't like it to be plain text.
 
-472
-00:32:52.300 --> 00:32:54.300
-It is the logo of the event.
+402
+00:33:08.300 --> 00:33:14.300
+Some wants Notion-like
+editing experience.
 
-473
-00:32:54.300 --> 00:32:56.300
-Different that we set up.
+403
+00:33:14.300 --> 00:33:24.300
+Or sometimes, we have some info
+that we cannot practically make public.
 
-474
-00:32:56.300 --> 00:32:59.300
-This one also draws information from wiki as well.
+404
+00:33:24.300 --> 00:33:30.300
+I suggest to use the right tool
+for the right job.
 
-475
-00:32:59.300 --> 00:33:02.300
-But I have to say that the last one.
+405
+00:33:30.300 --> 00:33:34.986
+If you want to take meeting minutes,
+just use Notion or use Google Docs.
 
-476
-00:33:02.300 --> 00:33:04.300
-This tool is not a silver bullet.
+406
+00:33:34.987 --> 00:33:38.300
+For collaborative tables, Google Sheets.
+For designs, Figma.
 
-477
-00:33:04.300 --> 00:33:06.300
-Many people complain as well.
-
-478
-00:33:06.300 --> 00:33:08.300
-I don't like it to be plain text.
-
-479
-00:33:08.300 --> 00:33:10.300
-I want to give like editing experience.
-
-480
-00:33:10.300 --> 00:33:11.300
-It's like notion.
-
-481
-00:33:11.300 --> 00:33:12.300
-Something like this.
-
-482
-00:33:12.300 --> 00:33:13.300
-Right?
-
-483
-00:33:13.300 --> 00:33:14.300
-Um.
-
-484
-00:33:14.300 --> 00:33:16.300
-Or sometimes.
-
-485
-00:33:16.300 --> 00:33:20.300
-Ah, there are some content that may not be public.
-
-486
-00:33:20.300 --> 00:33:21.300
-Ah, or.
-
-487
-00:33:21.300 --> 00:33:24.300
-It may not be practical to be public.
-
-488
-00:33:24.300 --> 00:33:26.300
-Ah, I suggest that.
-
-489
-00:33:26.300 --> 00:33:27.300
-Um.
-
-490
-00:33:27.300 --> 00:33:30.300
-Let's use the right tool for the right job.
-
-491
-00:33:30.300 --> 00:33:32.300
-That is, if you want to meet.
-
-492
-00:33:32.300 --> 00:33:34.300
-Ah, you can use notion.
-
-493
-00:33:34.300 --> 00:33:35.300
-Or use Google Doc.
-
-494
-00:33:35.300 --> 00:33:36.300
-If you want to keep it as a schedule.
-
-495
-00:33:36.300 --> 00:33:37.300
-Ah, Google Sheet.
-
-496
-00:33:37.300 --> 00:33:38.300
-If you want to design, Figma.
-
-497
+407
 00:33:38.300 --> 00:33:41.300
 Use the right tool for the right job.
 
-498
-00:33:41.300 --> 00:33:44.300
-But one thing that I would encourage.
+408
+00:33:41.300 --> 00:33:48.300
+But I would encourage making
+everything "reachable" from the wiki.
 
-499
-00:33:44.300 --> 00:33:46.300
-Is to try to make everything.
+409
+00:33:48.300 --> 00:33:57.300
+By "reachable" I mean, there should be a
+chain of links from the homepage to it.
 
-500
-00:33:46.300 --> 00:33:47.300
-Reachable.
+410
+00:33:57.300 --> 00:34:03.985
+For example, I want to find the sponsor
+proposal document for
 
-501
-00:33:47.300 --> 00:33:48.300
-Reachable from wiki.
+411
+00:34:03.986 --> 00:34:10.299
+The Stupid Hackathon Thailand 2,
+that happened in 2018 (7 years ago)
 
-502
-00:33:48.300 --> 00:33:49.300
-Meaning.
+412
+00:34:10.300 --> 00:34:14.300
+We go to the homepage, then wiki,
+then go to the list of events,
 
-503
-00:33:49.300 --> 00:33:50.300
-Reachable in this place.
+413
+00:34:14.300 --> 00:34:16.993
+then The Stupid Hackathon Thailand,
 
-504
-00:33:50.300 --> 00:33:51.300
-Meaning that.
+414
+00:34:16.994 --> 00:34:20.300
+then Coverage.
 
-505
-00:33:51.300 --> 00:33:52.300
-If we go to the wiki.
+415
+00:34:20.300 --> 00:34:24.300
+There are many documents in there.
+including "Information for sponsors".
 
-506
-00:33:52.300 --> 00:33:53.300
-It should have a route from.
+416
+00:34:24.300 --> 00:34:29.300
+We didn't use Notion at that time.
+We used Dropbox Paper.
 
-507
-00:33:53.300 --> 00:33:54.300
-From the web.
-
-508
-00:33:54.300 --> 00:33:55.300
-Ah.
-
-509
-00:33:55.300 --> 00:33:56.300
-Go to.
-
-510
-00:33:56.300 --> 00:33:57.300
-Go to the information set.
-
-511
-00:33:57.300 --> 00:33:58.300
-For example.
-
-512
-00:33:58.300 --> 00:33:59.300
-If I want to.
-
-513
-00:33:59.300 --> 00:34:00.300
-Go to see that.
-
-514
-00:34:00.300 --> 00:34:01.300
-When we organized the stupid hackathon.
-
-515
-00:34:01.300 --> 00:34:02.300
-The second time.
-
-516
-00:34:02.300 --> 00:34:03.300
-Which.
-
-517
-00:34:03.300 --> 00:34:04.300
-That was in 2018.
-
-518
-00:34:04.300 --> 00:34:05.300
-About 7 years ago.
-
-519
-00:34:05.300 --> 00:34:06.300
-Ah.
-
-520
-00:34:06.300 --> 00:34:07.300
-Proposal.
-
-521
-00:34:07.300 --> 00:34:08.300
-What do we write?
-
-522
-00:34:08.300 --> 00:34:09.300
-Well.
-
-523
-00:34:09.300 --> 00:34:10.300
-Ah.
-
-524
-00:34:10.300 --> 00:34:11.300
-Open the web page.
-
-525
-00:34:11.300 --> 00:34:12.300
-Go to wiki.
-
-526
-00:34:12.300 --> 00:34:13.300
-And then go to the list of events.
-
-527
-00:34:13.300 --> 00:34:14.300
-And then.
-
-528
-00:34:14.300 --> 00:34:15.300
-Go to the stupid hackathon Thailand.
-
-529
-00:34:15.300 --> 00:34:16.300
-Ah.
-
-530
-00:34:16.300 --> 00:34:17.300
-Come to.
-
-531
-00:34:17.300 --> 00:34:18.300
-The page that is a coverage.
-
-532
-00:34:18.300 --> 00:34:19.300
-And then.
-
-533
-00:34:19.300 --> 00:34:20.300
-There will be a list of documents.
-
-534
-00:34:20.300 --> 00:34:21.300
-We will have information for sponsors.
-
-535
-00:34:21.300 --> 00:34:22.300
-At that time.
-
-536
-00:34:22.300 --> 00:34:23.300
-We.
-
-537
-00:34:23.300 --> 00:34:24.300
-At that time.
-
-538
-00:34:24.300 --> 00:34:25.300
-We didn't use notion.
-
-539
-00:34:25.300 --> 00:34:26.300
-At that time.
-
-540
-00:34:26.300 --> 00:34:27.300
-We keep it in the drop box paper.
-
-541
-00:34:27.300 --> 00:34:28.300
-Ah.
-
-542
-00:34:28.300 --> 00:34:29.300
-I don't know who.
-
-543
-00:34:29.300 --> 00:34:30.300
+417
+00:34:29.300 --> 00:34:35.300
 Have you ever used it?
+It came before Notion.
 
-544
-00:34:30.300 --> 00:34:31.300
-Drop box paper.
+418
+00:34:35.300 --> 00:34:38.300
+In conclusion, no matter
+where the information is.
 
-545
-00:34:31.300 --> 00:34:32.300
-Ah.
+419
+00:34:38.300 --> 00:34:43.300
+At least, it is reachable
+from the home page.
 
-546
-00:34:32.300 --> 00:34:33.300
-It may come before notion.
+420
+00:34:43.300 --> 00:34:53.300
+This makes our knowledge
+more easily discoverable.
 
-547
-00:34:33.300 --> 00:34:34.300
-Ah.
+421
+00:34:53.300 --> 00:34:57.871
+That's the conclusion for this talk.
 
-548
-00:34:34.300 --> 00:34:35.300
-But.
+422
+00:34:57.872 --> 00:35:02.171
+Here are the repo links, but
+you don't have to remember it.
 
-549
-00:34:35.300 --> 00:34:36.300
-In conclusion.
+423
+00:35:02.172 --> 00:35:06.629
+Go to our wiki, and then,
+scroll down to Tech Stack.
 
-550
-00:34:36.300 --> 00:34:37.300
-No matter where the information is.
+424
+00:35:06.630 --> 00:35:12.486
+That would be it for my session.
+Thank you everyone.
 
-551
-00:34:37.300 --> 00:34:38.300
-It.
-
-552
-00:34:38.300 --> 00:34:39.300
-At least.
-
-553
-00:34:39.300 --> 00:34:40.300
-It is reachable.
-
-554
-00:34:40.300 --> 00:34:41.300
-From.
-
-555
-00:34:41.300 --> 00:34:42.300
-From.
-
-556
-00:34:42.300 --> 00:34:43.300
-From our main face.
-
-557
-00:34:43.300 --> 00:34:44.300
-Will make.
-
-558
-00:34:44.300 --> 00:34:45.300
-It will make us.
-
-559
-00:34:45.300 --> 00:34:46.300
-Ah.
-
-560
-00:34:46.300 --> 00:34:47.300
-Like.
-
-561
-00:34:47.300 --> 00:34:48.300
-Our knowledge.
-
-562
-00:34:48.300 --> 00:34:49.300
-Will not disappear.
-
-563
-00:34:49.300 --> 00:34:50.300
-If it is still.
-
-564
-00:34:50.300 --> 00:34:51.300
-Reachable.
-
-565
-00:34:51.300 --> 00:34:52.300
-Ah.
-
-566
-00:34:52.300 --> 00:34:53.300
-Ah.
-
-567
-00:34:53.300 --> 00:34:54.300
-Then.
-
-568
-00:34:54.300 --> 00:34:55.300
-This is.
-
-569
-00:34:55.300 --> 00:34:56.300
-The conclusion.
-
-570
-00:34:56.300 --> 00:34:57.300
-That.
-
-571
-00:34:57.300 --> 00:34:58.300
-I want to conclude.
-
-572
-00:34:58.300 --> 00:34:59.300
-In this talk.
-
-573
-00:34:59.300 --> 00:35:00.300
-Well.
-
-574
-00:35:00.300 --> 00:35:01.300
-This will be.
-
-575
-00:35:01.300 --> 00:35:02.300
-A link.
-
-576
-00:35:02.300 --> 00:35:03.300
-To report.
-
-577
-00:35:03.300 --> 00:35:04.300
-But.
-
-578
-00:35:04.300 --> 00:35:05.300
-You don't have to remember.
-
-579
-00:35:05.300 --> 00:35:06.300
-Go to.
-
-580
-00:35:06.300 --> 00:35:07.300
-Wiki.
-
-581
-00:35:07.300 --> 00:35:08.300
-And then.
-
-582
-00:35:08.300 --> 00:35:09.300
-Go to.
-
-583
-00:35:09.300 --> 00:35:10.300
-Textstack.
-
-584
-00:35:10.300 --> 00:35:11.300
-Well.
-
-585
-00:35:11.300 --> 00:35:12.300
-Ah.
-
-586
-00:35:12.300 --> 00:35:13.300
-For.
-
-587
-00:35:13.300 --> 00:35:14.300
-My session.
-
-588
-00:35:14.300 --> 00:35:15.300
-There will be only this.
-
-589
-00:35:15.300 --> 00:35:16.300
-Well.
-
-590
-00:35:16.300 --> 00:35:17.300
-Ah.
-
-591
-00:35:17.300 --> 00:35:18.300
-Thank you.
-
-592
-00:35:18.300 --> 00:35:19.300
-Everyone.
-
-593
+425
 00:35:19.300 --> 00:35:20.300
 For.
 
-594
+426
 00:35:20.300 --> 00:35:21.300
 Answer.
 
-595
+427
 00:35:21.300 --> 00:35:22.300
 A lot.
 
-596
+428
 00:35:22.300 --> 00:35:23.300
 Yes.
 
-597
+429
 00:35:23.300 --> 00:35:24.300
 I.
 
-598
+430
 00:35:24.300 --> 00:35:25.300
 Where?
 
-599
+431
 00:35:25.300 --> 00:35:26.300
 I.
 
-600
+432
 00:35:26.300 --> 00:35:27.300
 And take.
 
-601
+433
 00:35:27.300 --> 00:35:28.300
 Yes I will.
 
-602
+434
 00:35:28.300 --> 00:35:29.300
 Uh.
 
-603
+435
 00:35:29.300 --> 00:35:30.300
 Ask.
 
-604
+436
 00:35:30.300 --> 00:35:31.300
 What.
 
-605
+437
 00:35:31.300 --> 00:35:32.300
 What we see.
 
-606
+438
 00:35:32.300 --> 00:35:33.300
 As.
 
-607
+439
 00:35:33.300 --> 00:35:34.300
 A project.
 
-608
+440
 00:35:34.300 --> 00:35:35.300
 Do.
 
-609
+441
 00:35:35.300 --> 00:35:36.300
 Is.
 
-610
+442
 00:35:36.300 --> 00:35:37.300
 Right?
 
-611
+443
 00:35:37.300 --> 00:35:38.300
 Now.
 
-612
+444
 00:35:38.300 --> 00:35:39.300
 I want.
 
-613
+445
 00:35:39.300 --> 00:35:40.300
 What about.
 
-614
+446
 00:35:40.300 --> 00:35:41.300
 Evaluation.
 
-615
+447
 00:35:41.300 --> 00:35:42.300
 What.
 
-616
+448
 00:35:42.300 --> 00:35:43.300
 We.
 
-617
+449
 00:35:43.300 --> 00:35:44.300
 Evaluation.
 
-618
+450
 00:35:44.300 --> 00:35:45.300
 Form.
 
-619
+451
 00:35:45.300 --> 00:35:46.300
 From.
 
-620
+452
 00:35:46.300 --> 00:35:47.300
 Project.
 
-621
+453
 00:35:47.300 --> 00:35:48.300
 How.
 
-622
+454
 00:35:48.300 --> 00:35:50.300
 I'm sorry.
 
-623
+455
 00:35:50.300 --> 00:35:52.300
 Oh, like...
 
-624
+456
 00:35:54.300 --> 00:35:59.300
 Okay, I mean, after we have organized the project, right?
 
-625
+457
 00:35:59.300 --> 00:36:03.300
 There will be a feedback form that this part needs to be adjusted like this.
 
-626
+458
 00:36:03.300 --> 00:36:07.300
 We have a summary of how to evaluate the data.
 
-627
+459
 00:36:07.300 --> 00:36:11.300
 How can we improve the future management?
 
-628
+460
 00:36:11.300 --> 00:36:14.300
 Can we do it like Tata here?
 
-629
+461
 00:36:14.300 --> 00:36:16.300
 How can we develop the team to do this?
 
-630
+462
 00:36:16.300 --> 00:36:18.300
 Okay.
 
-631
+463
 00:36:18.300 --> 00:36:20.300
 Oh, thank you very much, Lekphi.
 
-632
+464
 00:36:20.300 --> 00:36:22.300
 Okay, thank you for the question.
 
-633
+465
 00:36:22.300 --> 00:36:25.300
 This is the feedback of the 7th Stupid Hackathon.
 
-634
+466
 00:36:25.300 --> 00:36:27.300
 The latest project that we organized.
 
-635
+467
 00:36:27.300 --> 00:36:30.300
 After the project is finished, we will shoot a Google Form and ask questions.
 
-636
+468
 00:36:30.300 --> 00:36:32.300
 Usually, we will ask 5 questions.
 
-637
+469
 00:36:32.300 --> 00:36:33.300
 1. What do you like?
 
-638
+470
 00:36:33.300 --> 00:36:35.300
 2. What should be improved?
 
-639
+471
 00:36:35.300 --> 00:36:37.300
 3. What do you want us to try?
 
-640
+472
 00:36:37.300 --> 00:36:40.300
 And then, the fourth question is to give a score of 1-10.
 
-641
+473
 00:36:40.300 --> 00:36:43.300
 And then, the fifth question is to say that you want to write something in it.
 
-642
+474
 00:36:43.300 --> 00:36:44.300
 Just write it.
 
-643
+475
 00:36:44.300 --> 00:36:46.300
 Then, I will take the question.
 
-644
+476
 00:36:46.300 --> 00:36:49.300
 I will take the question and write it in the wiki.
 
-645
+477
 00:36:49.300 --> 00:36:56.300
 Then, the next generation of staff will be able to see the event list to see the feedback of the previous work.
 
-646
+478
 00:36:56.300 --> 00:36:59.300
 It will not disappear.
 
-647
+479
 00:36:59.300 --> 00:37:00.300
 Ah.
 
-648
+480
 00:37:00.300 --> 00:37:01.300
 Yes.
 
-649
+481
 00:37:01.300 --> 00:37:04.300
 For the 7th Stupid Hackathon,
 
-650
+482
 00:37:04.300 --> 00:37:06.300
 what is your favorite activity?
 
-651
+483
 00:37:06.300 --> 00:37:08.300
 Each person who answered will be listed.
 
-652
+484
 00:37:08.300 --> 00:37:10.300
 After that,
 
-653
+485
 00:37:10.300 --> 00:37:12.300
 the one who answered, we will post it to the GPT chat.
 
-654
+486
 00:37:12.300 --> 00:37:14.300
 The summary is...
 
-655
+487
 00:37:14.300 --> 00:37:15.300
 Ah.
 
-656
+488
 00:37:15.300 --> 00:37:34.300
 So, if you want to read our information or to see the summary of the chat GPT, including the points, how many points we will keep in this.
 
-657
+489
 00:37:34.300 --> 00:37:40.300
 And how many people answered, how much average, there will be a calculation automatically.
 
-658
+490
 00:37:40.300 --> 00:37:48.300
 Therefore, the team that organizes the next round can come in and see, including ideas for next year.
 
-659
+491
 00:37:48.300 --> 00:37:58.300
 If you want to know what ideas the people who organize the previous generation have, come in and see these.
 
-660
+492
 00:37:58.300 --> 00:38:01.300
 Come in and see the summary that we can talk about.
 
-661
+493
 00:38:01.300 --> 00:38:07.300
 And there will be, let me find it for a moment.
 
-662
+494
 00:38:07.300 --> 00:38:13.300
 Data, here it is.
 
-663
+495
 00:38:13.300 --> 00:38:16.300
 In addition, we will have to collect data of various STUPID events.
 
-664
+496
 00:38:16.300 --> 00:38:27.300
 We have arranged 7 rounds and we have a clip track that in each year, how many teams there are, how many tickets, presenters, how many people come to present the work, event rating, something like this.
 
-665
+497
 00:38:27.300 --> 00:38:31.300
 When you click on the event rating, it will take you to see the feedback.
 
-666
+498
 00:38:31.300 --> 00:38:36.300
 This is the way we collect feedback in various events.
 
-667
+499
 00:38:36.300 --> 00:38:38.300
 We don't want it to disappear.
 
-668
+500
 00:38:38.300 --> 00:38:40.300
 Answer the question.
 
-669
+501
 00:38:40.300 --> 00:38:42.300
 Ok.
 
-670
+502
 00:38:45.300 --> 00:38:47.300
 Any additional questions?
 
-671
+503
 00:38:50.300 --> 00:38:51.300
 Ok, that's about it.
 
-672
+504
 00:38:51.300 --> 00:38:53.300
 Thank you, P'Thy and Liffy.
 
-673
+505
 00:38:57.300 --> 00:38:59.300
 Very cool, P'Shank.
 
-674
+506
 00:38:59.300 --> 00:39:02.300
 Ok, let's set up first.
 
-675
+507
 00:39:02.300 --> 00:39:04.300
 How is it, P'Pup?
 
-676
+508
 00:39:04.300 --> 00:39:05.300
 See today.
 
-677
+509
 00:39:05.300 --> 00:39:08.300
 Oh, I just know that Bitbucket can do a lot of things.
 
-678
+510
 00:39:08.300 --> 00:39:14.300
 Oh, I still want to get a sticker of KritHub.
 
-679
+511
 00:39:14.300 --> 00:39:16.300
 Ok, I said it wrong.
 
-680
+512
 00:39:16.300 --> 00:39:19.300
 I just know that KritLab can do a lot of things.
 
-681
+513
 00:39:19.300 --> 00:39:22.300
 I wouldn't set up a post like this.
-
