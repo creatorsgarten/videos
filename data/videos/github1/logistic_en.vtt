@@ -1,0 +1,2369 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+Hello everyone.
+
+00:06.000 --> 00:15.000
+I'm Riffy from Creatorsgarten.
+
+00:15.000 --> 00:20.000
+This session is a co-host session with Thai Pang.
+
+00:20.000 --> 00:23.000
+From Creatorsgarten.
+
+00:23.000 --> 00:39.000
+Today, we will see what we do with the background system of Creatorsgarten.
+
+00:39.000 --> 00:43.000
+We will divide the session into two parts.
+
+00:43.000 --> 00:50.000
+The first part will tell you about the process of making a video of the work.
+
+00:50.000 --> 00:53.000
+How we simplify the process.
+
+00:53.000 --> 00:57.000
+The second part will be a session of Thai Pang.
+
+00:57.000 --> 00:59.000
+He will show you the Contentsgarten.
+
+00:59.000 --> 01:03.000
+It is a background system that we made ourselves.
+
+01:03.000 --> 01:07.000
+We utilize many of the systems of GitHub.
+
+01:07.000 --> 01:10.000
+Let's get started.
+
+01:10.000 --> 01:17.000
+We have officially formed Creatorsgarten for 1-2 months.
+
+01:17.000 --> 01:23.000
+We have organized many things.
+
+01:23.000 --> 01:26.000
+We have organized many events.
+
+01:26.000 --> 01:31.000
+In addition to organizing many events, we have kept all the events that we live stream as archived.
+
+01:31.000 --> 01:39.000
+Another purpose of keeping the archive is to publish it on YouTube as a public archive.
+
+01:39.000 --> 01:45.000
+For others to be interested in the topic of the previous session.
+
+01:45.000 --> 01:51.000
+In the past, we did not have an event community that was organized like this.
+
+01:51.000 --> 01:53.000
+Every event will spread.
+
+01:53.000 --> 02:03.000
+We have made video sessions, post- processing sessions and uploaded on YouTube .
+
+02:03.000 --> 02:08.000
+Before starting streaming, we need to set up as the device as Rockstar.
+
+02:08.000 --> 02:10.000
+Like 1 hour ago.
+
+02:10.000 --> 02:13.000
+It's quite been around.
+
+02:13.000 --> 02:17.000
+Making archiving is really difficult.
+
+02:17.000 --> 02:18.000
+Because we have many tools.
+
+02:18.000 --> 02:20.000
+Right?
+
+02:20.000 --> 02:28.000
+We have computer speakers that only have a single slide.
+
+02:28.000 --> 02:32.000
+Some speakers may have to play a video sound.
+
+02:32.000 --> 02:37.000
+We don't know if they will use it.
+
+02:37.000 --> 02:43.000
+And now about the microphone that the speakers will use to speak.
+
+02:43.000 --> 02:47.000
+Because if it's in the clipboard, we've arranged a lot of clipboards.
+
+02:47.000 --> 02:53.000
+We know how the setup looks like.
+
+02:53.000 --> 02:57.000
+But when we move to another venue,
+
+02:57.000 --> 03:03.000
+it's called uncharted space.
+
+03:03.000 --> 03:06.000
+We don't know what they provide for us.
+
+03:06.000 --> 03:08.000
+It's our risk.
+
+03:08.000 --> 03:10.000
+If they don't have a microphone, where can we find it?
+
+03:10.000 --> 03:12.000
+Can we find it?
+
+03:12.000 --> 03:15.000
+Another thing is, can we have full control?
+
+03:15.000 --> 03:17.000
+If I speak too loudly,
+
+03:17.000 --> 03:19.000
+I can't control the sound.
+
+03:19.000 --> 03:22.000
+I can't control the output sound.
+
+03:22.000 --> 03:25.000
+What is the answer?
+
+03:25.000 --> 03:28.000
+The answer to this problem is to spend money.
+
+03:28.000 --> 03:30.000
+Rich!
+
+03:30.000 --> 03:32.000
+We use...
+
+03:32.000 --> 03:34.000
+In Creator Saturday,
+
+03:34.000 --> 03:36.000
+each session, each event,
+
+03:36.000 --> 03:39.000
+we receive sponsorship money from many sponsors.
+
+03:39.000 --> 03:41.000
+We use almost all of them.
+
+03:41.000 --> 03:43.000
+But which one...
+
+03:43.000 --> 03:45.000
+But which one we don't use all of them,
+
+03:45.000 --> 03:46.000
+we keep it.
+
+03:46.000 --> 03:48.000
+We keep the sum.
+
+03:48.000 --> 03:50.000
+And when we sum it into a pool,
+
+03:50.000 --> 03:55.000
+we use this amount of money to improve our workflow.
+
+03:55.000 --> 03:57.000
+We simplify everything.
+
+03:57.000 --> 04:01.000
+The video is embedded in ATEM Mini.
+
+04:01.000 --> 04:06.000
+We put video on ATEM Mini.
+
+04:06.000 --> 04:10.000
+Video that is projected on the screen like this.
+
+04:10.000 --> 04:14.000
+And the sound that flows into the software on Mac Mini.
+
+04:14.000 --> 04:17.000
+Wait, what?
+
+04:17.000 --> 04:19.000
+Is it a video that is projected with a built-in thumbset?
+
+04:19.000 --> 04:21.000
+In fact, this is a video.
+
+04:21.000 --> 04:23.000
+This is my sound source.
+
+04:23.000 --> 04:24.000
+Or does it match mine?
+
+04:24.000 --> 04:25.000
+OK.
+
+04:25.000 --> 04:27.000
+You can go back to.
+
+04:27.000 --> 04:28.000
+You can go back to.
+
+04:28.000 --> 04:30.000
+Which part?
+
+04:30.000 --> 04:31.000
+Which part?
+
+04:31.000 --> 04:33.000
+This is my hand.
+
+04:33.000 --> 04:34.000
+The part...
+
+04:34.000 --> 04:35.000
+Something?
+
+04:35.000 --> 04:36.000
+Then, where is it saved?
+
+04:36.000 --> 04:37.000
+You have to go over.
+
+04:37.000 --> 04:38.000
+All right.
+
+04:38.000 --> 04:39.000
+One more point.
+
+04:39.000 --> 04:42.000
+You can use your music Stretch machine,
+
+04:42.000 --> 04:47.000
+If it works, it's fine. If not, it's not. But if it works, don't fix it.
+
+04:49.000 --> 04:58.000
+When we go to each venue, we have to lock in what equipment they have for us.
+
+04:58.000 --> 05:03.000
+When we go to a place, we don't have to ask them what equipment they have.
+
+05:03.000 --> 05:11.000
+When we finished recording the live stream, it might take 3-5 hours.
+
+05:11.000 --> 05:15.000
+The file that came out of OBS is very large, 32GB.
+
+05:15.000 --> 05:19.000
+The size is not enough to be used in Final Cut.
+
+05:19.000 --> 05:22.000
+If we put it in Final Cut, it will be frozen.
+
+05:22.000 --> 05:26.000
+We have to optimize it first.
+
+05:26.000 --> 05:34.000
+For the answer, we have the FFmpeg command preset.
+
+05:34.000 --> 05:39.000
+We learn the code from the H.264 to H.265 archive.
+
+05:39.000 --> 05:41.000
+The size is the same.
+
+05:41.000 --> 05:42.000
+It's 32GB.
+
+05:42.000 --> 05:44.000
+The remaining is 5GB.
+
+05:44.000 --> 05:49.000
+It's sustainable enough that we can use it to cut in Final Cut.
+
+05:49.000 --> 05:52.000
+And it's also archived in PhysicalNAS.
+
+05:52.000 --> 06:01.000
+In case, in any event, the Creator Garden page becomes the Elon Musk live stream channel.
+
+06:01.000 --> 06:04.000
+We have a case for it.
+
+06:04.000 --> 06:09.000
+We've already recorded the video.
+
+06:09.000 --> 06:11.000
+Now we upload it to YouTube.
+
+06:11.000 --> 06:16.000
+But after uploading, we have to manage the content.
+
+06:16.000 --> 06:20.000
+Managing is harder than before.
+
+06:20.000 --> 06:23.000
+It's harder than what I've said.
+
+06:23.000 --> 06:29.000
+Because every video we make has its own consistency.
+
+06:29.000 --> 06:34.000
+The video title will have consistency.
+
+06:34.000 --> 06:36.000
+We start with the session.
+
+06:36.000 --> 06:38.000
+Followed by the speaker.
+
+06:38.000 --> 06:42.000
+Or if it's a stream, it's another format.
+
+06:42.000 --> 06:49.000
+If it's a session like many people, we can't include many people in the video.
+
+06:49.000 --> 06:52.000
+We have to put it in another format.
+
+06:52.000 --> 06:59.000
+Actually, we can manage it by hand.
+
+06:59.000 --> 07:01.000
+But it may be too difficult.
+
+07:01.000 --> 07:06.000
+And if there is another subtitle, how will we manage it?
+
+07:06.000 --> 07:07.000
+Okay.
+
+07:07.000 --> 07:14.000
+Thaj will giving us an example as the keynote.
+
+07:14.000 --> 07:25.740
+We
+
+07:25.740 --> 07:27.000
+can manage each video through the repository.
+
+07:27.000 --> 07:30.000
+And the board itself will take control of its own effects.
+
+07:30.000 --> 07:35.000
+When we manage each session,
+
+07:35.000 --> 07:51.000
+We can create a markdown file with metadata like title, speaker, effect, youtube id, and video description.
+
+07:51.000 --> 08:08.000
+For some videos, such as hackathon, we can create a code to select a specific type and take effect video title that look different.
+
+08:08.000 --> 08:20.000
+For subtitle, we don't have to keep a local file or keep it with youtube all the time.
+
+08:20.000 --> 08:21.000
+We can do it by ourselves.
+
+08:21.000 --> 08:30.000
+In this case, in the video library, we can upload subtitle file in VTT format, which is global standard.
+
+08:30.000 --> 08:35.000
+We can add it and then subtitle it.
+
+08:36.000 --> 08:41.000
+Another system that we have is Consistency.
+
+08:41.000 --> 08:50.000
+Consistency is not only about video title and description, but also about video and thumbnail.
+
+08:50.000 --> 08:51.000
+When we have a video title, we can add it to the subtitle.
+
+08:51.000 --> 08:58.000
+In the beginning, we intended to make each event look different.
+
+08:58.000 --> 09:01.000
+So that we can separate the event.
+
+09:01.000 --> 09:12.000
+But when we came to this, P'Type suggested that we make it have the same format consistency as Sakurai's video gaming channel.
+
+09:12.000 --> 09:16.000
+The solution we got is not an automation.
+
+09:16.000 --> 09:20.000
+But we use Figma's template system.
+
+09:20.000 --> 09:25.000
+When we made the video, we have a preset template.
+
+09:25.000 --> 09:31.000
+We have the header on the top and we put the video image at the back.
+
+09:31.000 --> 09:39.000
+And we put the text as a cache phrase.
+
+09:39.000 --> 09:40.000
+Like two bars.
+
+09:40.000 --> 09:43.000
+And now, we add Figma system.
+
+09:43.000 --> 09:47.000
+It's a very versatile system.
+
+09:47.000 --> 09:51.500
+As long as we can create the header as a component
+
+09:51.500 --> 09:56.200
+And when we go in and fix the component
+
+09:56.200 --> 09:58.900
+It will take effect with every video
+
+09:58.900 --> 10:03.700
+We don't need to fix the header one by one
+
+10:03.700 --> 10:10.300
+And when all files are finished
+
+10:10.300 --> 10:17.100
+We will run the event in GitHub Actions
+
+10:17.100 --> 10:21.100
+And the event will take effect on YouTube
+
+10:21.100 --> 10:26.100
+Why did we do all of this?
+
+10:26.100 --> 10:29.100
+That's it
+
+10:29.100 --> 10:34.600
+We did it because of the ownership
+
+10:34.600 --> 10:40.200
+Creators Garden is an open source group
+
+10:40.200 --> 10:44.500
+We have many ways to use the money
+
+10:44.500 --> 10:45.500
+We are open source
+
+10:45.500 --> 10:47.500
+We have a website
+
+10:47.500 --> 10:54.300
+But we can't grant the content to all the creators
+
+10:54.300 --> 10:59.800
+We can't give ownership to Creators Garden
+
+10:59.800 --> 11:03.800
+But we can open source the videos
+
+11:03.800 --> 11:08.800
+And when someone wants to make changes in the video
+
+11:08.800 --> 11:09.800
+We can send a pull request
+
+11:09.800 --> 11:15.100
+To fix the content in YouTube
+
+11:15.100 --> 11:19.100
+This is the concept of the video repository
+
+11:19.100 --> 11:24.100
+But we also utilize GitHub with another feature
+
+11:24.100 --> 11:27.100
+Which is YouTube channel banner
+
+11:27.100 --> 11:33.100
+I intend to adapt the YouTube channel banner to each event
+
+11:33.100 --> 11:36.100
+When there is an event, we will adapt it to another style
+
+11:36.100 --> 11:38.100
+But the concept is not finished yet
+
+11:39.800 --> 11:46.800
+We will use Affinity or Photoshop to drag the new event into the event
+
+11:46.800 --> 11:50.100
+It's a waste of time
+
+11:50.100 --> 11:52.100
+We are lazy
+
+11:52.100 --> 11:59.100
+So we have another repository called Banner
+
+11:59.100 --> 12:00.100
+The concept is simple
+
+12:00.100 --> 12:03.100
+We run the web as a service kit
+
+12:03.100 --> 12:06.100
+And when we trigger the event today
+
+12:06.100 --> 12:06.800
+The puppeteer will go in and find the event
+
+12:06.800 --> 12:07.800
+And the puppeteer will go in and find the event
+
+12:07.800 --> 12:08.800
+And the puppeteer will go in and find the event
+
+12:08.800 --> 12:09.800
+And the puppeteer will go in and find the event
+
+12:09.800 --> 12:11.800
+And it will then go hosting an event
+
+12:11.800 --> 12:13.800
+And it will be a traffic capture
+
+12:13.800 --> 12:16.800
+The website profile will be captured
+
+12:16.800 --> 12:19.800
+You will have to upload the picture to the YouTube apps
+
+12:20.300 --> 12:24.800
+And this action will keep running consistency
+
+12:25.600 --> 12:29.500
+This is an example of how we can use our device
+
+12:29.500 --> 12:32.500
+I will show you a little video
+
+12:34.300 --> 12:35.000
+OK
+
+12:35.300 --> 12:36.800
+So, this one
+
+12:36.800 --> 12:38.800
+These are some videos
+
+12:38.800 --> 12:45.800
+I will create a new thumbnail for the event.
+
+12:45.800 --> 12:50.800
+I will use the crop tool to align the grid.
+
+12:50.800 --> 12:55.800
+I want to get a header.
+
+12:55.800 --> 13:01.800
+I will detach this one.
+
+13:01.800 --> 13:08.800
+I will use the full demo.
+
+13:08.800 --> 13:13.800
+Did I remove the delete button?
+
+13:13.800 --> 13:18.800
+Never mind.
+
+13:18.800 --> 13:22.800
+I will not create a new one.
+
+13:22.800 --> 13:25.800
+But I will show you how to edit the thumbnail.
+
+13:25.800 --> 13:28.800
+For example, the slide project showdown.
+
+13:28.800 --> 13:30.800
+I will change it to a new one.
+
+13:30.800 --> 13:33.800
+It will be a code golf party.
+
+13:33.800 --> 13:35.800
+If we have a lot of videos,
+
+13:35.800 --> 13:40.800
+we can see that when we edit the video or the component,
+
+13:40.800 --> 13:42.800
+it will take effect everywhere.
+
+13:42.800 --> 13:50.800
+What I have to do is just export the frame to the frame.
+
+13:50.800 --> 13:55.800
+Then, I will get the thumbnail that is ready to be published.
+
+13:55.800 --> 13:57.800
+When I get a file like this,
+
+13:57.800 --> 14:00.800
+for example, the video report,
+
+14:00.800 --> 14:07.800
+what I can do is just go to the video report.
+
+14:07.800 --> 14:16.800
+When I want to update the thumbnail for a new session,
+
+14:16.800 --> 14:20.800
+I will just drag and drop the jpeg file into the video report.
+
+14:20.800 --> 14:22.800
+Then, I will push it up again.
+
+14:22.800 --> 14:24.800
+I will click on the action trigger for 1 minute.
+
+14:24.800 --> 14:26.800
+Then, I will click on the take change button on YouTube.
+
+14:26.800 --> 14:28.800
+Something like this.
+
+14:28.800 --> 14:31.800
+Let's go back.
+
+14:35.800 --> 14:39.800
+This is the process of making a short video.
+
+14:39.800 --> 14:42.800
+Now, we will be in the second part.
+
+14:42.800 --> 14:48.800
+We will manage the content in the wiki engine of Creators Garden.
+
+14:48.800 --> 14:53.800
+I will invite P'Tai to explain this session.
+
+14:53.800 --> 14:55.800
+Please.
+
+14:55.800 --> 14:57.800
+Thank you, Wigpy.
+
+14:57.800 --> 15:02.800
+Before I start, I would like to give a big hand to Wigpy.
+
+15:02.800 --> 15:06.800
+Because the content in the channel for the past 2-3 months,
+
+15:06.800 --> 15:08.800
+Wigpy has managed it all.
+
+15:08.800 --> 15:10.800
+Almost everything.
+
+15:10.800 --> 15:12.800
+I have set the system,
+
+15:12.800 --> 15:14.800
+made the figma,
+
+15:14.800 --> 15:18.800
+and Wigpy has done a pretty tough job.
+
+15:18.800 --> 15:20.800
+He always cuts the clip out,
+
+15:20.800 --> 15:21.800
+checks the sound,
+
+15:21.800 --> 15:23.800
+whether the sound is okay or not,
+
+15:23.800 --> 15:25.800
+uploads it to YouTube,
+
+15:25.800 --> 15:26.800
+makes the thumbnail, etc.
+
+15:26.800 --> 15:28.800
+Although we have automation,
+
+15:28.800 --> 15:31.800
+we have to admit that these works are very tough.
+
+15:31.800 --> 15:34.800
+Our channel will not grow this much without Wigpy.
+
+15:34.800 --> 15:36.800
+Thank you, Wigpy.
+
+15:36.800 --> 15:40.800
+And who hasn't subscribed to the Creators Garden channel,
+
+15:40.800 --> 15:42.800
+please subscribe.
+
+15:42.800 --> 15:48.800
+We want our content to have more viewers.
+
+15:48.800 --> 15:53.800
+Now, we have more than 200 people.
+
+15:53.800 --> 15:55.800
+400, right?
+
+15:55.800 --> 15:56.800
+Yes.
+
+15:56.800 --> 15:58.800
+This is the main thing.
+
+15:58.800 --> 16:00.800
+One more thing.
+
+16:00.800 --> 16:04.800
+In addition to running events and live work,
+
+16:04.800 --> 16:09.800
+we also have partners and organizers.
+
+16:09.800 --> 16:12.800
+Like Microsoft this time, Spark Tech, right?
+
+16:13.800 --> 16:16.800
+We are here and help live.
+
+16:16.800 --> 16:18.800
+We also grow the channel.
+
+16:18.800 --> 16:22.800
+So we hope it will be useful.
+
+16:22.800 --> 16:23.800
+This time,
+
+16:23.800 --> 16:33.240
+The last part is about the website Creators Garden that we have.
+
+16:33.240 --> 16:36.980
+This is the Creators Garden website, creatorsgarden.org.
+
+16:36.980 --> 16:39.080
+Let's take a look at the features first.
+
+16:39.080 --> 16:43.100
+There will be a cute page that contains events.
+
+16:43.100 --> 16:46.300
+And there is something called Wiki.
+
+16:46.300 --> 16:49.200
+Wiki is like a source of knowledge for us.
+
+16:49.200 --> 16:56.700
+Anything that is public knowledge, we will try to put it here.
+
+16:56.700 --> 17:01.360
+For example, about the setup and streaming.
+
+17:01.360 --> 17:04.260
+Previously, I and Liffy helped each other.
+
+17:04.260 --> 17:12.040
+But now we are taking the knowledge to many people to help each other stream.
+
+17:12.040 --> 17:18.240
+Liffy wrote in Wiki how to prepare OBS setup.
+
+17:18.240 --> 17:19.200
+These are in Wiki.
+
+17:19.200 --> 17:23.760
+The Wiki system is the main point of this talk.
+
+17:23.760 --> 17:29.400
+Because we wrote the custom Wiki system for the website Creators Garden to use.
+
+17:29.400 --> 17:34.000
+The question is, there are actually a lot of these things.
+
+17:34.000 --> 17:36.100
+Why do we have to write it ourselves?
+
+17:36.100 --> 17:43.900
+Before we get to this point, we have tried many solutions.
+
+17:43.900 --> 17:48.240
+We will go from the old solution to the most modern solution.
+
+17:49.200 --> 17:54.200
+The first one is the classic software.
+
+17:54.200 --> 17:58.200
+For example, MediaWiki, DokuWiki, PMWiki.
+
+17:58.200 --> 18:02.700
+These programs are easy to fix.
+
+18:02.700 --> 18:04.700
+This is the point that I really like.
+
+18:04.700 --> 18:09.700
+If we want to fix any page, we can press the edit button, type and save.
+
+18:09.700 --> 18:13.760
+There is something called the Wiki way.
+
+18:13.760 --> 18:17.200
+They say that the wiki's mind or the line of the wiki's mind.
+
+18:17.200 --> 18:17.800
+Or what is it called?
+
+18:17.800 --> 18:18.200
+The wiki's mind.
+
+18:18.200 --> 18:18.500
+The wiki's mind.
+
+18:18.500 --> 18:18.800
+The wiki's mind.
+
+18:18.800 --> 18:19.300
+The wiki's mind ?
+
+18:19.300 --> 18:19.800
+The wiki's mind.
+
+18:19.800 --> 18:20.300
+The wiki's mind.
+
+18:20.300 --> 18:20.400
+The wiki's mind.
+
+18:20.400 --> 18:20.600
+The wiki's mind?
+
+18:20.600 --> 18:20.900
+The wiki's mind?
+
+18:20.900 --> 18:21.300
+The wiki's mind.
+
+18:21.300 --> 18:21.600
+The wiki's mind?
+
+18:21.600 --> 18:21.900
+The wiki's mind?
+
+18:21.900 --> 18:22.100
+The wiki's mind?
+
+18:22.100 --> 18:22.200
+The wiki's mind?
+
+18:22.200 --> 18:22.500
+The wiki's mind,?
+
+18:22.500 --> 18:22.700
+The wiki's mind?
+
+18:22.700 --> 18:23.100
+The wiki's mind?
+
+18:23.100 --> 18:23.400
+The wiki's mind ?
+
+18:23.400 --> 18:23.800
+The wiki's mind ?
+
+18:23.800 --> 18:24.100
+The wiki's mind ?
+
+18:24.100 --> 18:24.500
+The wiki's mind ?
+
+18:24.500 --> 18:24.800
+The wiki's mind ?
+
+18:24.800 --> 18:26.300
+The wiki's mind ?
+
+18:26.300 --> 18:28.600
+The wiki's mind ?
+
+18:28.600 --> 18:28.900
+The wiki's mind ?
+
+18:28.900 --> 18:29.300
+The wiki's mind ?
+
+18:29.300 --> 18:29.600
+The wiki's mind ?
+
+18:29.600 --> 18:29.700
+The wiki's mind ?
+
+18:29.700 --> 18:30.040
+The wiki's mind ?
+
+18:30.040 --> 18:30.300
+The wiki's mind ?
+
+18:30.300 --> 18:35.300
+It will be changed frequently.
+
+18:35.300 --> 18:39.300
+The Wikisoftware program is very easy to edit.
+
+18:39.300 --> 18:44.300
+The second thing I like is that the wikisoftware is a plaintext format.
+
+18:44.300 --> 18:46.300
+How is plaintext good?
+
+18:46.300 --> 18:50.300
+When I want to edit, I can copy these messages to the VSCode
+
+18:50.300 --> 18:52.300
+and use the text editor that I like.
+
+18:52.300 --> 18:55.300
+After that, copy and paste it back in and press save.
+
+18:55.300 --> 18:58.300
+One of the things I like is plaintext.
+
+18:58.300 --> 19:02.300
+Another thing is that the system is quite flexible.
+
+19:02.300 --> 19:06.300
+For example, this wiki is called TVTropes.
+
+19:06.300 --> 19:10.300
+It uses the PM wiki to make it into its own web.
+
+19:10.300 --> 19:12.300
+I don't know what features it has.
+
+19:12.300 --> 19:16.300
+It's a wiki that I really like.
+
+19:16.300 --> 19:19.300
+The extension of MediaWiki itself is 100.
+
+19:19.300 --> 19:23.300
+We can install it to customize our wiki.
+
+19:23.300 --> 19:27.300
+This is what I like about wiki programs.
+
+19:27.300 --> 19:28.300
+But the thing that I like about it is that
+
+19:28.300 --> 19:30.300
+it has a pain point.
+
+19:30.300 --> 19:34.300
+First, most of these programs are written in PHP.
+
+19:34.300 --> 19:40.300
+So when we deploy, we have to rent a server and set up a database.
+
+19:40.300 --> 19:43.300
+It's not really a container.
+
+19:43.300 --> 19:47.300
+The text stack is not really cloud-native.
+
+19:47.300 --> 19:51.300
+Another thing is that I don't really like its syntax.
+
+19:51.300 --> 19:53.300
+It's not Markdown.
+
+19:53.300 --> 19:57.300
+For MediaWiki, if we want to make it thick,
+
+19:57.300 --> 19:59.300
+we have to write three single quotes.
+
+19:59.300 --> 20:02.300
+If you write Markdown, you might be confused.
+
+20:02.300 --> 20:05.300
+When you write wiki, you have to change the syntax.
+
+20:05.300 --> 20:07.300
+You might not like it.
+
+20:07.300 --> 20:11.300
+Another thing is that these wiki come in a package.
+
+20:11.300 --> 20:14.300
+So it will come with a theme and so on.
+
+20:14.300 --> 20:18.300
+It will be written as a PHP template.
+
+20:18.300 --> 20:21.300
+And then use jQuery, use regular CSS.
+
+20:21.300 --> 20:24.300
+So if we want to customize with Tailwind or React,
+
+20:24.300 --> 20:26.300
+it's quite difficult to integrate.
+
+20:26.300 --> 20:33.300
+So we didn't choose to use a successful wiki software.
+
+20:33.300 --> 20:37.300
+The second option is the static size generator.
+
+20:37.300 --> 20:39.300
+It just came out.
+
+20:39.300 --> 20:42.300
+It's been around for about 10 years.
+
+20:42.300 --> 20:47.300
+There will be Jackal, Eleventy, Hugo, Weedplace, etc.
+
+20:47.300 --> 20:50.300
+What I like is that it's plain text, Markdown.
+
+20:50.300 --> 20:52.300
+And the content is in the grid.
+
+20:52.300 --> 20:54.300
+Easy to fix.
+
+20:54.300 --> 20:58.300
+And when it's a static file, we can upload it to hosting.
+
+20:58.300 --> 21:01.300
+No need to take care of the server.
+
+21:01.300 --> 21:05.300
+There will be GitHub page that can host these static sizes.
+
+21:05.300 --> 21:09.300
+Including others such as Netlify, Vercel, Cloudflare, Pages, etc.
+
+21:09.300 --> 21:10.300
+It's all full.
+
+21:10.300 --> 21:16.300
+But the downside I found when making a web with static size generator is
+
+21:16.300 --> 21:19.300
+It's quite difficult to contribute.
+
+21:19.300 --> 21:23.300
+Because the traditional wiki, we press edit, fix, save.
+
+21:23.300 --> 21:24.300
+Finish.
+
+21:24.300 --> 21:26.300
+See the result immediately.
+
+21:26.300 --> 21:28.300
+But when it comes to static size generator,
+
+21:28.300 --> 21:34.300
+I have to fork, repo, fix, run dev server, check, commit.
+
+21:34.300 --> 21:36.300
+Push up, open PR.
+
+21:36.300 --> 21:39.300
+Wait for people to review PR and it will be uploaded on the web.
+
+21:39.300 --> 21:44.300
+Like this one, I try to contribute to the documentation of Next.js.
+
+21:44.300 --> 21:48.300
+You will see that I fixed only 2 buttons.
+
+21:48.300 --> 21:50.300
+But I have to explain what I fixed.
+
+21:50.300 --> 21:52.300
+Almost 10 buttons.
+
+21:52.300 --> 21:54.300
+Like this.
+
+21:54.300 --> 21:58.300
+It makes it quite difficult to fix.
+
+21:58.300 --> 22:02.300
+It's different from the wiki way that says it's easy to fix.
+
+22:02.300 --> 22:04.300
+Easy to revert.
+
+22:04.300 --> 22:11.300
+And when fixing, I have to fork, repo, run dev server.
+
+22:11.300 --> 22:13.300
+It's not very convenient.
+
+22:13.300 --> 22:16.300
+And when I'm done, I haven't seen the result yet.
+
+22:16.300 --> 22:19.300
+I have to wait for the web to rebuild and wait for it to redeploy.
+
+22:19.300 --> 22:21.300
+It will get new content.
+
+22:21.300 --> 22:27.300
+So I decided not to use static size generator.
+
+22:27.300 --> 22:35.300
+But when I'm in this era, there's a tool that has been booming in the past 4-5 years.
+
+22:35.300 --> 22:37.300
+It's Notion.
+
+22:37.300 --> 22:41.300
+Actually, we've been using Notion a lot since 2019.
+
+22:41.300 --> 22:45.300
+We use Notion to store knowledge for all kinds of work.
+
+22:45.300 --> 22:47.300
+I really like Notion.
+
+22:47.300 --> 22:49.300
+When we fix many people,
+
+22:49.300 --> 22:52.300
+UX is very good.
+
+22:52.300 --> 22:56.300
+And now, many people use Notion almost all.
+
+22:56.300 --> 22:59.300
+But what I still feel is disturbing is that
+
+22:59.300 --> 23:06.300
+First, sometimes I want to put in bar charts, speech bubbles, or widgets that are not in Notion.
+
+23:06.300 --> 23:12.300
+We can't fully control the website's appearance that much.
+
+23:12.300 --> 23:15.300
+Second, I hate Notion's size bar.
+
+23:15.300 --> 23:17.300
+Because I try to...
+
+23:17.300 --> 23:23.300
+I try to organize the content in Notion.
+
+23:23.300 --> 23:27.300
+No matter how much I try to organize, it's still a mess.
+
+23:27.300 --> 23:29.300
+So I don't like the size bar.
+
+23:29.300 --> 23:33.300
+I prefer to have the bar charts and links.
+
+23:33.300 --> 23:36.300
+Another thing is that the content is in its own form.
+
+23:36.300 --> 23:38.300
+It's not plain text.
+
+23:38.300 --> 23:41.300
+I just copied it, fixed it in VS Code, and pasted it back.
+
+23:41.300 --> 23:44.300
+And if many people use it and have a lot of information,
+
+23:44.300 --> 23:46.300
+it may be expensive.
+
+23:46.300 --> 23:51.300
+So I tried to create a wiki engine myself.
+
+23:51.300 --> 23:53.300
+This wiki engine is called Content Skarten.
+
+23:53.300 --> 23:55.300
+I'll show you the features.
+
+23:55.300 --> 23:59.300
+It's open source, headless, modern, and cloud-native.
+
+23:59.300 --> 24:01.300
+It's a wiki engine.
+
+24:01.300 --> 24:03.300
+The main thing is to use Markdown syntax.
+
+24:03.300 --> 24:05.300
+When you see this, it's Markdown.
+
+24:05.300 --> 24:07.300
+If you want to add something, just add a flower.
+
+24:07.300 --> 24:09.300
+No need to remember the new syntax.
+
+24:09.300 --> 24:12.300
+And the content is stored in Git.
+
+24:12.300 --> 24:14.300
+So if you go to Creator Skarten or wiki,
+
+24:14.300 --> 24:17.300
+you'll see all the information.
+
+24:17.300 --> 24:19.300
+It's a Markdown file.
+
+24:19.300 --> 24:21.300
+And when it's in Git,
+
+24:21.300 --> 24:24.300
+the good thing is that we can fix it directly on the web.
+
+24:24.300 --> 24:26.300
+We have a UI for fixing it on the web.
+
+24:26.300 --> 24:30.300
+But we'll clone the repo to fix it in our own editor.
+
+24:30.300 --> 24:32.300
+Or currently,
+
+24:32.300 --> 24:35.300
+there's a web called github.dev
+
+24:35.300 --> 24:37.300
+that is a VS Code in the browser.
+
+24:37.300 --> 24:41.300
+It allows us to fix content
+
+24:41.300 --> 24:44.300
+by using the VS Code editor,
+
+24:44.300 --> 24:45.300
+but it's in the web.
+
+24:45.300 --> 24:47.300
+We've integrated this already.
+
+24:47.300 --> 24:51.300
+If we go to the Creator Skarten wiki
+
+24:51.300 --> 24:53.300
+and press the dot button,
+
+24:53.300 --> 24:56.300
+it'll take us to github.dev.
+
+24:56.300 --> 25:01.300
+Or when we use VS Code to fix what we get,
+
+25:01.300 --> 25:03.300
+when we write, we won't be writing alone
+
+25:03.300 --> 25:06.300
+because we have GitHub Code Pilot to help us write.
+
+25:06.300 --> 25:10.300
+And if you want to make large scale changes,
+
+25:10.300 --> 25:11.300
+for example,
+
+25:11.300 --> 25:14.300
+I want to fix many files at once,
+
+25:14.300 --> 25:17.300
+I don't have to write scripts to shoot APIs
+
+25:17.300 --> 25:20.300
+to API Notion or API this and that.
+
+25:20.300 --> 25:21.300
+I can just import the repo,
+
+25:21.300 --> 25:23.300
+write scripts, fix files,
+
+25:23.300 --> 25:26.300
+and commit push back to wiki.
+
+25:28.300 --> 25:31.300
+And the next feature is that it's very tight
+
+25:31.300 --> 25:33.300
+integrated with GitHub.
+
+25:33.300 --> 25:37.300
+When we fix a page in the Content Skarten,
+
+25:37.300 --> 25:39.300
+what happens is that it shoots APIs
+
+25:39.300 --> 25:44.300
+to the GitHub API to fix that file directly on GitHub.
+
+25:44.300 --> 25:47.300
+We use GitHub as a source of truth.
+
+25:47.300 --> 25:50.300
+And when the information is on GitHub,
+
+25:50.300 --> 25:53.300
+it allows us to use GitHub's various features,
+
+25:53.300 --> 25:55.300
+such as webhooks.
+
+25:55.300 --> 25:58.300
+When someone fixes a page,
+
+25:58.300 --> 26:01.300
+I set up a webhook to shoot it into Discord.
+
+26:01.300 --> 26:03.300
+So when someone fixes it,
+
+26:03.300 --> 26:04.300
+they know immediately.
+
+26:04.300 --> 26:05.300
+You don't have to write a code
+
+26:05.300 --> 26:07.300
+because it's a feature that GitHub has for you.
+
+26:07.300 --> 26:09.300
+You don't have to implement it yourself.
+
+26:09.300 --> 26:15.300
+And with the fact that Git has a history,
+
+26:15.300 --> 26:17.300
+we don't have to implement features
+
+26:17.300 --> 26:20.300
+that look at what this page is fixed.
+
+26:20.300 --> 26:21.300
+When you press history,
+
+26:21.300 --> 26:23.300
+it runs into GitHub.
+
+26:24.300 --> 26:27.300
+And when it's a web that we do it ourselves,
+
+26:27.300 --> 26:29.300
+we can do syntax,
+
+26:29.300 --> 26:31.300
+do various components of ourselves.
+
+26:31.300 --> 26:34.300
+For example, sometimes we want to have it.
+
+26:34.300 --> 26:38.300
+We want to discuss some parts of the content,
+
+26:38.300 --> 26:41.300
+but we're not ready to write a real text.
+
+26:41.300 --> 26:43.300
+And then create a speech bubble like this.
+
+26:43.300 --> 26:48.300
+Let people who are editors talk to each other.
+
+26:48.300 --> 26:53.300
+Or sometimes we want to visualize the feedback of the work.
+
+26:53.300 --> 26:56.300
+We do it like this.
+
+26:56.300 --> 27:01.300
+Or this page will be the page that includes all our events.
+
+27:01.300 --> 27:05.300
+We will have links related to each event.
+
+27:05.300 --> 27:07.300
+You will see that it is a fairly advanced table.
+
+27:07.300 --> 27:10.300
+But the code behind it is just this.
+
+27:10.300 --> 27:13.300
+It can render templates.
+
+27:13.300 --> 27:17.300
+And the template can query information from other pages
+
+27:17.300 --> 27:20.300
+to generate a table.
+
+27:20.300 --> 27:23.300
+This is using the language called Liquid.
+
+27:23.300 --> 27:28.300
+So that we don't have to maintain this table.
+
+27:28.300 --> 27:30.300
+When we create a new page,
+
+27:30.300 --> 27:33.300
+this table will update accordingly.
+
+27:33.300 --> 27:35.300
+This is from GitHub.
+
+27:35.300 --> 27:40.300
+This is from the feature called Front Matter.
+
+27:40.300 --> 27:47.300
+We can put a data structure that is YAML in each page.
+
+27:47.300 --> 27:51.300
+And those information will be put into the database,
+
+27:51.300 --> 27:53.300
+which we can query later.
+
+27:53.300 --> 27:55.300
+For example, this event page,
+
+27:55.300 --> 27:57.300
+we don't have to keep updating it all the time.
+
+27:57.300 --> 28:00.300
+It's just going to be queried from the database.
+
+28:00.300 --> 28:04.300
+So this feature allows us to implement advanced features.
+
+28:04.300 --> 28:09.300
+For example, we can keep the website settings in the wiki.
+
+28:09.300 --> 28:14.300
+And the feature flags are kept in the wiki.
+
+28:14.300 --> 28:16.300
+Or even the inventory,
+
+28:16.300 --> 28:18.300
+the tools that we track,
+
+28:18.300 --> 28:21.300
+whether there is any tool in the Creator's Garden.
+
+28:21.300 --> 28:24.300
+We have this page to track what tools we have.
+
+28:24.300 --> 28:26.300
+But we don't write,
+
+28:26.300 --> 28:30.300
+we don't keep the information as a markdown.
+
+28:30.300 --> 28:32.300
+We keep it as YAML like this.
+
+28:32.300 --> 28:36.300
+And then we write it as a script,
+
+28:36.300 --> 28:41.300
+as a template to generate a beautiful chart again.
+
+28:41.300 --> 28:45.300
+Therefore, the advantage of keeping everything as YAML is that
+
+28:45.300 --> 28:47.300
+it is machine readable.
+
+28:47.300 --> 28:50.300
+We can write a script or write a tool
+
+28:50.300 --> 28:53.300
+to update this information.
+
+28:53.300 --> 28:54.300
+That's it.
+
+28:54.300 --> 28:56.300
+I like that it is open data.
+
+28:56.300 --> 28:59.300
+Finally, it is headless.
+
+28:59.300 --> 29:01.300
+The web page that you see is not part of the content.
+
+29:01.300 --> 29:03.300
+It is part of the content garden.
+
+29:03.300 --> 29:05.300
+Because the content garden has only APIs.
+
+29:05.300 --> 29:07.300
+There are APIs like this.
+
+29:07.300 --> 29:10.300
+For example, we shoot the API content garden search.
+
+29:10.300 --> 29:13.300
+Send match event location as cleft words.
+
+29:13.300 --> 29:15.300
+When we shoot this API,
+
+29:15.300 --> 29:17.300
+it will find the entire event.
+
+29:17.300 --> 29:22.300
+It will find the entire page that has event.location as cleft words.
+
+29:22.300 --> 29:25.300
+That is, we put the information into the wiki.
+
+29:25.300 --> 29:27.300
+And we ask the wiki question.
+
+29:27.300 --> 29:29.300
+It will answer back.
+
+29:29.300 --> 29:30.300
+Okay.
+
+29:30.300 --> 29:34.300
+Next, this is the basic feature of this system.
+
+29:34.300 --> 29:36.300
+Let's look at the tech stack.
+
+29:36.300 --> 29:40.300
+The main thing is that the website is a repo.
+
+29:40.300 --> 29:42.300
+Written with Astro.
+
+29:42.300 --> 29:46.300
+If you go to BKKJS event first,
+
+29:46.300 --> 29:48.300
+Liffy will recommend Astro.
+
+29:48.300 --> 29:49.300
+Ah, call meetup.
+
+29:49.300 --> 29:50.300
+Yes.
+
+29:50.300 --> 29:51.300
+If you want to know about Astro,
+
+29:51.300 --> 29:55.300
+you can watch the talk back on YouTube channel.
+
+29:55.300 --> 29:58.300
+And the backend is the content garden.
+
+29:58.300 --> 30:01.300
+The content garden will be at this repo.
+
+30:01.300 --> 30:04.300
+Ah, the work is that it will talk to GitHub API
+
+30:04.300 --> 30:08.300
+to extract data from the repository that we consider to be a source of truth.
+
+30:08.300 --> 30:16.300
+But, ah, remember the example that we found all the events that can be arranged at cleft words, right?
+
+30:16.300 --> 30:20.300
+Ah, GitHub API does not have an API for this kind of query.
+
+30:20.300 --> 30:25.300
+We have to, so we have to keep another database as a cache, an index.
+
+30:25.300 --> 30:27.300
+So, ah, the source of truth will be this.
+
+30:27.300 --> 30:30.300
+But the data will flow to MongoDB.
+
+30:30.300 --> 30:36.300
+And we will have to arrange the data format so that we can query the data that is in each file.
+
+30:36.300 --> 30:40.300
+Ah, so this is the content garden.
+
+30:40.300 --> 30:42.300
+Let's come to the conclusion.
+
+30:42.300 --> 30:49.300
+Ah, the takeaway for this talk is that I feel that GitHub ecosystem of GitHub
+
+30:49.300 --> 30:55.300
+It allows us to build a custom wiki system as quickly as possible.
+
+30:55.300 --> 30:56.300
+It is.
+
+30:56.300 --> 31:02.300
+I think that if we do not have, if we do not have webhook systems or GitHub API
+
+31:02.300 --> 31:08.300
+that have API that stores history or various tools like GitHub.dev, something like this.
+
+31:08.300 --> 31:11.300
+Or even GitHub co-pilot that helps me write code.
+
+31:11.300 --> 31:15.300
+Building a system like this, it should take a lot longer than this.
+
+31:15.300 --> 31:19.300
+Well, I have to say that the content garden is very bare bones.
+
+31:19.300 --> 31:21.300
+Even just deleting the page, it still can't do it.
+
+31:21.300 --> 31:24.300
+But I don't have to implement because we don't delete the page often.
+
+31:24.300 --> 31:28.300
+But as I want to delete the page, I click into the repo and delete the file.
+
+31:28.300 --> 31:30.300
+Ah, don't have to implement it yourself.
+
+31:30.300 --> 31:36.300
+That is, we stand on top of the shoulder of giants.
+
+31:36.300 --> 31:41.300
+The next thing is the data that we keep as plain text and keep it in the grid.
+
+31:41.300 --> 31:44.300
+It allows us to build things.
+
+31:44.300 --> 31:46.300
+Add, add, add.
+
+31:46.300 --> 31:50.300
+Without using any API, like this.
+
+31:50.300 --> 31:53.300
+One idea that I used to think about is that I want to try to see that.
+
+31:53.300 --> 31:55.300
+Each page is connected.
+
+31:55.300 --> 31:57.300
+I did this with my own website.
+
+31:57.300 --> 32:05.300
+But it might be cool if we can see that each page is connected.
+
+32:05.300 --> 32:08.300
+And it becomes what is called a knowledge graph.
+
+32:08.300 --> 32:12.300
+Or this tool is garden.org.
+
+32:12.300 --> 32:16.300
+It is a link shortener that creators garden use.
+
+32:16.300 --> 32:21.300
+Ah, in the past, we might have to give access to bitly or.
+
+32:21.300 --> 32:22.300
+Or like.
+
+32:22.300 --> 32:23.300
+Or like.
+
+32:23.300 --> 32:26.300
+The service of some of the angels that might be expensive.
+
+32:26.300 --> 32:29.300
+Ah, but when we have a content garden.
+
+32:29.300 --> 32:32.300
+We put all the links in the wiki.
+
+32:32.300 --> 32:35.300
+And then we write a program for garden.org.
+
+32:35.300 --> 32:38.300
+Pull the information from the front matter here.
+
+32:38.300 --> 32:40.300
+And then manage the redirect.
+
+32:40.300 --> 32:44.300
+Well, I think that when the data is open.
+
+32:44.300 --> 32:47.300
+We can easily do something with it.
+
+32:47.300 --> 32:49.300
+Or like on YouTube channel.
+
+32:49.300 --> 32:50.300
+What Liffy showed to see.
+
+32:50.300 --> 32:52.300
+That the channel banner.
+
+32:52.300 --> 32:54.300
+It is the logo of the event.
+
+32:54.300 --> 32:56.300
+Different that we set up.
+
+32:56.300 --> 32:59.300
+This one also draws information from wiki as well.
+
+32:59.300 --> 33:02.300
+But I have to say that the last one.
+
+33:02.300 --> 33:04.300
+This tool is not a silver bullet.
+
+33:04.300 --> 33:06.300
+Many people complain as well.
+
+33:06.300 --> 33:08.300
+I don't like it to be plain text.
+
+33:08.300 --> 33:10.300
+I want to give like editing experience.
+
+33:10.300 --> 33:11.300
+It's like notion.
+
+33:11.300 --> 33:12.300
+Something like this.
+
+33:12.300 --> 33:13.300
+Right?
+
+33:13.300 --> 33:14.300
+Um.
+
+33:14.300 --> 33:16.300
+Or sometimes.
+
+33:16.300 --> 33:20.300
+Ah, there are some content that may not be public.
+
+33:20.300 --> 33:21.300
+Ah, or.
+
+33:21.300 --> 33:24.300
+It may not be practical to be public.
+
+33:24.300 --> 33:26.300
+Ah, I suggest that.
+
+33:26.300 --> 33:27.300
+Um.
+
+33:27.300 --> 33:30.300
+Let's use the right tool for the right job.
+
+33:30.300 --> 33:32.300
+That is, if you want to meet.
+
+33:32.300 --> 33:34.300
+Ah, you can use notion.
+
+33:34.300 --> 33:35.300
+Or use Google Doc.
+
+33:35.300 --> 33:36.300
+If you want to keep it as a schedule.
+
+33:36.300 --> 33:37.300
+Ah, Google Sheet.
+
+33:37.300 --> 33:38.300
+If you want to design, Figma.
+
+33:38.300 --> 33:41.300
+Use the right tool for the right job.
+
+33:41.300 --> 33:44.300
+But one thing that I would encourage.
+
+33:44.300 --> 33:46.300
+Is to try to make everything.
+
+33:46.300 --> 33:47.300
+Reachable.
+
+33:47.300 --> 33:48.300
+Reachable from wiki.
+
+33:48.300 --> 33:49.300
+Meaning.
+
+33:49.300 --> 33:50.300
+Reachable in this place.
+
+33:50.300 --> 33:51.300
+Meaning that.
+
+33:51.300 --> 33:52.300
+If we go to the wiki.
+
+33:52.300 --> 33:53.300
+It should have a route from.
+
+33:53.300 --> 33:54.300
+From the web.
+
+33:54.300 --> 33:55.300
+Ah.
+
+33:55.300 --> 33:56.300
+Go to.
+
+33:56.300 --> 33:57.300
+Go to the information set.
+
+33:57.300 --> 33:58.300
+For example.
+
+33:58.300 --> 33:59.300
+If I want to.
+
+33:59.300 --> 34:00.300
+Go to see that.
+
+34:00.300 --> 34:01.300
+When we organized the stupid hackathon.
+
+34:01.300 --> 34:02.300
+The second time.
+
+34:02.300 --> 34:03.300
+Which.
+
+34:03.300 --> 34:04.300
+That was in 2018.
+
+34:04.300 --> 34:05.300
+About 7 years ago.
+
+34:05.300 --> 34:06.300
+Ah.
+
+34:06.300 --> 34:07.300
+Proposal.
+
+34:07.300 --> 34:08.300
+What do we write?
+
+34:08.300 --> 34:09.300
+Well.
+
+34:09.300 --> 34:10.300
+Ah.
+
+34:10.300 --> 34:11.300
+Open the web page.
+
+34:11.300 --> 34:12.300
+Go to wiki.
+
+34:12.300 --> 34:13.300
+And then go to the list of events.
+
+34:13.300 --> 34:14.300
+And then.
+
+34:14.300 --> 34:15.300
+Go to the stupid hackathon Thailand.
+
+34:15.300 --> 34:16.300
+Ah.
+
+34:16.300 --> 34:17.300
+Come to.
+
+34:17.300 --> 34:18.300
+The page that is a coverage.
+
+34:18.300 --> 34:19.300
+And then.
+
+34:19.300 --> 34:20.300
+There will be a list of documents.
+
+34:20.300 --> 34:21.300
+We will have information for sponsors.
+
+34:21.300 --> 34:22.300
+At that time.
+
+34:22.300 --> 34:23.300
+We.
+
+34:23.300 --> 34:24.300
+At that time.
+
+34:24.300 --> 34:25.300
+We didn't use notion.
+
+34:25.300 --> 34:26.300
+At that time.
+
+34:26.300 --> 34:27.300
+We keep it in the drop box paper.
+
+34:27.300 --> 34:28.300
+Ah.
+
+34:28.300 --> 34:29.300
+I don't know who.
+
+34:29.300 --> 34:30.300
+Have you ever used it?
+
+34:30.300 --> 34:31.300
+Drop box paper.
+
+34:31.300 --> 34:32.300
+Ah.
+
+34:32.300 --> 34:33.300
+It may come before notion.
+
+34:33.300 --> 34:34.300
+Ah.
+
+34:34.300 --> 34:35.300
+But.
+
+34:35.300 --> 34:36.300
+In conclusion.
+
+34:36.300 --> 34:37.300
+No matter where the information is.
+
+34:37.300 --> 34:38.300
+It.
+
+34:38.300 --> 34:39.300
+At least.
+
+34:39.300 --> 34:40.300
+It is reachable.
+
+34:40.300 --> 34:41.300
+From.
+
+34:41.300 --> 34:42.300
+From.
+
+34:42.300 --> 34:43.300
+From our main face.
+
+34:43.300 --> 34:44.300
+Will make.
+
+34:44.300 --> 34:45.300
+It will make us.
+
+34:45.300 --> 34:46.300
+Ah.
+
+34:46.300 --> 34:47.300
+Like.
+
+34:47.300 --> 34:48.300
+Our knowledge.
+
+34:48.300 --> 34:49.300
+Will not disappear.
+
+34:49.300 --> 34:50.300
+If it is still.
+
+34:50.300 --> 34:51.300
+Reachable.
+
+34:51.300 --> 34:52.300
+Ah.
+
+34:52.300 --> 34:53.300
+Ah.
+
+34:53.300 --> 34:54.300
+Then.
+
+34:54.300 --> 34:55.300
+This is.
+
+34:55.300 --> 34:56.300
+The conclusion.
+
+34:56.300 --> 34:57.300
+That.
+
+34:57.300 --> 34:58.300
+I want to conclude.
+
+34:58.300 --> 34:59.300
+In this talk.
+
+34:59.300 --> 35:00.300
+Well.
+
+35:00.300 --> 35:01.300
+This will be.
+
+35:01.300 --> 35:02.300
+A link.
+
+35:02.300 --> 35:03.300
+To report.
+
+35:03.300 --> 35:04.300
+But.
+
+35:04.300 --> 35:05.300
+You don't have to remember.
+
+35:05.300 --> 35:06.300
+Go to.
+
+35:06.300 --> 35:07.300
+Wiki.
+
+35:07.300 --> 35:08.300
+And then.
+
+35:08.300 --> 35:09.300
+Go to.
+
+35:09.300 --> 35:10.300
+Textstack.
+
+35:10.300 --> 35:11.300
+Well.
+
+35:11.300 --> 35:12.300
+Ah.
+
+35:12.300 --> 35:13.300
+For.
+
+35:13.300 --> 35:14.300
+My session.
+
+35:14.300 --> 35:15.300
+There will be only this.
+
+35:15.300 --> 35:16.300
+Well.
+
+35:16.300 --> 35:17.300
+Ah.
+
+35:17.300 --> 35:18.300
+Thank you.
+
+35:18.300 --> 35:19.300
+Everyone.
+
+35:19.300 --> 35:20.300
+For.
+
+35:20.300 --> 35:21.300
+Answer.
+
+35:21.300 --> 35:22.300
+A lot.
+
+35:22.300 --> 35:23.300
+Yes.
+
+35:23.300 --> 35:24.300
+I.
+
+35:24.300 --> 35:25.300
+Where?
+
+35:25.300 --> 35:26.300
+I.
+
+35:26.300 --> 35:27.300
+And take.
+
+35:27.300 --> 35:28.300
+Yes I will.
+
+35:28.300 --> 35:29.300
+Uh.
+
+35:29.300 --> 35:30.300
+Ask.
+
+35:30.300 --> 35:31.300
+What.
+
+35:31.300 --> 35:32.300
+What we see.
+
+35:32.300 --> 35:33.300
+As.
+
+35:33.300 --> 35:34.300
+A project.
+
+35:34.300 --> 35:35.300
+Do.
+
+35:35.300 --> 35:36.300
+Is.
+
+35:36.300 --> 35:37.300
+Right?
+
+35:37.300 --> 35:38.300
+Now.
+
+35:38.300 --> 35:39.300
+I want.
+
+35:39.300 --> 35:40.300
+What about.
+
+35:40.300 --> 35:41.300
+Evaluation.
+
+35:41.300 --> 35:42.300
+What.
+
+35:42.300 --> 35:43.300
+We.
+
+35:43.300 --> 35:44.300
+Evaluation.
+
+35:44.300 --> 35:45.300
+Form.
+
+35:45.300 --> 35:46.300
+From.
+
+35:46.300 --> 35:47.300
+Project.
+
+35:47.300 --> 35:48.300
+How.
+
+35:48.300 --> 35:50.300
+I'm sorry.
+
+35:50.300 --> 35:52.300
+Oh, like...
+
+35:54.300 --> 35:59.300
+Okay, I mean, after we have organized the project, right?
+
+35:59.300 --> 36:03.300
+There will be a feedback form that this part needs to be adjusted like this.
+
+36:03.300 --> 36:07.300
+We have a summary of how to evaluate the data.
+
+36:07.300 --> 36:11.300
+How can we improve the future management?
+
+36:11.300 --> 36:14.300
+Can we do it like Tata here?
+
+36:14.300 --> 36:16.300
+How can we develop the team to do this?
+
+36:16.300 --> 36:18.300
+Okay.
+
+36:18.300 --> 36:20.300
+Oh, thank you very much, Lekphi.
+
+36:20.300 --> 36:22.300
+Okay, thank you for the question.
+
+36:22.300 --> 36:25.300
+This is the feedback of the 7th Stupid Hackathon.
+
+36:25.300 --> 36:27.300
+The latest project that we organized.
+
+36:27.300 --> 36:30.300
+After the project is finished, we will shoot a Google Form and ask questions.
+
+36:30.300 --> 36:32.300
+Usually, we will ask 5 questions.
+
+36:32.300 --> 36:33.300
+1. What do you like?
+
+36:33.300 --> 36:35.300
+2. What should be improved?
+
+36:35.300 --> 36:37.300
+3. What do you want us to try?
+
+36:37.300 --> 36:40.300
+And then, the fourth question is to give a score of 1-10.
+
+36:40.300 --> 36:43.300
+And then, the fifth question is to say that you want to write something in it.
+
+36:43.300 --> 36:44.300
+Just write it.
+
+36:44.300 --> 36:46.300
+Then, I will take the question.
+
+36:46.300 --> 36:49.300
+I will take the question and write it in the wiki.
+
+36:49.300 --> 36:56.300
+Then, the next generation of staff will be able to see the event list to see the feedback of the previous work.
+
+36:56.300 --> 36:59.300
+It will not disappear.
+
+36:59.300 --> 37:00.300
+Ah.
+
+37:00.300 --> 37:01.300
+Yes.
+
+37:01.300 --> 37:04.300
+For the 7th Stupid Hackathon,
+
+37:04.300 --> 37:06.300
+what is your favorite activity?
+
+37:06.300 --> 37:08.300
+Each person who answered will be listed.
+
+37:08.300 --> 37:10.300
+After that,
+
+37:10.300 --> 37:12.300
+the one who answered, we will post it to the GPT chat.
+
+37:12.300 --> 37:14.300
+The summary is...
+
+37:14.300 --> 37:15.300
+Ah.
+
+37:15.300 --> 37:34.300
+So, if you want to read our information or to see the summary of the chat GPT, including the points, how many points we will keep in this.
+
+37:34.300 --> 37:40.300
+And how many people answered, how much average, there will be a calculation automatically.
+
+37:40.300 --> 37:48.300
+Therefore, the team that organizes the next round can come in and see, including ideas for next year.
+
+37:48.300 --> 37:58.300
+If you want to know what ideas the people who organize the previous generation have, come in and see these.
+
+37:58.300 --> 38:01.300
+Come in and see the summary that we can talk about.
+
+38:01.300 --> 38:07.300
+And there will be, let me find it for a moment.
+
+38:07.300 --> 38:13.300
+Data, here it is.
+
+38:13.300 --> 38:16.300
+In addition, we will have to collect data of various STUPID events.
+
+38:16.300 --> 38:27.300
+We have arranged 7 rounds and we have a clip track that in each year, how many teams there are, how many tickets, presenters, how many people come to present the work, event rating, something like this.
+
+38:27.300 --> 38:31.300
+When you click on the event rating, it will take you to see the feedback.
+
+38:31.300 --> 38:36.300
+This is the way we collect feedback in various events.
+
+38:36.300 --> 38:38.300
+We don't want it to disappear.
+
+38:38.300 --> 38:40.300
+Answer the question.
+
+38:40.300 --> 38:42.300
+Ok.
+
+38:45.300 --> 38:47.300
+Any additional questions?
+
+38:50.300 --> 38:51.300
+Ok, that's about it.
+
+38:51.300 --> 38:53.300
+Thank you, P'Thy and Liffy.
+
+38:57.300 --> 38:59.300
+Very cool, P'Shank.
+
+38:59.300 --> 39:02.300
+Ok, let's set up first.
+
+39:02.300 --> 39:04.300
+How is it, P'Pup?
+
+39:04.300 --> 39:05.300
+See today.
+
+39:05.300 --> 39:08.300
+Oh, I just know that Bitbucket can do a lot of things.
+
+39:08.300 --> 39:14.300
+Oh, I still want to get a sticker of KritHub.
+
+39:14.300 --> 39:16.300
+Ok, I said it wrong.
+
+39:16.300 --> 39:19.300
+I just know that KritLab can do a lot of things.
+
+39:19.300 --> 39:22.300
+I wouldn't set up a post like this.
+
