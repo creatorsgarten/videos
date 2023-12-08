@@ -8187,6 +8187,7 @@ video:i58lEAFqDlw:
         etc.), please visit:
 
         https://grtn.org/e/github1/v/logistic/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -8234,3 +8235,13 @@ video:q8yd7qfiL1g:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+video:i58lEAFqDlw:caption:en:
+  spec:
+    videoId: i58lEAFqDlw
+    filePath: data/videos/github1/logistic_en.vtt
+    language: en
+    name: English
+    hash: 84977de9f55d90363c82650763bd235c9eebb1b4d4d528c7751471b42b0f66b5
+    isDraft: false
+  state:
+    id: AUieDaZy8EY6TF4A9MDIX1K9cQPSGu5mAGKsEWok_NKpmmvaZre808f0
