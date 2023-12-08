@@ -4,4 +4,5 @@ speaker: Phumrapee Limpianchop; Thai Pangsakulyanont
 youtube: i58lEAFqDlw
 managed: true
 published: '2023-11-17'
+subtitles: [en]
 ---
