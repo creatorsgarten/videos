@@ -493,129 +493,6 @@
       "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
     },
     {
-      "event": "bkkjs17",
-      "slug": "ar",
-      "data": {
-        "title": "AR on Web",
-        "speaker": "Wasit Jingjit; Watid Jingjit",
-        "type": "talk",
-        "youtube": "JuWzquQwt4g",
-        "managed": true,
-        "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
-        "published": true,
-        "tags": [
-          "js",
-          "ar",
-          "unity"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/ar.md",
-      "imageFilePath": "data/videos/bkkjs17/ar.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "blackbox",
-      "data": {
-        "title": "Move fast while maintaining quality with black box testing",
-        "youtubeTitle": {
-          "en": "Move fast while maintaining quality with black box testing by Thai Pangsakulyanont",
-          "th": "พัฒนาซอฟต์แวร์อย่างรวดเร็ว โดยยังคงคุณภาพ ด้วย Black Box Testing - Thai Pangsakulyanont"
-        },
-        "speaker": "Thai Pangsakulyanont",
-        "type": "talk",
-        "youtube": "vbIWSwz8NxQ",
-        "managed": true,
-        "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
-        "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
-        "published": true,
-        "subtitles": [
-          "en"
-        ],
-        "tags": [
-          "softwaredevelopment",
-          "testing"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/blackbox.md",
-      "imageFilePath": "data/videos/bkkjs17/blackbox.jpg",
-      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "manoonchai",
-      "data": {
-        "title": "Building Manoonchai keyboard layout from scratch with JS/TS",
-        "speaker": "Manassarn Manoonchai",
-        "type": "talk",
-        "youtube": "ltIvGLzMwzo",
-        "managed": true,
-        "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/manoonchai.md",
-      "imageFilePath": "data/videos/bkkjs17/manoonchai.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "nojs",
-      "data": {
-        "title": "You don’t need JavaScript",
-        "speaker": "Siriwat Kunaporn",
-        "type": "talk",
-        "youtube": "le5M-5mhPY0",
-        "managed": true,
-        "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
-        "published": true,
-        "tags": [
-          "javascript",
-          "js",
-          "css"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/nojs.md",
-      "imageFilePath": "data/videos/bkkjs17/nojs.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "postr",
-      "data": {
-        "title": "Behind the scene of Postr.me",
-        "speaker": "Warat Wongmaneekit",
-        "type": "talk",
-        "youtube": "J2THXXeQMxY",
-        "managed": true,
-        "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/postr.md",
-      "imageFilePath": "data/videos/bkkjs17/postr.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "typescript",
-      "data": {
-        "title": "Ten Years of TypeScript",
-        "speaker": "Jirachai Chansivanon",
-        "type": "talk",
-        "youtube": "wrPz2Sp9EZU",
-        "managed": true,
-        "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
-        "published": true,
-        "tags": [
-          "typescript",
-          "ts"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/typescript.md",
-      "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
-    },
-    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
@@ -823,6 +700,129 @@
       "content": "",
       "filePath": "data/videos/bangkok/we-space.md",
       "imageFilePath": "data/videos/bangkok/we-space.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "ar",
+      "data": {
+        "title": "AR on Web",
+        "speaker": "Wasit Jingjit; Watid Jingjit",
+        "type": "talk",
+        "youtube": "JuWzquQwt4g",
+        "managed": true,
+        "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
+        "published": true,
+        "tags": [
+          "js",
+          "ar",
+          "unity"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/ar.md",
+      "imageFilePath": "data/videos/bkkjs17/ar.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "blackbox",
+      "data": {
+        "title": "Move fast while maintaining quality with black box testing",
+        "youtubeTitle": {
+          "en": "Move fast while maintaining quality with black box testing by Thai Pangsakulyanont",
+          "th": "พัฒนาซอฟต์แวร์อย่างรวดเร็ว โดยยังคงคุณภาพ ด้วย Black Box Testing - Thai Pangsakulyanont"
+        },
+        "speaker": "Thai Pangsakulyanont",
+        "type": "talk",
+        "youtube": "vbIWSwz8NxQ",
+        "managed": true,
+        "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
+        "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
+        "published": true,
+        "subtitles": [
+          "en"
+        ],
+        "tags": [
+          "softwaredevelopment",
+          "testing"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/blackbox.md",
+      "imageFilePath": "data/videos/bkkjs17/blackbox.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "manoonchai",
+      "data": {
+        "title": "Building Manoonchai keyboard layout from scratch with JS/TS",
+        "speaker": "Manassarn Manoonchai",
+        "type": "talk",
+        "youtube": "ltIvGLzMwzo",
+        "managed": true,
+        "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/manoonchai.md",
+      "imageFilePath": "data/videos/bkkjs17/manoonchai.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "nojs",
+      "data": {
+        "title": "You don’t need JavaScript",
+        "speaker": "Siriwat Kunaporn",
+        "type": "talk",
+        "youtube": "le5M-5mhPY0",
+        "managed": true,
+        "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
+        "published": true,
+        "tags": [
+          "javascript",
+          "js",
+          "css"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/nojs.md",
+      "imageFilePath": "data/videos/bkkjs17/nojs.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "postr",
+      "data": {
+        "title": "Behind the scene of Postr.me",
+        "speaker": "Warat Wongmaneekit",
+        "type": "talk",
+        "youtube": "J2THXXeQMxY",
+        "managed": true,
+        "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/postr.md",
+      "imageFilePath": "data/videos/bkkjs17/postr.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "typescript",
+      "data": {
+        "title": "Ten Years of TypeScript",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "wrPz2Sp9EZU",
+        "managed": true,
+        "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
+        "published": true,
+        "tags": [
+          "typescript",
+          "ts"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/typescript.md",
+      "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
       "event": "bkkjs18",
@@ -2180,7 +2180,7 @@
         "type": "talk",
         "youtube": "ZU2p7sEKyTE",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/best.md",
@@ -2195,7 +2195,7 @@
         "type": "talk",
         "youtube": "AqdRxnWpDfw",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/codespaces.md",
@@ -2210,7 +2210,7 @@
         "type": "talk",
         "youtube": "GtV-0qmUAsk",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/docker.md",
@@ -2225,7 +2225,7 @@
         "type": "talk",
         "youtube": "xYxjbg2ANx8",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/security.md",
@@ -2240,7 +2240,7 @@
         "type": "talk",
         "youtube": "9HbM7D-J5xU",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/sponsors.md",
@@ -2255,7 +2255,7 @@
         "type": "talk",
         "youtube": "8z7vxFGR8JM",
         "managed": true,
-        "published": false
+        "published": true
       },
       "content": "",
       "filePath": "data/videos/universe2023/trends.md",
