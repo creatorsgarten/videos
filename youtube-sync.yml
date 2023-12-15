@@ -8245,3 +8245,287 @@ video:i58lEAFqDlw:caption:en:
     isDraft: false
   state:
     id: AUieDaZy8EY6TF4A9MDIX1K9cQPSGu5mAGKsEWok_NKpmmvaZre808f0
+thumbnail:8z7vxFGR8JM:
+  spec:
+    videoId: 8z7vxFGR8JM
+    filePath: data/videos/universe2023/trends.jpg
+    hash: 81577c07310886f00caa39bb56528ad1589fe2c21add78de7ec6742df979b716
+  state: {}
+thumbnail:9HbM7D-J5xU:
+  spec:
+    videoId: 9HbM7D-J5xU
+    filePath: data/videos/universe2023/sponsors.jpg
+    hash: e3304e578311c319fd71f3b80f53e3d5532218aa86e7d956a1dd3a2349ed75d0
+  state: {}
+thumbnail:AqdRxnWpDfw:
+  spec:
+    videoId: AqdRxnWpDfw
+    filePath: data/videos/universe2023/codespaces.jpg
+    hash: 773c2c841e94d3c313c0a9b7966e3383b18ece66fa150ebfb4d59b25d5f8df22
+  state: {}
+thumbnail:GtV-0qmUAsk:
+  spec:
+    videoId: GtV-0qmUAsk
+    filePath: data/videos/universe2023/docker.jpg
+    hash: 7577d05acfcd6900daa0beb70349a53c28f7a6237e402a84582a250583276374
+  state: {}
+thumbnail:ZU2p7sEKyTE:
+  spec:
+    videoId: ZU2p7sEKyTE
+    filePath: data/videos/universe2023/best.jpg
+    hash: dcf136afad523e9e0db0318d42d404d722e26c6e5a0f99777fd7ef06c3f3cdaf
+  state: {}
+thumbnail:xYxjbg2ANx8:
+  spec:
+    videoId: xYxjbg2ANx8
+    filePath: data/videos/universe2023/security.jpg
+    hash: 4507ca1da63a0e72d8b51317829cbd8760f640d3d8bf86161c2385b7f88083f6
+  state: {}
+video:8z7vxFGR8JM:
+  spec:
+    id: 8z7vxFGR8JM
+    snippet:
+      title: >-
+        Thailand Developer Trends 2023 by Pongsiri Pisutakarathada, Sorawit
+        Assarattana
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/trends/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:9HbM7D-J5xU:
+  spec:
+    id: 9HbM7D-J5xU
+    snippet:
+      title: Profit from Open Source with GitHub Sponsors by Kongkeit Khunpanitchot
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/sponsors/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:AqdRxnWpDfw:
+  spec:
+    id: AqdRxnWpDfw
+    snippet:
+      title: Level Up with GitHub Codespaces and Copilot by Sirasit Boonklang
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/codespaces/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:GtV-0qmUAsk:
+  spec:
+    id: GtV-0qmUAsk
+    snippet:
+      title: >-
+        Faster deployments with multi-stage build caching by Karnsiree
+        Wongkolkitsilp
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/docker/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ZU2p7sEKyTE:
+  spec:
+    id: ZU2p7sEKyTE
+    snippet:
+      title: >-
+        The Best of GitHub Universe by Jiratouch Mahapol, Paiboon
+        Wongsasutthikul
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/best/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xYxjbg2ANx8:
+  spec:
+    id: xYxjbg2ANx8
+    snippet:
+      title: >-
+        Shift left security in software delivery process with GitHub Advanced
+        Security by Somkiat Puisungnoe
+      description: >-
+        Event: GitHub Universe After Party Thailand
+
+        https://grtn.org/e/universe2023
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/universe2023/v/security/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
