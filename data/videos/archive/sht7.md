@@ -3,7 +3,7 @@ title: The โง่ Hackathon ครั้งที่ 7 แห่งประ�
 type: archive
 youtube: VXBSWZPEHcM
 managed: true
-published: '2024-03-26'
+published: false
 description: |
   0:00:00 | [เริ่มสตรีม]
   0:10:07 | [แนะนำระบบโหวต]
