@@ -22,7 +22,21 @@ async function getDefaultTitle(video: Video) {
     return data.title
   }
 
-  return data.title + ' by ' + getSpeakers(video)
+  // generic meetup videos
+  let meetupVideoTitle =
+    data.title + ' by ' + data.speaker!.split(/;\s+/).join(', ')
+
+  // if title length is longer than 100 characters, then only get spaker by first name
+  if (meetupVideoTitle.length > 100)
+    meetupVideoTitle =
+      data.title +
+      ' by ' +
+      data
+        .speaker!.split(/;\s+/)
+        .map((speaker) => speaker.split(' ')[0])
+        .join(', ')
+
+  return meetupVideoTitle
 }
 
 export async function getVideoTitle(video: Video, language?: 'en') {
