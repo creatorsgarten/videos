@@ -1,498 +1,6 @@
 {
   "videos": [
     {
-      "event": "archive",
-      "slug": "bkkjs14-1",
-      "data": {
-        "title": "BKK.JS #14 Return of the BKK.JS - Part 1",
-        "type": "archive",
-        "youtube": "2TFbpD4M8_c",
-        "managed": true,
-        "published": "2023-08-29"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkjs14-1.md",
-      "imageFilePath": "data/videos/archive/bkkjs14-1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "bkkjs14-2",
-      "data": {
-        "title": "BKK.JS #14 Return of the BKK.JS - Part 2",
-        "type": "archive",
-        "youtube": "b2TRUel47YY",
-        "managed": true,
-        "published": "2023-08-29"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkjs14-2.md",
-      "imageFilePath": "data/videos/archive/bkkjs14-2.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "bkkjs17",
-      "data": {
-        "title": "BKK.JS #17",
-        "type": "archive",
-        "youtube": "Pyp8IJbzLdo",
-        "managed": true,
-        "published": "2023-12-19"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkjs17.md",
-      "imageFilePath": "data/videos/archive/bkkjs17.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "bkkjs18",
-      "data": {
-        "title": "BKK.JS #18",
-        "type": "archive",
-        "youtube": "jcV3SaQvYhs",
-        "managed": true,
-        "description": "0:01:43 | Magento in the modern era\n0:44:54 | Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd Gen\n1:35:33 | Cross-framework state manager with nanostores\n1:43:44 | iconify-icon web component\n",
-        "published": "2024-04-23"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkjs18.md",
-      "imageFilePath": "data/videos/archive/bkkjs18.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "bkkoss-orientation",
-      "data": {
-        "title": "Bangkok Open Source Hackathon - Orientation",
-        "type": "archive",
-        "youtube": "qicLQYQolf0",
-        "managed": true,
-        "published": "2024-01-02"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkoss-orientation.md",
-      "imageFilePath": "data/videos/archive/bkkoss-orientation.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "bkkoss-pitching",
-      "data": {
-        "title": "Bangkok Open Source Hackathon - Pitching",
-        "type": "archive",
-        "youtube": "hr3dEJO6L3o",
-        "managed": true,
-        "published": "2024-01-02"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/bkkoss-pitching.md",
-      "imageFilePath": "data/videos/archive/bkkoss-pitching.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "creativecodingmeetup",
-      "data": {
-        "title": "Creative Coding Meetup #1",
-        "type": "archive",
-        "youtube": "c9TB7rDX0HU",
-        "managed": true,
-        "published": "2024-01-16"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/creativecodingmeetup.md",
-      "imageFilePath": "data/videos/archive/creativecodingmeetup.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "cssmeetup0823",
-      "data": {
-        "title": "CSS Meetup 16.08.2023",
-        "type": "archive",
-        "youtube": "U6CdYFhc-tk",
-        "managed": true,
-        "published": "2024-06-18"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/cssmeetup0823.md",
-      "imageFilePath": "data/videos/archive/cssmeetup0823.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "functional",
-      "data": {
-        "title": "Functional Programming Meetup #1",
-        "type": "archive",
-        "youtube": "74nmsQFzltw",
-        "managed": true,
-        "published": "2024-02-13"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/functional.md",
-      "imageFilePath": "data/videos/archive/functional.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "functional2-1",
-      "data": {
-        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 1",
-        "type": "archive",
-        "youtube": "ku42RMFPR9Y",
-        "managed": true,
-        "published": "2024-04-09"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/functional2-1.md",
-      "imageFilePath": "data/videos/archive/functional2-1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "functional2-2",
-      "data": {
-        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 2",
-        "type": "archive",
-        "youtube": "4pHImuREacg",
-        "managed": true,
-        "published": "2024-04-09"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/functional2-2.md",
-      "imageFilePath": "data/videos/archive/functional2-2.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "github1",
-      "data": {
-        "title": "GitHub Community Meetup",
-        "type": "archive",
-        "youtube": "51KibnrQO5g",
-        "managed": true,
-        "published": "2024-07-02"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/github1.md",
-      "imageFilePath": "data/videos/archive/github1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "gql10-1",
-      "data": {
-        "title": "GraphQL Meetup 10.0 - Day 1",
-        "type": "archive",
-        "youtube": "1jqGRu5fP_8",
-        "managed": true,
-        "published": "2023-10-10"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/gql10-1.md",
-      "imageFilePath": "data/videos/archive/gql10-1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "gql10-2",
-      "data": {
-        "title": "GraphQL Meetup 10.0 - Day 2",
-        "type": "archive",
-        "youtube": "rZzM5jnIKFo",
-        "managed": true,
-        "published": "2023-10-10"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/gql10-2.md",
-      "imageFilePath": "data/videos/archive/gql10-2.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "hacktober2020",
-      "data": {
-        "title": "Hacktoberfest Thailand 2020",
-        "type": "archive",
-        "youtube": "6OS4iWfmApg",
-        "managed": true,
-        "published": "2023-09-12"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/hacktober2020.md",
-      "imageFilePath": "data/videos/archive/hacktober2020.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "hacktober2022-1",
-      "data": {
-        "title": "Hacktoberfest Thailand 2022 - Morning sessions",
-        "type": "archive",
-        "youtube": "GUCkjzD4IEQ",
-        "managed": true,
-        "published": "2023-12-05"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/hacktober2022-1.md",
-      "imageFilePath": "data/videos/archive/hacktober2022-1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "hacktober2022-2",
-      "data": {
-        "title": "Hacktoberfest Thailand 2022 - Afternoon sessions",
-        "type": "archive",
-        "youtube": "T6rdYlBmjJw",
-        "managed": true,
-        "published": "2023-12-05"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/hacktober2022-2.md",
-      "imageFilePath": "data/videos/archive/hacktober2022-2.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "mathsatsundown",
-      "data": {
-        "title": "Maths at Sundown",
-        "type": "archive",
-        "youtube": "yEti_mtpXJ8",
-        "managed": true,
-        "published": "2024-06-04"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/mathsatsundown.md",
-      "imageFilePath": "data/videos/archive/mathsatsundown.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "msbuild2023",
-      "data": {
-        "title": "Microsoft Build - After Party Thailand",
-        "type": "archive",
-        "youtube": "aBXDiariKco",
-        "managed": true,
-        "published": "2024-02-27"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/msbuild2023.md",
-      "imageFilePath": "data/videos/archive/msbuild2023.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "reactmeetup0623",
-      "data": {
-        "title": "React Meetup 06/23",
-        "type": "archive",
-        "youtube": "IuxQdDsmJvY",
-        "managed": true,
-        "published": "2024-03-12"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/reactmeetup0623.md",
-      "imageFilePath": "data/videos/archive/reactmeetup0623.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "reactmeetup2022-1",
-      "data": {
-        "title": "React Meetup 2022 - Part 1",
-        "type": "archive",
-        "youtube": "ldctCYCYxSc",
-        "managed": true,
-        "published": "2023-11-21"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/reactmeetup2022-1.md",
-      "imageFilePath": "data/videos/archive/reactmeetup2022-1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "reactmeetup2022-2",
-      "data": {
-        "title": "React Meetup 2022 - Part 2",
-        "type": "archive",
-        "youtube": "JfTbhig4MOc",
-        "managed": true,
-        "published": "2023-11-21"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/reactmeetup2022-2.md",
-      "imageFilePath": "data/videos/archive/reactmeetup2022-2.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "reactmeetup2022-3",
-      "data": {
-        "title": "React Meetup 2022 - Part 3",
-        "type": "archive",
-        "youtube": "kyWtr20b8Ew",
-        "managed": true,
-        "published": "2023-11-21"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/reactmeetup2022-3.md",
-      "imageFilePath": "data/videos/archive/reactmeetup2022-3.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht3",
-      "data": {
-        "title": "The Stupid Hackathon Thailand #3 - Pitching",
-        "type": "archive",
-        "youtube": "xzAgKTgAhjs",
-        "managed": true,
-        "published": "2023-08-01"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht3.md",
-      "imageFilePath": "data/videos/archive/sht3.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht4-orientation",
-      "data": {
-        "title": "stupid hackathon thailand the fourth / virtual 2020 - Orientation",
-        "type": "archive",
-        "youtube": "QDj6vV0wxQ4",
-        "managed": true,
-        "published": "2023-08-15"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht4-orientation.md",
-      "imageFilePath": "data/videos/archive/sht4-orientation.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht4-pitch",
-      "data": {
-        "title": "stupid hackathon thailand the fourth / virtual 2020 - Pitching",
-        "type": "archive",
-        "youtube": "CPd-ZUgA-w0",
-        "managed": true,
-        "published": "2023-08-15"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht4-pitch.md",
-      "imageFilePath": "data/videos/archive/sht4-pitch.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht5",
-      "data": {
-        "title": "The 5th StuP1d H@CK THaIL@Nd - Pitching",
-        "type": "archive",
-        "youtube": "nmK5p5RovuA",
-        "managed": true,
-        "published": "2023-09-26"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht5.md",
-      "imageFilePath": "data/videos/archive/sht5.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht6-orientation",
-      "data": {
-        "title": "The ៦th Stupid Hackathon in Thailand - First meet",
-        "type": "archive",
-        "youtube": "AzvXWANuNxw",
-        "managed": true,
-        "published": "2023-11-07"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht6-orientation.md",
-      "imageFilePath": "data/videos/archive/sht6-orientation.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht6-pitch",
-      "data": {
-        "title": "The ៦th Stupid Hackathon Thailand",
-        "type": "archive",
-        "youtube": "nKFO4ujdnQ8",
-        "managed": true,
-        "published": "2023-11-07"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht6-pitch.md",
-      "imageFilePath": "data/videos/archive/sht6-pitch.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht6-special",
-      "data": {
-        "title": "The ៦th Stupid Hackathon in Thailand - Special session",
-        "type": "archive",
-        "youtube": "DjSkA1isb-c",
-        "managed": true,
-        "published": "2023-11-07"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht6-special.md",
-      "imageFilePath": "data/videos/archive/sht6-special.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sht7",
-      "data": {
-        "title": "The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand",
-        "type": "archive",
-        "youtube": "VXBSWZPEHcM",
-        "managed": true,
-        "description": "0:00:00 | [เริ่มสตรีม]\n0:10:07 | [แนะนำระบบโหวต]\n0:24:36 | YouTube Basic - toolna\n0:31:11 | Werewolf - nash\n0:36:10 | เบี้ยวนัดไวรัสขึ้น - harmbid\n0:40:33 | SonThaiMaiDai\n0:45:01 | [Sponsors]\n0:54:34 | Get Motivated - BeMotivated💢\n1:00:10 | Rizzgrammer\n1:05:07 | transit source - dtinth\n1:07:52 | [Break]\n1:22:28 | Jubking - team khong kon stupid\n1:27:26 | ล็อตเตอรี่ หนึ่งหกแปด - ดุ๊กดิ๊กปุ๊กปิ๊ก\n1:31:48 | [Sponsors]\n1:41:27 | [Intermission]\n2:13:47 | Thai JS\n2:17:21 | CAPYIsNOTStupid - ชื่ออยู่ใน intro\n2:23:17 | infinity-fries🍟\n2:27:55 | Corn Dog Machine - ผมทำพ่อพี่งง งง งง เจอได้ที่บางปะกง กง กง\n2:36:20 | Ramsey’s Aveji Kitchen\n2:42:31 | Pekolang - RDCW+\n2:46:29 | [Sponsors]\n2:53:41 | Cannot-be-reached - อะไหร่น้ะ?\n2:59:01 | singsaksit\n3:03:43 | ไอ้แดงมันเป็นนักสู้ที่ดูคล่องแคล่วปราดเปรียว แต่ไอ้เขียวมันเป็นนักซิ่งมันมีรถเครื่องที่คอยวิ่งแซง โอ้ย\n3:08:03 | NamYenYang?\n3:12:04 | Alarm Bot - Daydreaming\n3:18:31 | [Intermission]\n3:23:12 | เป็น Meow ไร?!\n3:28:03 | No_Sleep\n3:32:10 | BEST HBD CARD GENERATOR Verycool XD 4K 60fps deluxe edition pro max - Ask-GPT-SHiT7-😭\n3:36:55 | The Web of Answers - เว็บนี้มีคำตอบ\n3:40:23 | [Intermission]\n4:23:45 | [ประกาศรางวัล]\n",
-        "published": "2024-03-26"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sht7.md",
-      "imageFilePath": "data/videos/archive/sht7.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "sideproject",
-      "data": {
-        "title": "Side Projects Showdown",
-        "type": "archive",
-        "youtube": "riUzuz5QZBo",
-        "managed": true,
-        "published": "2024-05-07"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/sideproject.md",
-      "imageFilePath": "data/videos/archive/sideproject.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "svelte1",
-      "data": {
-        "title": "Svelte Meetup Bangkok #1",
-        "type": "archive",
-        "youtube": "8mFIdglKjYA",
-        "managed": true,
-        "published": "2023-10-24"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/svelte1.md",
-      "imageFilePath": "data/videos/archive/svelte1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "typescript1",
-      "data": {
-        "title": "TypeScript Community Meetup",
-        "type": "archive",
-        "youtube": "GdooNVWY3kQ",
-        "managed": true,
-        "published": "2024-05-21"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/typescript1.md",
-      "imageFilePath": "data/videos/archive/typescript1.jpg"
-    },
-    {
-      "event": "archive",
-      "slug": "vscodeday2023",
-      "data": {
-        "title": "VS Code Day 2023 - Thailand",
-        "type": "archive",
-        "youtube": "0d0Po170y7U",
-        "managed": true,
-        "published": "2024-01-30"
-      },
-      "content": "",
-      "filePath": "data/videos/archive/vscodeday2023.md",
-      "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
-    },
-    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
@@ -700,6 +208,498 @@
       "content": "",
       "filePath": "data/videos/bangkok/we-space.md",
       "imageFilePath": "data/videos/bangkok/we-space.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkjs14-1",
+      "data": {
+        "title": "BKK.JS #14 Return of the BKK.JS - Part 1",
+        "type": "archive",
+        "youtube": "2TFbpD4M8_c",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs14-1.md",
+      "imageFilePath": "data/videos/archive/bkkjs14-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkjs14-2",
+      "data": {
+        "title": "BKK.JS #14 Return of the BKK.JS - Part 2",
+        "type": "archive",
+        "youtube": "b2TRUel47YY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs14-2.md",
+      "imageFilePath": "data/videos/archive/bkkjs14-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkjs17",
+      "data": {
+        "title": "BKK.JS #17",
+        "type": "archive",
+        "youtube": "Pyp8IJbzLdo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs17.md",
+      "imageFilePath": "data/videos/archive/bkkjs17.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkjs18",
+      "data": {
+        "title": "BKK.JS #18",
+        "type": "archive",
+        "youtube": "jcV3SaQvYhs",
+        "managed": true,
+        "description": "0:01:43 | Magento in the modern era\n0:44:54 | Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd Gen\n1:35:33 | Cross-framework state manager with nanostores\n1:43:44 | iconify-icon web component\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs18.md",
+      "imageFilePath": "data/videos/archive/bkkjs18.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkoss-orientation",
+      "data": {
+        "title": "Bangkok Open Source Hackathon - Orientation",
+        "type": "archive",
+        "youtube": "qicLQYQolf0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkoss-orientation.md",
+      "imageFilePath": "data/videos/archive/bkkoss-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "bkkoss-pitching",
+      "data": {
+        "title": "Bangkok Open Source Hackathon - Pitching",
+        "type": "archive",
+        "youtube": "hr3dEJO6L3o",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkoss-pitching.md",
+      "imageFilePath": "data/videos/archive/bkkoss-pitching.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "creativecodingmeetup",
+      "data": {
+        "title": "Creative Coding Meetup #1",
+        "type": "archive",
+        "youtube": "c9TB7rDX0HU",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/creativecodingmeetup.md",
+      "imageFilePath": "data/videos/archive/creativecodingmeetup.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "cssmeetup0823",
+      "data": {
+        "title": "CSS Meetup 16.08.2023",
+        "type": "archive",
+        "youtube": "U6CdYFhc-tk",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/cssmeetup0823.md",
+      "imageFilePath": "data/videos/archive/cssmeetup0823.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "functional",
+      "data": {
+        "title": "Functional Programming Meetup #1",
+        "type": "archive",
+        "youtube": "74nmsQFzltw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/functional.md",
+      "imageFilePath": "data/videos/archive/functional.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "functional2-1",
+      "data": {
+        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 1",
+        "type": "archive",
+        "youtube": "ku42RMFPR9Y",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/functional2-1.md",
+      "imageFilePath": "data/videos/archive/functional2-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "functional2-2",
+      "data": {
+        "title": "Functional Meetup #2: Elm for Frontend Developers - Part 2",
+        "type": "archive",
+        "youtube": "4pHImuREacg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/functional2-2.md",
+      "imageFilePath": "data/videos/archive/functional2-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "github1",
+      "data": {
+        "title": "GitHub Community Meetup",
+        "type": "archive",
+        "youtube": "51KibnrQO5g",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/github1.md",
+      "imageFilePath": "data/videos/archive/github1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "gql10-1",
+      "data": {
+        "title": "GraphQL Meetup 10.0 - Day 1",
+        "type": "archive",
+        "youtube": "1jqGRu5fP_8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/gql10-1.md",
+      "imageFilePath": "data/videos/archive/gql10-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "gql10-2",
+      "data": {
+        "title": "GraphQL Meetup 10.0 - Day 2",
+        "type": "archive",
+        "youtube": "rZzM5jnIKFo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/gql10-2.md",
+      "imageFilePath": "data/videos/archive/gql10-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2020",
+      "data": {
+        "title": "Hacktoberfest Thailand 2020",
+        "type": "archive",
+        "youtube": "6OS4iWfmApg",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2020.md",
+      "imageFilePath": "data/videos/archive/hacktober2020.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2022-1",
+      "data": {
+        "title": "Hacktoberfest Thailand 2022 - Morning sessions",
+        "type": "archive",
+        "youtube": "GUCkjzD4IEQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2022-1.md",
+      "imageFilePath": "data/videos/archive/hacktober2022-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "hacktober2022-2",
+      "data": {
+        "title": "Hacktoberfest Thailand 2022 - Afternoon sessions",
+        "type": "archive",
+        "youtube": "T6rdYlBmjJw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/hacktober2022-2.md",
+      "imageFilePath": "data/videos/archive/hacktober2022-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "mathsatsundown",
+      "data": {
+        "title": "Maths at Sundown",
+        "type": "archive",
+        "youtube": "yEti_mtpXJ8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/mathsatsundown.md",
+      "imageFilePath": "data/videos/archive/mathsatsundown.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "msbuild2023",
+      "data": {
+        "title": "Microsoft Build - After Party Thailand",
+        "type": "archive",
+        "youtube": "aBXDiariKco",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/msbuild2023.md",
+      "imageFilePath": "data/videos/archive/msbuild2023.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup0623",
+      "data": {
+        "title": "React Meetup 06/23",
+        "type": "archive",
+        "youtube": "IuxQdDsmJvY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup0623.md",
+      "imageFilePath": "data/videos/archive/reactmeetup0623.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-1",
+      "data": {
+        "title": "React Meetup 2022 - Part 1",
+        "type": "archive",
+        "youtube": "ldctCYCYxSc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-1.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-2",
+      "data": {
+        "title": "React Meetup 2022 - Part 2",
+        "type": "archive",
+        "youtube": "JfTbhig4MOc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-2.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-2.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "reactmeetup2022-3",
+      "data": {
+        "title": "React Meetup 2022 - Part 3",
+        "type": "archive",
+        "youtube": "kyWtr20b8Ew",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/reactmeetup2022-3.md",
+      "imageFilePath": "data/videos/archive/reactmeetup2022-3.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht3",
+      "data": {
+        "title": "The Stupid Hackathon Thailand #3 - Pitching",
+        "type": "archive",
+        "youtube": "xzAgKTgAhjs",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht3.md",
+      "imageFilePath": "data/videos/archive/sht3.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht4-orientation",
+      "data": {
+        "title": "stupid hackathon thailand the fourth / virtual 2020 - Orientation",
+        "type": "archive",
+        "youtube": "QDj6vV0wxQ4",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht4-orientation.md",
+      "imageFilePath": "data/videos/archive/sht4-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht4-pitch",
+      "data": {
+        "title": "stupid hackathon thailand the fourth / virtual 2020 - Pitching",
+        "type": "archive",
+        "youtube": "CPd-ZUgA-w0",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht4-pitch.md",
+      "imageFilePath": "data/videos/archive/sht4-pitch.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht5",
+      "data": {
+        "title": "The 5th StuP1d H@CK THaIL@Nd - Pitching",
+        "type": "archive",
+        "youtube": "nmK5p5RovuA",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht5.md",
+      "imageFilePath": "data/videos/archive/sht5.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-orientation",
+      "data": {
+        "title": "The ៦th Stupid Hackathon in Thailand - First meet",
+        "type": "archive",
+        "youtube": "AzvXWANuNxw",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-orientation.md",
+      "imageFilePath": "data/videos/archive/sht6-orientation.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-pitch",
+      "data": {
+        "title": "The ៦th Stupid Hackathon Thailand",
+        "type": "archive",
+        "youtube": "nKFO4ujdnQ8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-pitch.md",
+      "imageFilePath": "data/videos/archive/sht6-pitch.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht6-special",
+      "data": {
+        "title": "The ៦th Stupid Hackathon in Thailand - Special session",
+        "type": "archive",
+        "youtube": "DjSkA1isb-c",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht6-special.md",
+      "imageFilePath": "data/videos/archive/sht6-special.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sht7",
+      "data": {
+        "title": "The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand",
+        "type": "archive",
+        "youtube": "VXBSWZPEHcM",
+        "managed": true,
+        "description": "0:00:00 | [เริ่มสตรีม]\n0:10:07 | [แนะนำระบบโหวต]\n0:24:36 | YouTube Basic - toolna\n0:31:11 | Werewolf - nash\n0:36:10 | เบี้ยวนัดไวรัสขึ้น - harmbid\n0:40:33 | SonThaiMaiDai\n0:45:01 | [Sponsors]\n0:54:34 | Get Motivated - BeMotivated💢\n1:00:10 | Rizzgrammer\n1:05:07 | transit source - dtinth\n1:07:52 | [Break]\n1:22:28 | Jubking - team khong kon stupid\n1:27:26 | ล็อตเตอรี่ หนึ่งหกแปด - ดุ๊กดิ๊กปุ๊กปิ๊ก\n1:31:48 | [Sponsors]\n1:41:27 | [Intermission]\n2:13:47 | Thai JS\n2:17:21 | CAPYIsNOTStupid - ชื่ออยู่ใน intro\n2:23:17 | infinity-fries🍟\n2:27:55 | Corn Dog Machine - ผมทำพ่อพี่งง งง งง เจอได้ที่บางปะกง กง กง\n2:36:20 | Ramsey’s Aveji Kitchen\n2:42:31 | Pekolang - RDCW+\n2:46:29 | [Sponsors]\n2:53:41 | Cannot-be-reached - อะไหร่น้ะ?\n2:59:01 | singsaksit\n3:03:43 | ไอ้แดงมันเป็นนักสู้ที่ดูคล่องแคล่วปราดเปรียว แต่ไอ้เขียวมันเป็นนักซิ่งมันมีรถเครื่องที่คอยวิ่งแซง โอ้ย\n3:08:03 | NamYenYang?\n3:12:04 | Alarm Bot - Daydreaming\n3:18:31 | [Intermission]\n3:23:12 | เป็น Meow ไร?!\n3:28:03 | No_Sleep\n3:32:10 | BEST HBD CARD GENERATOR Verycool XD 4K 60fps deluxe edition pro max - Ask-GPT-SHiT7-😭\n3:36:55 | The Web of Answers - เว็บนี้มีคำตอบ\n3:40:23 | [Intermission]\n4:23:45 | [ประกาศรางวัล]\n",
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht7.md",
+      "imageFilePath": "data/videos/archive/sht7.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "sideproject",
+      "data": {
+        "title": "Side Projects Showdown",
+        "type": "archive",
+        "youtube": "riUzuz5QZBo",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sideproject.md",
+      "imageFilePath": "data/videos/archive/sideproject.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "svelte1",
+      "data": {
+        "title": "Svelte Meetup Bangkok #1",
+        "type": "archive",
+        "youtube": "8mFIdglKjYA",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/svelte1.md",
+      "imageFilePath": "data/videos/archive/svelte1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "typescript1",
+      "data": {
+        "title": "TypeScript Community Meetup",
+        "type": "archive",
+        "youtube": "GdooNVWY3kQ",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/typescript1.md",
+      "imageFilePath": "data/videos/archive/typescript1.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "vscodeday2023",
+      "data": {
+        "title": "VS Code Day 2023 - Thailand",
+        "type": "archive",
+        "youtube": "0d0Po170y7U",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/vscodeday2023.md",
+      "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
     },
     {
       "event": "bkkjs17",
