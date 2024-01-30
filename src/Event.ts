@@ -101,4 +101,5 @@ const events = [
   new Event('cssmeetup0823', 'CSS Meetup 16.08.2023'),
   new Event('github1', 'GitHub Community Meetup #1'),
   new Event('universe2023', 'GitHub Universe After Party Thailand'),
+  new Event('bkkjs19', 'BKK.JS #19'),
 ]
