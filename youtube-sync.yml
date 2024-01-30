@@ -8529,3 +8529,515 @@ video:xYxjbg2ANx8:
       selfDeclaredMadeForKids: false
       privacyStatus: public
   state: {}
+thumbnail:1g9EDpmPANI:
+  spec:
+    videoId: 1g9EDpmPANI
+    filePath: data/videos/bkkjs19/pycon.jpg
+    hash: 04e89e52c152798be36b558122418e0d9b5a3cabfb219c750b91b67a0e06f2bb
+  state: {}
+thumbnail:B14cGlzp0_c:
+  spec:
+    videoId: B14cGlzp0_c
+    filePath: data/videos/bkkjs19/jest.jpg
+    hash: 4e757f1771e50390c8a94410e735b8f969b6518109aa20b876d3db490187791f
+  state: {}
+thumbnail:DoRsdVqeMUM:
+  spec:
+    videoId: DoRsdVqeMUM
+    filePath: data/videos/bkkjs19/test.jpg
+    hash: 7a1152caea8dc27561459609b22e00fd73d04abe75edb94a4e5e2ba41a804052
+  state: {}
+thumbnail:ENPJ4_Kq-lY:
+  spec:
+    videoId: ENPJ4_Kq-lY
+    filePath: data/videos/bkkjs19/web-landscape.jpg
+    hash: fc86caa4aabbf3da78ea9c95772c77dbc07711204d2d8c47171edf67ba3053f7
+  state: {}
+thumbnail:HiChHH_MhQI:
+  spec:
+    videoId: HiChHH_MhQI
+    filePath: data/videos/bkkjs19/data.jpg
+    hash: 57900448b9394d5ded1d6905e826e4df3e6bd6eaacf7465d93f7d2112ae47a03
+  state: {}
+thumbnail:LJP8xmAhiUs:
+  spec:
+    videoId: LJP8xmAhiUs
+    filePath: data/videos/bkkjs19/vhs.jpg
+    hash: 60f87d034fceda6fa7bf7ad34ecb1123bd7c86aaf0637110ad69d0a2a2981f98
+  state: {}
+thumbnail:MWllwllnEPc:
+  spec:
+    videoId: MWllwllnEPc
+    filePath: data/videos/bkkjs19/dev-survey.jpg
+    hash: dca47f41f5798c196f4ca057f48c8008bbe765445fbff01783db565a06bac310
+  state: {}
+thumbnail:Wuxt4HiZtB4:
+  spec:
+    videoId: Wuxt4HiZtB4
+    filePath: data/videos/bkkjs19/css-in-js.jpg
+    hash: a52446c23ac2725784b4d83ab22cedb9861bba835f5ff93aa5b91587855fb57d
+  state: {}
+thumbnail:chRkHsSeOjU:
+  spec:
+    videoId: chRkHsSeOjU
+    filePath: data/videos/bkkjs19/reactive.jpg
+    hash: 1fc84699de5770b71dc5c42a470e551a3d01950e0d1c8d3569d8c55c17512b99
+  state: {}
+thumbnail:rAbcGSH1uv0:
+  spec:
+    videoId: rAbcGSH1uv0
+    filePath: data/videos/bkkjs19/quasar.jpg
+    hash: 75058d522349e6b25302c31e403b3f9e26d3a54bf65a9a60ff73f1303f9cd209
+  state: {}
+thumbnail:szr7swXqPSw:
+  spec:
+    videoId: szr7swXqPSw
+    filePath: data/videos/bkkjs19/vitepress.jpg
+    hash: 2118e3d2bda47e041e728c3aaa559e28d0b3da056233bccb3c90a8aec4c25b48
+  state: {}
+video:1g9EDpmPANI:
+  spec:
+    id: 1g9EDpmPANI
+    snippet:
+      title: >-
+        JavaScript Behind the Scenes of PyCon Thailand 2023 by Jirachai
+        Chansivanon
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/pycon/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:B14cGlzp0_c:
+  spec:
+    id: B14cGlzp0_c
+    snippet:
+      title: Npm package for write jest easy by Yosapol Jitrak
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/jest/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:DoRsdVqeMUM:
+  spec:
+    id: DoRsdVqeMUM
+    snippet:
+      title: >-
+        All about testing from 0 to 7 (คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ
+        Test) by Somkiat Puisungnoen
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/test/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ENPJ4_Kq-lY:
+  spec:
+    id: ENPJ4_Kq-lY
+    snippet:
+      title: Thailand Web Landscape 2024 by Warat Wongmaneekit
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/web-landscape/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:HiChHH_MhQI:
+  spec:
+    id: HiChHH_MhQI
+    snippet:
+      title: Developing JS for Data Science tasks by Charunthon Limseelo
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/data/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:LJP8xmAhiUs:
+  spec:
+    id: LJP8xmAhiUs
+    snippet:
+      title: Record CLI-based workflows with VHS by Karnsiree Wongkolkitsilp
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/vhs/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:MWllwllnEPc:
+  spec:
+    id: MWllwllnEPc
+    snippet:
+      title: Thailand Developer Survey 2024 by Kamolphan Liwprasert
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/dev-survey/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Wuxt4HiZtB4:
+  spec:
+    id: Wuxt4HiZtB4
+    snippet:
+      title: A Journey into Next-Gen CSS-in-JS Innovations by Siriwat Kunaporn
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/css-in-js/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:chRkHsSeOjU:
+  spec:
+    id: chRkHsSeOjU
+    snippet:
+      title: >-
+        Reactive Programming, observe value change over the event by Thitiwut
+        Somsa
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/reactive/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:rAbcGSH1uv0:
+  spec:
+    id: rAbcGSH1uv0
+    snippet:
+      title: Quasar VueJS fast development by Apiporn Simapornchai
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/quasar/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:szr7swXqPSw:
+  spec:
+    id: szr7swXqPSw
+    snippet:
+      title: สร้างเว็บแหล่งความรู้สวยๆ ด้วย VitePress by Thai Pangsakulyanont
+      description: >-
+        Event: BKK.JS #19
+
+        https://grtn.org/e/bkkjs19
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs19/v/vitepress/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
