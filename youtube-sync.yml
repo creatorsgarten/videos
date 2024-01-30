@@ -9041,3 +9041,45 @@ video:szr7swXqPSw:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:BpmFWDJ7q7w:
+  spec:
+    videoId: BpmFWDJ7q7w
+    filePath: data/videos/archive/bkkjs19.jpg
+    hash: 27dfdbcb15fd6d27cbdd9a83a44794a252aa1774590766cd4d2cd7b4555c36ca
+  state: {}
+video:BpmFWDJ7q7w:
+  spec:
+    id: BpmFWDJ7q7w
+    snippet:
+      title: 'Garten Streams: BKK.JS #19'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/bkkjs19/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
