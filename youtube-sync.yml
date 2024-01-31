@@ -8551,7 +8551,7 @@ thumbnail:ENPJ4_Kq-lY:
   spec:
     videoId: ENPJ4_Kq-lY
     filePath: data/videos/bkkjs19/web-landscape.jpg
-    hash: fc86caa4aabbf3da78ea9c95772c77dbc07711204d2d8c47171edf67ba3053f7
+    hash: 0e9e9c2c60d808a840cb2165396de3e57a1263bb4c4bbfe06f937f14523e8c88
   state: {}
 thumbnail:HiChHH_MhQI:
   spec:
@@ -8569,7 +8569,7 @@ thumbnail:MWllwllnEPc:
   spec:
     videoId: MWllwllnEPc
     filePath: data/videos/bkkjs19/dev-survey.jpg
-    hash: dca47f41f5798c196f4ca057f48c8008bbe765445fbff01783db565a06bac310
+    hash: 629e9140529966ebccb2abf1f2c130d3548ea770f7b83b23fc56d9c729b0c25f
   state: {}
 thumbnail:Wuxt4HiZtB4:
   spec:
@@ -8757,7 +8757,7 @@ video:ENPJ4_Kq-lY:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:HiChHH_MhQI:
   spec:
@@ -8877,7 +8877,7 @@ video:MWllwllnEPc:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:Wuxt4HiZtB4:
   spec:
