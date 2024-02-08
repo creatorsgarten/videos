@@ -3,5 +3,5 @@ title: สร้างเว็บแหล่งความรู้สวย�
 speaker: Thai Pangsakulyanont
 youtube: szr7swXqPSw
 managed: true
-published: false
+published: '2024-02-09'
 ---

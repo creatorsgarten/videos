@@ -3,5 +3,5 @@ title: All about testing from 0 to 7 (คิดก่อนทำ หรือ �
 speaker: Somkiat Puisungnoen
 youtube: DoRsdVqeMUM
 managed: true
-published: false
+published: '2024-02-09'
 ---
