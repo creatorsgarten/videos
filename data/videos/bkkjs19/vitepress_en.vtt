@@ -503,14 +503,14 @@ which creates a heading using <i>##</i>.
 
 00:09:05.000 --> 00:09:10.933
 In VitePress Markdown files,
-we can use <i><script setup></i>,
+we can use <i>&lt;script setup&gt;</i>,
 
 00:09:11.000 --> 00:09:12.933
 which is Vue.js syntax.
 
 00:09:13.000 --> 00:09:17.933
 We can also import JSON files
-and Vue components (<i>.vue files</i>)
+and Vue components (.vue files)
 
 00:09:18.000 --> 00:09:20.933
 and use them in our Markdown.
@@ -546,7 +546,7 @@ more readable.
 
 00:09:54.000 --> 00:10:00.203
 Alternatively, you can write JavaScript
-in the <i><script setup></i> block
+in the <i>&lt;script setup&gt;</i> block
 
 00:10:00.270 --> 00:10:02.933
 and use that in the component.
@@ -686,7 +686,7 @@ for more details.)
 Here’s how to use layout slots:
 
 00:12:17.000 --> 00:12:20.933
-<template #slot-name>.
+<i>&lt;template #slot-name&gt;</i>.
 
 00:12:21.940 --> 00:12:25.933
 I used <i>v-if</i> to check the frontmatter
@@ -810,7 +810,7 @@ before them in the Markdown file,
 
 00:14:51.000 --> 00:14:56.933
 But when rendered, the “ๆ” sign will be
-wrapped in a <i><span class=“ๆ”></i>.
+wrapped in a <i>&lt;span class="ๆ"&gt;</i>.
 
 00:14:57.000 --> 00:14:59.933
 This makes the rendered
