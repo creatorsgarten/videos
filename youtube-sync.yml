@@ -9036,6 +9036,7 @@ video:szr7swXqPSw:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs19/v/vitepress/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -9083,3 +9084,13 @@ video:BpmFWDJ7q7w:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:szr7swXqPSw:caption:en:
+  spec:
+    videoId: szr7swXqPSw
+    filePath: data/videos/bkkjs19/vitepress_en.vtt
+    language: en
+    name: English
+    hash: 33ed2b2db0a950ee96f20d32e09bb4635d4bbfdaed8b88bf95f4564e5008f232
+    isDraft: false
+  state:
+    id: AUieDaY_Dcmf6UrMNlygtS4UxqqvcMwk89A3cjBfmkjnSbYxCWz4M4HG
