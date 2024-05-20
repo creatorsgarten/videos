@@ -9178,3 +9178,283 @@ video:oh6SgLMznUI:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:N05h_-aDtC0:
+  spec:
+    videoId: N05h_-aDtC0
+    filePath: data/videos/bkkjs20/jsmodel.jpg
+    hash: 595825e073c2c536a78a622affe673ed017cb470fd90a4e027b5a89a22b94878
+  state: {}
+thumbnail:PCSdvZEJnmg:
+  spec:
+    videoId: PCSdvZEJnmg
+    filePath: data/videos/bkkjs20/open.jpg
+    hash: 6fd73975a9540d62e1704af8d64ce423e048bf23673ab88968d853916d1e5035
+  state: {}
+thumbnail:PNind_xIlxc:
+  spec:
+    videoId: PNind_xIlxc
+    filePath: data/videos/bkkjs20/optimize.jpg
+    hash: 7dc26b09bcbaabb708c29487b912aade8bf8ba5b410717e3d6c90856186d3655
+  state: {}
+thumbnail:R9ww5Qh13MM:
+  spec:
+    videoId: R9ww5Qh13MM
+    filePath: data/videos/bkkjs20/subin.jpg
+    hash: ffd9703019f1f7a12cd1b020288990f666b789888538f6152908787253f89098
+  state: {}
+thumbnail:WC5PRboDfJ0:
+  spec:
+    videoId: WC5PRboDfJ0
+    filePath: data/videos/bkkjs20/astro.jpg
+    hash: 209f698152192603636cf3196d51861dbb7688c868743d8b8b911e937d4f9cb7
+  state: {}
+thumbnail:qUbnQCHcZLU:
+  spec:
+    videoId: qUbnQCHcZLU
+    filePath: data/videos/bkkjs20/elysia.jpg
+    hash: 6b69e949d2ab66d62689e0bdfb5517b27e7b91422787f1ae2eb0e1bea29ea0bd
+  state: {}
+video:N05h_-aDtC0:
+  spec:
+    id: N05h_-aDtC0
+    snippet:
+      title: Rebuild your mental model of JavaScript by Watee Kamrungsee
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/jsmodel/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:PCSdvZEJnmg:
+  spec:
+    id: PCSdvZEJnmg
+    snippet:
+      title: Open-source in a nutshell by Runyasak Chaengnaimuang
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/open/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:PNind_xIlxc:
+  spec:
+    id: PNind_xIlxc
+    snippet:
+      title: >-
+        Web App Optimization at EarnIn by Siwat Kaolueng, Kijpokin
+        Ngamsomsakskul
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/optimize/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:R9ww5Qh13MM:
+  spec:
+    id: R9ww5Qh13MM
+    snippet:
+      title: >-
+        Dance with Three.js! สร้างท่ารำไทยใหม่ๆ ด้วย JavaScript by Phoomparin
+        Mano
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/subin/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:WC5PRboDfJ0:
+  spec:
+    id: WC5PRboDfJ0
+    snippet:
+      title: Astro JS - เฟรมเวิร์กน้องใหม่ เขียนง่าย โหลดไวมาก! by Chakkrisn Talawat
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/astro/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:qUbnQCHcZLU:
+  spec:
+    id: qUbnQCHcZLU
+    snippet:
+      title: Social Engineering of making a framework by Kongkeit Khunpanitchote
+      description: >-
+        Event: BKK.JS #20
+
+        https://grtn.org/e/bkkjs20
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs20/v/elysia/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
