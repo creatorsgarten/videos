@@ -9094,3 +9094,87 @@ video:szr7swXqPSw:caption:en:
     isDraft: false
   state:
     id: AUieDaY_Dcmf6UrMNlygtS4UxqqvcMwk89A3cjBfmkjnSbYxCWz4M4HG
+thumbnail:MmtQuiE2VP4:
+  spec:
+    videoId: MmtQuiE2VP4
+    filePath: data/videos/archive/bkkjs20.jpg
+    hash: fdf5c5e5b52dd39606704ed37f673c6215ee678952369fcafbf1905bf876af8b
+  state: {}
+thumbnail:oh6SgLMznUI:
+  spec:
+    videoId: oh6SgLMznUI
+    filePath: data/videos/archive/citw2.jpg
+    hash: 4c4a88f65da51c1fe5c727b77e264b5bd90d9eaa5107c4b8b170f8d0fd74c255
+  state: {}
+video:MmtQuiE2VP4:
+  spec:
+    id: MmtQuiE2VP4
+    snippet:
+      title: 'Garten Streams: BKK.JS #20'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/bkkjs20/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:oh6SgLMznUI:
+  spec:
+    id: oh6SgLMznUI
+    snippet:
+      title: 'Garten Streams: Code in the Wind #2'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/citw2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
