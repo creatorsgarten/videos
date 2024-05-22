@@ -103,5 +103,5 @@ const events = [
   new Event('universe2023', 'GitHub Universe After Party Thailand'),
   new Event('bkkjs19', 'BKK.JS #19'),
   new Event('bkkjs20', 'BKK.JS #20'),
-  new Event('citw2', 'Code in the Wind #2'),
+  new Event('wind2', 'Code in the Wind #2'),
 ]
