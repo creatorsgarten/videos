@@ -9458,3 +9458,371 @@ video:qUbnQCHcZLU:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:-fAvIByango:
+  spec:
+    videoId: '-fAvIByango'
+    filePath: data/videos/citw2/q1.jpg
+    hash: 8e5de032e3890e15c300debce8fc37f16f4945a3356b023436313b154ba1a7db
+  state: {}
+thumbnail:3dA1P7V1w3o:
+  spec:
+    videoId: 3dA1P7V1w3o
+    filePath: data/videos/citw2/q4.jpg
+    hash: 9b402fb589d051aacca9b22d4e9fd01c73afde92c929f5704a2eaba70868a8c6
+  state: {}
+thumbnail:9ftrgC60pPk:
+  spec:
+    videoId: 9ftrgC60pPk
+    filePath: data/videos/citw2/testing.jpg
+    hash: 0322dc25376b36e8b711b7def7bb72039bb9068ecfdb9cd1326b83017d7485fa
+  state: {}
+thumbnail:IPV1zeCPh3c:
+  spec:
+    videoId: IPV1zeCPh3c
+    filePath: data/videos/citw2/quiz.jpg
+    hash: 9dec0699872e364a6b8f7dfa4461e33025bd8e74231d7177c4c197036fbb32a8
+  state: {}
+thumbnail:c7bV1rxXkXw:
+  spec:
+    videoId: c7bV1rxXkXw
+    filePath: data/videos/citw2/q3.jpg
+    hash: 10154f3c45f23eb9e8e0a51f93e0d55ae683b34c51a5567c2a300059e874e931
+  state: {}
+thumbnail:kWSnkcSAljQ:
+  spec:
+    videoId: kWSnkcSAljQ
+    filePath: data/videos/citw2/f1.jpg
+    hash: bf5c8994d1f48f894ab49bf10ebae707dd5972b5e2d0ec1948aebdeb1d7ba282
+  state: {}
+thumbnail:tbTZb-BQFJA:
+  spec:
+    videoId: tbTZb-BQFJA
+    filePath: data/videos/citw2/q2.jpg
+    hash: 05ef434ddb3edf48a93736411fc0e3010b161ec97e251fe7a08f8fa355464329
+  state: {}
+thumbnail:tzJcJPNvi9o:
+  spec:
+    videoId: tzJcJPNvi9o
+    filePath: data/videos/citw2/f2.jpg
+    hash: b639d8bb68ad901ab345a8ec2db97ca86ddbdd1e0866919558a0fceb69f10f12
+  state: {}
+video:-fAvIByango:
+  spec:
+    id: '-fAvIByango'
+    snippet:
+      title: Qualifying 1
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/q1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:3dA1P7V1w3o:
+  spec:
+    id: 3dA1P7V1w3o
+    snippet:
+      title: Qualifying 4
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/q4/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:9ftrgC60pPk:
+  spec:
+    id: 9ftrgC60pPk
+    snippet:
+      title: Testing round
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/testing/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:IPV1zeCPh3c:
+  spec:
+    id: IPV1zeCPh3c
+    snippet:
+      title: Quiz round
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/quiz/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:c7bV1rxXkXw:
+  spec:
+    id: c7bV1rxXkXw
+    snippet:
+      title: Qualifying 3
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/q3/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:kWSnkcSAljQ:
+  spec:
+    id: kWSnkcSAljQ
+    snippet:
+      title: Final round 1
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/f1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:tbTZb-BQFJA:
+  spec:
+    id: tbTZb-BQFJA
+    snippet:
+      title: Qualifying 2
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/q2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:tzJcJPNvi9o:
+  spec:
+    id: tzJcJPNvi9o
+    snippet:
+      title: Final round 2
+      description: >-
+        Event: Code in the Wind #2
+
+        https://grtn.org/e/citw2
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/citw2/v/f2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
