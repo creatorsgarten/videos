@@ -9544,7 +9544,7 @@ video:-fAvIByango:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:3dA1P7V1w3o:
   spec:
@@ -9624,7 +9624,7 @@ video:9ftrgC60pPk:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:IPV1zeCPh3c:
   spec:
