@@ -3,5 +3,5 @@ title: Astro JS - เฟรมเวิร์กน้องใหม่ เข�
 speaker: Chakkrisn Talawat
 youtube: WC5PRboDfJ0
 managed: true
-published: false
+published: '2024-06-09'
 ---

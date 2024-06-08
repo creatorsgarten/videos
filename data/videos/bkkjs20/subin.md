@@ -3,5 +3,5 @@ title: Dance with Three.js! สร้างท่ารำไทยใหม่�
 speaker: Phoomparin Mano
 youtube: R9ww5Qh13MM
 managed: true
-published: false
+published: '2024-06-10'
 ---
