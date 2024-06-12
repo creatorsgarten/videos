@@ -9252,7 +9252,7 @@ video:N05h_-aDtC0:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:PCSdvZEJnmg:
   spec:
