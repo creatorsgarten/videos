@@ -10201,6 +10201,7 @@ video:kppkEaMjCTE:
         etc.), please visit:
 
         https://grtn.org/e/algorave/v/d1s1/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10286,3 +10287,23 @@ video:zej4pK6Kq0Y:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:kppkEaMjCTE:caption:th:
+  spec:
+    videoId: kppkEaMjCTE
+    filePath: data/videos/algorave/d1s1_th.vtt
+    language: th
+    name: Thai
+    hash: 3c46268c0348db86f4f8275ce54c9450da9467442ef9da530c92ac5505f9d2a4
+    isDraft: false
+  state:
+    id: AUieDabV4xyGTkfp7XF9zfVxIc3zXI-v8T9U37lP29VTz9BcJ42B
+video:vbIWSwz8NxQ:caption:th:
+  spec:
+    videoId: vbIWSwz8NxQ
+    filePath: data/videos/bkkjs17/blackbox_th.vtt
+    language: th
+    name: Thai
+    hash: 4bcc7ad7fae6bfe77a1b0c308f506d7c1a25c4313df249aa83f2e056f165f809
+    isDraft: false
+  state:
+    id: AUieDaY1U5SQ7B-iKp3a5fXty0X0Nj5GlMvU9rOmAbl4QDBSN-h4
