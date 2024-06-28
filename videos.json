@@ -924,7 +924,8 @@
         "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
         "published": true,
         "subtitles": [
-          "en"
+          "en",
+          "th"
         ],
         "tags": [
           "softwaredevelopment",
