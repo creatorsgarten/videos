@@ -1,8 +1,8 @@
-import path from 'path'
+import fs from 'fs'
 import { globby } from 'globby'
 import grayMatter from 'gray-matter'
+import path from 'path'
 import { z } from 'zod'
-import fs from 'fs'
 
 const VideoFrontMatter = z.object({
   title: z.string().describe('The talk title.'),
@@ -47,6 +47,7 @@ export class Video {
     public content: string,
     public imageFilePath?: string,
     public englishSubtitlePath?: string,
+    public thaiSubtitlePath?: string,
   ) {}
   static async findAll() {
     const paths = await globby(['data/videos/**/*.md'])
@@ -58,6 +59,7 @@ export class Video {
       const { data, content } = parsed
       const imageFilePath = getDefaultImageFilePath({ filePath })
       const englishSubtitlePath = filePath.replace(/\.md$/, '_en.vtt')
+      const thaiSubtitlePath = filePath.replace(/\.md$/, '_th.vtt')
       videos.push(
         new Video(
           filePath,
@@ -67,6 +69,7 @@ export class Video {
           content,
           fs.existsSync(imageFilePath) ? imageFilePath : undefined,
           fs.existsSync(englishSubtitlePath) ? englishSubtitlePath : undefined,
+          fs.existsSync(thaiSubtitlePath) ? thaiSubtitlePath : undefined,
         ),
       )
     }
@@ -81,6 +84,7 @@ export class Video {
       filePath: this.filePath,
       imageFilePath: this.imageFilePath,
       englishSubtitlePath: this.englishSubtitlePath,
+      thaiSubtitlePath: this.thaiSubtitlePath,
     }
   }
 }

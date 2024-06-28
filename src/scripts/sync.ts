@@ -1,14 +1,14 @@
-import yargs from 'yargs'
+import chalk from 'chalk'
+import crypto from 'crypto'
+import fs from 'fs'
 import { GoogleOfflineAccess } from 'google-offline-access'
 import { google, youtube_v3 } from 'googleapis'
-import { isEqual } from 'lodash-es'
-import { Video } from '../Video'
-import { getState, setState } from '../StateStorage'
-import fs from 'fs'
-import crypto from 'crypto'
 import { diff } from 'jest-diff'
-import chalk from 'chalk'
-import { getVideoTitle, getVideoDescription } from '../VideoMetadata'
+import { isEqual } from 'lodash-es'
+import yargs from 'yargs'
+import { getState, setState } from '../StateStorage'
+import { Video } from '../Video'
+import { getVideoDescription, getVideoTitle } from '../VideoMetadata'
 
 const googleOfflineAccess = new GoogleOfflineAccess({
   scopes: [
@@ -268,6 +268,23 @@ for (const video of await Video.findAll()) {
           .update(fs.readFileSync(video.englishSubtitlePath))
           .digest('hex'),
         isDraft: !(data.subtitles || []).includes('en'),
+      }),
+    )
+  }
+  if (video.thaiSubtitlePath) {
+    snippet.defaultAudioLanguage = 'th'
+    resources.set(
+      'video:' + data.youtube + ':caption:th',
+      new YouTubeCaption({
+        videoId: data.youtube,
+        filePath: video.thaiSubtitlePath,
+        language: 'th',
+        name: 'Thai',
+        hash: crypto
+          .createHash('sha256')
+          .update(fs.readFileSync(video.thaiSubtitlePath))
+          .digest('hex'),
+        isDraft: !(data.subtitles || []).includes('th'),
       }),
     )
   }
