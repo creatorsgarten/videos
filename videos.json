@@ -15,7 +15,8 @@
       },
       "content": "",
       "filePath": "data/videos/algorave/d1s1.md",
-      "imageFilePath": "data/videos/algorave/d1s1.jpg"
+      "imageFilePath": "data/videos/algorave/d1s1.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
     },
     {
       "event": "algorave",
@@ -935,7 +936,8 @@
       "content": "",
       "filePath": "data/videos/bkkjs17/blackbox.md",
       "imageFilePath": "data/videos/bkkjs17/blackbox.jpg",
-      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt"
+      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt",
+      "thaiSubtitlePath": "data/videos/bkkjs17/blackbox_th.vtt"
     },
     {
       "event": "bkkjs17",
