@@ -10164,7 +10164,7 @@ video:dtvAFindVK4:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:kppkEaMjCTE:
   spec:
