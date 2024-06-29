@@ -10307,3 +10307,13 @@ video:vbIWSwz8NxQ:caption:th:
     isDraft: false
   state:
     id: AUieDaY1U5SQ7B-iKp3a5fXty0X0Nj5GlMvU9rOmAbl4QDBSN-h4
+video:szr7swXqPSw:caption:th:
+  spec:
+    videoId: szr7swXqPSw
+    filePath: data/videos/bkkjs19/vitepress_th.vtt
+    language: th
+    name: Thai
+    hash: b37c633d99842025ac269e2f7a238185b9164b59ecb3a9b651a4bc3edf79b352
+    isDraft: false
+  state:
+    id: AUieDabi5E6_O66wT4LvJiQM2INPcaqr9Xy2oGuCNc_mRMnfrwig
