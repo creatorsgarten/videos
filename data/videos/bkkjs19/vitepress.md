@@ -4,5 +4,5 @@ speaker: Thai Pangsakulyanont
 youtube: szr7swXqPSw
 managed: true
 published: '2024-02-09'
-subtitles: [en]
+subtitles: [en, th]
 ---
