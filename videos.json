@@ -1036,11 +1036,15 @@
         "type": "talk",
         "youtube": "Wd7oETbK5vY",
         "managed": true,
-        "published": "2023-07-26"
+        "published": "2023-07-26",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/iconify.md",
-      "imageFilePath": "data/videos/bkkjs18/iconify.jpg"
+      "imageFilePath": "data/videos/bkkjs18/iconify.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs18/iconify_th.vtt"
     },
     {
       "event": "bkkjs18",
