@@ -10122,6 +10122,7 @@ video:aZroGYIpDSU:
         etc.), please visit:
 
         https://grtn.org/e/algorave/v/d1s3/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10328,3 +10329,13 @@ video:Wd7oETbK5vY:caption:th:
     isDraft: false
   state:
     id: AUieDabTwrAXrT8EhUypSD11zska4nGWWrojPoLJYVEvgKeQK8Ae
+video:aZroGYIpDSU:caption:th:
+  spec:
+    videoId: aZroGYIpDSU
+    filePath: data/videos/algorave/d1s3_th.vtt
+    language: th
+    name: Thai
+    hash: f84d74004604f3cbbca52c5a6e7c920b000d07916084021040edbd3ba0461c4e
+    isDraft: false
+  state:
+    id: AUieDaZ_kbHnNu4dFQ2zl_w9Poni5pK2rxdB9OgjjB8_O6lWkMnd
