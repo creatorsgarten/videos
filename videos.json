@@ -40,11 +40,15 @@
         "type": "pitch",
         "youtube": "aZroGYIpDSU",
         "managed": true,
-        "published": "2024-06-30"
+        "published": "2024-06-30",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/algorave/d1s3.md",
-      "imageFilePath": "data/videos/algorave/d1s3.jpg"
+      "imageFilePath": "data/videos/algorave/d1s3.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
     },
     {
       "event": "algorave",
