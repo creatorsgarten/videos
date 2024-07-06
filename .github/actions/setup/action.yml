@@ -3,15 +3,13 @@ description: Install dependencies and set up the project
 runs:
   using: 'composite'
   steps:
-    - name: Set up pnpm
-      uses: pnpm/action-setup@v2.2.4
+    - name: node
+      uses: actions/setup-node@v4
       with:
-        version: 8.5.1
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 16
+        node-version: 20
         cache: pnpm
-    - name: Install dependencies
-      run: pnpm install
+    - name: install
+      run: |
+        corepack enable
+        pnpm install
       shell: bash
