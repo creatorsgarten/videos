@@ -3,10 +3,11 @@ description: Install dependencies and set up the project
 runs:
   using: 'composite'
   steps:
+    - name: pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 9
     - name: node
-        - uses: pnpm/action-setup@v4
-          with:
-            version: 9
       uses: actions/setup-node@v4
       with:
         node-version: 20
