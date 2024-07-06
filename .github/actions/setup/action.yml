@@ -4,12 +4,13 @@ runs:
   using: 'composite'
   steps:
     - name: node
+        - uses: pnpm/action-setup@v4
+          with:
+            version: 9
       uses: actions/setup-node@v4
       with:
         node-version: 20
         cache: pnpm
     - name: install
-      run: |
-        corepack enable pnpm
-        pnpm install
+      run: pnpm install
       shell: bash
