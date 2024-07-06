@@ -10,6 +10,6 @@ runs:
         cache: pnpm
     - name: install
       run: |
-        corepack enable
+        corepack enable pnpm
         pnpm install
       shell: bash
