@@ -1284,11 +1284,15 @@
         "type": "talk",
         "youtube": "qUbnQCHcZLU",
         "managed": true,
-        "published": "2024-06-13"
+        "published": "2024-06-13",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/elysia.md",
-      "imageFilePath": "data/videos/bkkjs20/elysia.jpg"
+      "imageFilePath": "data/videos/bkkjs20/elysia.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/elysia_th.vtt"
     },
     {
       "event": "bkkjs20",
