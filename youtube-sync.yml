@@ -9332,6 +9332,7 @@ video:PNind_xIlxc:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs20/v/optimize/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10350,3 +10351,13 @@ video:qUbnQCHcZLU:caption:th:
     isDraft: false
   state:
     id: AUieDaZnc4gXtQio9jUEuAuNmGNALnPn7wdMV5QbAUYk1rq-oVkW
+video:PNind_xIlxc:caption:th:
+  spec:
+    videoId: PNind_xIlxc
+    filePath: data/videos/bkkjs20/optimize_th.vtt
+    language: th
+    name: Thai
+    hash: 0b8557a55d23bc8c4d0851009c9aad85c35c402d60d2c167417fdc95f34e9f7d
+    isDraft: false
+  state:
+    id: AUieDaYD6QrGN44EKPOAwcGLleJCdwruAb7G1LDvjDAmhI5cn8tE
