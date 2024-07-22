@@ -1333,11 +1333,15 @@
         "type": "talk",
         "youtube": "PNind_xIlxc",
         "managed": true,
-        "published": "2024-06-11"
+        "published": "2024-06-11",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/optimize.md",
-      "imageFilePath": "data/videos/bkkjs20/optimize.jpg"
+      "imageFilePath": "data/videos/bkkjs20/optimize.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/optimize_th.vtt"
     },
     {
       "event": "bkkjs20",
