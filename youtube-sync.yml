@@ -9454,6 +9454,7 @@ video:qUbnQCHcZLU:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs20/v/elysia/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10339,3 +10340,13 @@ video:aZroGYIpDSU:caption:th:
     isDraft: false
   state:
     id: AUieDaZ_kbHnNu4dFQ2zl_w9Poni5pK2rxdB9OgjjB8_O6lWkMnd
+video:qUbnQCHcZLU:caption:th:
+  spec:
+    videoId: qUbnQCHcZLU
+    filePath: data/videos/bkkjs20/elysia_th.vtt
+    language: th
+    name: Thai
+    hash: 73d41e524de6668b372b88bfe24b1e2381a41c2ff2450cf37145e11eeb58f8c5
+    isDraft: false
+  state:
+    id: AUieDaZnc4gXtQio9jUEuAuNmGNALnPn7wdMV5QbAUYk1rq-oVkW
