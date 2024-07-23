@@ -1400,11 +1400,15 @@
         "type": "talk",
         "youtube": "WC5PRboDfJ0",
         "managed": true,
-        "published": "2024-06-09"
+        "published": "2024-06-09",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/astro.md",
-      "imageFilePath": "data/videos/bkkjs20/astro.jpg"
+      "imageFilePath": "data/videos/bkkjs20/astro.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/astro_th.vtt"
     },
     {
       "event": "bkkjs20",
