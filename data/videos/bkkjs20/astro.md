@@ -4,4 +4,5 @@ speaker: Chakkrisn Talawat
 youtube: WC5PRboDfJ0
 managed: true
 published: '2024-06-09'
+subtitles: [th]
 ---
