@@ -1,0 +1,910 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+Hello Hello
+
+2
+00:00:03.000 --> 00:00:04.999
+Sawasdee Krub!
+
+3
+00:00:05.000 --> 00:00:08.000
+Okay, so...
+
+4
+00:00:08.000 --> 00:00:17.199
+Okay, if you follow tech stack news on
+YouTube channels like Theo or ThePrimeagen
+
+5
+00:00:17.200 --> 00:00:21.000
+You may be familiar with this video.
+
+6
+00:00:21.000 --> 00:00:24.000
+Hello Hello?
+
+7
+00:00:24.000 --> 00:00:30.000
+About 2-3 days ago, someone made
+a tech stack called the BETHStack.
+
+8
+00:00:30.000 --> 00:00:33.000
+If you go on Twitter, quite a lot
+of people know abut it.
+
+9
+00:00:33.000 --> 00:00:38.000
+Part of that stack is Elysia.
+
+10
+00:00:38.000 --> 00:00:45.000
+Elysia is a TypeScript web framework
+that is designed to be fast.
+
+11
+00:00:45.000 --> 00:00:54.000
+If anyone doesn't know, it is similar to
+Express but it's like 17x faster.
+
+12
+00:00:54.000 --> 00:01:00.693
+Similar code, but 17x faster.
+The framework is written in TypeScript.
+
+13
+00:01:00.694 --> 00:01:08.325
+Running it on multiple processes can yield
+performance comparable to Rust's Actix,
+
+14
+00:01:08.326 --> 00:01:10.000
+Go Fiber, or Gin.
+
+15
+00:01:10.000 --> 00:01:15.000
+When it comes to TypeScript web server,
+it is considered very fast.
+
+16
+00:01:15.000 --> 00:01:19.000
+It's almost unbelievable, right?
+
+17
+00:01:19.000 --> 00:01:23.000
+It is made possible by two things:
+
+18
+00:01:23.000 --> 00:01:27.000
+The framework is designed
+to be run on top of Bun.
+
+19
+00:01:27.000 --> 00:01:31.000
+Bun is like a very fast JS runtime.
+
+20
+00:01:31.000 --> 00:01:33.356
+It aims to be a drop-in Node alternative.
+
+21
+00:01:33.357 --> 00:01:40.000
+It also leverages Static Code Analysis
+and Dynamic Code Injection.
+
+22
+00:01:40.000 --> 00:01:44.816
+It analyzes the endpoint's code and
+dynamically generates code
+
+23
+00:01:44.817 --> 00:01:47.000
+tailered to that endpoint
+with low overhead.
+
+24
+00:01:47.000 --> 00:01:51.000
+But today, I'm not going to talk about
+why it's fast or why it's like this --
+
+25
+00:01:51.000 --> 00:01:54.004
+I'm going to talk about
+why people like Elysia
+
+26
+00:01:54.005 --> 00:01:56.000
+and how is the developer experience.
+
+27
+00:01:56.000 --> 00:02:02.199
+If anyone has ever written a backend, they
+would know that to set up authentication
+
+28
+00:02:02.200 --> 00:02:05.000
+it would take a fairly long time,
+
+29
+00:02:05.000 --> 00:02:07.000
+like 2 hours, 3 hours.
+
+30
+00:02:07.000 --> 00:02:13.000
+But in Elysia, now there is an
+experimental project called Elysia Elf.
+
+31
+00:02:13.000 --> 00:02:19.000
+It allows us to set up
+Elysia project very easily.
+
+32
+00:02:19.000 --> 00:02:21.000
+We just need to type in the command.
+
+33
+00:02:21.000 --> 00:02:23.000
+Let's see how it works.
+
+34
+00:02:23.000 --> 00:02:27.000
+Well, let me put the mic down and
+increase the screen size a little bit.
+
+35
+00:02:31.000 --> 00:02:34.611
+Okay, so to create an Elysia project,
+we type in "bun create elysia"
+
+36
+00:02:34.612 --> 00:02:37.000
+followed by the project name.
+
+37
+00:02:37.000 --> 00:02:39.000
+I set the project name to 08.
+
+38
+00:02:43.000 --> 00:02:45.000
+Ok, here's what happened.
+
+39
+00:02:45.000 --> 00:02:49.000
+Once we run bun create,
+it generates a project.
+
+40
+00:02:49.000 --> 00:02:51.000
+We "cd" into the project.
+
+41
+00:02:51.000 --> 00:02:57.000
+Let's look at the code, "src/index".
+
+42
+00:02:57.000 --> 00:02:59.000
+This is an Elysia server.
+
+43
+00:02:59.000 --> 00:03:09.000
+Basically, ".get" registers a GET
+endpoint, just like Express.
+
+44
+00:03:09.000 --> 00:03:13.000
+But we don't need "(req, res)" -- just
+return the payload from the handler.
+
+45
+00:03:13.000 --> 00:03:17.000
+Now, let's try to set up authentication.
+
+46
+00:03:17.000 --> 00:03:23.000
+First, we fire up Redis.
+
+47
+00:03:23.000 --> 00:03:31.000
+Then we run Postgres in Docker to
+store authentication data.
+
+48
+00:03:31.000 --> 00:03:35.000
+Here, you see that I just created
+a new project, right?
+
+49
+00:03:35.000 --> 00:03:36.757
+This one is still experimental --
+
+50
+00:03:36.758 --> 00:03:39.397
+If you have ever written
+Laravel or Ruby on Rails,
+
+51
+00:03:39.398 --> 00:03:42.042
+They have CLI for generating stuff.
+
+52
+00:03:42.043 --> 00:03:45.000
+Elysia also has it,
+the name is Elf.
+
+53
+00:03:45.000 --> 00:03:48.771
+When we type in this command, "elf add"
+
+54
+00:03:48.772 --> 00:03:51.000
+Here are all the plugins
+that we can use.
+
+55
+00:03:51.000 --> 00:03:55.000
+Let's choose GraphQL, static file server,
+Swagger plugins, then press enter.
+
+56
+00:03:55.000 --> 00:03:59.000
+Then answer a few questions,
+
+57
+00:03:59.000 --> 00:04:03.000
+and it will update the code
+you see at the back
+
+58
+00:04:03.000 --> 00:04:05.000
+with the added plugins.
+
+59
+00:04:05.000 --> 00:04:09.000
+Then we add that we want to get GraphQL plugins.
+
+60
+00:04:09.000 --> 00:04:11.000
+Then it will extend everything to all.
+
+61
+00:04:11.000 --> 00:04:13.000
+Here, we will try to run the server first.
+
+62
+00:04:13.000 --> 00:04:15.000
+Pnpmdata.
+
+63
+00:04:15.000 --> 00:04:17.000
+Run server to port 3000.
+
+64
+00:04:17.000 --> 00:04:19.000
+Go to localhost 3000.
+
+65
+00:04:19.000 --> 00:04:21.000
+Swagger.
+
+66
+00:04:21.000 --> 00:04:23.000
+It will have all the Swagger files.
+
+67
+00:04:23.000 --> 00:04:27.000
+This is that we don't have to write the API itself to see what it wants.
+
+68
+00:04:27.000 --> 00:04:33.000
+Here, the cool thing is that Elysia has a cheat.
+
+69
+00:04:33.000 --> 00:04:35.000
+Suppose we want to get authentication.
+
+70
+00:04:35.000 --> 00:04:37.000
+We type in elf generate auth.
+
+71
+00:04:37.000 --> 00:04:39.000
+And say that we want to get ORM.
+
+72
+00:04:39.000 --> 00:04:41.000
+I'll take Prisma.
+
+73
+00:04:41.000 --> 00:04:43.000
+And save Redis for saving sessions.
+
+74
+00:04:43.000 --> 00:04:45.000
+Here, if you have ever used it.
+
+75
+00:04:45.000 --> 00:04:47.000
+If you use Prisma, it's like an ORM of TypeScript.
+
+76
+00:04:47.000 --> 00:04:49.000
+It makes it possible to write code.
+
+77
+00:04:49.000 --> 00:04:51.000
+It's very easy to manage with database.
+
+78
+00:04:51.000 --> 00:04:53.000
+I take the database as a postcase.
+
+79
+00:04:53.000 --> 00:04:55.000
+And set the URL to be something like this.
+
+80
+00:04:55.000 --> 00:04:57.000
+Database URL.
+
+81
+00:04:57.000 --> 00:04:59.000
+Do you want to migrate database?
+
+82
+00:04:59.000 --> 00:05:01.000
+Yes.
+
+83
+00:05:01.000 --> 00:05:03.000
+Here, the rest.
+
+84
+00:05:03.000 --> 00:05:05.000
+This one will manage the data migration for all of these.
+
+85
+00:05:05.000 --> 00:05:07.000
+And it will ask if I want to get OAuth provider.
+
+86
+00:05:07.000 --> 00:05:09.000
+Just a moment.
+
+87
+00:05:09.000 --> 00:05:11.000
+Wait a minute.
+
+88
+00:05:11.000 --> 00:05:13.000
+Wait a minute.
+
+89
+00:05:13.000 --> 00:05:15.000
+Postcase.
+
+90
+00:05:15.000 --> 00:05:17.000
+And then.
+
+91
+00:05:17.000 --> 00:05:19.000
+I forgot to migrate database.
+
+92
+00:05:19.000 --> 00:05:21.000
+But it's okay.
+
+93
+00:05:21.000 --> 00:05:23.000
+File location.
+
+94
+00:05:23.000 --> 00:05:25.000
+Okay, all done.
+
+95
+00:05:25.000 --> 00:05:27.000
+I just type this.
+
+96
+00:05:27.000 --> 00:05:29.000
+And I run pnpm run dev.
+
+97
+00:05:29.000 --> 00:05:31.000
+Go to swagger.
+
+98
+00:05:31.000 --> 00:05:33.000
+There is an additional part.
+
+99
+00:05:33.000 --> 00:05:35.000
+It's about authentication.
+
+100
+00:05:35.000 --> 00:05:37.000
+All these libraries will come.
+
+101
+00:05:37.000 --> 00:05:39.000
+It will create this file.
+
+102
+00:05:39.000 --> 00:05:41.000
+Auth.ts
+
+103
+00:05:41.000 --> 00:05:43.000
+src.js
+
+104
+00:05:43.000 --> 00:05:45.000
+All of them.
+
+105
+00:05:45.000 --> 00:05:47.000
+I will try to create a user.
+
+106
+00:05:47.000 --> 00:05:49.000
+Take one as src.js
+
+107
+00:05:49.000 --> 00:05:51.000
+and take it as src.js src.js src.js src.js
+
+108
+00:05:51.000 --> 00:05:53.000
+src.js
+
+109
+00:05:53.000 --> 00:05:55.000
+src.js src.js src.js src.js
+
+110
+00:05:55.000 --> 00:05:57.000
+src.js src.js src.js
+
+111
+00:05:57.000 --> 00:05:59.000
+src.js src.js
+
+112
+00:05:59.000 --> 00:06:01.000
+Now I'm trying to do a sign in.
+
+113
+00:06:01.000 --> 00:06:03.000
+Okay.
+
+114
+00:06:03.000 --> 00:06:05.000
+Of course, swagger is quite useful.
+
+115
+00:06:05.000 --> 00:06:07.000
+The timer is off.
+
+116
+00:06:07.000 --> 00:06:09.000
+The concept is
+
+117
+00:06:09.000 --> 00:06:11.000
+Elysia can do something called n2n type-shifting.
+
+118
+00:06:11.000 --> 00:06:17.000
+If you have ever written in RPC, you can use the type in the server on Cayenne, right?
+
+119
+00:06:17.000 --> 00:06:21.000
+Elysian can do it too, but it's less full.
+
+120
+00:06:21.000 --> 00:06:28.000
+Suppose I have a server, I add a folder called identity.
+
+121
+00:06:28.000 --> 00:06:30.000
+This is a project that has been set up.
+
+122
+00:06:30.000 --> 00:06:33.000
+Let's say it's in normal JS and use it.
+
+123
+00:06:33.000 --> 00:06:36.000
+It's an easy one, it's a normal JS project.
+
+124
+00:06:36.000 --> 00:06:40.000
+But now we'll see that it imports the type from this server.
+
+125
+00:06:40.000 --> 00:06:43.000
+The server will come from this type.
+
+126
+00:06:43.000 --> 00:06:51.000
+I want it to add a type as a source.
+
+127
+00:06:51.000 --> 00:06:56.000
+Type, add as source, index.ts
+
+128
+00:06:56.000 --> 00:07:00.000
+And I said that I exported the type of this server.
+
+129
+00:07:00.000 --> 00:07:07.000
+Export, type of app.
+
+130
+00:07:07.000 --> 00:07:10.000
+I can use the type of this server.
+
+131
+00:07:10.000 --> 00:07:12.000
+I can use it on Cayenne.
+
+132
+00:07:12.000 --> 00:07:19.000
+And then I'll go back here and run it at identity.
+
+133
+00:07:19.000 --> 00:07:22.000
+08 run server Elysian together.
+
+134
+00:07:22.000 --> 00:07:25.000
+And then run the server in JS together.
+
+135
+00:07:25.000 --> 00:07:31.000
+Go to localhost 3001.
+
+136
+00:07:31.000 --> 00:07:36.000
+Okay, here you can see that we go to the server here.
+
+137
+00:07:36.000 --> 00:07:39.000
+Okay, reload for a moment.
+
+138
+00:07:39.000 --> 00:07:41.000
+And then go to this server.
+
+139
+00:07:41.000 --> 00:07:44.000
+This server, this API comes from the type we imported from the server.
+
+140
+00:07:44.000 --> 00:07:46.000
+And then enter into one function called identity.
+
+141
+00:07:46.000 --> 00:07:49.000
+This one is like a trpc for connecting Cayenne to the server.
+
+142
+00:07:49.000 --> 00:07:51.000
+By which we can type.
+
+143
+00:07:51.000 --> 00:07:54.000
+For example, in the server, I said that I have an API.
+
+144
+00:07:54.000 --> 00:07:56.000
+Index and auth, right?
+
+145
+00:07:56.000 --> 00:07:57.000
+In auth, what is it?
+
+146
+00:07:57.000 --> 00:07:58.000
+You can click and see it.
+
+147
+00:07:58.000 --> 00:08:00.000
+And then say, if we want to sign in, right?
+
+148
+00:08:00.000 --> 00:08:01.000
+And then call the post.
+
+149
+00:08:01.000 --> 00:08:05.000
+And then say that there is a parameter that we can insert.
+
+150
+00:08:05.000 --> 00:08:06.000
+Here, type save.
+
+151
+00:08:06.000 --> 00:08:08.000
+And if there is a change in the server, the Cayenne will change as well.
+
+152
+00:08:08.000 --> 00:08:13.000
+Here, I will try to create, let's say, create a new endpoint API.
+
+153
+00:08:13.000 --> 00:08:14.000
+And see if there is any more.
+
+154
+00:08:14.000 --> 00:08:16.000
+Now we have auth and index, right?
+
+155
+00:08:16.000 --> 00:08:19.000
+Therefore, we will try to create another endpoint.
+
+156
+00:08:19.000 --> 00:08:20.000
+Come up and see.
+
+157
+00:08:20.000 --> 00:08:21.000
+It looks like this.
+
+158
+00:08:21.000 --> 00:08:23.000
+I secretly have a point in case I can't keep up.
+
+159
+00:08:23.000 --> 00:08:25.000
+Therefore, I keep this one.
+
+160
+00:08:25.000 --> 00:08:27.000
+And then run, add method, check get.
+
+161
+00:08:27.000 --> 00:08:29.000
+Go to the slash android slash skadi.
+
+162
+00:08:29.000 --> 00:08:31.000
+And you will get this JSON back.
+
+163
+00:08:31.000 --> 00:08:32.000
+Here we go to Cayenne again.
+
+164
+00:08:32.000 --> 00:08:34.000
+We type the word API dot.
+
+165
+00:08:34.000 --> 00:08:35.000
+You will see that it has an additional path.
+
+166
+00:08:35.000 --> 00:08:36.000
+It's an android like just now.
+
+167
+00:08:36.000 --> 00:08:37.000
+And then dot skadi.
+
+168
+00:08:37.000 --> 00:08:38.000
+And then.
+
+169
+00:08:38.000 --> 00:08:39.000
+This is the method that we want.
+
+170
+00:08:39.000 --> 00:08:40.000
+Save.
+
+171
+00:08:40.000 --> 00:08:42.000
+We take the mouse to the data.
+
+172
+00:08:42.000 --> 00:08:43.000
+The mouse to where?
+
+173
+00:08:43.000 --> 00:08:44.000
+Data.
+
+174
+00:08:44.000 --> 00:08:46.000
+You will see that all types come from the server side.
+
+175
+00:08:46.000 --> 00:08:48.000
+For example, I said that there is ID, there is a name, there is a type.
+
+176
+00:08:48.000 --> 00:08:50.000
+All of these will be here.
+
+177
+00:08:50.000 --> 00:08:52.000
+Therefore, I will try to run on this one.
+
+178
+00:08:52.000 --> 00:08:54.000
+Save and run.
+
+179
+00:08:54.000 --> 00:08:56.000
+OK, this one is a bit missing.
+
+180
+00:08:56.000 --> 00:08:57.000
+The image is missing.
+
+181
+00:08:57.000 --> 00:08:59.000
+Therefore, I will add the image in.
+
+182
+00:08:59.000 --> 00:09:02.000
+We go to server Elysia.
+
+183
+00:09:02.000 --> 00:09:05.000
+And then we type the word bun f add.
+
+184
+00:09:05.000 --> 00:09:07.000
+To be static.
+
+185
+00:09:07.000 --> 00:09:09.000
+static plugin
+
+186
+00:09:09.000 --> 00:09:11.000
+add static plugin
+
+187
+00:09:11.000 --> 00:09:13.000
+add folder
+
+188
+00:09:13.000 --> 00:09:15.000
+of this
+
+189
+00:09:15.000 --> 00:09:17.000
+go to public
+
+190
+00:09:17.000 --> 00:09:19.000
+add image
+
+191
+00:09:19.000 --> 00:09:21.000
+reveal in finder
+
+192
+00:09:21.000 --> 00:09:23.000
+copy image
+
+193
+00:09:23.000 --> 00:09:25.000
+and paste in here
+
+194
+00:09:25.000 --> 00:09:27.000
+this is from API
+
+195
+00:09:27.000 --> 00:09:29.000
+we call
+
+196
+00:09:29.000 --> 00:09:31.000
+static plugin
+
+197
+00:09:31.000 --> 00:09:33.000
+default is public folder
+
+198
+00:09:33.000 --> 00:09:35.000
+try reload
+
+199
+00:09:35.000 --> 00:09:37.000
+you will see
+
+200
+00:09:37.000 --> 00:09:39.000
+what happen
+
+201
+00:09:39.000 --> 00:09:41.000
+I forgot to run server
+
+202
+00:09:41.000 --> 00:09:43.000
+go to
+
+203
+00:09:43.000 --> 00:09:45.000
+server
+
+204
+00:09:45.000 --> 00:09:47.000
+go to server
+
+205
+00:09:47.000 --> 00:09:49.000
+run
+
+206
+00:09:49.000 --> 00:09:51.000
+it will work
+
+207
+00:09:51.000 --> 00:09:53.000
+ok
+
+208
+00:09:53.000 --> 00:09:55.000
+another thing
+
+209
+00:09:55.000 --> 00:09:57.000
+you can
+
+210
+00:09:57.000 --> 00:09:59.000
+size in size out
+
+211
+00:09:59.000 --> 00:10:01.000
+if you write in react
+
+212
+00:10:01.000 --> 00:10:03.000
+you can do form authentication
+
+213
+00:10:03.000 --> 00:10:05.000
+but
+
+214
+00:10:05.000 --> 00:10:07.000
+in react query
+
+215
+00:10:07.000 --> 00:10:09.000
+you can type
+
+216
+00:10:09.000 --> 00:10:11.000
+any type
+
+217
+00:10:11.000 --> 00:10:13.000
+that's all
+
+218
+00:10:13.000 --> 00:10:15.000
+thank you
+
+219
+00:10:15.000 --> 00:10:17.000
+let's clap
+
+220
+00:10:17.000 --> 00:10:19.000
+yay
