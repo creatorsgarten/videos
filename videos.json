@@ -1303,11 +1303,15 @@
         "type": "talk",
         "youtube": "N05h_-aDtC0",
         "managed": true,
-        "published": "2024-06-12"
+        "published": "2024-06-12",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/jsmodel.md",
-      "imageFilePath": "data/videos/bkkjs20/jsmodel.jpg"
+      "imageFilePath": "data/videos/bkkjs20/jsmodel.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/jsmodel_th.vtt"
     },
     {
       "event": "bkkjs20",
