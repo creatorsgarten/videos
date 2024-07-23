@@ -4,4 +4,5 @@ speaker: Phoomparin Mano
 youtube: R9ww5Qh13MM
 managed: true
 published: '2024-06-10'
+subtitles: [th]
 ---
