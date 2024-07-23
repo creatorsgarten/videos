@@ -1624,11 +1624,15 @@
         "type": "talk",
         "youtube": "R9ww5Qh13MM",
         "managed": true,
-        "published": "2024-06-10"
+        "published": "2024-06-10",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/subin.md",
-      "imageFilePath": "data/videos/bkkjs20/subin.jpg"
+      "imageFilePath": "data/videos/bkkjs20/subin.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/subin_th.vtt"
     },
     {
       "event": "creativecodingmeetup",
