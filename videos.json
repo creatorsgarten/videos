@@ -204,8 +204,29 @@
         "type": "talk",
         "youtube": "Wfu_DL29FL0",
         "managed": true,
-        "description": "00:00 | แนะนำตัว\n01:38 | แนะนำ Punch Up และ WeVis\n02:45 | ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย\n03:43 | ทีมงาน\n04:40 | Part 1 - ทำการกับ Open Data อย่างไร\n04:52 | โปรเจคแบบ Purpose-driven\n08:10 | โปรเจคแบบ Data-driven\n11:27 | แบบไหนดีกว่ากัน\n12:29 | Part 1 Key challenges\n13:28 | Part 1 Key takeaway\n15:16 | Part 2 - Work with Open (?) Collaborator\n16:22 | โอเพนซอร์ซเป็นมาตรฐาน\n18:56 | Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ\n20:17 | Part 2 Key takeaway\n20:58 | Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech\n21:14 | Taiwan’s g0v\n22:49 | Estonia’s Rahvaalgatus\n24:48 | Part 3 Key takeaway\n25:30 | Wrap up\n26:50 | Q&A\n",
-        "published": true
+        "published": true,
+        "chapters": {
+          "00:00": "แนะนำตัว",
+          "01:38": "แนะนำ Punch Up และ WeVis",
+          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
+          "03:43": "ทีมงาน",
+          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
+          "04:52": "โปรเจคแบบ Purpose-driven",
+          "08:10": "โปรเจคแบบ Data-driven",
+          "11:27": "แบบไหนดีกว่ากัน",
+          "12:29": "Part 1 Key challenges",
+          "13:28": "Part 1 Key takeaway",
+          "15:16": "Part 2 - Work with Open (?) Collaborator",
+          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
+          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
+          "20:17": "Part 2 Key takeaway",
+          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
+          "21:14": "Taiwan’s g0v",
+          "22:49": "Estonia’s Rahvaalgatus",
+          "24:48": "Part 3 Key takeaway",
+          "25:30": "Wrap up",
+          "26:50": "Q&A"
+        }
       },
       "content": "",
       "filePath": "data/videos/bangkok/code-and-the-city.md",
@@ -236,8 +257,24 @@
         "type": "talk",
         "youtube": "ztHxfz7nGVE",
         "managed": true,
-        "description": "00:00 | แนะนำ muse foundation\n00:30 | แนะนำตัว\n00:46 | ย้ายถิ่นฐาน\n01:25 | ปาย แม่ฮ่องสอน\n02:48 | Co-living space\n04:00 | Education\n06:30 | codeforpublic/SQUID\n07:37 | หมอชนะ\n08:19 | โมเดล Open source\n11:50 | เรียนรู้อะไรมาบ้างจากโครงการนี้\n13:30 | สร้างบ้านโอเพนซอร์ซ WikiHouse\n17:40 | ที่ขององค์ความรู้โอเพนซอร์ซ\n18:08 | กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์\n19:03 | Conclusion\n\nmuse foundation\nhttps://muse.as/\n",
-        "published": true
+        "description": "muse foundation\nhttps://muse.as/\n",
+        "published": true,
+        "chapters": {
+          "00:00": "แนะนำ muse foundation",
+          "00:30": "แนะนำตัว",
+          "00:46": "ย้ายถิ่นฐาน",
+          "01:25": "ปาย แม่ฮ่องสอน",
+          "02:48": "Co-living space",
+          "04:00": "Education",
+          "06:30": "codeforpublic/SQUID",
+          "07:37": "หมอชนะ",
+          "08:19": "โมเดล Open source",
+          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
+          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
+          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
+          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
+          "19:03": "Conclusion"
+        }
       },
       "content": "",
       "filePath": "data/videos/bangkok/muse.md",
@@ -300,8 +337,25 @@
         "type": "talk",
         "youtube": "hbVoyXLWD98",
         "managed": true,
-        "description": "00:00 | ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู\n00:42 | ภูผาม่าน\n01:07 | แนะนำตัว\n01:43 | จุดเริ่มต้นของเทคไทบ้าน\n02:40 | Go Local - Go Meetup ณ ภูผาม่าน\n03:17 | ฟาร์มคิด - ภูผาม่าน\n04:00 | ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว\n04:37 | UX Meetup ณ ภูผาม่าน\n06:27 | มหา'ลัย ไทบ้าน\n07:36 | บรรยากาศ Tech meetup ณ ภูผาม่าน\n09:00 | กระจายอำนาจ\n09:38 | Next model\n10:10 | โมเดลการศึกษา\n12:22 | โมเดลการบริจาค\n14:40 | Conclusion\n\nTech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
-        "published": true
+        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
+        "published": true,
+        "chapters": {
+          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
+          "00:42": "ภูผาม่าน",
+          "01:07": "แนะนำตัว",
+          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
+          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
+          "03:17": "ฟาร์มคิด - ภูผาม่าน",
+          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
+          "04:37": "UX Meetup ณ ภูผาม่าน",
+          "06:27": "มหา'ลัย ไทบ้าน",
+          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
+          "09:00": "กระจายอำนาจ",
+          "09:38": "Next model",
+          "10:10": "โมเดลการศึกษา",
+          "12:22": "โมเดลการบริจาค",
+          "14:40": "Conclusion"
+        }
       },
       "content": "",
       "filePath": "data/videos/bangkok/techthaiban.md",
@@ -334,8 +388,23 @@
         "type": "talk",
         "youtube": "N8eBpiCXgNE",
         "managed": true,
-        "description": "00:00 | Introduction\n01:17 | แนะนำ Traffy Fondue\n01:33 | Platform Revolution - จาก Pipeline สู่ Platform\n05:07 | LINE @traffyfondue\n07:02 | ตัวอย่าง\n09:00 | Dashboard\n09:46 | สถิติ\n10:43 | ต่างจังหวัด\n11:44 | สำรวจการใช้งาน\n12:55 | การใช้งานในกรุงเทพฯ\n23:20 | ตัวอย่างโจทย์และความเป็นไปได้\n27:22 | Open Data + API\n29:40 | รับสมัครผู้ร่วมทีม\n30:55 | Q&A\n",
-        "published": true
+        "published": true,
+        "chapters": {
+          "00:00": "Introduction",
+          "01:17": "แนะนำ Traffy Fondue",
+          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
+          "05:07": "LINE @traffyfondue",
+          "07:02": "ตัวอย่าง",
+          "09:00": "Dashboard",
+          "09:46": "สถิติ",
+          "10:43": "ต่างจังหวัด",
+          "11:44": "สำรวจการใช้งาน",
+          "12:55": "การใช้งานในกรุงเทพฯ",
+          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
+          "27:22": "Open Data + API",
+          "29:40": "รับสมัครผู้ร่วมทีม",
+          "30:55": "Q&A"
+        }
       },
       "content": "",
       "filePath": "data/videos/bangkok/traffy.md",
@@ -828,8 +897,43 @@
         "type": "archive",
         "youtube": "VXBSWZPEHcM",
         "managed": true,
-        "description": "0:00:00 | [เริ่มสตรีม]\n0:10:07 | [แนะนำระบบโหวต]\n0:24:36 | YouTube Basic - toolna\n0:31:11 | Werewolf - nash\n0:36:10 | เบี้ยวนัดไวรัสขึ้น - harmbid\n0:40:33 | SonThaiMaiDai\n0:45:01 | [Sponsors]\n0:54:34 | Get Motivated - BeMotivated💢\n1:00:10 | Rizzgrammer\n1:05:07 | transit source - dtinth\n1:07:52 | [Break]\n1:22:28 | Jubking - team khong kon stupid\n1:27:26 | ล็อตเตอรี่ หนึ่งหกแปด - ดุ๊กดิ๊กปุ๊กปิ๊ก\n1:31:48 | [Sponsors]\n1:41:27 | [Intermission]\n2:13:47 | Thai JS\n2:17:21 | CAPYIsNOTStupid - ชื่ออยู่ใน intro\n2:23:17 | infinity-fries🍟\n2:27:55 | Corn Dog Machine - ผมทำพ่อพี่งง งง งง เจอได้ที่บางปะกง กง กง\n2:36:20 | Ramsey’s Aveji Kitchen\n2:42:31 | Pekolang - RDCW+\n2:46:29 | [Sponsors]\n2:53:41 | Cannot-be-reached - อะไหร่น้ะ?\n2:59:01 | singsaksit\n3:03:43 | ไอ้แดงมันเป็นนักสู้ที่ดูคล่องแคล่วปราดเปรียว แต่ไอ้เขียวมันเป็นนักซิ่งมันมีรถเครื่องที่คอยวิ่งแซง โอ้ย\n3:08:03 | NamYenYang?\n3:12:04 | Alarm Bot - Daydreaming\n3:18:31 | [Intermission]\n3:23:12 | เป็น Meow ไร?!\n3:28:03 | No_Sleep\n3:32:10 | BEST HBD CARD GENERATOR Verycool XD 4K 60fps deluxe edition pro max - Ask-GPT-SHiT7-😭\n3:36:55 | The Web of Answers - เว็บนี้มีคำตอบ\n3:40:23 | [Intermission]\n4:23:45 | [ประกาศรางวัล]\n",
-        "published": false
+        "published": false,
+        "chapters": {
+          "0:00:00": "[เริ่มสตรีม]",
+          "0:10:07": "[แนะนำระบบโหวต]",
+          "0:24:36": "YouTube Basic - toolna",
+          "0:31:11": "Werewolf - nash",
+          "0:36:10": "เบี้ยวนัดไวรัสขึ้น - harmbid",
+          "0:40:33": "SonThaiMaiDai",
+          "0:45:01": "[Sponsors]",
+          "0:54:34": "Get Motivated - BeMotivated💢",
+          "1:00:10": "Rizzgrammer",
+          "1:05:07": "transit source - dtinth",
+          "1:07:52": "[Break]",
+          "1:22:28": "Jubking - team khong kon stupid",
+          "1:27:26": "ล็อตเตอรี่ หนึ่งหกแปด - ดุ๊กดิ๊กปุ๊กปิ๊ก",
+          "1:31:48": "[Sponsors]",
+          "1:41:27": "[Intermission]",
+          "2:13:47": "Thai JS",
+          "2:17:21": "CAPYIsNOTStupid - ชื่ออยู่ใน intro",
+          "2:23:17": "infinity-fries🍟",
+          "2:27:55": "Corn Dog Machine - ผมทำพ่อพี่งง งง งง เจอได้ที่บางปะกง กง กง",
+          "2:36:20": "Ramsey’s Aveji Kitchen",
+          "2:42:31": "Pekolang - RDCW+",
+          "2:46:29": "[Sponsors]",
+          "2:53:41": "Cannot-be-reached - อะไหร่น้ะ?",
+          "2:59:01": "singsaksit",
+          "3:03:43": "ไอ้แดงมันเป็นนักสู้ที่ดูคล่องแคล่วปราดเปรียว แต่ไอ้เขียวมันเป็นนักซิ่งมันมีรถเครื่องที่คอยวิ่งแซง โอ้ย",
+          "3:08:03": "NamYenYang?",
+          "3:12:04": "Alarm Bot - Daydreaming",
+          "3:18:31": "[Intermission]",
+          "3:23:12": "เป็น Meow ไร?!",
+          "3:28:03": "No_Sleep",
+          "3:32:10": "BEST HBD CARD GENERATOR Verycool XD 4K 60fps deluxe edition pro max - Ask-GPT-SHiT7-😭",
+          "3:36:55": "The Web of Answers - เว็บนี้มีคำตอบ",
+          "3:40:23": "[Intermission]",
+          "4:23:45": "[ประกาศรางวัล]"
+        }
       },
       "content": "",
       "filePath": "data/videos/archive/sht7.md",
@@ -968,13 +1072,20 @@
         "type": "talk",
         "youtube": "le5M-5mhPY0",
         "managed": true,
-        "description": "Mind blown CSS techniques that you might not have seen\n\n00:00 | Intro\n03:28 | 1. Viewport divider\n10:16 | 2. Flexbox albatross\n20:48 | 3. Shadow Scroll\n23:49 | 4. Perfect Radius\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
+        "description": "Mind blown CSS techniques that you might not have seen\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
         "published": true,
         "tags": [
           "javascript",
           "js",
           "css"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Intro",
+          "03:28": "1. Viewport divider",
+          "10:16": "2. Flexbox albatross",
+          "20:48": "3. Shadow Scroll",
+          "23:49": "4. Perfect Radius"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/nojs.md",
@@ -1074,7 +1185,6 @@
         "type": "talk",
         "youtube": "47oIXnbQXps",
         "managed": true,
-        "description": "0:00:00 | Introduction\n0:00:09 | Existing state management solutions\n0:01:27 | Storeon - a prelude before nanostores\n0:02:43 | Nanostores - an atomic state manager\n0:03:41 | Extending atom capabilities with plugins\n0:04:11 | Demo\n",
         "published": "2023-07-26",
         "tags": [
           "javascript",
@@ -1083,7 +1193,15 @@
           "react",
           "astro",
           "nanostores"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Introduction",
+          "00:09": "Existing state management solutions",
+          "01:27": "Storeon - a prelude before nanostores",
+          "02:43": "Nanostores - an atomic state manager",
+          "03:41": "Extending atom capabilities with plugins",
+          "04:11": "Demo"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/nanostores.md",
@@ -1237,7 +1355,20 @@
         "subtitles": [
           "en",
           "th"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Session starts",
+          "00:40": "รู้จักกับ static site generator",
+          "01:35": "ทำไมถึงชอบใช้ VitePress",
+          "02:36": "default theme",
+          "06:14": "developer experience",
+          "07:24": "ตัวอย่างการปรับแต่ง - color theme",
+          "08:04": "ตัวอย่างการปรับแต่ง - custom components",
+          "10:04": "แนะนำเว็บ wonderful.software/js",
+          "11:04": "ตัวอย่างการปรับแต่ง - ระบบ feedback และ comment",
+          "12:42": "ตัวอย่างการปรับแต่ง - typography",
+          "15:18": "สรุป"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/vitepress.md",
@@ -1375,13 +1506,38 @@
         "type": "talk",
         "youtube": "J4bILD7KCWk",
         "managed": true,
-        "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n\n00:00 | Introduction\n00:27 | Midjourney\n01:47 | Stable Diffusion\n03:21 | Why Stable Diffusion\n05:13 | Stable Diffusion Web UI\n07:03 | Example - People\n07:57 | Example - Animals\n08:33 | Example - Mona Lisa\n09:33 | Example - Creation of Adam with style changes\n11:22 | Example - The Last Supper with face insertion\n12:30 | Training AI to recreate a person’s face\n13:54 | Example - Being on a TED stage\n14:25 | Prompting demo\n15:43 | Production assets creation\n19:04 | Creating 360° image\n19:55 | Creating textures for 3D models\n20:35 | Retouching with AI\n21:40 | AI-generated videos\n23:19 | Dataset source: LAION.ai\n23:37 | Have I been trained?\n24:55 | More resources\n25:44 | NoAI movement\n29:04 | Conclusions\n",
+        "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n",
         "published": true,
         "tags": [
           "ai",
           "stablediffusion",
           "midjourney"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Introduction",
+          "00:27": "Midjourney",
+          "01:47": "Stable Diffusion",
+          "03:21": "Why Stable Diffusion",
+          "05:13": "Stable Diffusion Web UI",
+          "07:03": "Example - People",
+          "07:57": "Example - Animals",
+          "08:33": "Example - Mona Lisa",
+          "09:33": "Example - Creation of Adam with style changes",
+          "11:22": "Example - The Last Supper with face insertion",
+          "12:30": "Training AI to recreate a person’s face",
+          "13:54": "Example - Being on a TED stage",
+          "14:25": "Prompting demo",
+          "15:43": "Production assets creation",
+          "19:04": "Creating 360° image",
+          "19:55": "Creating textures for 3D models",
+          "20:35": "Retouching with AI",
+          "21:40": "AI-generated videos",
+          "23:19": "Dataset source: LAION.ai",
+          "23:37": "Have I been trained?",
+          "24:55": "More resources",
+          "25:44": "NoAI movement",
+          "29:04": "Conclusions"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/ai.md",
@@ -1396,8 +1552,21 @@
         "type": "talk",
         "youtube": "KCPjgyDsuN4",
         "managed": true,
-        "description": "เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน\n\nSpeaker’s website\nhttps://www.punpitan.com/\n\nInstagram\nhttps://instagram.com/punpitan/\n\n00:00 | Introduction\n01:18 | Reel\n03:29 | Future scape 2015 / Origin story\n05:05 | tomtom 2015\n06:17 | Cage 2017\n09:33 | Sangsom Moonism 2019\n11:26 | AP world 2019\n14:39 | เทพประทานเพลง 2020\n16:44 | Meet tony 2022\n18:00 | Montage of skipped slides\n18:14 | Quark IV\n\nReferences\n\nKinect programming tutorial\nhttps://www.youtube.com/watch?v=E1eIg54clGo\n",
-        "published": true
+        "description": "เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน\n\nSpeaker’s website\nhttps://www.punpitan.com/\n\nInstagram\nhttps://instagram.com/punpitan/\n\nReferences\n\nKinect programming tutorial\nhttps://www.youtube.com/watch?v=E1eIg54clGo\n",
+        "published": true,
+        "chapters": {
+          "00:00": "Introduction",
+          "01:18": "Reel",
+          "03:29": "Future scape 2015 / Origin story",
+          "05:05": "tomtom 2015",
+          "06:17": "Cage 2017",
+          "09:33": "Sangsom Moonism 2019",
+          "11:26": "AP world 2019",
+          "14:39": "เทพประทานเพลง 2020",
+          "16:44": "Meet tony 2022",
+          "18:00": "Montage of skipped slides",
+          "18:14": "Quark IV"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/interactive-art.md",
@@ -1412,8 +1581,34 @@
         "type": "talk",
         "youtube": "kOJr_KzYg_Y",
         "managed": true,
-        "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n\n00:00 | Intro\n00:50 | Examples\n02:28 | History\n04:40 | Node editor vs Text editor\n05:50 | Sound\n06:30 | Pure Data\n07:45 | SuperCollider\n09:30 | Tidal Cycles\n11:40 | Tidal Cycles - Demo\n14:24 | Orca\n15:12 | Sound - Summary\n16:10 | Visual\n17:25 | Visual - Common Infrastructure\n17:44 | GLSL\n19:32 | Hydra\n21:42 | p5.js\n22:14 | Hydra - Demo\n23:11 | TouchDesigner\n24:39 | TouchDesigner - Demo\n25:39 | Visual - Summary\n26:08 | Audio-Reactive Visul\n26:45 | Inter-Operability\n28:28 | Conclusions\n29:45 | Post-event Live Coding Session\n",
-        "published": true
+        "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n",
+        "published": true,
+        "chapters": {
+          "00:00": "Intro",
+          "00:50": "Examples",
+          "02:28": "History",
+          "04:40": "Node editor vs Text editor",
+          "05:50": "Sound",
+          "06:30": "Pure Data",
+          "07:45": "SuperCollider",
+          "09:30": "Tidal Cycles",
+          "11:40": "Tidal Cycles - Demo",
+          "14:24": "Orca",
+          "15:12": "Sound - Summary",
+          "16:10": "Visual",
+          "17:25": "Visual - Common Infrastructure",
+          "17:44": "GLSL",
+          "19:32": "Hydra",
+          "21:42": "p5.js",
+          "22:14": "Hydra - Demo",
+          "23:11": "TouchDesigner",
+          "24:39": "TouchDesigner - Demo",
+          "25:39": "Visual - Summary",
+          "26:08": "Audio-Reactive Visul",
+          "26:45": "Inter-Operability",
+          "28:28": "Conclusions",
+          "29:45": "Post-event Live Coding Session"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/live-coding.md",
@@ -1428,11 +1623,26 @@
         "type": "talk",
         "youtube": "kXfi4FhzCi8",
         "managed": true,
-        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\nanu-processing (visual)\nhttps://github.com/karnpapon/anu-processing\n\nanu-supercollider (sound)\nhttps://github.com/karnpapon/anu/blob/app/sc-osc-example.scd\n\n00:00 | Talk starts\n00:42 | music\n01:57 | properties of sound wave\n04:10 | time period\n06:00 | “anu”\n07:12 | development\n12:49 | Tech stack\n13:26 | Application architecture\n14:38 | Regex implementation\n17:10 | External connection\n18:23 | Clock scheduling\n22:23 | Latest iteration\n23:24 | Demo\n",
+        "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\nanu-processing (visual)\nhttps://github.com/karnpapon/anu-processing\n\nanu-supercollider (sound)\nhttps://github.com/karnpapon/anu/blob/app/sc-osc-example.scd\n",
         "published": true,
         "subtitles": [
           "en"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Talk starts",
+          "00:42": "music",
+          "01:57": "properties of sound wave",
+          "04:10": "time period",
+          "06:00": "“anu”",
+          "07:12": "development",
+          "12:49": "Tech stack",
+          "13:26": "Application architecture",
+          "14:38": "Regex implementation",
+          "17:10": "External connection",
+          "18:23": "Clock scheduling",
+          "22:23": "Latest iteration",
+          "23:24": "Demo"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/regular-expression.md",
@@ -1452,11 +1662,24 @@
         "type": "talk",
         "youtube": "qzbyQAnqWYk",
         "managed": true,
-        "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\n00:00 | Intro\n01:06 | What is GLSL fragment shader?\n01:51 | What is Signed Distance Function?\n03:03 | How to write an SDF?\n04:26 | Using the SDF\n04:57 | Composing SDFs\n06:37 | Let’s draw!\n07:19 | Transforming the space\n08:12 | Code compression\n08:28 | Beyond 2D: 3d ray-marching\n08:47 | Learning resources\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
+        "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
         "published": true,
         "subtitles": [
           "en"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Intro",
+          "01:06": "What is GLSL fragment shader?",
+          "01:51": "What is Signed Distance Function?",
+          "03:03": "How to write an SDF?",
+          "04:26": "Using the SDF",
+          "04:57": "Composing SDFs",
+          "06:37": "Let’s draw!",
+          "07:19": "Transforming the space",
+          "08:12": "Code compression",
+          "08:28": "Beyond 2D: 3d ray-marching",
+          "08:47": "Learning resources"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sdf.md",
@@ -1472,8 +1695,36 @@
         "type": "talk",
         "youtube": "0btQNQkj41s",
         "managed": true,
-        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n\n00:00 | Introduction\n01:20 | Modular Synthesizer\n04:25 | Pure Data\n05:47 | Audio programming 101\n06:59 | Addition\n07:33 | Pure Data functions\n08:35 | The instrument for today\n09:49 | I/O\n10:24 | Demo - Transient to Kinetic\n11:56 | Demo - Violator\n12:53 | Demo - Solo flute with electronics\n15:15 | Pure Data flavors\n16:47 | Max/MSP\n17:17 | ZIG SIM\n18:44 | Live demo\n20:45 | Dissecting the patch\n24:38 | Creating a patch from scratch\n25:30 | Sequencer\n26:54 | Incrementing number\n28:06 | Adding a kick drum\n29:44 | Randomization\n30:50 | Synth\n33:00 | Signal modulation\n34:29 | Creating GUI\n35:35 | Frequency modulation\n36:42 | Conclusions\n",
-        "published": true
+        "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n",
+        "published": true,
+        "chapters": {
+          "00:00": "Introduction",
+          "01:20": "Modular Synthesizer",
+          "04:25": "Pure Data",
+          "05:47": "Audio programming 101",
+          "06:59": "Addition",
+          "07:33": "Pure Data functions",
+          "08:35": "The instrument for today",
+          "09:49": "I/O",
+          "10:24": "Demo - Transient to Kinetic",
+          "11:56": "Demo - Violator",
+          "12:53": "Demo - Solo flute with electronics",
+          "15:15": "Pure Data flavors",
+          "16:47": "Max/MSP",
+          "17:17": "ZIG SIM",
+          "18:44": "Live demo",
+          "20:45": "Dissecting the patch",
+          "24:38": "Creating a patch from scratch",
+          "25:30": "Sequencer",
+          "26:54": "Incrementing number",
+          "28:06": "Adding a kick drum",
+          "29:44": "Randomization",
+          "30:50": "Synth",
+          "33:00": "Signal modulation",
+          "34:29": "Creating GUI",
+          "35:35": "Frequency modulation",
+          "36:42": "Conclusions"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sonic-thread.md",
@@ -1488,8 +1739,20 @@
         "type": "talk",
         "youtube": "eNoHorGFVIc",
         "managed": true,
-        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n\n00:00 | Introduction\n00:58 | Fractal\n02:57 | Why SVG\n04:05 | Megagon\n05:58 | SVG animations\n06:45 | Infinite zooming\n07:07 | SMIL (SVG animation)\n08:06 | Non-linearity of zooming\n09:02 | Representing exponential animation\n12:01 | Final results\n",
-        "published": true
+        "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n",
+        "published": true,
+        "chapters": {
+          "00:00": "Introduction",
+          "00:58": "Fractal",
+          "02:57": "Why SVG",
+          "04:05": "Megagon",
+          "05:58": "SVG animations",
+          "06:45": "Infinite zooming",
+          "07:07": "SMIL (SVG animation)",
+          "08:06": "Non-linearity of zooming",
+          "09:02": "Representing exponential animation",
+          "12:01": "Final results"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/svg.md",
@@ -1504,13 +1767,25 @@
         "type": "talk",
         "youtube": "7qelbJphNyI",
         "managed": true,
-        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n\n00:00 | Introduction\n00:46 | Inspiration\n01:14 | Sketches\n01:28 | Interface design\n01:40 | Tech stack\n02:06 | Blender vs THREE.js\n05:01 | Game architecture\n08:32 | Vector world vs Angle world\n10:23 | Reflection angle calculation\n12:20 | Conclusions\n",
+        "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n",
         "published": true,
         "tags": [
           "javascript",
           "js",
           "gamedevelopment"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Introduction",
+          "00:46": "Inspiration",
+          "01:14": "Sketches",
+          "01:28": "Interface design",
+          "01:40": "Tech stack",
+          "02:06": "Blender vs THREE.js",
+          "05:01": "Game architecture",
+          "08:32": "Vector world vs Angle world",
+          "10:23": "Reflection angle calculation",
+          "12:20": "Conclusions"
+        }
       },
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
@@ -1774,8 +2049,20 @@
         "type": "talk",
         "youtube": "8aVdlBhY6zU",
         "managed": true,
-        "description": "ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง\n\nMikkiPastel blog:\nhttps://mikkipastel.com/\n\n00:00 | Intro\n01:20 | How to contribute for developer\n02:00 | Why blog\n04:10 | Start with Medium\n05:02 | How to pick topic to write blog\n06:49 | Writing your blog (examples)\n12:10 | Add supporting content to increase interest\n17:17 | Share to your friend and community\n18:58 | Chance\n21:14 | Questions\n",
-        "published": true
+        "description": "ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง\n\nMikkiPastel blog:\nhttps://mikkipastel.com/\n",
+        "published": true,
+        "chapters": {
+          "00:00": "Intro",
+          "01:20": "How to contribute for developer",
+          "02:00": "Why blog",
+          "04:10": "Start with Medium",
+          "05:02": "How to pick topic to write blog",
+          "06:49": "Writing your blog (examples)",
+          "12:10": "Add supporting content to increase interest",
+          "17:17": "Share to your friend and community",
+          "18:58": "Chance",
+          "21:14": "Questions"
+        }
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/blog.md",
@@ -1828,11 +2115,18 @@
         "type": "talk",
         "youtube": "nfnP0W0ZL94",
         "managed": true,
-        "description": "Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน\n\n00:00 | Intro\n00:46 | What is a repository?\n06:00 | What is a monorepo?\n06:37 | What are the differences?\n13:23 | Questions\n",
+        "description": "Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน\n",
         "published": true,
         "tags": [
           "turborepo monorepo"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Intro",
+          "00:46": "What is a repository?",
+          "06:00": "What is a monorepo?",
+          "06:37": "What are the differences?",
+          "13:23": "Questions"
+        }
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/monorepo.md",
@@ -2630,7 +2924,7 @@
         "type": "talk",
         "youtube": "Gaa3Te6bqrw",
         "managed": true,
-        "description": "มาเรียนรู้เกี่ยวกับการ Publish Dependency แบบง่าย ๆ ด้วย GitHub Actions และสร้าง Provenance สำหรับแพ็คเกจด้วย npm\n\nPublic template: https://github.com/rayriffy/quick-npm\n\nSample code: https://l.rayriffy.com/changesets-keynote\nSlides: https://l.rayriffy.com/changesets-demo\n\n00:00 | Introduction\n01:35 | Problems studied from real-life events\n04:10 | Demo #1: Automating package publishing process\n20:46 | Demo #2: Getting verified badge on npm package with provenance statements\n27:28 | Conclusion\n28:06 | Q&A\n",
+        "description": "มาเรียนรู้เกี่ยวกับการ Publish Dependency แบบง่าย ๆ ด้วย GitHub Actions และสร้าง Provenance สำหรับแพ็คเกจด้วย npm\n\nPublic template: https://github.com/rayriffy/quick-npm\n\nSample code: https://l.rayriffy.com/changesets-keynote\nSlides: https://l.rayriffy.com/changesets-demo\n",
         "published": "2023-09-07",
         "tags": [
           "typesciprt",
@@ -2638,7 +2932,15 @@
           "javascript",
           "es6",
           "npm"
-        ]
+        ],
+        "chapters": {
+          "00:00": "Introduction",
+          "01:35": "Problems studied from real-life events",
+          "04:10": "Demo #1: Automating package publishing process",
+          "20:46": "Demo #2: Getting verified badge on npm package with provenance statements",
+          "27:28": "Conclusion",
+          "28:06": "Q&A"
+        }
       },
       "content": "",
       "filePath": "data/videos/typescript1/npm.md",
