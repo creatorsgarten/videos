@@ -9442,6 +9442,7 @@ video:WC5PRboDfJ0:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs20/v/astro/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10408,3 +10409,13 @@ video:N05h_-aDtC0:caption:th:
     isDraft: false
   state:
     id: AUieDaZxwd4uvqcjLcIDoJPpcz6ADJ58TeZ1oJHxNUaBzak-4GPV
+video:WC5PRboDfJ0:caption:th:
+  spec:
+    videoId: WC5PRboDfJ0
+    filePath: data/videos/bkkjs20/astro_th.vtt
+    language: th
+    name: Thai
+    hash: a1efa5d4424f21b573021d0c57c0afea012ac2b35e25ba16db6b481cbe6624d3
+    isDraft: false
+  state:
+    id: AUieDaZbZRtUTElbN7n0i6FmouAyWnyo45_-pITUf4r2fx-R2ako
