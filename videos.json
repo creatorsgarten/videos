@@ -1039,7 +1039,57 @@
         "tags": [
           "softwaredevelopment",
           "testing"
-        ]
+        ],
+        "chapters": {
+          "0:00": {
+            "en": "Introduction",
+            "th": "แนะนำตัวและหัวข้อการพูด"
+          },
+          "0:54": {
+            "en": "Problems in software development and testing",
+            "th": "ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์"
+          },
+          "1:41": {
+            "en": "The importance of Automated Testing",
+            "th": "ความสำคัญของ Automated Testing"
+          },
+          "2:50": {
+            "en": "Challenges in doing TDD and unit testing",
+            "th": "ความท้าทายในการทำ TDD และ unit testing"
+          },
+          "5:57": {
+            "en": "The approach to software development and testing that I am using",
+            "th": "แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่"
+          },
+          "7:02": {
+            "en": "Doing black box testing instead of unit testing",
+            "th": "การทำ black box testing แทน unit testing"
+          },
+          "11:01": {
+            "en": "Adding testing tools to the application",
+            "th": "การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน"
+          },
+          "12:45": {
+            "en": "Example of fixing a bug and covering it with a Black Box Test",
+            "th": "ตัวอย่างการแก้ไข bug ด้วย black box testing"
+          },
+          "14:28": {
+            "en": "Benefits of designing a system in a multi-tenant way",
+            "th": "ประโยชน์ของการออกแบบระบบแบบ multi-tenant"
+          },
+          "15:35": {
+            "en": "Testing in production",
+            "th": "แนวคิดเรื่อง testing in production"
+          },
+          "16:20": {
+            "en": "Things to be careful about when writing black box tests",
+            "th": "ข้อควรระวังในการเขียน black box test"
+          },
+          "16:50": {
+            "en": "Conclusions",
+            "th": "สรุปและข้อแนะนำสุดท้าย"
+          }
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/blackbox.md",
