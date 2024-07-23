@@ -9246,6 +9246,38 @@ video:N05h_-aDtC0:
     snippet:
       title: Rebuild your mental model of JavaScript by Watee Kamrungsee
       description: >-
+        0:00 | แนะนำตัวและเกริ่นนำเรื่อง JavaScript
+
+        1:28 | ความสำคัญของพื้นฐาน JavaScript สำหรับนักพัฒนาหน้าใหม่
+
+        2:11 | ตัวอย่างโค้ด: การกำหนดค่าตัวแปร
+
+        3:42 | แนะนำแนวคิด Mental Model ใน JavaScript
+
+        4:47 | อธิบายความแตกต่างระหว่างตัวแปรและกล่อง
+
+        5:52 | ตัวอย่างโค้ด: ฟังก์ชัน duplicate spreadsheet
+
+        7:05 | การอธิบายบัคในโค้ดตัวอย่าง
+
+        9:45 | แนะนำ Primitive และ Non-primitive types
+
+        14:14 | อธิบายว่าทำไมตัวแปรไม่ใช่กล่อง แต่เป็นเส้นเชื่อม
+
+        15:53 | การอ่านค่าตัวแปรและการส่งค่าเข้าฟังก์ชัน
+
+        17:01 | อธิบาย Reference Types และ Object ใน JavaScript
+
+        25:27 | ตัวอย่างการเปรียบเทียบค่าใน JavaScript
+
+        27:34 | แนะนำหนังสือและแหล่งเรียนรู้ JavaScript
+
+        28:41 | ช่วงถาม-ตอบ: ประสบการณ์การเปลี่ยนจาก UX เป็น JavaScript
+        Developer
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
@@ -9287,6 +9319,41 @@ video:PCSdvZEJnmg:
     snippet:
       title: Open-source in a nutshell by Runyasak Chaengnaimuang
       description: >-
+        0:00 | แนะนำและทักทาย
+
+        0:20 | การมีส่วนร่วมใน Open Source
+
+        2:24 | การแก้ไขเอกสารเป็นจุดเริ่มต้นที่ดี
+
+        3:10 | ประสบการณ์การมีส่วนร่วมใน Elysia
+
+        4:20 | การเรียนรู้จากการอ่าน Pull Requests และ Issues
+
+        5:11 | ประสบการณ์กับ Vue Storefront และ Storefront UI
+
+        6:33 | การมีส่วนร่วมในโปรเจค GraphQL และ ElysiaJS
+
+        7:36 | การช่วยแก้ไข Type ใน Elysia
+
+        8:01 | ข้อควรระวังเกี่ยวกับโครงสร้างโปรเจค Open Source
+
+        8:59 | ความกังวลเกี่ยวกับการเปิดเผยโค้ด
+
+        10:29 | ประโยชน์ของ Open Source สำหรับการเติบโตของไลบรารี
+
+        11:03 | การเรียนรู้จากสไตล์การตอบของ Contributor
+
+        12:07 | Evan You และสไตล์การตอบของเขา
+
+        12:44 | แนะนำเพจ Vue News Thailand
+
+        13:29 | แนะนำโปรเจค Frontend News Thailand
+
+        14:37 | สรุปและขอบคุณผู้ฟัง
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
@@ -9330,6 +9397,35 @@ video:PNind_xIlxc:
         Web App Optimization at EarnIn by Siwat Kaolueng, Kijpokin
         Ngamsomsakskul
       description: >-
+        0:00 | แนะนำตัวและหัวข้อการบรรยาย
+
+        1:25 | ความเป็นมาและความสำคัญของการ Optimize Web App
+
+        2:36 | เมตริกซ์ Web Vitals และ LCP
+
+        3:21 | เครื่องมือในการวัดผลและตรวจสอบประสิทธิภาพ
+
+        5:05 | วิธีการปรับปรุง FCP และ LCP
+
+        8:46 | การใช้ Lazy Loading ใน React
+
+        13:13 | การจัดการกับ Third-party Scripts
+
+        15:18 | การใช้ Partytown เพื่อ Optimize Third-party Scripts
+
+        17:50 | ผลลัพธ์จากการ Optimize และปัญหาที่พบ
+
+        20:58 | แผนการพัฒนาในอนาคตและข้อจำกัด
+
+        22:33 | คำถาม-ตอบเกี่ยวกับการ Optimize และการจัดการ Dependencies
+
+        24:38 | การทำ Regression Testing และ CI/CD Pipeline
+
+        27:05 | การใช้ Lighthouse และ Real User Monitoring
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
@@ -9413,6 +9509,37 @@ video:WC5PRboDfJ0:
     snippet:
       title: Astro JS - เฟรมเวิร์กน้องใหม่ เขียนง่าย โหลดไวมาก! by Chakkrisn Talawat
       description: >-
+        0:00 | แนะนำตัวและทักทาย
+
+        2:02 | แนะนำ Astro Framework
+
+        3:01 | เปรียบเทียบ Astro กับ WordPress และ Static Site Generators
+
+        4:39 | อธิบายคำศัพท์ SSG และ SSR
+
+        5:26 | ข้อดีของ Astro ในด้านความเร็วและประสิทธิภาพ
+
+        6:08 | การติดตั้งและเริ่มต้นใช้งาน Astro
+
+        7:02 | โครงสร้างไฟล์และโฟลเดอร์ของ Astro
+
+        9:14 | การเขียนโค้ดและการใช้งาน Components ใน Astro
+
+        11:28 | การใช้งาน Layouts ใน Astro
+
+        14:58 | แหล่งข้อมูลและการดึงข้อมูลใน Astro
+
+        16:41 | การใช้งาน CMS และฐานข้อมูลกับ Astro
+
+        19:55 | การ Deploy เว็บไซต์ Astro
+
+        21:11 | แนะนำ ThaiUI และการสร้าง UI Components สำหรับภาษาไทย
+
+        24:25 | สรุปข้อดีของ Astro และแหล่งข้อมูลเพิ่มเติม
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
@@ -9454,6 +9581,33 @@ video:qUbnQCHcZLU:
     snippet:
       title: Social Engineering of making a framework by Kongkeit Khunpanitchote
       description: >-
+        0:00 | แนะนำตัวและหัวข้อการพูด
+
+        0:30 | แนะนำ Framework Elysia
+
+        0:55 | อธิบายฟีเจอร์ End-to-End Type Safety
+
+        1:56 | สาธิตการใช้งาน Elysia
+
+        3:00 | การเพิ่ม Swagger UI
+
+        4:24 | ปัญหาการ Sync Type ระหว่าง Frontend และ Backend
+
+        4:43 | การใช้งาน End-to-End Type Safety
+
+        6:36 | อธิบายการทำงานเบื้องหลังของ End-to-End Type Safety
+
+        8:20 | การใช้ JavaScript Proxy ในการทำ End-to-End Type Safety
+
+        10:09 | เทคนิคการ 'แก๊สไลท์' ผู้ใช้ในการเขียน API
+
+        11:27 | ข้อจำกัดทางวิศวกรรมและวิธีการแก้ปัญหา
+
+        12:16 | สรุปแนวคิดในการพัฒนา Framework
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
