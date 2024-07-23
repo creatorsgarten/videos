@@ -899,6 +899,31 @@ video:vbIWSwz8NxQ:
         https://dt.in.th/go/bbtt
 
 
+        0:00 | แนะนำตัวและหัวข้อการพูด
+
+        0:54 | ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์
+
+        1:41 | ความสำคัญของ Automated Testing
+
+        2:50 | ความท้าทายในการทำ TDD และ unit testing
+
+        5:57 | แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่
+
+        7:02 | การทำ black box testing แทน unit testing
+
+        11:01 | การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน
+
+        12:45 | ตัวอย่างการแก้ไข bug ด้วย black box testing
+
+        14:28 | ประโยชน์ของการออกแบบระบบแบบ multi-tenant
+
+        15:35 | แนวคิดเรื่อง testing in production
+
+        16:20 | ข้อควรระวังในการเขียน black box test
+
+        16:50 | สรุปและข้อแนะนำสุดท้าย
+
+
         --------------------------------------------
 
         Talk title: Move fast while maintaining quality with black box testing
@@ -961,6 +986,32 @@ video:vbIWSwz8NxQ:
           https://dt.in.th/go/bbtt
 
 
+          0:00 | Introduction
+
+          0:54 | Problems in software development and testing
+
+          1:41 | The importance of Automated Testing
+
+          2:50 | Challenges in doing TDD and unit testing
+
+          5:57 | The approach to software development and testing that I am
+          using
+
+          7:02 | Doing black box testing instead of unit testing
+
+          11:01 | Adding testing tools to the application
+
+          12:45 | Example of fixing a bug and covering it with a Black Box Test
+
+          14:28 | Benefits of designing a system in a multi-tenant way
+
+          15:35 | Testing in production
+
+          16:20 | Things to be careful about when writing black box tests
+
+          16:50 | Conclusions
+
+
           --------------------------------------------
 
           Event: Bkk.js #17 - Developer Showtime
@@ -1011,6 +1062,31 @@ video:vbIWSwz8NxQ:
           Notes and references:
 
           https://dt.in.th/go/bbtt
+
+
+          0:00 | แนะนำตัวและหัวข้อการพูด
+
+          0:54 | ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์
+
+          1:41 | ความสำคัญของ Automated Testing
+
+          2:50 | ความท้าทายในการทำ TDD และ unit testing
+
+          5:57 | แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่
+
+          7:02 | การทำ black box testing แทน unit testing
+
+          11:01 | การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน
+
+          12:45 | ตัวอย่างการแก้ไข bug ด้วย black box testing
+
+          14:28 | ประโยชน์ของการออกแบบระบบแบบ multi-tenant
+
+          15:35 | แนวคิดเรื่อง testing in production
+
+          16:20 | ข้อควรระวังในการเขียน black box test
+
+          16:50 | สรุปและข้อแนะนำสุดท้าย
 
 
           --------------------------------------------
