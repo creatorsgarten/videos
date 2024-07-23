@@ -4,20 +4,20 @@ import grayMatter from 'gray-matter'
 import path from 'path'
 import { z } from 'zod'
 
+export const LocalizableText = z.union([
+  z.string(),
+  z.object({
+    en: z.string(),
+    th: z.string(),
+  }),
+])
+export type LocalizableText = z.infer<typeof LocalizableText>
+
 const VideoFrontMatter = z.object({
   title: z.string().describe('The talk title.'),
-  youtubeTitle: z
-    .union([
-      z.string(),
-      z.object({
-        en: z.string(),
-        th: z.string(),
-      }),
-    ])
-    .optional()
-    .describe(
-      'Customized title for YouTube. If not specified, the talk title will be used.',
-    ),
+  youtubeTitle: LocalizableText.optional().describe(
+    'Customized title for YouTube. If not specified, the talk title will be used.',
+  ),
   speaker: z.string().optional(),
   tagline: z.string().optional(),
   team: z
@@ -35,6 +35,7 @@ const VideoFrontMatter = z.object({
     .optional(),
   subtitles: z.array(z.string()).optional(),
   tags: z.array(z.string()).optional(),
+  chapters: z.record(LocalizableText).optional(),
 })
 type VideoFrontMatter = z.infer<typeof VideoFrontMatter>
 

@@ -15,15 +15,15 @@ description: |
 
   GitHub
   https://github.com/neizod
-
-  00:00 | Introduction
-  00:58 | Fractal
-  02:57 | Why SVG
-  04:05 | Megagon
-  05:58 | SVG animations
-  06:45 | Infinite zooming
-  07:07 | SMIL (SVG animation)
-  08:06 | Non-linearity of zooming
-  09:02 | Representing exponential animation
-  12:01 | Final results
+chapters:
+  '00:00': 'Introduction'
+  '00:58': 'Fractal'
+  '02:57': 'Why SVG'
+  '04:05': 'Megagon'
+  '05:58': 'SVG animations'
+  '06:45': 'Infinite zooming'
+  '07:07': 'SMIL (SVG animation)'
+  '08:06': 'Non-linearity of zooming'
+  '09:02': 'Representing exponential animation'
+  '12:01': 'Final results'
 ---

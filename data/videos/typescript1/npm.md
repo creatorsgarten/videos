@@ -12,11 +12,11 @@ description: |
 
   Sample code: https://l.rayriffy.com/changesets-keynote
   Slides: https://l.rayriffy.com/changesets-demo
-
-  00:00 | Introduction
-  01:35 | Problems studied from real-life events
-  04:10 | Demo #1: Automating package publishing process
-  20:46 | Demo #2: Getting verified badge on npm package with provenance statements
-  27:28 | Conclusion
-  28:06 | Q&A
+chapters:
+  '00:00': 'Introduction'
+  '01:35': 'Problems studied from real-life events'
+  '04:10': 'Demo #1: Automating package publishing process'
+  '20:46': 'Demo #2: Getting verified badge on npm package with provenance statements'
+  '27:28': 'Conclusion'
+  '28:06': 'Q&A'
 ---

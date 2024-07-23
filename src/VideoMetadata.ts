@@ -1,5 +1,5 @@
-import { Video } from './Video'
 import { Event } from './Event'
+import { LocalizableText, Video } from './Video'
 
 function getSpeakers(video: Video) {
   const { data } = video
@@ -42,12 +42,13 @@ async function getDefaultTitle(video: Video) {
 export async function getVideoTitle(video: Video, language?: 'en') {
   const { data } = video
   return (
-    (data.youtubeTitle &&
-      (typeof data.youtubeTitle === 'string'
-        ? data.youtubeTitle
-        : data.youtubeTitle[language || 'th'])) ||
+    (data.youtubeTitle && localize(data.youtubeTitle, language)) ||
     (await getDefaultTitle(video))
   )
+}
+
+function localize(text: LocalizableText, language?: 'en') {
+  return typeof text === 'string' ? text : text[language || 'th']
 }
 
 export async function getVideoDescription(
@@ -57,9 +58,19 @@ export async function getVideoDescription(
   const event = await Event.findById(video.event)
   const videoTitle = await getVideoTitle(video, language)
   const defaultTitle = await getDefaultTitle(video)
-  const talkDescription =
+
+  let talkDescription =
     (language === 'en' && video.data.englishDescription) ||
     video.data.description
+
+  if (video.data.chapters) {
+    talkDescription = (talkDescription || '').trimEnd()
+    talkDescription += '\n'
+    for (const [time, title] of Object.entries(video.data.chapters)) {
+      talkDescription += `\n${time} | ${localize(title, language)}`
+    }
+  }
+
   return [
     ...(talkDescription
       ? [

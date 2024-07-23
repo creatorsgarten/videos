@@ -15,13 +15,14 @@ By submitting a pull request to this repository you can help us improve and grow
 
 Adding timestamps to a video can help viewers navigate the contents of the talk more easily.
 
-To add the timestamps, update the description in this format:
+To add the timestamps, add the `chapters` key to the video's metadata in the format:
 
-```
-00:00 | Intro
-01:23 | Section A
-04:56 | Section B
-07:00 | Outro
+```yaml
+chapters:
+  '00:00': 'Intro'
+  '01:23': 'Section A'
+  '04:56': 'Section B'
+  '07:00': 'Outro'
 ```
 
 ## Reference Links
