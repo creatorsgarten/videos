@@ -13,28 +13,28 @@ description: |
 
   Facebook page
   https://www.facebook.com/VIZstudioCompany
-
-  00:00 | Introduction
-  00:27 | Midjourney
-  01:47 | Stable Diffusion
-  03:21 | Why Stable Diffusion
-  05:13 | Stable Diffusion Web UI
-  07:03 | Example - People
-  07:57 | Example - Animals
-  08:33 | Example - Mona Lisa
-  09:33 | Example - Creation of Adam with style changes
-  11:22 | Example - The Last Supper with face insertion
-  12:30 | Training AI to recreate a person’s face
-  13:54 | Example - Being on a TED stage
-  14:25 | Prompting demo
-  15:43 | Production assets creation
-  19:04 | Creating 360° image
-  19:55 | Creating textures for 3D models
-  20:35 | Retouching with AI
-  21:40 | AI-generated videos
-  23:19 | Dataset source: LAION.ai
-  23:37 | Have I been trained?
-  24:55 | More resources
-  25:44 | NoAI movement
-  29:04 | Conclusions
+chapters:
+  '00:00': 'Introduction'
+  '00:27': 'Midjourney'
+  '01:47': 'Stable Diffusion'
+  '03:21': 'Why Stable Diffusion'
+  '05:13': 'Stable Diffusion Web UI'
+  '07:03': 'Example - People'
+  '07:57': 'Example - Animals'
+  '08:33': 'Example - Mona Lisa'
+  '09:33': 'Example - Creation of Adam with style changes'
+  '11:22': 'Example - The Last Supper with face insertion'
+  '12:30': 'Training AI to recreate a person’s face'
+  '13:54': 'Example - Being on a TED stage'
+  '14:25': 'Prompting demo'
+  '15:43': 'Production assets creation'
+  '19:04': 'Creating 360° image'
+  '19:55': 'Creating textures for 3D models'
+  '20:35': 'Retouching with AI'
+  '21:40': 'AI-generated videos'
+  '23:19': 'Dataset source: LAION.ai'
+  '23:37': 'Have I been trained?'
+  '24:55': 'More resources'
+  '25:44': 'NoAI movement'
+  '29:04': 'Conclusions'
 ---
