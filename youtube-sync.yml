@@ -9545,6 +9545,35 @@ video:R9ww5Qh13MM:
         Dance with Three.js! สร้างท่ารำไทยใหม่ๆ ด้วย JavaScript by Phoomparin
         Mano
       description: >-
+        0:00 | แนะนำตัวและเกริ่นนำเรื่องโปรเจค Cyber Subin
+
+        1:18 | คำถามทำไมชอบเขียนโค้ด
+
+        2:42 | อ้างอิงคำพูดของ Richard Feynman
+
+        3:02 | คำถามเกี่ยวกับการเรียนนาฏศิลป์
+
+        4:11 | การ Fork และการพัฒนาซอฟต์แวร์
+
+        4:52 | ประวัติท่ารำแม่บท 59 ท่า
+
+        7:14 | แนะนำทีมงานและแนวคิดการ Fork นาฏศิลป์
+
+        9:26 | อธิบายแนวคิด Six Elements ในการแยกองค์ประกอบของท่ารำ
+
+        11:06 | เริ่มการสาธิตโปรแกรม Cyber Subin
+
+        19:21 | อธิบายการทำงานของโปรแกรมและ Cybernetics
+
+        23:31 | สาธิตการใช้งานโปรแกรมแบบ Interactive
+
+        27:33 | อธิบายเบื้องหลังการพัฒนาโปรแกรม
+
+        30:07 | สรุปแนวคิดและประโยชน์ของโปรเจค Cyber Subin
+
+
+        --------------------------------------------
+
         Event: BKK.JS #20
 
         https://grtn.org/e/bkkjs20
@@ -10656,7 +10685,7 @@ video:R9ww5Qh13MM:caption:th:
     filePath: data/videos/bkkjs20/subin_th.vtt
     language: th
     name: Thai
-    hash: 5da7167859e36d445a9becbf60d66005296eae498b54f148582a78cf54a4710f
+    hash: 088e32c3d5bbf2f7dfe0fd4a09adf2ea06a46678a032fa73608c894f9a56545f
     isDraft: false
   state:
     id: AUieDaaUidzsquChgizFqzLyf5Jy6XUb3P-J0-a29S7TadaBtIuN
