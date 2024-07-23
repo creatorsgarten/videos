@@ -19,4 +19,41 @@ englishDescription: |
 
   Notes and references:
   https://dt.in.th/go/bbtt
+chapters:
+  '0:00':
+    th: 'แนะนำตัวและหัวข้อการพูด'
+    en: 'Introduction'
+  '0:54':
+    th: 'ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์'
+    en: 'Problems in software development and testing'
+  '1:41':
+    th: 'ความสำคัญของ Automated Testing'
+    en: 'The importance of Automated Testing'
+  '2:50':
+    th: 'ความท้าทายในการทำ TDD และ unit testing'
+    en: 'Challenges in doing TDD and unit testing'
+  '5:57':
+    th: 'แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่'
+    en: 'The approach to software development and testing that I am using'
+  '7:02':
+    th: 'การทำ black box testing แทน unit testing'
+    en: 'Doing black box testing instead of unit testing'
+  '11:01':
+    th: 'การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน'
+    en: 'Adding testing tools to the application'
+  '12:45':
+    th: 'ตัวอย่างการแก้ไข bug ด้วย black box testing'
+    en: 'Example of fixing a bug and covering it with a Black Box Test'
+  '14:28':
+    th: 'ประโยชน์ของการออกแบบระบบแบบ multi-tenant'
+    en: 'Benefits of designing a system in a multi-tenant way'
+  '15:35':
+    th: 'แนวคิดเรื่อง testing in production'
+    en: 'Testing in production'
+  '16:20':
+    th: 'ข้อควรระวังในการเขียน black box test'
+    en: 'Things to be careful about when writing black box tests'
+  '16:50':
+    th: 'สรุปและข้อแนะนำสุดท้าย'
+    en: 'Conclusions'
 ---
