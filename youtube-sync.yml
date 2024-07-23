@@ -9250,6 +9250,7 @@ video:N05h_-aDtC0:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs20/v/jsmodel/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10372,3 +10373,13 @@ video:PCSdvZEJnmg:caption:th:
     isDraft: false
   state:
     id: AUieDaZcPOYjr_-Er8MQI8pgvR5cl0hDbqv6gxTnk_A3YmYxGciV
+video:N05h_-aDtC0:caption:th:
+  spec:
+    videoId: N05h_-aDtC0
+    filePath: data/videos/bkkjs20/jsmodel_th.vtt
+    language: th
+    name: Thai
+    hash: 4d96da0d879b0874b61814d70f480c5962f73b2c6895ae41d6129d797ef9a2a0
+    isDraft: false
+  state:
+    id: AUieDaZxwd4uvqcjLcIDoJPpcz6ADJ58TeZ1oJHxNUaBzak-4GPV
