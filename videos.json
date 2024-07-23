@@ -1318,11 +1318,15 @@
         "type": "talk",
         "youtube": "PCSdvZEJnmg",
         "managed": true,
-        "published": "2024-06-14"
+        "published": "2024-06-14",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs20/open.md",
-      "imageFilePath": "data/videos/bkkjs20/open.jpg"
+      "imageFilePath": "data/videos/bkkjs20/open.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/open_th.vtt"
     },
     {
       "event": "bkkjs20",
