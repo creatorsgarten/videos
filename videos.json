@@ -339,6 +339,9 @@
         "managed": true,
         "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
         "published": true,
+        "subtitles": [
+          "th"
+        ],
         "chapters": {
           "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
           "00:42": "ภูผาม่าน",
@@ -359,7 +362,8 @@
       },
       "content": "",
       "filePath": "data/videos/bangkok/techthaiban.md",
-      "imageFilePath": "data/videos/bangkok/techthaiban.jpg"
+      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
+      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
     },
     {
       "event": "bangkok",
