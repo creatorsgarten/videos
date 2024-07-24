@@ -9353,6 +9353,10 @@ video:N05h_-aDtC0:
     snippet:
       title: Rebuild your mental model of JavaScript by Watee Kamrungsee
       description: >-
+        Revisit the fundamental concepts of JavaScript "Primitive and reference
+        types"
+
+
         0:00 | แนะนำตัวและเกริ่นนำเรื่อง JavaScript
 
         1:28 | ความสำคัญของพื้นฐาน JavaScript สำหรับนักพัฒนาหน้าใหม่
@@ -9504,6 +9508,9 @@ video:PNind_xIlxc:
         Web App Optimization at EarnIn by Siwat Kaolueng, Kijpokin
         Ngamsomsakskul
       description: >-
+        เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ
+
+
         0:00 | แนะนำตัวและหัวข้อการบรรยาย
 
         1:25 | ความเป็นมาและความสำคัญของการ Optimize Web App
@@ -9576,6 +9583,12 @@ video:R9ww5Qh13MM:
         Dance with Three.js! สร้างท่ารำไทยใหม่ๆ ด้วย JavaScript by Phoomparin
         Mano
       description: >-
+        ทำไมท่ารำไทยต้องจำกัดแค่ 59 แม่บทด้วย เราสามารถใช้คณิตศาสตร์และ Three.js
+        มาสร้างการแสดงที่ให้ผู้ชมร่วมสร้างท่ารำใหม่ๆ กับนักเต้นได้ไหมนะ
+        ทอล์คนี้จะเล่าการเดินทาง 1 ปี กับการเขียน JavaScript
+        ที่ใช้ในการแสดงนาฎศิลป์ไทยที่ต่างแดนกัน
+
+
         0:00 | แนะนำตัวและเกริ่นนำเรื่องโปรเจค Cyber Subin
 
         1:18 | คำถามทำไมชอบเขียนโค้ด
@@ -9646,6 +9659,10 @@ video:WC5PRboDfJ0:
     snippet:
       title: Astro JS - เฟรมเวิร์กน้องใหม่ เขียนง่าย โหลดไวมาก! by Chakkrisn Talawat
       description: >-
+        แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework
+        อื่นมาก่อน
+
+
         0:00 | แนะนำตัวและทักทาย
 
         2:02 | แนะนำ Astro Framework
