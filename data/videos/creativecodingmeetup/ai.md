@@ -1,6 +1,6 @@
 ---
 title: ฉันอยากให้ AI เป็นทาสจะทำอย่างไร
-speaker: Watid Jinggit
+speaker: Watid Jingjit
 youtube: J4bILD7KCWk
 managed: true
 published: true
