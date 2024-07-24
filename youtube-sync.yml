@@ -1724,6 +1724,7 @@ video:hbVoyXLWD98:
         etc.), please visit:
 
         https://grtn.org/e/bangkok/v/techthaiban/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10737,3 +10738,13 @@ video:R9ww5Qh13MM:caption:th:
     isDraft: false
   state:
     id: AUieDaaUidzsquChgizFqzLyf5Jy6XUb3P-J0-a29S7TadaBtIuN
+video:hbVoyXLWD98:caption:th:
+  spec:
+    videoId: hbVoyXLWD98
+    filePath: data/videos/bangkok/techthaiban_th.vtt
+    language: th
+    name: Thai
+    hash: 4c11c752fc1d206dbeb5dc75135b7e284beca85ef02b64e3fdd2943b4bffee54
+    isDraft: false
+  state:
+    id: AUieDaYqWLFbvEbKt9_PZnoE39xWkGBF4D6FlkW49hd4Z4PT0X-1
