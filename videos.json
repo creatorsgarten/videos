@@ -1466,6 +1466,7 @@
         "type": "talk",
         "youtube": "WC5PRboDfJ0",
         "managed": true,
+        "description": "แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework อื่นมาก่อน\n",
         "published": "2024-06-09",
         "subtitles": [
           "th"
@@ -1534,6 +1535,7 @@
         "type": "talk",
         "youtube": "N05h_-aDtC0",
         "managed": true,
+        "description": "Revisit the fundamental concepts of JavaScript \"Primitive and reference types\"\n",
         "published": "2024-06-12",
         "subtitles": [
           "th"
@@ -1606,6 +1608,7 @@
         "type": "talk",
         "youtube": "PNind_xIlxc",
         "managed": true,
+        "description": "เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ\n",
         "published": "2024-06-11",
         "subtitles": [
           "th"
@@ -1640,6 +1643,7 @@
         "type": "talk",
         "youtube": "R9ww5Qh13MM",
         "managed": true,
+        "description": "ทำไมท่ารำไทยต้องจำกัดแค่ 59 แม่บทด้วย เราสามารถใช้คณิตศาสตร์และ Three.js มาสร้างการแสดงที่ให้ผู้ชมร่วมสร้างท่ารำใหม่ๆ กับนักเต้นได้ไหมนะ ทอล์คนี้จะเล่าการเดินทาง 1 ปี กับการเขียน JavaScript ที่ใช้ในการแสดงนาฎศิลป์ไทยที่ต่างแดนกัน\n",
         "published": "2024-06-10",
         "subtitles": [
           "th"
