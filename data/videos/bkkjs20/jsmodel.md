@@ -5,6 +5,8 @@ youtube: N05h_-aDtC0
 managed: true
 published: '2024-06-12'
 subtitles: [th]
+description: |
+  Revisit the fundamental concepts of JavaScript "Primitive and reference types"
 chapters:
   '0:00': 'แนะนำตัวและเกริ่นนำเรื่อง JavaScript'
   '1:28': 'ความสำคัญของพื้นฐาน JavaScript สำหรับนักพัฒนาหน้าใหม่'

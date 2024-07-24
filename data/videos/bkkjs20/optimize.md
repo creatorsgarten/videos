@@ -5,6 +5,8 @@ youtube: PNind_xIlxc
 managed: true
 published: '2024-06-11'
 subtitles: [th]
+description: |
+  เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ
 chapters:
   '0:00': 'แนะนำตัวและหัวข้อการบรรยาย'
   '1:25': 'ความเป็นมาและความสำคัญของการ Optimize Web App'

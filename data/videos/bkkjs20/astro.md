@@ -5,6 +5,8 @@ youtube: WC5PRboDfJ0
 managed: true
 published: '2024-06-09'
 subtitles: [th]
+description: |
+  แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework อื่นมาก่อน
 chapters:
   '0:00': 'แนะนำตัวและทักทาย'
   '2:02': 'แนะนำ Astro Framework'
