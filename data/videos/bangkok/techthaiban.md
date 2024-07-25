@@ -4,6 +4,7 @@ speaker: Kulachat Kena
 youtube: hbVoyXLWD98
 managed: true
 published: true
+subtitles: [th]
 description: |
   Tech Thaiban - เทคไทบ้าน
   https://www.techthaiban.org/
