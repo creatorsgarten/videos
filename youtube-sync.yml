@@ -10794,3 +10794,13 @@ video:Wuxt4HiZtB4:caption:th:
     isDraft: false
   state:
     id: AUieDabYIwxRfgyPcpSTlzxy9WPhJy4xV7gXgDFKGaLKuHSrvwK4
+video:i58lEAFqDlw:caption:th:
+  spec:
+    videoId: i58lEAFqDlw
+    filePath: data/videos/github1/logistic_th.vtt
+    language: th
+    name: Thai
+    hash: d4310e31b573b8a5248b67a63a3e248df47de70a8da6eca9134552b4bbd26f4f
+    isDraft: true
+  state:
+    id: AUieDaYYM2zzG9xxe42ttBtVyGDk609djNJ7eYwJVk6FZrhjZJYF
