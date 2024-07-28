@@ -8994,6 +8994,41 @@ video:Wuxt4HiZtB4:
     snippet:
       title: A Journey into Next-Gen CSS-in-JS Innovations by Siriwat Kunaporn
       description: >-
+        0:00 | แนะนำหัวข้อและวิทยากร
+
+        0:30 | ปัญหาของ CSS-in-JS และการค้นหาโซลูชัน
+
+        1:30 | แนะนำ Material UI และสถิติการใช้งาน
+
+        3:26 | ความท้าทายในการพัฒนา open source ขนาดใหญ่
+
+        4:28 | อธิบาย CSS-in-JS และข้อดีของมัน
+
+        6:54 | การลดลงของความนิยมใน CSS-in-JS
+
+        8:05 | ปัญหาความเข้ากันไม่ได้กับ React Server Components
+
+        10:17 | การค้นหาโซลูชันใหม่สำหรับ CSS-in-JS
+
+        12:20 | แนะนำ Zero Runtime CSS-in-JS
+
+        14:20 | การ migrate จาก Emotion ไปสู่ Zero Runtime
+
+        17:20 | กระบวนการทำงานของ Zero Runtime ในช่วง build time
+
+        20:10 | การจัดการ dynamic styles ใน Zero Runtime
+
+        21:54 | ผลลัพธ์และประโยชน์ของ Zero Runtime
+
+        23:06 | การทดสอบประสิทธิภาพของ Zero Runtime
+
+        24:12 | แผนการเปิดตัว Zero Runtime ใน Material UI v6
+
+        24:50 | สรุปและเปิดโอกาสสำหรับคำถาม
+
+
+        --------------------------------------------
+
         Event: BKK.JS #19
 
         https://grtn.org/e/bkkjs19
@@ -9023,6 +9058,7 @@ video:Wuxt4HiZtB4:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs19/v/css-in-js/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10748,3 +10784,13 @@ video:hbVoyXLWD98:caption:th:
     isDraft: false
   state:
     id: AUieDaYqWLFbvEbKt9_PZnoE39xWkGBF4D6FlkW49hd4Z4PT0X-1
+video:Wuxt4HiZtB4:caption:th:
+  spec:
+    videoId: Wuxt4HiZtB4
+    filePath: data/videos/bkkjs19/css-in-js_th.vtt
+    language: th
+    name: Thai
+    hash: 957d13865e97b26c6664722a3af52ca96c68e029c2404aded5bef72168880b8a
+    isDraft: false
+  state:
+    id: AUieDabYIwxRfgyPcpSTlzxy9WPhJy4xV7gXgDFKGaLKuHSrvwK4
