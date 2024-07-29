@@ -656,6 +656,59 @@ video:IVwBbhHOvSQ:
         Shipping open source software in a fully remote company by Mahatthana
         Kelvin Nomsawadi
       description: >-
+        0:00 | แนะนำตัวและบริษัท Metabase
+
+        2:53 | เชิญชวนเข้าร่วม English Club for Developer
+
+        3:10 | สถิติและข้อมูลเกี่ยวกับ Metabase
+
+        4:44 | ประวัติและการพัฒนาของ Metabase
+
+        6:44 | การทำงานแบบ remote และการ ship งานอย่างต่อเนื่อง
+
+        8:16 | ความสำคัญของการทดสอบในการพัฒนาซอฟต์แวร์
+
+        9:25 | การทำงานร่วมกันในทีมที่อยู่ต่างสถานที่
+
+        10:55 | การสื่อสารแบบ asynchronous และการใช้ long-form writing
+
+        12:11 | การสร้างความสัมพันธ์ในทีมงานระยะไกล
+
+        13:58 | การใช้ PodOS ในการทำงาน
+
+        15:12 | ความสำคัญของการทำความเข้าใจปัญหาก่อนการแก้ไข
+
+        17:30 | การสื่อสารและการแก้ไขปัญหาในทีม
+
+        19:43 | การทำงานแบบเปิดเผยและการรายงานความคืบหน้า
+
+        21:46 | ความสำคัญของการประชุมแบบ one-on-one
+
+        23:01 | การใช้ guild ในการพัฒนาทักษะของทีม
+
+        24:12 | นโยบายการจ้างงานและการให้อิสระในการทำงาน
+
+        25:58 | อธิบายเพิ่มเติมเกี่ยวกับ asynchronous communication
+
+        27:26 | สัดส่วนของการสื่อสารแบบ synchronous และ asynchronous
+
+        28:59 | การจัดการกับปัญหาการรีวิวโค้ดในทีมระยะไกล
+
+        32:02 | การจัดการกับปริมาณข้อมูลและการอ่าน long-form writing
+
+        33:24 | การพูดคุยเรื่องเงินเดือนและค่าตอบแทน
+
+        34:01 | คำแนะนำในการหางาน remote และ open source
+
+        35:30 | ประสบการณ์การทำงานกับโปรเจค open source
+
+        36:18 | อธิบายเพิ่มเติมเกี่ยวกับ PodOS
+
+        38:19 | สรุปและเน้นย้ำความสำคัญของภาษาอังกฤษในการทำงานระดับนานาชาติ
+
+
+        --------------------------------------------
+
         Event: React Meetup 09/22
 
         https://www.eventpop.me/e/13545
@@ -694,6 +747,7 @@ video:IVwBbhHOvSQ:
         etc.), please visit:
 
         https://grtn.org/e/reactmeetup0922/v/open-source-in-fully-remote-company/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10843,3 +10897,13 @@ video:i58lEAFqDlw:caption:th:
     isDraft: false
   state:
     id: AUieDaYYM2zzG9xxe42ttBtVyGDk609djNJ7eYwJVk6FZrhjZJYF
+video:IVwBbhHOvSQ:caption:th:
+  spec:
+    videoId: IVwBbhHOvSQ
+    filePath: data/videos/reactmeetup0922/open-source-in-fully-remote-company_th.vtt
+    language: th
+    name: Thai
+    hash: 63f827e4cc7b7e2ba85e89398904de3093a5d36534ed12446647f90a9ed1fa6e
+    isDraft: false
+  state:
+    id: AUieDaZfdmgPJSBlN5z67D29uoqYJS6BTiHNwwyWHYrcjW4rqh5G
