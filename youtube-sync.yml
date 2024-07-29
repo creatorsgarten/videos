@@ -8897,6 +8897,52 @@ video:DoRsdVqeMUM:
         All about testing from 0 to 7 (คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ
         Test) by Somkiat Puisungnoen
       description: >-
+        0:00 | เริ่มการบรรยายและแนะนำตัว
+
+        0:24 | คำถามเกี่ยวกับการทดสอบซอฟต์แวร์และความสำคัญ
+
+        1:04 | การเลือกระหว่างคุณภาพและปริมาณในการพัฒนาซอฟต์แวร์
+
+        1:55 | ต้นทุนของข้อผิดพลาดและความสำคัญของการทดสอบ
+
+        3:25 | ความสำคัญของคุณภาพและการทดสอบในการพัฒนาซอฟต์แวร์
+
+        4:34 | รูปแบบการทดสอบแบบต่างๆ และการเลือกใช้
+
+        6:06 | การทดสอบเป็นระดับของความเชื่อมั่น
+
+        7:11 | การทดสอบควรเป็นกิจกรรมต่อเนื่องตลอดกระบวนการพัฒนา
+
+        8:56 | การทดสอบที่ดีควรมีคุณสมบัติอะไรบ้าง
+
+        10:01 | การเลือกระหว่าง Test First และ Test Last
+
+        12:03 | การพัฒนาแบบ Iterative และ Incremental
+
+        13:51 | การทดสอบแบบ Feature-based และการพัฒนาทีละขั้นตอน
+
+        15:49 | การทดสอบใน JavaScript: เครื่องมือและวิธีการ
+
+        17:58 | ความท้าทายในการทดสอบระบบ Frontend และ Backend แยกกัน
+
+        20:54 | การแยกทดสอบ Frontend และ Backend อย่างอิสระ
+
+        22:42 | การใช้ Playwright สำหรับการทดสอบ Frontend
+
+        24:21 | การทดสอบ Backend ด้วย Supertest และการ Mock
+
+        26:42 | การใช้ Contract Testing เพื่อรักษาความสอดคล้องระหว่าง Frontend
+        และ Backend
+
+        29:04 | ประโยชน์ของ Contract Testing และการใช้ Pact Broker
+
+        30:37 | ความสำคัญของการทดสอบทางธุรกิจและการเพิ่มมูลค่าโดยนักพัฒนา
+
+        31:57 | สรุปและคำแนะนำสุดท้ายเกี่ยวกับการทดสอบ
+
+
+        --------------------------------------------
+
         Event: BKK.JS #19
 
         https://grtn.org/e/bkkjs19
@@ -8926,6 +8972,7 @@ video:DoRsdVqeMUM:
         etc.), please visit:
 
         https://grtn.org/e/bkkjs19/v/test/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -10917,3 +10964,13 @@ video:IVwBbhHOvSQ:caption:th:
     isDraft: false
   state:
     id: AUieDaZfdmgPJSBlN5z67D29uoqYJS6BTiHNwwyWHYrcjW4rqh5G
+video:DoRsdVqeMUM:caption:th:
+  spec:
+    videoId: DoRsdVqeMUM
+    filePath: data/videos/bkkjs19/test_th.vtt
+    language: th
+    name: Thai
+    hash: d1c1d3586b3ad56821ffc03a9e341a93acf18114553d41c0344434495f4e7b1e
+    isDraft: false
+  state:
+    id: AUieDabI_KO44W5yPJ8ii0c14AoVEaHzlkYKxF6IRH57eCU0Nnqy
