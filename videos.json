@@ -1890,7 +1890,8 @@
         "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
         "published": true,
         "subtitles": [
-          "en"
+          "en",
+          "th"
         ],
         "chapters": {
           "00:00": "Intro",
@@ -1909,7 +1910,8 @@
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/sdf.md",
       "imageFilePath": "data/videos/creativecodingmeetup/sdf.jpg",
-      "englishSubtitlePath": "data/videos/creativecodingmeetup/sdf_en.vtt"
+      "englishSubtitlePath": "data/videos/creativecodingmeetup/sdf_en.vtt",
+      "thaiSubtitlePath": "data/videos/creativecodingmeetup/sdf_th.vtt"
     },
     {
       "event": "creativecodingmeetup",
