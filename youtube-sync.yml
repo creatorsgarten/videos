@@ -10974,3 +10974,13 @@ video:DoRsdVqeMUM:caption:th:
     isDraft: false
   state:
     id: AUieDabI_KO44W5yPJ8ii0c14AoVEaHzlkYKxF6IRH57eCU0Nnqy
+video:qzbyQAnqWYk:caption:th:
+  spec:
+    videoId: qzbyQAnqWYk
+    filePath: data/videos/creativecodingmeetup/sdf_th.vtt
+    language: th
+    name: Thai
+    hash: 62bf15fcab520239fe0189ecf1d209bb5647cc85d14c23a46b974e0cdd89a3cb
+    isDraft: false
+  state:
+    id: AUieDabL4zq5PEL0vhWGpBNUmEwZQ6TgFZ7WyFr-dv8P4zbscroc
