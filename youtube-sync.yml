@@ -7204,6 +7204,35 @@ video:7V7h0idgP7o:
         Docs: https://elysiajs.com/
 
 
+        0:00 | แนะนำ BETH Stack และ Elysia Framework
+
+        0:24 | Elysia: TypeScript Web Framework ที่เร็วกว่า Express 17 เท่า
+
+        1:14 | ความลับของความเร็ว: Bun Runtime และ Static Code Analysis
+
+        1:46 | Developer Experience กับ Elysia: ง่ายต่อการใช้งาน
+
+        1:56 | Setup Authentication ง่ายๆ ด้วย Elysia Elf
+
+        2:21 | Demo: สร้าง Project Elysia ด้วย Bun CLI
+
+        3:14 | เพิ่ม GraphQL Plugin ด้วย Elysia Elf
+
+        4:28 | สร้าง Authentication ด้วย Elysia Elf และ Prisma ORM
+
+        5:44 | Demo: Sign Up และ Sign In ผ่าน Swagger UI
+
+        6:06 | End-to-End Type Safety ด้วย Elysia และ Eden Treaty
+
+        7:11 | Demo: Type Safety ระหว่าง Server (Elysia) และ Client (Next.js)
+
+        8:11 | Demo: สร้าง API Endpoint ใหม่และ Type Safety บน Client
+
+        8:50 | เพิ่ม Static Plugin สำหรับการ Serve ไฟล์ Static
+
+        9:51 | สรุป Elysia: ง่าย เร็ว และ Type Safe
+
+
         --------------------------------------------
 
         Event: Side Project Showdown
@@ -7238,6 +7267,7 @@ video:7V7h0idgP7o:
 
 
         #typescript #webframeworks
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -11258,3 +11288,23 @@ video:_vHHe1-9pEc:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:7V7h0idgP7o:caption:en:
+  spec:
+    videoId: 7V7h0idgP7o
+    filePath: data/videos/sideproject/elysia_en.vtt
+    language: en
+    name: English
+    hash: 9fa4759e15fa9e656a061ae05aecbeb6291e08c2cad453d4aae44ce3f4566c71
+    isDraft: false
+  state:
+    id: AUieDabObkFTHLgtDQGBMbJm-lOLiTTCanblUTfGDb0tyxq57mCtDsRK
+video:7V7h0idgP7o:caption:th:
+  spec:
+    videoId: 7V7h0idgP7o
+    filePath: data/videos/sideproject/elysia_th.vtt
+    language: th
+    name: Thai
+    hash: 0eb2ca7da7728449a46dc162d3ed30733b25263c6567f92a798a7f489ad605b6
+    isDraft: false
+  state:
+    id: AUieDaaNmBpqMZL9F7VSHcY70TBPuQcD29fukrxkUXDU9XL6oiSa
