@@ -945,6 +945,20 @@
     },
     {
       "event": "archive",
+      "slug": "sht8",
+      "data": {
+        "title": "The Stipud Honkathack in Thailand Dan of Smile ครั้งที่ 8",
+        "type": "archive",
+        "youtube": "_vHHe1-9pEc",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/sht8.md",
+      "imageFilePath": "data/videos/archive/sht8.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "sideproject",
       "data": {
         "title": "Side Projects Showdown",
