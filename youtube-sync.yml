@@ -10984,3 +10984,233 @@ video:qzbyQAnqWYk:caption:th:
     isDraft: false
   state:
     id: AUieDabL4zq5PEL0vhWGpBNUmEwZQ6TgFZ7WyFr-dv8P4zbscroc
+thumbnail:KhB3mGFd2p0:
+  spec:
+    videoId: KhB3mGFd2p0
+    filePath: data/videos/worldwithoutwork/s5.jpg
+    hash: aada9972fafc171e3e44dd1aa5d5b5353afacc553a402b00b74a2dd53bfeb0d3
+  state: {}
+thumbnail:QHZBtd2Bt6U:
+  spec:
+    videoId: QHZBtd2Bt6U
+    filePath: data/videos/worldwithoutwork/s1.jpg
+    hash: ce72bb5fd415be31b64bbfd90fc9b0285f2934fd2af213c7ca454d189bbc113c
+  state: {}
+thumbnail:mVv6kDiTxgM:
+  spec:
+    videoId: mVv6kDiTxgM
+    filePath: data/videos/worldwithoutwork/s2.jpg
+    hash: f1f7b235f6f9e40d32b252a530b4afd046029f6708291f4ceac0cd278e76380b
+  state: {}
+thumbnail:p29iaNqVze4:
+  spec:
+    videoId: p29iaNqVze4
+    filePath: data/videos/worldwithoutwork/s4.jpg
+    hash: 51de8ac63547c6d83d520059ebb37f56360dd06d7f30bd391f4c55b390596197
+  state: {}
+thumbnail:uTfenmoi26k:
+  spec:
+    videoId: uTfenmoi26k
+    filePath: data/videos/worldwithoutwork/s3.jpg
+    hash: c6f615dede66f7f59a53ed60e783008b6b3333e48cd108a7d771428d7db7d0ab
+  state: {}
+video:KhB3mGFd2p0:
+  spec:
+    id: KhB3mGFd2p0
+    snippet:
+      title: A World without Work by Decharut Sukkumnoed
+      description: >-
+        Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+        https://grtn.org/e/worldwithoutwork
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/worldwithoutwork/v/s5/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:QHZBtd2Bt6U:
+  spec:
+    id: QHZBtd2Bt6U
+    snippet:
+      title: 3 stories about change by Chayapatr Archiwaranguprok
+      description: >-
+        Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+        https://grtn.org/e/worldwithoutwork
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/worldwithoutwork/v/s1/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:mVv6kDiTxgM:
+  spec:
+    id: mVv6kDiTxgM
+    snippet:
+      title: The threat of automation by Phoomparin Mano
+      description: >-
+        Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+        https://grtn.org/e/worldwithoutwork
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/worldwithoutwork/v/s2/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:p29iaNqVze4:
+  spec:
+    id: p29iaNqVze4
+    snippet:
+      title: Transforming Lifestyle by Thai Pangsakulyanont
+      description: >-
+        Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+        https://grtn.org/e/worldwithoutwork
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/worldwithoutwork/v/s4/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:uTfenmoi26k:
+  spec:
+    id: uTfenmoi26k
+    snippet:
+      title: The displacement dilemma in the Workforce by Somtip Watanapongvanich
+      description: >-
+        Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+        https://grtn.org/e/worldwithoutwork
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/worldwithoutwork/v/s3/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
