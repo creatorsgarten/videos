@@ -11214,3 +11214,47 @@ video:uTfenmoi26k:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:_vHHe1-9pEc:
+  spec:
+    videoId: _vHHe1-9pEc
+    filePath: data/videos/archive/sht8.jpg
+    hash: 97595260d38b0e86b5f1042e0d358e3ca0c87ba58b09abeb1c3bbf3775d24a9f
+  state: {}
+video:_vHHe1-9pEc:
+  spec:
+    id: _vHHe1-9pEc
+    snippet:
+      title: >-
+        Garten Streams: The Stipud Honkathack in Thailand Dan of Smile ครั้งที่
+        8
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/sht8/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
