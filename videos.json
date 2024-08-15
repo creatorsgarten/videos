@@ -3634,6 +3634,10 @@
       "slug": "s2",
       "data": {
         "title": "The threat of automation",
+        "youtubeTitle": {
+          "en": "The threat of automation by Phoomparin Mano",
+          "th": "AI Hype Cycle: บทเรียนจากอดีต สู่ความเป็นจริงของ AI ในปัจจุบัน - Phoomparin Mano"
+        },
         "speaker": "Phoomparin Mano",
         "type": "talk",
         "youtube": "mVv6kDiTxgM",
