@@ -1,0 +1,679 @@
+WEBVTT
+
+00:00:00.200 --> 00:00:01.433
+Okay, so
+
+00:00:01.500 --> 00:00:04.433
+Hello, hello, everyone.
+
+00:00:09.000 --> 00:00:12.833
+Okay, if you follow YouTube channels
+
+00:00:12.900 --> 00:00:17.433
+about tech stacks like Theo or ThePrimeagen,
+
+00:00:17.500 --> 00:00:21.133
+you might be familiar with this video.
+
+00:00:21.200 --> 00:00:24.433
+Hello, hello. Oh, I have to speak really close, huh?
+
+00:00:24.500 --> 00:00:25.933
+So, recently, like 2-3 days ago,
+
+00:00:26.000 --> 00:00:30.033
+someone created a tech stack called BETH Stack.
+
+00:00:30.100 --> 00:00:31.733
+And this one is - if you go on Twitter,
+
+00:00:31.800 --> 00:00:33.233
+it's quite well known.
+
+00:00:33.300 --> 00:00:37.633
+Now, mainly, there's a stack called Elysia.
+
+00:00:37.700 --> 00:00:41.433
+Elysia is like a web framework,
+
+00:00:41.500 --> 00:00:43.733
+a TypeScript web framework, that's really fast.
+
+00:00:43.800 --> 00:00:44.933
+It runs on Bun.
+
+00:00:45.000 --> 00:00:47.933
+If you don't know what that is, just imagine
+
+00:00:48.000 --> 00:00:51.233
+writing code similar to Express,
+
+00:00:51.300 --> 00:00:54.233
+but it's 17 times faster than Express.
+
+00:00:54.300 --> 00:00:57.133
+Just by writing code similar to Express,
+
+00:00:57.200 --> 00:00:59.333
+it's 17 times faster.
+
+00:00:59.400 --> 00:01:00.933
+All of this is written in TypeScript.
+
+00:01:01.000 --> 00:01:02.933
+And if you make it multi-threaded
+
+00:01:03.000 --> 00:01:04.433
+or make it multi-process,
+
+00:01:04.500 --> 00:01:06.933
+it can be almost as fast as Rust Actix,
+
+00:01:07.000 --> 00:01:09.333
+or even faster than Go Fiber or Gin.
+
+00:01:09.400 --> 00:01:12.032
+Which is incredibly fast for running TypeScript
+
+00:01:12.100 --> 00:01:14.532
+as a web server, right?
+
+00:01:14.600 --> 00:01:16.633
+Like, okay, 17 times, 20 times,
+
+00:01:16.700 --> 00:01:18.433
+that sounds incredibly fast, right?
+
+00:01:18.500 --> 00:01:22.833
+All of this is possible because of two things.
+
+00:01:22.900 --> 00:01:26.233
+First, this framework runs on Bun.
+
+00:01:26.300 --> 00:01:30.333
+Bun is a runtime that's quite fast.
+
+00:01:30.400 --> 00:01:33.333
+They say that in the future, they'll try to replace Node with it.
+
+00:01:33.400 --> 00:01:36.032
+But then, the other thing is that we have an algorithm
+
+00:01:36.100 --> 00:01:39.933
+called static code analysis and dynamic code injection.
+
+00:01:40.000 --> 00:01:42.833
+It's like we read the programmer's code,
+
+00:01:42.900 --> 00:01:46.733
+and generate code on-the-fly removing other overhead.
+
+00:01:46.800 --> 00:01:48.933
+And today, we won't be talking about
+
+00:01:49.000 --> 00:01:51.133
+why it's fast, why it's this or that.
+
+00:01:51.200 --> 00:01:53.433
+But we'll be talking about why people like to use Elysia
+
+00:01:53.500 --> 00:01:56.233
+and what the developer experience is like.
+
+00:01:56.300 --> 00:01:58.033
+So, has anyone here written backend code before?
+
+00:01:58.100 --> 00:02:03.233
+You'll know that normally, when we write authentication,
+
+00:02:03.300 --> 00:02:06.633
+it takes quite a long time to set up, like 2 hours, 3 hours.
+
+00:02:06.700 --> 00:02:09.833
+But in Elysia, if anyone has written Elysia,
+
+00:02:09.900 --> 00:02:11.733
+there's currently an experimental project
+
+00:02:11.800 --> 00:02:12.733
+called Elysia Elf.
+
+00:02:12.800 --> 00:02:16.533
+Basically, it allows us to set up an Elysia project
+
+00:02:16.600 --> 00:02:18.632
+where everything is very easy.
+
+00:02:18.700 --> 00:02:20.033
+We just type a few commands.
+
+00:02:20.100 --> 00:02:21.733
+Let's take a look at how it works.
+
+00:02:21.800 --> 00:02:26.733
+So, let me just put down the mic and increase the screen size a bit.
+
+00:02:26.800 --> 00:02:29.433
+Okay.
+
+00:02:31.200 --> 00:02:32.132
+Okay, so
+
+00:02:32.200 --> 00:02:33.933
+how to create an Elysia project.
+
+00:02:34.000 --> 00:02:35.533
+We type "bun create elysia"
+
+00:02:35.600 --> 00:02:37.632
+and then the project name we want.
+
+00:02:37.700 --> 00:02:39.132
+I'll name the project 08.
+
+00:02:43.400 --> 00:02:45.033
+Basically, it's like this.
+
+00:02:45.100 --> 00:02:46.632
+We type "bun create"
+
+00:02:47.700 --> 00:02:49.132
+and then we get the project.
+
+00:02:49.200 --> 00:02:50.733
+Now we cd into it.
+
+00:02:50.800 --> 00:02:52.733
+If we look at the code here,
+
+00:02:52.800 --> 00:02:54.833
+we'll have code that looks like this.
+
+00:02:55.600 --> 00:02:56.733
+src/index
+
+00:02:57.500 --> 00:02:59.433
+This is one Elysia server.
+
+00:02:59.500 --> 00:03:00.433
+Basically, we type
+
+00:03:00.500 --> 00:03:02.733
+Okay, ".get" and then we say
+
+00:03:02.800 --> 00:03:05.233
+what this method path can do.
+
+00:03:05.300 --> 00:03:06.333
+Just like Express.
+
+00:03:06.400 --> 00:03:07.933
+Think of it like Express.
+
+00:03:08.000 --> 00:03:09.433
+But we don't have res, we don't have req.
+
+00:03:09.500 --> 00:03:10.533
+No request response.
+
+00:03:10.600 --> 00:03:12.433
+Just send back a value.
+
+00:03:12.500 --> 00:03:14.132
+And then it will become a server.
+
+00:03:14.200 --> 00:03:15.733
+Now, let's try setting up
+
+00:03:15.800 --> 00:03:17.933
+authentication, shall we?
+
+00:03:18.000 --> 00:03:22.632
+First, we create a Redis stack.
+
+00:03:22.700 --> 00:03:24.833
+Then we'll use Docker to run it.
+
+00:03:24.900 --> 00:03:26.433
+Actually, it should be running already.
+
+00:03:26.500 --> 00:03:29.333
+Use Docker to run Postgres.
+
+00:03:29.400 --> 00:03:31.733
+Let's use it to store authentication.
+
+00:03:31.800 --> 00:03:35.533
+Now, you see that I just created a new project, right?
+
+00:03:35.600 --> 00:03:37.333
+Now, there's an experimental feature
+
+00:03:37.400 --> 00:03:39.132
+that if you've written Laravel or Ruby on Rails,
+
+00:03:39.200 --> 00:03:42.533
+there's a CLI for generating different projects.
+
+00:03:42.600 --> 00:03:43.933
+Elysia has it too.
+
+00:03:44.000 --> 00:03:45.233
+It's called elf. Now,
+
+00:03:45.300 --> 00:03:46.533
+when we type this command,
+
+00:03:46.600 --> 00:03:47.933
+I type "elf add"
+
+00:03:48.700 --> 00:03:50.733
+These are all the plugins that we can use.
+
+00:03:50.800 --> 00:03:51.733
+Whatever you want, for example,
+
+00:03:51.800 --> 00:03:53.132
+let's say you want GraphQL,
+
+00:03:53.200 --> 00:03:54.733
+you want a static plugin, you want a swagger plugin,
+
+00:03:54.800 --> 00:03:57.132
+we press enter and answer a few questions,
+
+00:03:57.200 --> 00:03:58.033
+and then we'll get the
+
+00:03:59.000 --> 00:04:01.433
+code in the back here,
+
+00:04:01.500 --> 00:04:03.132
+it'll update to show
+
+00:04:03.200 --> 00:04:05.033
+what plugins we've added.
+
+00:04:05.700 --> 00:04:07.333
+Like this, we'll add that
+
+00:04:07.400 --> 00:04:09.233
+we want a GraphQL plugin.
+
+00:04:09.300 --> 00:04:11.033
+It will extend everything for us.
+
+00:04:12.200 --> 00:04:14.433
+Now, let's try running the server.
+
+00:04:14.500 --> 00:04:15.433
+pnpm dev,
+
+00:04:15.500 --> 00:04:17.132
+run the server on port 3000.
+
+00:04:17.200 --> 00:04:18.733
+Go to localhost 3000,
+
+00:04:18.800 --> 00:04:22.933
+swagger, and it will have all the swagger paths.
+
+00:04:23.800 --> 00:04:25.332
+So we don't need to
+
+00:04:25.400 --> 00:04:27.332
+write the API ourselves to specify what it should have.
+
+00:04:28.600 --> 00:04:29.933
+Now, the cool thing is
+
+00:04:30.800 --> 00:04:33.033
+Elysia has a secret weapon.
+
+00:04:33.100 --> 00:04:35.332
+Let's say we want authentication.
+
+00:04:35.400 --> 00:04:36.933
+We type elf generate auth
+
+00:04:37.000 --> 00:04:38.933
+and specify which ORM we want.
+
+00:04:39.000 --> 00:04:40.133
+I'll use Prisma.
+
+00:04:40.800 --> 00:04:43.832
+And then store it in Redis for session storage.
+
+00:04:43.900 --> 00:04:45.533
+Now, if you've used Prisma before,
+
+00:04:46.200 --> 00:04:47.433
+it's like a TypeScript ORM
+
+00:04:47.500 --> 00:04:48.832
+that lets us write code
+
+00:04:48.900 --> 00:04:51.332
+very easily to manage the database.
+
+00:04:52.000 --> 00:04:54.233
+I'll use Postgres for the database,
+
+00:04:54.300 --> 00:04:58.233
+and set the URL to something like this.
+
+00:04:58.300 --> 00:05:00.832
+Database URL, do you want to migrate the database?
+
+00:05:01.600 --> 00:05:04.133
+Yes, then the rest
+
+00:05:04.200 --> 00:05:06.733
+this will handle the data migration
+
+00:05:06.800 --> 00:05:07.332
+completely.
+
+00:05:07.400 --> 00:05:09.533
+And it will ask if I want an OAuth provider.
+
+00:05:14.000 --> 00:05:15.832
+Okay, so Postgres and
+
+00:05:16.600 --> 00:05:19.533
+I forgot to migrate the database earlier, but that's okay.
+
+00:05:19.600 --> 00:05:22.133
+File location, okay, everything is ready.
+
+00:05:22.200 --> 00:05:23.933
+I just type this and run, just run pnpm dev.
+
+00:05:24.600 --> 00:05:27.133
+Go to Swagger, there's a new path for auth,
+
+00:05:27.200 --> 00:05:29.033
+for all the authentication stuff.
+
+00:05:29.100 --> 00:05:32.033
+This whole library will create an auth.ts file,
+
+00:05:32.100 --> 00:05:35.733
+which is like a boilerplate
+
+00:05:35.800 --> 00:05:37.633
+for how we can manage sessions.
+
+00:05:37.700 --> 00:05:40.332
+For example, I say I want auth and then sign in,
+
+00:05:40.400 --> 00:05:44.332
+sign out, all the authentication stuff.
+
+00:05:44.400 --> 00:05:47.233
+Now, let me try creating a user.
+
+00:05:47.300 --> 00:05:49.033
+One, let's sign up.
+
+00:05:49.100 --> 00:05:53.533
+Let's use saltyaom.
+
+00:05:53.600 --> 00:05:55.332
+saltyaom98, something like this.
+
+00:05:55.400 --> 00:05:59.133
+Password 12345678, execute, and we get a user.
+
+00:05:59.200 --> 00:06:00.633
+Now let me try signing in.
+
+00:06:00.700 --> 00:06:04.733
+Okay, Swagger is definitely quite useful.
+
+00:06:04.800 --> 00:06:06.332
+The timer went off.
+
+00:06:06.400 --> 00:06:09.433
+The cool thing about Elysia is
+
+00:06:09.500 --> 00:06:11.332
+it can do something called end-to-end type safety.
+
+00:06:11.400 --> 00:06:13.332
+If you've ever written tRPC,
+
+00:06:13.400 --> 00:06:15.433
+you can definitely use the server types
+
+00:06:15.500 --> 00:06:16.832
+on the client, right?
+
+00:06:17.600 --> 00:06:19.733
+Elysia can do the same thing,
+
+00:06:19.800 --> 00:06:20.832
+but it's restful.
+
+00:06:20.900 --> 00:06:23.133
+Let's say I have a server,
+
+00:06:23.200 --> 00:06:28.133
+I'll add a folder called identity.
+
+00:06:28.700 --> 00:06:30.433
+This is a pre-set up project.
+
+00:06:30.500 --> 00:06:31.832
+Let's say it's a standard Next.js project.
+
+00:06:31.900 --> 00:06:34.233
+And we'll use it simply.
+
+00:06:34.300 --> 00:06:36.533
+So, it's just a regular Next.js project.
+
+00:06:36.600 --> 00:06:38.332
+But now, we'll see that
+
+00:06:38.400 --> 00:06:40.033
+it imports the type from this server.
+
+00:06:40.100 --> 00:06:42.533
+This server will come from this type.
+
+00:06:42.600 --> 00:06:47.832
+Okay, we want a module.
+
+00:06:47.900 --> 00:06:53.533
+We want it to add a type as a source.
+
+00:06:53.600 --> 00:06:55.933
+Add it as src/index.ts
+
+00:06:56.000 --> 00:07:01.332
+And I said I'm exporting the type of this server.
+
+00:07:01.400 --> 00:07:07.332
+export type App = typeof app
+
+00:07:07.400 --> 00:07:09.133
+Now, I can take the type of this server
+
+00:07:09.200 --> 00:07:10.832
+and use it on the client.
+
+00:07:11.700 --> 00:07:14.433
+And let me go back to this.
+
+00:07:14.500 --> 00:07:20.633
+And run it with the identity.
+
+00:07:20.700 --> 00:07:21.832
+Run the Elysia server together.
+
+00:07:21.900 --> 00:07:24.332
+And run this Next.js server together.
+
+00:07:24.400 --> 00:07:27.033
+Go to localhost 3001.
+
+00:07:31.200 --> 00:07:35.933
+Okay, now you'll notice that here, if we look at the server,
+
+00:07:36.000 --> 00:07:40.033
+here, okay, let me reload it for a second, reload once.
+
+00:07:40.100 --> 00:07:42.233
+And then look at this server. This server's API
+
+00:07:42.300 --> 00:07:44.133
+comes from us importing the type from the server, right?
+
+00:07:44.200 --> 00:07:46.133
+And then passing it through a function called edenTreaty.
+
+00:07:46.200 --> 00:07:48.033
+This is like tRPC for connecting
+
+00:07:48.700 --> 00:07:50.933
+the client and server while enabling type safety.
+
+00:07:51.000 --> 00:07:53.332
+For example, on the server, I say I have APIs,
+
+00:07:53.400 --> 00:07:56.533
+index and auth, right? What's in auth?
+
+00:07:56.600 --> 00:07:58.733
+We can just click and see. And say, let's say we
+
+00:07:58.800 --> 00:08:02.233
+want to sign in, right? Then we call post and say
+
+00:08:02.300 --> 00:08:04.933
+what parameters we can put in.
+
+00:08:05.000 --> 00:08:07.033
+All of this is type-safe, and if there are any changes
+
+00:08:07.100 --> 00:08:12.433
+on the server, the client will also change accordingly. Now, let me try creating a new API endpoint
+
+00:08:12.500 --> 00:08:15.033
+and see if it's added. Now we have auth
+
+00:08:15.100 --> 00:08:17.433
+and index, right? So, let's try creating
+
+00:08:17.500 --> 00:08:21.033
+another endpoint. It looks something like this.
+
+00:08:21.100 --> 00:08:24.533
+I have a cheat sheet just in case I miss anything. So I'll take
+
+00:08:24.600 --> 00:08:27.332
+this and run it. Add a get method to the path
+
+00:08:27.400 --> 00:08:30.933
+/nendodroid/skadi, and we'll get this JSON.
+
+00:08:31.000 --> 00:08:33.332
+Now, let's go back to the client. We type api
+
+00:08:33.400 --> 00:08:36.633
+. And you'll see that a new path has been added, nendodroid
+
+00:08:36.700 --> 00:08:39.133
+like before, and then .skadi and the method we want.
+
+00:08:39.200 --> 00:08:44.033
+Save it, and hover the mouse over data. You'll see that
+
+00:08:44.100 --> 00:08:46.333
+all the types come from the server.
+
+00:08:46.400 --> 00:08:48.533
+For example, I say, okay, there's id, name, and type,
+
+00:08:48.600 --> 00:08:50.333
+and all of them will be here. So,
+
+00:08:50.400 --> 00:08:55.233
+let me try running it on this. Save and run. Okay.
+
+00:08:55.300 --> 00:08:57.133
+This is missing a bit. The image isn't there.
+
+00:08:57.200 --> 00:09:00.233
+So, I'll add the image. We go to the
+
+00:09:01.200 --> 00:09:05.033
+Elysia server, right? And we type elf add
+
+00:09:05.100 --> 00:09:10.133
+Let's use the static plugin. Now it adds
+
+00:09:10.200 --> 00:09:14.133
+the static plugin. Now we need to add a folder for this.
+
+00:09:14.800 --> 00:09:19.633
+Go to public and add the image. Reveal in finder,
+
+00:09:19.700 --> 00:09:23.433
+copy this image, and put it here.
+
+00:09:23.500 --> 00:09:26.733
+Now, this will come from us saying
+
+00:09:26.800 --> 00:09:29.633
+okay, API, right? This comes from us calling
+
+00:09:29.700 --> 00:09:32.033
+this static plugin. Its default is a folder called
+
+00:09:32.100 --> 00:09:34.433
+public. So, if we try reloading
+
+00:09:34.500 --> 00:09:38.533
+again, we'll see that, oh, what happened?
+
+00:09:38.600 --> 00:09:41.933
+Oh, we forgot to run the server. So, we go to
+
+00:09:43.100 --> 00:09:51.833
+this server, run it, it doesn't work, and then it will work. Okay.
+
+00:09:51.900 --> 00:09:54.933
+Never mind. Okay, never mind. Image. Another thing I want
+
+00:09:55.000 --> 00:09:58.333
+to show you is that it can sign in and sign out.
+
+00:09:58.400 --> 00:09:59.933
+So, here, if you've ever written in React,
+
+00:10:00.000 --> 00:10:02.233
+it can do form authentication. But
+
+00:10:02.300 --> 00:10:06.733
+here, if we put React Query in
+
+00:10:06.800 --> 00:10:08.933
+edenTreaty, it will show that, okay, we
+
+00:10:09.000 --> 00:10:11.533
+can enter what types. Basically, it's about
+
+00:10:11.600 --> 00:10:12.433
+this much. Thank you very much.
+
+00:10:13.000 --> 00:10:13.533
+Woo.
+
+00:10:13.600 --> 00:10:14.633
+Perfect timing.
+
+00:10:14.700 --> 00:10:16.033
+Let's give a round of applause to P'Aom.
