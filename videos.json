@@ -1737,6 +1737,81 @@
       "thaiSubtitlePath": "data/videos/bkkjs20/subin_th.vtt"
     },
     {
+      "event": "cssmeetup0823",
+      "slug": "css-container-query",
+      "data": {
+        "title": "CSS Container Query",
+        "speaker": "Poowanart Korbkum",
+        "type": "talk",
+        "youtube": "WpCR96qzCUo",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-container-query.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-container-query.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-in-2023",
+      "data": {
+        "title": "CSS 2023 What you need to know?",
+        "speaker": "อธิวัฒน์ สีนาค",
+        "type": "talk",
+        "youtube": "xWSyWOdDlY4",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-in-2023.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-variables",
+      "data": {
+        "title": "Unleash the true power of CSS Variables",
+        "speaker": "ศิริวัชร์ คุณาพร",
+        "type": "talk",
+        "youtube": "GkVQ_GW6gFI",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-variables.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-variables.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "flexbox",
+      "data": {
+        "title": "Reading CSS Flexbox specs",
+        "speaker": "วสวัตติ์ สมโน",
+        "type": "talk",
+        "youtube": "GgwnfjGbKpk",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/flexbox.md",
+      "imageFilePath": "data/videos/cssmeetup0823/flexbox.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "thai-ui",
+      "data": {
+        "title": "Thai UI: Towards building a design system for all Thais",
+        "speaker": "Chayapatr Archiwaranguprok; Phoomparin Mano",
+        "type": "talk",
+        "youtube": "jV_bIbtKY-I",
+        "managed": true,
+        "published": "2023-10-20"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/thai-ui.md",
+      "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
@@ -2031,81 +2106,6 @@
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
       "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "css-container-query",
-      "data": {
-        "title": "CSS Container Query",
-        "speaker": "Poowanart Korbkum",
-        "type": "talk",
-        "youtube": "WpCR96qzCUo",
-        "managed": true,
-        "published": "2023-10-20"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-container-query.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-container-query.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "css-in-2023",
-      "data": {
-        "title": "CSS 2023 What you need to know?",
-        "speaker": "อธิวัฒน์ สีนาค",
-        "type": "talk",
-        "youtube": "xWSyWOdDlY4",
-        "managed": true,
-        "published": "2023-10-20"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-in-2023.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "css-variables",
-      "data": {
-        "title": "Unleash the true power of CSS Variables",
-        "speaker": "ศิริวัชร์ คุณาพร",
-        "type": "talk",
-        "youtube": "GkVQ_GW6gFI",
-        "managed": true,
-        "published": "2023-10-20"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-variables.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-variables.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "flexbox",
-      "data": {
-        "title": "Reading CSS Flexbox specs",
-        "speaker": "วสวัตติ์ สมโน",
-        "type": "talk",
-        "youtube": "GgwnfjGbKpk",
-        "managed": true,
-        "published": "2023-10-20"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/flexbox.md",
-      "imageFilePath": "data/videos/cssmeetup0823/flexbox.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "thai-ui",
-      "data": {
-        "title": "Thai UI: Towards building a design system for all Thais",
-        "speaker": "Chayapatr Archiwaranguprok; Phoomparin Mano",
-        "type": "talk",
-        "youtube": "jV_bIbtKY-I",
-        "managed": true,
-        "published": "2023-10-20"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/thai-ui.md",
-      "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
     },
     {
       "event": "functional",
