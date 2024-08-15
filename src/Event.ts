@@ -105,4 +105,5 @@ const events = [
   new Event('bkkjs20', 'BKK.JS #20'),
   new Event('wind2', 'Code in the Wind #2'),
   new Event('algorave', 'a bit of thai tunes'),
+  new Event('worldwithoutwork', 'เศรษฐกิจเอไอกับโลกไร้งาน'),
 ]
