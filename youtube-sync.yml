@@ -11391,7 +11391,9 @@ video:mVv6kDiTxgM:
   spec:
     id: mVv6kDiTxgM
     snippet:
-      title: The threat of automation by Phoomparin Mano
+      title: >-
+        AI Hype Cycle: บทเรียนจากอดีต สู่ความเป็นจริงของ AI ในปัจจุบัน -
+        Phoomparin Mano
       description: >-
         ใน Session นี้ ภูมิ Software Engineer จาก Metabase และผู้จัดงานในไทย
         ชวนตั้งคำถามและสำรวจความกังวลเรื่อง AI จะมาแทนที่งานของมนุษย์
@@ -11471,6 +11473,10 @@ video:mVv6kDiTxgM:
 
         --------------------------------------------
 
+        Talk title: The threat of automation
+
+        Speaker: Phoomparin Mano
+
         Event: เศรษฐกิจเอไอกับโลกไร้งาน
 
         https://grtn.org/e/worldwithoutwork
@@ -11500,11 +11506,243 @@ video:mVv6kDiTxgM:
         etc.), please visit:
 
         https://grtn.org/e/worldwithoutwork/v/s2/edit
+      defaultLanguage: th
       defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
+    localizations:
+      en:
+        title: The threat of automation by Phoomparin Mano
+        description: >-
+          ใน Session นี้ ภูมิ Software Engineer จาก Metabase และผู้จัดงานในไทย
+          ชวนตั้งคำถามและสำรวจความกังวลเรื่อง AI จะมาแทนที่งานของมนุษย์
+          โดยเปรียบเทียบกับ Hype Cycle ของเทคโนโลยีต่างๆ ในอดีต เช่น dot-com
+          bubble และ crypto ภูมิอธิบายถึงธรรมชาติและข้อจำกัดของ AI
+          พร้อมยกตัวอย่างงานวิจัยที่ช่วยให้เข้าใจการทำงานของ AI มากขึ้น Session
+          นี้เหมาะสำหรับผู้ที่สนใจผลกระทบของ AI ต่อตลาดแรงงาน
+          และต้องการเข้าใจความเป็นไปได้และข้อจำกัดของ AI ในปัจจุบัน
+
+
+          0:00 | แนะนำตัวและหัวข้อ: AI จะมาแทนที่โปรแกรมเมอร์ไหม?
+
+          0:34 | ความกลัว AI ในสังคมไทย: ทุกอาชีพจะถูกแทนที่?
+
+          1:20 | ตัวอย่างความคิดเห็นสุดโต่งเกี่ยวกับ AI
+
+          2:16 | Hype Cycle: AI ไม่ใช่เทคโนโลยีแรกที่ถูก Hype
+
+          2:24 | ตัวอย่าง Hype Cycle: จาก Dot-com Bubble ถึง Digital Wallet
+
+          3:00 | Hype Cycle: Zoom, Crypto, Metaverse และบทเรียนที่ได้
+
+          4:00 | Digital Wallet กับ Blockchain:
+          เทคโนโลยีที่ใช่กับปัญหาที่ถูกต้อง
+
+          5:16 | Law of the Instrument: เมื่อค้อนทุบได้ทุกอย่าง
+
+          6:00 | Blockchain: ความเหมาะสมกับบริบททางการเงิน
+
+          7:18 | Crypto Bro สู่ AI Bro: วงจรความเชื่อเกินจริง
+
+          8:53 | Hype Cycle for Emerging Technologies: 5 ระยะของเทคโนโลยี
+
+          10:15 | มองหา Use Case จริงๆ หลัง Hype Cycle จบลง
+
+          10:45 | ธรรมชาติและข้อจำกัดของเทคโนโลยี: ยานอวกาศไปดาวดวงอื่น?
+
+          12:05 | Theoretical Limit: ข้อจำกัดทางทฤษฎีที่ AI Bro มักมองข้าม
+
+          12:53 | Hype Cycle บิดเบือนความเป็นไปได้ของเทคโนโลยี
+
+          13:58 | 2 ตัวแปรสำคัญ: ธรรมชาติและข้อจำกัดของ AI
+
+          14:31 | Life 3.0: AI จะฉลาดจนทำได้ทุกอย่างจริงหรือ?
+
+          15:01 | ทักษะที่ AI ทำได้และทำไม่ได้: มองเป็น Task ไม่ใช่อาชีพ
+
+          17:18 | Myth & Fact เกี่ยวกับ Superintelligence AI
+
+          18:07 | 3 ลักษณะพื้นฐานของ AI: ความเป็นสถิติ, Optimization,
+          Generalization
+
+          18:38 | ตัวอย่างความผิดพลาดจากการใช้ AI โดยไม่เข้าใจ: Air Canada & AI
+          Copilot
+
+          19:52 | Moral of the Story: อย่าใช้อะไรที่ Verify ไม่ได้
+
+          20:26 | AI กับงานทนายความ: ใช้ได้ แต่ต้องตรวจสอบ
+
+          21:27 | AI มีแนวโน้มจะ 'โอ๋' เรา: ยิ่งไม่เข้าใจ ยิ่งใช้ AI ไม่ได้ผล
+
+          22:21 | ข้อจำกัดของ AI ในปัจจุบัน อาจไม่ใช่ข้อจำกัดในอนาคต
+
+          22:54 | Mechanistic Interpretability: ทำความเข้าใจการทำงานของ AI
+
+          24:43 | ความเข้าใจเกี่ยวกับ AI เปลี่ยนแปลงตลอดเวลา
+
+          25:07 | Yann LeCun: AI ในปัจจุบันยังไม่ฉลาดจริง
+
+          26:18 | สรุป: ความเป็นไปได้ของ AI ในอนาคตยังคงเป็นปริศนา
+
+          27:02 | จุดแข็งของมนุษย์: ความอยากรู้อยากเห็น, อารมณ์, Human Touch
+
+          27:29 | AI แทนที่ Tasks ไม่ใช่ Jobs: พัฒนาตัวเองให้ AI แทนที่ไม่ได้
+
+          27:53 | แนะนำหนังสือ: Whiplash - กฎของโลกยุคใหม่
+
+
+          --------------------------------------------
+
+          Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+          https://grtn.org/e/worldwithoutwork
+
+
+          Website:
+
+          https://creatorsgarten.org
+
+
+          Facebook:
+
+          https://facebook.com/creatorsgarten
+
+
+          Please consider supporting us by subscribing to the channel, and
+          follow upcoming events via our Facebook pages.
+
+
+          For reuse of this video under a more permissive license please get in
+          touch with us. The speakers retain the copyright for their
+          performances.
+
+          mail@creatorsgarten.org
+
+
+          To edit the video metadata (title, description, timestamps, thumbnail,
+          etc.), please visit:
+
+          https://grtn.org/e/worldwithoutwork/v/s2/edit
+      th:
+        title: >-
+          AI Hype Cycle: บทเรียนจากอดีต สู่ความเป็นจริงของ AI ในปัจจุบัน -
+          Phoomparin Mano
+        description: >-
+          ใน Session นี้ ภูมิ Software Engineer จาก Metabase และผู้จัดงานในไทย
+          ชวนตั้งคำถามและสำรวจความกังวลเรื่อง AI จะมาแทนที่งานของมนุษย์
+          โดยเปรียบเทียบกับ Hype Cycle ของเทคโนโลยีต่างๆ ในอดีต เช่น dot-com
+          bubble และ crypto ภูมิอธิบายถึงธรรมชาติและข้อจำกัดของ AI
+          พร้อมยกตัวอย่างงานวิจัยที่ช่วยให้เข้าใจการทำงานของ AI มากขึ้น Session
+          นี้เหมาะสำหรับผู้ที่สนใจผลกระทบของ AI ต่อตลาดแรงงาน
+          และต้องการเข้าใจความเป็นไปได้และข้อจำกัดของ AI ในปัจจุบัน
+
+
+          0:00 | แนะนำตัวและหัวข้อ: AI จะมาแทนที่โปรแกรมเมอร์ไหม?
+
+          0:34 | ความกลัว AI ในสังคมไทย: ทุกอาชีพจะถูกแทนที่?
+
+          1:20 | ตัวอย่างความคิดเห็นสุดโต่งเกี่ยวกับ AI
+
+          2:16 | Hype Cycle: AI ไม่ใช่เทคโนโลยีแรกที่ถูก Hype
+
+          2:24 | ตัวอย่าง Hype Cycle: จาก Dot-com Bubble ถึง Digital Wallet
+
+          3:00 | Hype Cycle: Zoom, Crypto, Metaverse และบทเรียนที่ได้
+
+          4:00 | Digital Wallet กับ Blockchain:
+          เทคโนโลยีที่ใช่กับปัญหาที่ถูกต้อง
+
+          5:16 | Law of the Instrument: เมื่อค้อนทุบได้ทุกอย่าง
+
+          6:00 | Blockchain: ความเหมาะสมกับบริบททางการเงิน
+
+          7:18 | Crypto Bro สู่ AI Bro: วงจรความเชื่อเกินจริง
+
+          8:53 | Hype Cycle for Emerging Technologies: 5 ระยะของเทคโนโลยี
+
+          10:15 | มองหา Use Case จริงๆ หลัง Hype Cycle จบลง
+
+          10:45 | ธรรมชาติและข้อจำกัดของเทคโนโลยี: ยานอวกาศไปดาวดวงอื่น?
+
+          12:05 | Theoretical Limit: ข้อจำกัดทางทฤษฎีที่ AI Bro มักมองข้าม
+
+          12:53 | Hype Cycle บิดเบือนความเป็นไปได้ของเทคโนโลยี
+
+          13:58 | 2 ตัวแปรสำคัญ: ธรรมชาติและข้อจำกัดของ AI
+
+          14:31 | Life 3.0: AI จะฉลาดจนทำได้ทุกอย่างจริงหรือ?
+
+          15:01 | ทักษะที่ AI ทำได้และทำไม่ได้: มองเป็น Task ไม่ใช่อาชีพ
+
+          17:18 | Myth & Fact เกี่ยวกับ Superintelligence AI
+
+          18:07 | 3 ลักษณะพื้นฐานของ AI: ความเป็นสถิติ, Optimization,
+          Generalization
+
+          18:38 | ตัวอย่างความผิดพลาดจากการใช้ AI โดยไม่เข้าใจ: Air Canada & AI
+          Copilot
+
+          19:52 | Moral of the Story: อย่าใช้อะไรที่ Verify ไม่ได้
+
+          20:26 | AI กับงานทนายความ: ใช้ได้ แต่ต้องตรวจสอบ
+
+          21:27 | AI มีแนวโน้มจะ 'โอ๋' เรา: ยิ่งไม่เข้าใจ ยิ่งใช้ AI ไม่ได้ผล
+
+          22:21 | ข้อจำกัดของ AI ในปัจจุบัน อาจไม่ใช่ข้อจำกัดในอนาคต
+
+          22:54 | Mechanistic Interpretability: ทำความเข้าใจการทำงานของ AI
+
+          24:43 | ความเข้าใจเกี่ยวกับ AI เปลี่ยนแปลงตลอดเวลา
+
+          25:07 | Yann LeCun: AI ในปัจจุบันยังไม่ฉลาดจริง
+
+          26:18 | สรุป: ความเป็นไปได้ของ AI ในอนาคตยังคงเป็นปริศนา
+
+          27:02 | จุดแข็งของมนุษย์: ความอยากรู้อยากเห็น, อารมณ์, Human Touch
+
+          27:29 | AI แทนที่ Tasks ไม่ใช่ Jobs: พัฒนาตัวเองให้ AI แทนที่ไม่ได้
+
+          27:53 | แนะนำหนังสือ: Whiplash - กฎของโลกยุคใหม่
+
+
+          --------------------------------------------
+
+          Talk title: The threat of automation
+
+          Speaker: Phoomparin Mano
+
+          Event: เศรษฐกิจเอไอกับโลกไร้งาน
+
+          https://grtn.org/e/worldwithoutwork
+
+
+          Website:
+
+          https://creatorsgarten.org
+
+
+          Facebook:
+
+          https://facebook.com/creatorsgarten
+
+
+          Please consider supporting us by subscribing to the channel, and
+          follow upcoming events via our Facebook pages.
+
+
+          For reuse of this video under a more permissive license please get in
+          touch with us. The speakers retain the copyright for their
+          performances.
+
+          mail@creatorsgarten.org
+
+
+          To edit the video metadata (title, description, timestamps, thumbnail,
+          etc.), please visit:
+
+          https://grtn.org/e/worldwithoutwork/v/s2/edit
   state: {}
 video:p29iaNqVze4:
   spec:
