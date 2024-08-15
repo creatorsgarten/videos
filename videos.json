@@ -149,288 +149,6 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
-      "event": "bangkok",
-      "slug": "bank-for-all",
-      "data": {
-        "title": "Bank For All",
-        "tagline": "Peer Share and Microfinance Platform for All",
-        "type": "pitch",
-        "youtube": "su14UUhSVrM",
-        "managed": true,
-        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bank-for-all.md",
-      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkk-reward-hunter",
-      "data": {
-        "title": "BKK Reward Hunter",
-        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
-        "type": "pitch",
-        "youtube": "yd3uA1XOtww",
-        "managed": true,
-        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
-      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkkchangelog",
-      "data": {
-        "title": "BKK Changelog",
-        "type": "pitch",
-        "youtube": "inkQI5yRd_Y",
-        "managed": true,
-        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkkchangelog.md",
-      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "code-and-the-city",
-      "data": {
-        "title": "Code and the City: Bettering society with code",
-        "speaker": "Lookkid Withee Poositasai",
-        "type": "talk",
-        "youtube": "Wfu_DL29FL0",
-        "managed": true,
-        "published": true,
-        "chapters": {
-          "00:00": "แนะนำตัว",
-          "01:38": "แนะนำ Punch Up และ WeVis",
-          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
-          "03:43": "ทีมงาน",
-          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
-          "04:52": "โปรเจคแบบ Purpose-driven",
-          "08:10": "โปรเจคแบบ Data-driven",
-          "11:27": "แบบไหนดีกว่ากัน",
-          "12:29": "Part 1 Key challenges",
-          "13:28": "Part 1 Key takeaway",
-          "15:16": "Part 2 - Work with Open (?) Collaborator",
-          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
-          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
-          "20:17": "Part 2 Key takeaway",
-          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
-          "21:14": "Taiwan’s g0v",
-          "22:49": "Estonia’s Rahvaalgatus",
-          "24:48": "Part 3 Key takeaway",
-          "25:30": "Wrap up",
-          "26:50": "Q&A"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/code-and-the-city.md",
-      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "fill-you-in-the-blank",
-      "data": {
-        "title": "Fill You in the Blank",
-        "tagline": "เติมคุณในช่องว่าง",
-        "type": "pitch",
-        "youtube": "on25fTHEtus",
-        "managed": true,
-        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
-      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "muse",
-      "data": {
-        "title": "muse foundation: for-social profit impact",
-        "speaker": "Sira Sujjinanont",
-        "type": "talk",
-        "youtube": "ztHxfz7nGVE",
-        "managed": true,
-        "description": "muse foundation\nhttps://muse.as/\n",
-        "published": true,
-        "chapters": {
-          "00:00": "แนะนำ muse foundation",
-          "00:30": "แนะนำตัว",
-          "00:46": "ย้ายถิ่นฐาน",
-          "01:25": "ปาย แม่ฮ่องสอน",
-          "02:48": "Co-living space",
-          "04:00": "Education",
-          "06:30": "codeforpublic/SQUID",
-          "07:37": "หมอชนะ",
-          "08:19": "โมเดล Open source",
-          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
-          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
-          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
-          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
-          "19:03": "Conclusion"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/muse.md",
-      "imageFilePath": "data/videos/bangkok/muse.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "policytracka",
-      "data": {
-        "title": "PolicyTracka",
-        "tagline": "Creativity from Policy",
-        "type": "pitch",
-        "youtube": "JhhmE1chbWQ",
-        "managed": true,
-        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/policytracka.md",
-      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "ratchagitja",
-      "data": {
-        "title": "Ratchagitja",
-        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
-        "type": "pitch",
-        "youtube": "8EC1OLZOZyo",
-        "managed": true,
-        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/ratchagitja.md",
-      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "special-interview-session",
-      "data": {
-        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
-        "speaker": "Whee Pongpiphat; Nattanon",
-        "type": "talk",
-        "youtube": "3HGzSV3fRGQ",
-        "managed": true,
-        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/special-interview-session.md",
-      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "techthaiban",
-      "data": {
-        "title": "Tech Thaiban Model: Empower Local",
-        "speaker": "Kulachat Kena",
-        "type": "talk",
-        "youtube": "hbVoyXLWD98",
-        "managed": true,
-        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
-        "published": true,
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
-          "00:42": "ภูผาม่าน",
-          "01:07": "แนะนำตัว",
-          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
-          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
-          "03:17": "ฟาร์มคิด - ภูผาม่าน",
-          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
-          "04:37": "UX Meetup ณ ภูผาม่าน",
-          "06:27": "มหา'ลัย ไทบ้าน",
-          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
-          "09:00": "กระจายอำนาจ",
-          "09:38": "Next model",
-          "10:10": "โมเดลการศึกษา",
-          "12:22": "โมเดลการบริจาค",
-          "14:40": "Conclusion"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/techthaiban.md",
-      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
-      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
-    },
-    {
-      "event": "bangkok",
-      "slug": "thailand-area-ranking",
-      "data": {
-        "title": "Thailand Area Ranking",
-        "team": {
-          "name": "TensorMiK"
-        },
-        "type": "pitch",
-        "youtube": "TTU2oSlbT_w",
-        "managed": true,
-        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
-      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "traffy",
-      "data": {
-        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
-        "speaker": "Wasan Pattara-atikom",
-        "type": "talk",
-        "youtube": "N8eBpiCXgNE",
-        "managed": true,
-        "published": true,
-        "chapters": {
-          "00:00": "Introduction",
-          "01:17": "แนะนำ Traffy Fondue",
-          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
-          "05:07": "LINE @traffyfondue",
-          "07:02": "ตัวอย่าง",
-          "09:00": "Dashboard",
-          "09:46": "สถิติ",
-          "10:43": "ต่างจังหวัด",
-          "11:44": "สำรวจการใช้งาน",
-          "12:55": "การใช้งานในกรุงเทพฯ",
-          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
-          "27:22": "Open Data + API",
-          "29:40": "รับสมัครผู้ร่วมทีม",
-          "30:55": "Q&A"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/traffy.md",
-      "imageFilePath": "data/videos/bangkok/traffy.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "we-space",
-      "data": {
-        "title": "WeSpace",
-        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
-        "type": "pitch",
-        "youtube": "ErotrrAm0eU",
-        "managed": true,
-        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/we-space.md",
-      "imageFilePath": "data/videos/bangkok/we-space.jpg"
-    },
-    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -1012,6 +730,288 @@
       "content": "",
       "filePath": "data/videos/archive/vscodeday2023.md",
       "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bank-for-all",
+      "data": {
+        "title": "Bank For All",
+        "tagline": "Peer Share and Microfinance Platform for All",
+        "type": "pitch",
+        "youtube": "su14UUhSVrM",
+        "managed": true,
+        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bank-for-all.md",
+      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkk-reward-hunter",
+      "data": {
+        "title": "BKK Reward Hunter",
+        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
+        "type": "pitch",
+        "youtube": "yd3uA1XOtww",
+        "managed": true,
+        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
+      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkkchangelog",
+      "data": {
+        "title": "BKK Changelog",
+        "type": "pitch",
+        "youtube": "inkQI5yRd_Y",
+        "managed": true,
+        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkkchangelog.md",
+      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "code-and-the-city",
+      "data": {
+        "title": "Code and the City: Bettering society with code",
+        "speaker": "Lookkid Withee Poositasai",
+        "type": "talk",
+        "youtube": "Wfu_DL29FL0",
+        "managed": true,
+        "published": true,
+        "chapters": {
+          "00:00": "แนะนำตัว",
+          "01:38": "แนะนำ Punch Up และ WeVis",
+          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
+          "03:43": "ทีมงาน",
+          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
+          "04:52": "โปรเจคแบบ Purpose-driven",
+          "08:10": "โปรเจคแบบ Data-driven",
+          "11:27": "แบบไหนดีกว่ากัน",
+          "12:29": "Part 1 Key challenges",
+          "13:28": "Part 1 Key takeaway",
+          "15:16": "Part 2 - Work with Open (?) Collaborator",
+          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
+          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
+          "20:17": "Part 2 Key takeaway",
+          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
+          "21:14": "Taiwan’s g0v",
+          "22:49": "Estonia’s Rahvaalgatus",
+          "24:48": "Part 3 Key takeaway",
+          "25:30": "Wrap up",
+          "26:50": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/code-and-the-city.md",
+      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "fill-you-in-the-blank",
+      "data": {
+        "title": "Fill You in the Blank",
+        "tagline": "เติมคุณในช่องว่าง",
+        "type": "pitch",
+        "youtube": "on25fTHEtus",
+        "managed": true,
+        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
+      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "muse",
+      "data": {
+        "title": "muse foundation: for-social profit impact",
+        "speaker": "Sira Sujjinanont",
+        "type": "talk",
+        "youtube": "ztHxfz7nGVE",
+        "managed": true,
+        "description": "muse foundation\nhttps://muse.as/\n",
+        "published": true,
+        "chapters": {
+          "00:00": "แนะนำ muse foundation",
+          "00:30": "แนะนำตัว",
+          "00:46": "ย้ายถิ่นฐาน",
+          "01:25": "ปาย แม่ฮ่องสอน",
+          "02:48": "Co-living space",
+          "04:00": "Education",
+          "06:30": "codeforpublic/SQUID",
+          "07:37": "หมอชนะ",
+          "08:19": "โมเดล Open source",
+          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
+          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
+          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
+          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
+          "19:03": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/muse.md",
+      "imageFilePath": "data/videos/bangkok/muse.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "policytracka",
+      "data": {
+        "title": "PolicyTracka",
+        "tagline": "Creativity from Policy",
+        "type": "pitch",
+        "youtube": "JhhmE1chbWQ",
+        "managed": true,
+        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/policytracka.md",
+      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "ratchagitja",
+      "data": {
+        "title": "Ratchagitja",
+        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
+        "type": "pitch",
+        "youtube": "8EC1OLZOZyo",
+        "managed": true,
+        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/ratchagitja.md",
+      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "special-interview-session",
+      "data": {
+        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
+        "speaker": "Whee Pongpiphat; Nattanon",
+        "type": "talk",
+        "youtube": "3HGzSV3fRGQ",
+        "managed": true,
+        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/special-interview-session.md",
+      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "techthaiban",
+      "data": {
+        "title": "Tech Thaiban Model: Empower Local",
+        "speaker": "Kulachat Kena",
+        "type": "talk",
+        "youtube": "hbVoyXLWD98",
+        "managed": true,
+        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
+        "published": true,
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
+          "00:42": "ภูผาม่าน",
+          "01:07": "แนะนำตัว",
+          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
+          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
+          "03:17": "ฟาร์มคิด - ภูผาม่าน",
+          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
+          "04:37": "UX Meetup ณ ภูผาม่าน",
+          "06:27": "มหา'ลัย ไทบ้าน",
+          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
+          "09:00": "กระจายอำนาจ",
+          "09:38": "Next model",
+          "10:10": "โมเดลการศึกษา",
+          "12:22": "โมเดลการบริจาค",
+          "14:40": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/techthaiban.md",
+      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
+      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
+    },
+    {
+      "event": "bangkok",
+      "slug": "thailand-area-ranking",
+      "data": {
+        "title": "Thailand Area Ranking",
+        "team": {
+          "name": "TensorMiK"
+        },
+        "type": "pitch",
+        "youtube": "TTU2oSlbT_w",
+        "managed": true,
+        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
+      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "traffy",
+      "data": {
+        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
+        "speaker": "Wasan Pattara-atikom",
+        "type": "talk",
+        "youtube": "N8eBpiCXgNE",
+        "managed": true,
+        "published": true,
+        "chapters": {
+          "00:00": "Introduction",
+          "01:17": "แนะนำ Traffy Fondue",
+          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
+          "05:07": "LINE @traffyfondue",
+          "07:02": "ตัวอย่าง",
+          "09:00": "Dashboard",
+          "09:46": "สถิติ",
+          "10:43": "ต่างจังหวัด",
+          "11:44": "สำรวจการใช้งาน",
+          "12:55": "การใช้งานในกรุงเทพฯ",
+          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
+          "27:22": "Open Data + API",
+          "29:40": "รับสมัครผู้ร่วมทีม",
+          "30:55": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/traffy.md",
+      "imageFilePath": "data/videos/bangkok/traffy.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "we-space",
+      "data": {
+        "title": "WeSpace",
+        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
+        "type": "pitch",
+        "youtube": "ErotrrAm0eU",
+        "managed": true,
+        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/we-space.md",
+      "imageFilePath": "data/videos/bangkok/we-space.jpg"
     },
     {
       "event": "bkkjs17",
@@ -3598,11 +3598,32 @@
         "type": "talk",
         "youtube": "QHZBtd2Bt6U",
         "managed": true,
-        "published": "2024-08-16"
+        "description": "ในหัวข้อนี้ คุณปั๊บนำเสนอมุมมองที่น่าสนใจเกี่ยวกับผลกระทบของเทคโนโลยีและ AI ต่อสังคมและเศรษฐกิจเริ่มด้วยการพูดถึงความยากในการคาดการณ์อนาคต โดยยกตัวอย่างคำทำนายที่ผิดพลาดเกี่ยวกับอินเทอร์เน็ตและ Bitcoin คุณปั๊บนำเสนอเรื่องราว 3 เรื่องที่สะท้อนมุมมองต่างๆ เกี่ยวกับการเปลี่ยนแปลงทางเทคโนโลยี ได้แก่ กลุ่ม Luddite ภาพยนตร์เรื่อง Terminator และการ์ตูนเว็บตูน Clinic of Horrors และตั้งคำถามที่น่าคิดเกี่ยวกับอนาคตของงานและคุณค่าของมนุษย์ในยุค AI วิดีโอนี้จะทำให้คุณได้มุมมองใหม่ๆ ในการมองโลกที่กำลังเปลี่ยนแปลงอย่างรวดเร็ว\n",
+        "published": "2024-08-16",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "บทนำและการทักทาย",
+          "0:07": "คำทำนายที่ผิดพลาดเกี่ยวกับเทคโนโลยี",
+          "0:58": "บทเรียนจากคำทำนาย: อย่าเชื่อทั้งหมด",
+          "1:15": "ความยากลำบากในการทำนายอนาคต",
+          "2:00": "เรื่องเล่า 3 เรื่อง: Luddites, Terminator และ ต้นไม้แห่งเงิน",
+          "2:56": "บทบาทของ Luddites และความกลัวต่อเทคโนโลยี",
+          "3:14": "Terminator: ภาพสะท้อนของความกลัว AI",
+          "3:45": "ต้นไม้แห่งเงิน: คุณค่าของมนุษย์ในโลกที่ AI ครอง",
+          "4:22": "การวิเคราะห์ 3 เรื่องเล่า",
+          "5:45": "งานในศตวรรษที่ 21 เปรียบเสมือนศาสนา",
+          "6:50": "การตัดสินคุณค่าของมนุษย์ในอนาคต",
+          "7:17": "คำถามสำคัญ: AI แย่งงานมนุษย์ หมายความว่าอย่างไร?",
+          "7:47": "ผลกระทบของ AI ต่อสังคมและเศรษฐกิจ",
+          "8:09": "สรุปและบทส่งท้าย"
+        }
       },
       "content": "",
       "filePath": "data/videos/worldwithoutwork/s1.md",
-      "imageFilePath": "data/videos/worldwithoutwork/s1.jpg"
+      "imageFilePath": "data/videos/worldwithoutwork/s1.jpg",
+      "thaiSubtitlePath": "data/videos/worldwithoutwork/s1_th.vtt"
     },
     {
       "event": "worldwithoutwork",
@@ -3613,11 +3634,50 @@
         "type": "talk",
         "youtube": "mVv6kDiTxgM",
         "managed": true,
-        "published": "2024-08-17"
+        "description": "ใน Session นี้ ภูมิ Software Engineer จาก Metabase และผู้จัดงานในไทย ชวนตั้งคำถามและสำรวจความกังวลเรื่อง AI จะมาแทนที่งานของมนุษย์ โดยเปรียบเทียบกับ Hype Cycle ของเทคโนโลยีต่างๆ ในอดีต เช่น dot-com bubble และ crypto ภูมิอธิบายถึงธรรมชาติและข้อจำกัดของ AI พร้อมยกตัวอย่างงานวิจัยที่ช่วยให้เข้าใจการทำงานของ AI มากขึ้น Session นี้เหมาะสำหรับผู้ที่สนใจผลกระทบของ AI ต่อตลาดแรงงาน และต้องการเข้าใจความเป็นไปได้และข้อจำกัดของ AI ในปัจจุบัน\n",
+        "published": "2024-08-17",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและหัวข้อ: AI จะมาแทนที่โปรแกรมเมอร์ไหม?",
+          "0:34": "ความกลัว AI ในสังคมไทย: ทุกอาชีพจะถูกแทนที่?",
+          "1:20": "ตัวอย่างความคิดเห็นสุดโต่งเกี่ยวกับ AI",
+          "2:16": "Hype Cycle: AI ไม่ใช่เทคโนโลยีแรกที่ถูก Hype",
+          "2:24": "ตัวอย่าง Hype Cycle: จาก Dot-com Bubble ถึง Digital Wallet",
+          "3:00": "Hype Cycle: Zoom, Crypto, Metaverse และบทเรียนที่ได้",
+          "4:00": "Digital Wallet กับ Blockchain: เทคโนโลยีที่ใช่กับปัญหาที่ถูกต้อง",
+          "5:16": "Law of the Instrument: เมื่อค้อนทุบได้ทุกอย่าง",
+          "6:00": "Blockchain: ความเหมาะสมกับบริบททางการเงิน",
+          "7:18": "Crypto Bro สู่ AI Bro: วงจรความเชื่อเกินจริง",
+          "8:53": "Hype Cycle for Emerging Technologies: 5 ระยะของเทคโนโลยี",
+          "10:15": "มองหา Use Case จริงๆ หลัง Hype Cycle จบลง",
+          "10:45": "ธรรมชาติและข้อจำกัดของเทคโนโลยี: ยานอวกาศไปดาวดวงอื่น?",
+          "12:05": "Theoretical Limit: ข้อจำกัดทางทฤษฎีที่ AI Bro มักมองข้าม",
+          "12:53": "Hype Cycle บิดเบือนความเป็นไปได้ของเทคโนโลยี",
+          "13:58": "2 ตัวแปรสำคัญ: ธรรมชาติและข้อจำกัดของ AI",
+          "14:31": "Life 3.0: AI จะฉลาดจนทำได้ทุกอย่างจริงหรือ?",
+          "15:01": "ทักษะที่ AI ทำได้และทำไม่ได้: มองเป็น Task ไม่ใช่อาชีพ",
+          "17:18": "Myth & Fact เกี่ยวกับ Superintelligence AI",
+          "18:07": "3 ลักษณะพื้นฐานของ AI: ความเป็นสถิติ, Optimization, Generalization",
+          "18:38": "ตัวอย่างความผิดพลาดจากการใช้ AI โดยไม่เข้าใจ: Air Canada & AI Copilot",
+          "19:52": "Moral of the Story: อย่าใช้อะไรที่ Verify ไม่ได้",
+          "20:26": "AI กับงานทนายความ: ใช้ได้ แต่ต้องตรวจสอบ",
+          "21:27": "AI มีแนวโน้มจะ 'โอ๋' เรา: ยิ่งไม่เข้าใจ ยิ่งใช้ AI ไม่ได้ผล",
+          "22:21": "ข้อจำกัดของ AI ในปัจจุบัน อาจไม่ใช่ข้อจำกัดในอนาคต",
+          "22:54": "Mechanistic Interpretability: ทำความเข้าใจการทำงานของ AI",
+          "24:43": "ความเข้าใจเกี่ยวกับ AI เปลี่ยนแปลงตลอดเวลา",
+          "25:07": "Yann LeCun: AI ในปัจจุบันยังไม่ฉลาดจริง",
+          "26:18": "สรุป: ความเป็นไปได้ของ AI ในอนาคตยังคงเป็นปริศนา",
+          "27:02": "จุดแข็งของมนุษย์: ความอยากรู้อยากเห็น, อารมณ์, Human Touch",
+          "27:29": "AI แทนที่ Tasks ไม่ใช่ Jobs: พัฒนาตัวเองให้ AI แทนที่ไม่ได้",
+          "27:53": "แนะนำหนังสือ: Whiplash - กฎของโลกยุคใหม่"
+        }
       },
       "content": "",
       "filePath": "data/videos/worldwithoutwork/s2.md",
-      "imageFilePath": "data/videos/worldwithoutwork/s2.jpg"
+      "imageFilePath": "data/videos/worldwithoutwork/s2.jpg",
+      "thaiSubtitlePath": "data/videos/worldwithoutwork/s2_th.vtt"
     },
     {
       "event": "worldwithoutwork",
@@ -3628,11 +3688,41 @@
         "type": "talk",
         "youtube": "uTfenmoi26k",
         "managed": true,
-        "published": "2024-08-18"
+        "description": "อาจารย์สมทิพ วัฒนพงษ์วานิช จากคณะเศรษฐศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย นำเสนอมุมมองเกี่ยวกับผลกระทบของ AI ต่อตลาดแรงงานในยุคเศรษฐกิจดิจิทัล อาจารย์อธิบายทฤษฎีทางเศรษฐศาสตร์ที่เกี่ยวข้อง วิเคราะห์สถานการณ์ตลาดแรงงานไทยในปัจจุบัน และนำเสนอความท้าทายที่ประเทศไทยกำลังเผชิญ เช่น การขาดแคลนแรงงานทักษะสูง และประชากรสูงวัย นอกจากนี้ยังยกตัวอย่างนโยบาย upskilling และ reskilling ที่ประสบความสำเร็จจากประเทศอินโดนีเซีย เพื่อเป็นแนวทางในการพัฒนาทรัพยากรมนุษย์ของไทย วิดีโอนี้เหมาะสำหรับผู้ที่สนใจเรื่องเศรษฐกิจ การศึกษา และอนาคตของตลาดแรงงานในยุค AI\n",
+        "published": "2024-08-18",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวอาจารย์สมทิพ",
+          "0:12": "เศรษฐกิจ AI ในโลกไร้งาน: ผลกระทบต่อตลาดแรงงาน",
+          "1:00": "ผลกระทบของเทคโนโลยี: ด้านบวกและด้านลบ",
+          "2:02": "ตัวอย่างผลกระทบด้านบวกของเทคโนโลยี",
+          "4:06": "ตัวอย่างผลกระทบด้านลบของเทคโนโลยี",
+          "6:22": "SBTC: เทคโนโลยีใหม่กับความต้องการแรงงานมีฝีมือ",
+          "9:11": "คำอธิบาย SBTC ใช้ได้นานแค่ไหน?",
+          "9:39": "Labor Market Polarization: ความต้องการแรงงานมีฝีมือสูงและต่ำเพิ่มขึ้น",
+          "11:52": "ALM Hypothesis: มองผลกระทบของเทคโนโลยีในมุมมองของ Task",
+          "13:14": "Routine vs. Non-routine Tasks: อะไรคือตัวแปรสำคัญ?",
+          "16:10": "เทคโนโลยีทดแทนหรือส่งเสริมงานแบบไหน?",
+          "19:18": "ผลกระทบของ AI ต่อตลาดแรงงาน: ChatGPT Case Study",
+          "21:56": "ChatGPT จะส่งผลกระทบต่ออาชีพใดบ้าง?",
+          "25:22": "Automation vs. Augmentation: AI จะกระทบแรงงานกลุ่มใด?",
+          "27:16": "สถานการณ์ตลาดแรงงานไทย: น่ากังวลอย่างไร?",
+          "28:00": "แรงงานไทยจบสาขาใดมากที่สุด?",
+          "29:07": "ระดับการศึกษา vs. ค่าจ้างเฉลี่ยในประเทศไทย",
+          "31:38": "ค่าจ้างเฉลี่ยแยกตามระดับ Skill: ป.ตรี vs. อนุปริญญา",
+          "34:59": "ค่าจ้าง vs. ประสบการณ์ทำงาน: Skill มีผลอย่างไร?",
+          "36:23": "ความท้าทายของตลาดแรงงานไทย: สังคมสูงวัยและแรงงานข้ามชาติ",
+          "38:56": "แนวทางรับมือกับความเปลี่ยนแปลง: ปฏิรูปการศึกษาและ Reskill",
+          "40:05": "Case Study: โครงการ Pre-employment Card ของอินโดนีเซีย",
+          "42:50": "บทสรุปและข้อคิด: เตรียมพร้อมรับมือกับอนาคต"
+        }
       },
       "content": "",
       "filePath": "data/videos/worldwithoutwork/s3.md",
-      "imageFilePath": "data/videos/worldwithoutwork/s3.jpg"
+      "imageFilePath": "data/videos/worldwithoutwork/s3.jpg",
+      "thaiSubtitlePath": "data/videos/worldwithoutwork/s3_th.vtt"
     },
     {
       "event": "worldwithoutwork",
@@ -3643,11 +3733,40 @@
         "type": "talk",
         "youtube": "p29iaNqVze4",
         "managed": true,
-        "published": "2024-08-19"
+        "description": "พบกับคุณไท ปังสกุลยานนท์ Software Engineer จาก Eventpop ในหัวข้อ Transforming Lifestyle ที่จะมาเล่าถึงประสบการณ์การใช้ AI tools ในชีวิตประจำวันและการทำงาน คุณไทจะพาไปดูตัวอย่างการใช้งานจริง ตั้งแต่ GitHub Copilot ที่ช่วยประหยัดเวลาในการเขียนโค้ด ไปจนถึงการใช้ large language model อย่าง Gemini ในการสร้าง subtitle ภาษาไทยที่มีคุณภาพสูง นอกจากนี้ยังมีการแนะนำเครื่องมือและเทคนิคต่างๆ ที่ช่วยให้การทำงานสะดวกและมีประสิทธิภาพมากขึ้น ไม่ว่าคุณจะเป็นนักพัฒนาหรือผู้ที่สนใจการนำ AI มาประยุกต์ใช้ วิดีโอนี้จะช่วยเปิดมุมมองใหม่ๆ และสร้างแรงบันดาลใจในการใช้ AI เพื่อพัฒนาชีวิตและการทำงานของคุณ\n",
+        "published": "2024-08-19",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัว",
+          "1:00": "AI Tools ช่วยโปรแกรมเมอร์ทำงานอย่างไร",
+          "1:30": "GitHub Copilot: ลดการพิมพ์ ลดอาการบาดเจ็บ",
+          "2:56": "ใช้ AI อย่างชาญฉลาด: เลือกใช้ตามความต้องการ",
+          "3:58": "Creatorsgarten: ใช้ AI สร้าง Subtitle อัตโนมัติ",
+          "5:36": "เปรียบเทียบค่าใช้จ่าย: ทำเอง / จ้างทำ / ใช้ AI ช่วย",
+          "6:19": "ลดเวลาทำ Subtitle จาก 8 ชั่วโมง เหลือ 1 ชั่วโมง",
+          "8:41": "ใช้ AI สรุปเนื้อหาวีดิโอ และช่วยออกแบบ UI ของเว็บไซต์",
+          "9:43": "LLM ปี 2024: ฉลาดขึ้นอย่างก้าวกระโดด",
+          "10:01": "AI สอบ O-NET ได้คะแนนดีกว่าเด็ก ม.6",
+          "11:02": "AI ตอบจำหนังสือ Bible ได้แทบทั้งเล่ม",
+          "11:37": "AI เปลี่ยน Routine การทำงานอย่างไร",
+          "11:55": "AI ช่วยต่ออายุอาชีพโปรแกรมเมอร์",
+          "12:22": "คำแนะนำสำหรับคนสายอื่นๆ ที่อยากใช้ AI",
+          "12:53": "เปรียบเทียบ 3 โมเดล AI: ChatGPT, Claude, Gemini",
+          "14:01": "ใช้เครื่องมือเบื้องหลัง AI: OpenAI Platform, Google AI Studio",
+          "14:36": "ตัวอย่างการใช้ Google AI Studio สรุปใบเสร็จ",
+          "15:57": "แนะนำเครื่องมือ AI อื่นๆ",
+          "16:20": "ถาม-ตอบ Q&A",
+          "17:02": "Gemini 1.5: แปลบทความภาษาไทยได้อย่างเป็นธรรมชาติ",
+          "18:16": "ตัวอย่างการใช้ AI จัดการค่าใช้จ่าย",
+          "19:06": "AI ช่วยให้คนเราทำอะไรได้เยอะขึ้นกว่าเดิม"
+        }
       },
       "content": "",
       "filePath": "data/videos/worldwithoutwork/s4.md",
-      "imageFilePath": "data/videos/worldwithoutwork/s4.jpg"
+      "imageFilePath": "data/videos/worldwithoutwork/s4.jpg",
+      "thaiSubtitlePath": "data/videos/worldwithoutwork/s4_th.vtt"
     },
     {
       "event": "worldwithoutwork",
@@ -3658,11 +3777,38 @@
         "type": "talk",
         "youtube": "KhB3mGFd2p0",
         "managed": true,
-        "published": "2024-08-20"
+        "description": "โลกไร้งาน? อนาคตที่ AI อาจเข้ามาแทนที่แรงงานมนุษย์ ฟังมุมมองเชิงเศรษฐศาสตร์จากอาจารย์ผู้เชี่ยวชาญ ถึงผลกระทบของ AI ต่อตลาดแรงงานในประเทศไทย พร้อมแนวทางรับมือและการปรับตัวเพื่อเตรียมพร้อมสำหรับอนาคต การลงทุนในทักษะ การสร้างงานใหม่ และบทบาทของรัฐบาลในการช่วยเหลือประชาชน รวมถึงการพูดคุยถึงแนวคิด UBI หรือรายได้พื้นฐานถ้วนหน้า และการสร้างสมดุลระหว่างชีวิตและการทำงาน มาร่วมหาคำตอบและเตรียมพร้อมรับมือกับโลกที่กำลังเปลี่ยนแปลงไป\n",
+        "published": "2024-08-20",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "บทนำ: โลกไร้งานกับผลกระทบต่อเศรษฐกิจไทย",
+          "0:11": "AI แย่งงานคนจริงหรือ? มุมมองเชิงเศรษฐศาสตร์",
+          "1:07": "การสูญเสียงานในสังคมไทย: ปัญหาที่ถูกมองข้าม",
+          "2:13": "การลงทุนในทักษะและการแข่งขัน: ทางรอดของเศรษฐกิจไทย",
+          "3:17": "บทเรียนจากอินโดนีเซีย: การฝึกอบรมแบบ Demand-Driven",
+          "4:54": "งบประมาณเพื่อพัฒนาทักษะ: 5 ล้านคน 5 หมื่นล้านบาท",
+          "5:59": "การสูญเสียความสามารถในการแข่งขัน: อีกหนึ่งปัญหาใหญ่",
+          "7:12": "อุตสาหกรรมใหม่กับความท้าทายของการเปลี่ยนผ่าน",
+          "7:57": "อนาคตไร้งาน: ความเป็นไปได้และผลกระทบ",
+          "9:22": "การสูญเสียงาน 10 ล้านตำแหน่ง: วิกฤตเศรษฐกิจไทย",
+          "11:41": "โลกไร้งาน: ความหดหู่ของมนุษย์",
+          "12:34": "บทบาทของรัฐบาล: การรับมือกับผลกระทบจาก AI",
+          "14:37": "เศรษฐกิจสร้างสรรค์และ Demand Mismatch: โอกาสใหม่ๆ",
+          "17:06": "UBI (Universal Basic Income): ทางเลือกสำหรับอนาคต?",
+          "18:50": "ข้อจำกัดของ UBI และแนวทางการปรับใช้ในไทย",
+          "20:11": "เสียงสะท้อนจากประชาชน: UBI ในมุมมองคนกรุงเทพฯ และคนต่างจังหวัด",
+          "21:12": "ลัทธิบูชางาน: ปัญหาความสัมพันธ์ระหว่างคนกับงาน",
+          "22:00": "เรารักงาน แล้วงานรักเรามั้ย? มุมมองใหม่ต่อการทำงาน",
+          "24:00": "การทำงาน: โอกาสในการพบปะผู้คนและการเรียนรู้",
+          "25:09": "บทสรุป: Work-Life Balance ในยุค AI"
+        }
       },
       "content": "",
       "filePath": "data/videos/worldwithoutwork/s5.md",
-      "imageFilePath": "data/videos/worldwithoutwork/s5.jpg"
+      "imageFilePath": "data/videos/worldwithoutwork/s5.jpg",
+      "thaiSubtitlePath": "data/videos/worldwithoutwork/s5_th.vtt"
     }
   ]
 }
