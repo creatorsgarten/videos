@@ -106,4 +106,11 @@ const events = [
   new Event('wind2', 'Code in the Wind #2'),
   new Event('algorave', 'a bit of thai tunes'),
   new Event('worldwithoutwork', 'เศรษฐกิจเอไอกับโลกไร้งาน'),
+  new Event('supabase', 'Supabase Meetup Bangkok 1.0', {
+    urlOverride: 'https://guild.host/events/supabase-bangkok-meetup-le6a9z',
+    externalOrganizer: {
+      name: 'DevTools Bangkok',
+      url: 'https://guild.host/devtools-bangkok',
+    },
+  }),
 ]
