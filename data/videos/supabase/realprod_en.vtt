@@ -1,0 +1,716 @@
+WEBVTT
+
+00:00:01.100 --> 00:00:04.233
+Thank you so much everyone.
+I'm really happy to be here.
+
+00:00:04.300 --> 00:00:09.333
+And today I would like to talk about
+how I use Supabase in a real world
+
+00:00:09.400 --> 00:00:13.933
+project in something that we're not
+going to be talking about the theory.
+
+00:00:14.000 --> 00:00:16.433
+Instead, we're going to be
+talking about practice.
+
+00:00:16.500 --> 00:00:23.433
+And I've been a full stack developer
+working mostly on CRMs and AI systems
+
+00:00:23.500 --> 00:00:29.533
+for UK and Israel, and I also
+contribute to open source a lot.
+
+00:00:29.600 --> 00:00:32.232
+For example,
+there is a front end library
+
+00:00:32.299 --> 00:00:36.833
+that is quite popular on GitHub.
+It has 27,000 stars on GitHub
+
+00:00:36.900 --> 00:00:40.833
+and more than 6 million
+downloads each month.
+
+00:00:40.900 --> 00:00:44.233
+And you can find me in the list
+of the top contributors.
+
+00:00:44.300 --> 00:00:48.333
+So a few months ago,
+I decided to switch completely
+
+00:00:48.400 --> 00:00:52.733
+to bootstrapping my own project.
+I do believe that every developer
+
+00:00:52.800 --> 00:00:56.733
+should try at least once in a
+lifetime to build his own project,
+
+00:00:56.800 --> 00:01:01.433
+because it allows to see the
+bigger picture.
+
+00:01:01.500 --> 00:01:06.233
+It allows you to see beyond the code
+to understand better business needs.
+
+00:01:06.300 --> 00:01:10.133
+And I do believe that Supabase is
+a really great platform for that,
+
+00:01:10.200 --> 00:01:14.433
+because it can basically replace a
+team of, I don't know, like back
+
+00:01:14.500 --> 00:01:18.833
+end engineers, DevOps engineers,
+some kind of database engineers.
+
+00:01:18.900 --> 00:01:23.032
+So you can have everything in
+one platform and run project
+
+00:01:23.100 --> 00:01:28.032
+just by your own.
+And in this talk I'm first briefly
+
+00:01:28.100 --> 00:01:30.333
+I'm going to talk about the project.
+So you get the context.
+
+00:01:30.400 --> 00:01:35.133
+And then we switch to Supabase
+features that I find very useful.
+
+00:01:35.200 --> 00:01:37.933
+And I do believe that you will
+find them useful too.
+
+00:01:40.500 --> 00:01:45.233
+So just to get you the basic idea.
+Currently the it is database
+
+00:01:45.300 --> 00:01:51.233
+Supabase dashboard that shows
+that it has like 10,000 database
+
+00:01:51.300 --> 00:01:56.933
+requests per day, and it has
+around 6000 monthly active users.
+
+00:01:57.000 --> 00:02:01.933
+And so you can understand that
+is a project that is being used
+
+00:02:02.000 --> 00:02:07.733
+by real users.
+And let's talk about the project
+
+00:02:07.800 --> 00:02:12.233
+first very briefly.
+Like do you know that like 60%
+
+00:02:12.300 --> 00:02:18.333
+of information that we get gets
+forgotten in an hour and in one
+
+00:02:18.400 --> 00:02:23.833
+week, only 10% of information remains.
+
+00:02:23.900 --> 00:02:29.933
+This rule was discovered by German
+scientist Hermann Ebbinghaus.
+
+00:02:30.000 --> 00:02:33.632
+And actually,
+it's quite good because, like,
+
+00:02:33.700 --> 00:02:37.433
+we don't need to keep everything
+that happened to us in our brain.
+
+00:02:37.500 --> 00:02:42.933
+But in case you study a language or
+music theory or history, you would
+
+00:02:43.000 --> 00:02:47.733
+like information that you already
+learned to persist in your brain.
+
+00:02:47.800 --> 00:02:54.033
+So to achieve that, you need to
+repeat the information and you don't
+
+00:02:54.100 --> 00:03:01.733
+have to repeat Information every day.
+Instead, you can use the spaced
+
+00:03:01.800 --> 00:03:04.132
+repetition approach.
+For example, you can repeat
+
+00:03:04.200 --> 00:03:08.132
+information on the first day,
+then on the third day, then on the
+
+00:03:08.200 --> 00:03:12.333
+sixth day, then 25, and so on.
+So the idea is that you don't
+
+00:03:12.400 --> 00:03:16.632
+need to spend a lot of time
+repeating information.
+
+00:03:16.700 --> 00:03:22.233
+So you can spend less time but
+still be like but still
+
+00:03:22.300 --> 00:03:27.233
+effectively memorize everything.
+And this is what the application I
+
+00:03:27.300 --> 00:03:35.433
+built based on. So simple example.
+You study English language and
+
+00:03:35.500 --> 00:03:37.632
+you want to remember the phrase
+get ahead.
+
+00:03:37.700 --> 00:03:40.533
+So you add a card with this
+information.
+
+00:03:40.600 --> 00:03:46.933
+And if you answer it correctly then
+the app automatically schedules all
+
+00:03:47.000 --> 00:03:50.333
+the this word to repeat in one day,
+in three days, in six days,
+
+00:03:50.400 --> 00:03:53.833
+and so on and so on.
+But if you fail to repeat,
+
+00:03:53.900 --> 00:04:02.033
+you don't remember Then the intervals
+are shorter. And then you get
+
+00:04:02.100 --> 00:04:07.233
+smart notifications.
+So all of it is built using Supabase.
+
+00:04:07.300 --> 00:04:12.733
+And how it all started.
+First you need to create a lot of
+
+00:04:12.800 --> 00:04:18.733
+tables, and Supabase provides the
+most, let's say user friendly way
+
+00:04:18.800 --> 00:04:24.133
+to scaffold the database schema.
+You just use graphical interface
+
+00:04:24.200 --> 00:04:27.433
+to create all of your tables.
+For example, in my case I have tables
+
+00:04:27.500 --> 00:04:33.832
+with users. Each user has many decks.
+A deck is like a group of cards.
+
+00:04:33.900 --> 00:04:38.332
+Then each deck has a lot of cards
+and each card has a lot of reviews.
+
+00:04:38.400 --> 00:04:43.033
+So the same card can be reused
+multiple times by the same user
+
+00:04:43.100 --> 00:04:47.533
+or by another one.
+And once you finish,
+
+00:04:47.600 --> 00:04:52.533
+you are ready to basically to
+export it into a real database
+
+00:04:52.600 --> 00:04:56.332
+that is available to the internet.
+So you just create something on
+
+00:04:56.400 --> 00:05:00.133
+the internet, and then Supabase
+allows you to convert it to a
+
+00:05:00.200 --> 00:05:03.933
+database that you can use in your
+code that is publicly available.
+
+00:05:09.200 --> 00:05:13.733
+And how to use it.
+So you have a basic SDK.
+
+00:05:13.800 --> 00:05:17.733
+I'm going to show examples in
+JavaScript, but you can use any
+
+00:05:17.800 --> 00:05:21.233
+language you want.
+And here we just need to access
+
+00:05:21.300 --> 00:05:24.533
+Supabase.
+We specify the table, then the
+
+00:05:24.600 --> 00:05:28.633
+operation if you want to query
+something or create a new record.
+
+00:05:28.700 --> 00:05:33.133
+So we specify all the fields and
+then we specify what to select.
+
+00:05:36.600 --> 00:05:40.733
+A really nice feature that I enjoy
+is that Supabase allows you to
+
+00:05:40.800 --> 00:05:47.332
+generate all of your types in code.
+So basically you don't have to
+
+00:05:47.400 --> 00:05:51.533
+transfer manually all of the tables,
+all of the fields to your code.
+
+00:05:51.600 --> 00:05:55.533
+Instead you run one Supabase
+command and you get all of this
+
+00:05:55.600 --> 00:06:00.233
+structure in your code.
+So in my case, for like an
+
+00:06:00.300 --> 00:06:05.533
+application that has a lot of users,
+Supabase generates me around
+
+00:06:05.600 --> 00:06:09.933
+2000 lines of code and it keeps
+them automatically updated.
+
+00:06:10.000 --> 00:06:14.233
+So let's say I decided to remove
+some field or rename some field.
+
+00:06:14.300 --> 00:06:19.332
+Once I done this in the database,
+I, I can just run the command.
+
+00:06:19.400 --> 00:06:23.233
+And then these fields gets
+removed from this schema.
+
+00:06:23.300 --> 00:06:27.733
+And thanks to TypeScript,
+it can point me to the part of
+
+00:06:27.800 --> 00:06:33.233
+code where these fields were used.
+And you get TypeScript
+
+00:06:33.300 --> 00:06:36.533
+compilation error.
+So until you fix all those issues,
+
+00:06:36.600 --> 00:06:39.933
+you won't be able to compile
+your project.
+
+00:06:40.000 --> 00:06:43.933
+And I believe it's very nice since
+it allows you to iterate faster.
+
+00:06:44.000 --> 00:06:47.733
+It allows you to do less bugs in
+production.
+
+00:06:48.400 --> 00:06:56.533
+So this feature I use a lot.
+One of the decisive way for me to
+
+00:06:56.600 --> 00:07:02.433
+choose something like Supabase over,
+like something like Firebase is the
+
+00:07:02.500 --> 00:07:08.533
+idea is that I can write my own SQL
+query, and the SQL relational data
+
+00:07:08.600 --> 00:07:13.433
+is already optimized for all the,
+let's say, queries.
+
+00:07:13.500 --> 00:07:16.733
+All the combinations of data
+that you may want to use.
+
+00:07:16.800 --> 00:07:20.233
+The data is already stored in
+that way that you can run some
+
+00:07:20.300 --> 00:07:24.033
+analytical queries, queries,
+and they're going to be like
+
+00:07:24.100 --> 00:07:27.633
+it's very easy to implement.
+So for that you can go to Supabase
+
+00:07:27.700 --> 00:07:32.533
+dashboard and then select SQL editor.
+And for example write a SQL
+
+00:07:32.600 --> 00:07:39.533
+query that groups all the users
+by by the language.
+
+00:07:39.600 --> 00:07:42.233
+So and here is going to be the
+result.
+
+00:07:42.300 --> 00:07:47.533
+You can see the amount of users
+and then the percent percentage.
+
+00:07:47.600 --> 00:07:52.533
+It's something like that PostgreSQL
+allows to do. It's called window.
+
+00:07:52.600 --> 00:07:55.832
+Window function.
+And you can use it for advanced
+
+00:07:55.900 --> 00:07:59.933
+analytical queries.
+It is something that I really miss
+
+00:08:00.000 --> 00:08:05.033
+in NoSQL database for example.
+Moreover, you can of course use
+
+00:08:05.100 --> 00:08:10.233
+I to generate query for you in
+case you think like okay, why?
+
+00:08:10.300 --> 00:08:13.933
+Why should I bother myself doing
+that? Let's I do the job.
+
+00:08:14.000 --> 00:08:19.832
+So here I show how to do that.
+So I ask, I show me the number of
+
+00:08:19.900 --> 00:08:23.933
+active users for the last month,
+and I specify that active is
+
+00:08:24.000 --> 00:08:28.133
+someone who has.
+So who has logged in within the
+
+00:08:28.200 --> 00:08:32.633
+current month.
+So and the AI assistant automatically
+
+00:08:32.700 --> 00:08:38.433
+provided me the correct SQL query.
+And the real killer feature for me is
+
+00:08:38.500 --> 00:08:44.333
+that Supabase actually knows all of
+your structure, so it really can
+
+00:08:44.400 --> 00:08:49.133
+create correct queries based on your
+data because it knows everything
+
+00:08:49.200 --> 00:08:52.333
+about all of your database.
+And you may be wondering,
+
+00:08:52.400 --> 00:08:57.633
+how am I going to use it in the
+code so you can ask it like to
+
+00:08:57.700 --> 00:09:02.333
+turn it into PostgreSQL function.
+Now you see that the I used the same
+
+00:09:02.400 --> 00:09:08.533
+function, but it it is now wrapped
+in an expression that turns it
+
+00:09:08.600 --> 00:09:13.433
+into a function, and the function
+is called like get_active_users_last_month
+
+00:09:13.500 --> 00:09:17.433
+It automatically
+provided all the types,
+
+00:09:17.500 --> 00:09:25.633
+so it returns integer as a result.
+And once it is available you can
+
+00:09:25.700 --> 00:09:29.933
+call it in a in your code.
+So you just refer to supabase.rpc
+
+00:09:30.000 --> 00:09:33.433
+Then you specify the name of the
+
+00:09:33.500 --> 00:09:37.133
+function. And again because Supabase
+
+00:09:37.200 --> 00:09:43.033
+generates all of the types for you
+here you not only have tables,
+
+00:09:43.100 --> 00:09:48.533
+but you also have functions.
+So all the functions like function
+
+00:09:48.600 --> 00:09:53.733
+signature or the correct return type,
+everything is going to be
+
+00:09:53.800 --> 00:09:57.933
+perfectly typed for TypeScript.
+And it's really nice.
+
+00:10:01.400 --> 00:10:04.733
+So I also use Supabase to store files.
+
+00:10:04.800 --> 00:10:09.933
+For example, if I decide to study
+tie, this is how I study tie.
+
+00:10:10.000 --> 00:10:14.033
+By the way,
+I can create a file with voice
+
+00:10:14.100 --> 00:10:19.933
+that says Sawasdee Krub in Thai,
+and after the record is created
+
+00:10:20.000 --> 00:10:26.133
+using OpenAI, I can store it in
+a database and in the Supabase.
+
+00:10:26.200 --> 00:10:30.533
+So I just use storage, specify bucket
+ID which is like a folder for files.
+
+00:10:30.600 --> 00:10:35.633
+Then I specify a file name the
+actual file and that's enough.
+
+00:10:35.700 --> 00:10:41.933
+Then you get the URL which you can
+attach to this card, which is like in
+
+00:10:42.000 --> 00:10:47.333
+my case the card was somebody crap.
+So I can attach this voice and
+
+00:10:47.400 --> 00:10:54.633
+store it in Supabase.
+And the final step is how to
+
+00:10:54.700 --> 00:10:57.933
+optimize database.
+The database optimization is
+
+00:10:58.000 --> 00:11:02.333
+kind of a broad topic,
+and I'm only going to cover indexes
+
+00:11:02.400 --> 00:11:07.433
+because it's a lot to cover.
+And when we think about how to
+
+00:11:07.500 --> 00:11:11.633
+optimize database,
+we need to like apply basic
+
+00:11:11.700 --> 00:11:16.933
+patterns that we use in real life.
+For example, that let's say we have
+
+00:11:17.000 --> 00:11:22.933
+a book, we have a book, and we
+would like to find the word apple.
+
+00:11:23.000 --> 00:11:25.333
+There is someone somewhere word
+apple.
+
+00:11:25.400 --> 00:11:30.233
+But we know that if this book is
+alphabetically sorted from A to Z,
+
+00:11:30.300 --> 00:11:33.333
+the word apple should be
+somewhere in the very beginning.
+
+00:11:33.400 --> 00:11:37.333
+This way you can narrow down the
+search and save the time.
+
+00:11:37.400 --> 00:11:43.833
+So this is how all these indexes
+work in the database in this query,
+
+00:11:44.400 --> 00:11:48.433
+I would like to get all the
+cards created by specific user.
+
+00:11:48.500 --> 00:11:55.033
+So the apple here is the user ID.
+So we need to create an index for
+
+00:11:55.100 --> 00:12:01.133
+this field and for this query.
+And Supabase allows us to do that.
+
+00:12:01.200 --> 00:12:07.333
+So in the dashboard you can go
+to to the indexes tab.
+
+00:12:07.400 --> 00:12:11.733
+And then you specify the deck
+and the column which you would
+
+00:12:11.800 --> 00:12:17.033
+like to be indexed.
+You might be wondering why not.
+
+00:12:17.100 --> 00:12:22.033
+Why can't Supabase or PostgreSQL
+create all the indexes by itself?
+
+00:12:22.100 --> 00:12:26.833
+The issue is that creating index
+has some performance penalties.
+
+00:12:26.900 --> 00:12:31.533
+So like it simplifies reading.
+So the reading is faster.
+
+00:12:31.600 --> 00:12:36.133
+But when you create a lot of
+indexes the writing becomes slower.
+
+00:12:36.200 --> 00:12:40.833
+Because let's say you have a table
+with ten fields and then you insert
+
+00:12:40.900 --> 00:12:45.433
+one record with ten indexes.
+And then when you create this record,
+
+00:12:45.500 --> 00:12:47.633
+you need to.
+Create an indexes so it slows
+
+00:12:47.700 --> 00:12:52.433
+down the insert while speeding
+up the read.
+
+00:12:52.500 --> 00:12:55.833
+So that's why you need to like
+fully control it.
+
+00:13:01.000 --> 00:13:06.033
+To figure out which field
+requires an index,
+
+00:13:06.100 --> 00:13:11.933
+there is a PostgreSQL extension that
+is built inside Supabase and you
+
+00:13:12.000 --> 00:13:17.433
+can run your query that you have.
+It may be as complex as you wish,
+
+00:13:17.500 --> 00:13:22.933
+and then it shows you which
+fields require an index in this
+
+00:13:23.000 --> 00:13:27.933
+specific query.
+Or instead of using CLI, you can go
+
+00:13:28.000 --> 00:13:33.533
+to the indexes dashboard and see,
+for example, most time consuming
+
+00:13:33.600 --> 00:13:38.333
+queries most frequent and those
+that have slowest execution.
+
+00:13:38.400 --> 00:13:43.933
+So and this way it provides you
+the list of indexes that needs
+
+00:13:44.000 --> 00:13:48.533
+to be created that internally
+use this index advisor tool.
+
+00:13:50.300 --> 00:13:54.933
+So as a summary, we learned how to
+create database structure via user
+
+00:13:55.000 --> 00:13:59.533
+interface instead of CLI, how to
+automatically generate TypeScript.
+
+00:13:59.600 --> 00:14:04.033
+So you don't need to manually
+transfer all the fields from
+
+00:14:04.100 --> 00:14:09.233
+your database to your code.
+How to write your own SQL for queries
+
+00:14:09.300 --> 00:14:14.233
+and how to use AI to do it for
+you instead. How to upload files.
+
+00:14:14.300 --> 00:14:17.633
+Because Supabase is not only a
+cloud platform is a full stack
+
+00:14:17.700 --> 00:14:22.233
+platform that can replace a team
+of developers and how to optimize
+
+00:14:22.300 --> 00:14:26.833
+your database when it gets
+larger as your project grows.
+
+00:14:28.300 --> 00:14:32.233
+So thank you so much for for
+listening to me.
+
+00:14:32.300 --> 00:14:39.433
+And in case you're interested in the project.
