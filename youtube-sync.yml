@@ -12875,7 +12875,7 @@ video:uIBSyw8CD0s:
         etc.), please visit:
 
         https://grtn.org/e/supabase/v/supavfire/edit
-      defaultAudioLanguage: th
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -12979,7 +12979,7 @@ video:uIBSyw8CD0s:caption:en:
     language: en
     name: English
     hash: e737ec12ff3359f13839179ce3768d889cedfb2e3203e54ece2c46dfedb6a75a
-    isDraft: true
+    isDraft: false
   state:
     id: AUieDaax2FYuNNhO9wxOT-MZ7c-6Y10hCa_dGVuB26DksNJrEeSGOfH0
 video:uIBSyw8CD0s:caption:th:
@@ -12989,6 +12989,6 @@ video:uIBSyw8CD0s:caption:th:
     language: th
     name: Thai
     hash: efbe096fd6cc6bb95fb6caced7a3064938d13881e16aa8c66d01edf8247c5781
-    isDraft: true
+    isDraft: false
   state:
     id: AUieDaZLXo8jY8eXdABtIB_6EYdMwfIGSnDyjJ4lTELDtrp6mRZ0
