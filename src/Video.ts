@@ -33,6 +33,7 @@ const VideoFrontMatter = z.object({
   published: z
     .union([z.boolean(), z.string().regex(/^\d{4}-\d{2}-\d{2}(?:T[\d:.]+Z)?$/)])
     .optional(),
+  language: z.enum(['en', 'th']).default('th'),
   subtitles: z.array(z.string()).optional(),
   tags: z.array(z.string()).optional(),
   chapters: z.record(LocalizableText).optional(),
@@ -49,6 +50,7 @@ export class Video {
     public imageFilePath?: string,
     public englishSubtitlePath?: string,
     public thaiSubtitlePath?: string,
+    public videoLanguage?: 'en' | 'th',
   ) {}
   static async findAll() {
     const paths = await globby(['data/videos/**/*.md'])
@@ -71,6 +73,7 @@ export class Video {
           fs.existsSync(imageFilePath) ? imageFilePath : undefined,
           fs.existsSync(englishSubtitlePath) ? englishSubtitlePath : undefined,
           fs.existsSync(thaiSubtitlePath) ? thaiSubtitlePath : undefined,
+          data.language,
         ),
       )
     }

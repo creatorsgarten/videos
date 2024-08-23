@@ -255,7 +255,7 @@ for (const video of await Video.findAll()) {
   }
 
   if (video.englishSubtitlePath) {
-    snippet.defaultAudioLanguage = 'th'
+    snippet.defaultAudioLanguage = video.videoLanguage || 'th'
     resources.set(
       'video:' + data.youtube + ':caption:en',
       new YouTubeCaption({
@@ -272,7 +272,7 @@ for (const video of await Video.findAll()) {
     )
   }
   if (video.thaiSubtitlePath) {
-    snippet.defaultAudioLanguage = 'th'
+    snippet.defaultAudioLanguage = video.videoLanguage || 'th'
     resources.set(
       'video:' + data.youtube + ':caption:th',
       new YouTubeCaption({
