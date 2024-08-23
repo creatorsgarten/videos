@@ -1,0 +1,2053 @@
+WEBVTT
+
+00:00:02.500 --> 00:00:05.433
+Hello. Hey. Yeah.
+
+00:00:05.500 --> 00:00:07.433
+Thank you, everyone,
+for showing up today.
+
+00:00:08.800 --> 00:00:12.133
+It's a pleasure to be here,
+and I hope we can teach you a
+
+00:00:12.200 --> 00:00:15.833
+bit about Supabase today.
+And we thought maybe it's a
+
+00:00:15.900 --> 00:00:21.133
+great idea to compare Supabase
+to Firebase because Thailand
+
+00:00:21.200 --> 00:00:28.033
+seems to be a Firebase country.
+So maybe we will try to change that.
+
+00:00:28.100 --> 00:00:31.633
+I want to check Firebase users
+Who is a Firebase user?
+
+00:00:31.700 --> 00:00:35.433
+Can you show your hands? Okay.
+Seems like a lot more than Supabase.
+
+00:00:35.500 --> 00:00:38.533
+Okay we will try.
+So we set it up a little bit like
+
+00:00:38.600 --> 00:00:43.433
+a battle and try to keep it fun
+but also very short to give you
+
+00:00:43.500 --> 00:00:47.433
+like a high level overview of
+the features and compare them.
+
+00:00:47.500 --> 00:00:50.433
+And we'll have time for questions.
+So happy to answer any questions
+
+00:00:50.500 --> 00:00:53.633
+you have.
+You might get a chance to get a
+
+00:00:53.700 --> 00:01:00.033
+t-shirt, a Supabase t-shirt.
+Sorry, not a Firebase t shirt Yeah,
+
+00:01:00.100 --> 00:01:04.733
+but let's get started. Yeah.
+First round.
+
+00:01:04.800 --> 00:01:07.633
+We are all engineers. Round zero.
+Right. We start at zero.
+
+00:01:07.700 --> 00:01:10.933
+So introduction and I think I'm
+going to go first.
+
+00:01:11.000 --> 00:01:16.133
+Yeah I'm a representing Firebase
+today for the round zero for me.
+
+00:01:16.200 --> 00:01:20.633
+Just want to introduce for in case
+anyone never used Firebase before.
+
+00:01:20.700 --> 00:01:24.733
+So it can be the next slide.
+So Firebase is the ecosystem of the
+
+00:01:24.800 --> 00:01:29.433
+NoSQL from the Google Cloud next.
+Yeah I just want to show how the
+
+00:01:29.500 --> 00:01:32.433
+Firebase ecosystem is.
+So they can do many things just
+
+00:01:32.500 --> 00:01:36.433
+from the storage database and
+and the to the analytics.
+
+00:01:36.500 --> 00:01:38.633
+You can add these to your app
+inside of the Firebase.
+
+00:01:38.700 --> 00:01:43.433
+And there are many things is all
+in one kit for a a NoSQL database.
+
+00:01:43.500 --> 00:01:46.733
+And next slides.
+So the the main the main key
+
+00:01:46.800 --> 00:01:50.532
+point of the firebase for me is
+that they are integrated with
+
+00:01:50.600 --> 00:01:53.532
+the Google Cloud system.
+They if you are coming from the
+
+00:01:53.600 --> 00:01:57.933
+Google Cloud, it's like a no brainer
+for you to just pick Firebase
+
+00:01:58.000 --> 00:02:02.833
+for like for your main app.
+Not not just your main app, but it's
+
+00:02:02.900 --> 00:02:06.133
+it's maybe the easier choice for
+you if your existing infrastructure
+
+00:02:06.200 --> 00:02:10.333
+already on Google Cloud, you can
+migrate and use integrate it into the
+
+00:02:10.400 --> 00:02:14.632
+main system and a part of Firebase.
+There are Cloud Functions, which is the
+
+00:02:14.700 --> 00:02:17.533
+glue of every system.
+So when you are managing your data
+
+00:02:17.600 --> 00:02:20.833
+with Firebase, you can use the cloud
+function as the main logic to glue
+
+00:02:20.900 --> 00:02:25.132
+for your system from many systems,
+from Firebase to the cloud server from
+
+00:02:25.200 --> 00:02:35.433
+Google Cloud. Next slide please.
+Okay. And yeah there are many.
+
+00:02:35.500 --> 00:02:37.833
+The ecosystem from Firebase is
+very big.
+
+00:02:37.900 --> 00:02:41.132
+You can have the extension from
+just one click install.
+
+00:02:41.200 --> 00:02:43.733
+You can just integrate it with
+your Firebase.
+
+00:02:43.800 --> 00:02:47.933
+When the event trigger, it will
+execute one of these function.
+
+00:02:48.000 --> 00:02:50.233
+And you can have the one off the
+shelf.
+
+00:02:50.300 --> 00:02:53.733
+And they also have the GenAI support.
+
+00:02:53.800 --> 00:02:57.033
+There are many, Vertex AI,
+and then GenKit is a new one.
+
+00:02:57.100 --> 00:02:59.733
+And the Gemini for Firebase you
+can use Gemini inside of
+
+00:02:59.800 --> 00:03:05.433
+Firebase more easily. Yeah.
+And just to mention the firebase is
+
+00:03:05.500 --> 00:03:08.733
+that when you have the traditional
+backend service, most of the
+
+00:03:08.800 --> 00:03:11.632
+time when you have the backend,
+you will have the server and you will
+
+00:03:11.700 --> 00:03:15.233
+build the API to call the database.
+And once you have the Firebase
+
+00:03:15.300 --> 00:03:18.632
+it's just — not eliminated — but make
+your life easier.
+
+00:03:18.700 --> 00:03:20.733
+You don't have to build a
+backend API all the time.
+
+00:03:20.800 --> 00:03:25.132
+You can just use the client app
+to call it from SDK and connect
+
+00:03:25.200 --> 00:03:29.033
+with Firebase more easily.
+You can do a Crud, more simple,
+
+00:03:29.100 --> 00:03:32.632
+and that can reduce the task for
+you to build a backend.
+
+00:03:32.700 --> 00:03:36.632
+Yeah, and the one key point of
+Firebase is the real time feature.
+
+00:03:36.700 --> 00:03:39.632
+You can build a real time
+subscription when the database
+
+00:03:39.700 --> 00:03:42.433
+update all of your app.
+All of your client apps can be
+
+00:03:42.500 --> 00:03:46.733
+updated without having to refresh
+the page or reload the app.
+
+00:03:46.800 --> 00:03:49.533
+And also when someone updates,
+it can be all synced.
+
+00:03:51.100 --> 00:03:56.333
+Yeah, just to summarize the Firebase
+into main three point for me, I think
+
+00:03:56.400 --> 00:04:00.433
+the one point is a real time feature
+and the second one is event driven.
+
+00:04:00.500 --> 00:04:03.433
+So when you update the database,
+it will trigger the cloud function.
+
+00:04:03.500 --> 00:04:07.632
+You can like listen to the event and
+subscribe to the event more easily.
+
+00:04:07.700 --> 00:04:11.933
+And the NoSQL, the main feature of
+that is we built for read optimized.
+
+00:04:12.000 --> 00:04:17.033
+You can, if you want to have the read
+performance is like a key feature
+
+00:04:17.100 --> 00:04:22.332
+value that could make your app fast.
+So and moving on to the Supabase.
+
+00:04:23.000 --> 00:04:27.633
+Okay thank you. Poom! Nice try.
+Let's see what Supabase has to offer.
+
+00:04:28.600 --> 00:04:32.733
+So Supabase Supabase.
+They claim themselves as an open
+
+00:04:32.800 --> 00:04:36.933
+source alternative to Firebase,
+so you can already hear there's
+
+00:04:37.000 --> 00:04:40.233
+probably some overlap with the
+feature set of Firebase.
+
+00:04:40.300 --> 00:04:45.133
+And that's actually the case.
+So Firebase itself offers a database.
+
+00:04:45.200 --> 00:04:48.832
+Also the same — for Postgres.
+It's on top of Postgres database
+
+00:04:48.900 --> 00:04:50.832
+right.
+And all the features are
+
+00:04:50.900 --> 00:04:53.933
+implemented normally within the
+Postgres database.
+
+00:04:54.000 --> 00:04:57.933
+So the extensions or maybe build
+on top as APIs.
+
+00:04:58.000 --> 00:05:01.832
+So there's features like
+authentication there's APIs,
+
+00:05:01.900 --> 00:05:05.233
+there's edge functions.
+And we will dive a bit deeper
+
+00:05:05.300 --> 00:05:10.733
+into the feature set later on.
+So and a key feature I think for
+
+00:05:10.800 --> 00:05:15.433
+Supabase, if you ask someone or
+if you ask me, you can be really
+
+00:05:15.500 --> 00:05:21.332
+fast so you can impress your CEO.
+Maybe you're a small startup and
+
+00:05:21.400 --> 00:05:24.832
+you want to ship fast.
+Maybe supabase is a good choice
+
+00:05:24.900 --> 00:05:28.533
+because you can.
+You can be faster because you get
+
+00:05:28.600 --> 00:05:32.733
+a lot of features out of the box,
+and you can impress whoever is your
+
+00:05:32.800 --> 00:05:39.033
+boss, right? So it's very helpful.
+Next please. Okay.
+
+00:05:39.100 --> 00:05:44.933
+Supabase itself is Docker based.
+It's basically exposing several APIs,
+
+00:05:45.000 --> 00:05:48.133
+APIs for different services and
+different features that we're
+
+00:05:48.200 --> 00:05:52.733
+going to go through in the in the
+talk later on, they use Kong and
+
+00:05:52.800 --> 00:05:56.332
+then Kong will route to different
+services that are running in Docker.
+
+00:05:56.400 --> 00:06:01.133
+So they are different containers,
+and they're all based on Postgres
+
+00:06:01.200 --> 00:06:06.233
+connecting to the database in
+Postgres. Supabase is open source.
+
+00:06:06.300 --> 00:06:08.533
+I think that's the main
+difference also to Firebase.
+
+00:06:08.600 --> 00:06:12.033
+It's a fully open source.
+Everything that Supabase does is
+
+00:06:12.100 --> 00:06:15.033
+open source.
+Their website, things they do,
+
+00:06:15.100 --> 00:06:17.832
+the games they do, the meetups they
+do. Everything is open source.
+
+00:06:17.900 --> 00:06:20.733
+So you can check it out.
+You can go to the Supabase
+
+00:06:20.800 --> 00:06:23.633
+organization and GitHub and you
+can take a look.
+
+00:06:23.700 --> 00:06:28.133
+And I talked with Thai today.
+He told me if you stuck with
+
+00:06:28.200 --> 00:06:30.433
+Supabase,
+maybe you just read the code right.
+
+00:06:30.500 --> 00:06:34.733
+It's sometimes quite useful to find
+out and actually get some help.
+
+00:06:34.800 --> 00:06:38.133
+You can just read the code yourself
+and maybe find a way to improve
+
+00:06:38.200 --> 00:06:44.633
+it or find a fix. Okay. Next.
+Okay, Supabase works with
+
+00:06:44.700 --> 00:06:46.933
+several frameworks.
+Not only JavaScript frameworks,
+
+00:06:47.000 --> 00:06:49.933
+but also other frameworks.
+Flutter, for example,
+
+00:06:50.000 --> 00:06:53.733
+and many others.
+So you can use Supabase and directly
+
+00:06:53.800 --> 00:06:59.332
+use their SDKs to connect and use it.
+They have a thriving community.
+
+00:06:59.400 --> 00:07:02.133
+You can see they have over 1000
+contributors.
+
+00:07:02.200 --> 00:07:05.733
+So there's a lot of people
+contributing every single day to
+
+00:07:05.800 --> 00:07:08.433
+the repository.
+So it's really community driven
+
+00:07:08.500 --> 00:07:10.933
+development.
+And they have a program called
+
+00:07:11.000 --> 00:07:13.033
+Supasquad.
+So maybe you want to consider
+
+00:07:13.100 --> 00:07:15.033
+joining.
+Have a look at their website and
+
+00:07:15.100 --> 00:07:17.733
+go to Supasquad.
+Maybe you're going to be a first
+
+00:07:17.800 --> 00:07:20.733
+time contributor or be part of
+their events that they do.
+
+00:07:20.800 --> 00:07:26.433
+So a chance for you to be part
+of this community. Okay.
+
+00:07:26.500 --> 00:07:31.433
+Next round. Round one.
+So the next round is going to be
+
+00:07:31.500 --> 00:07:33.832
+about data modeling.
+We're going to talk about databases
+
+00:07:33.900 --> 00:07:36.733
+I'll hand it to Poom. Yeah.
+We're going to compare it like a
+
+00:07:36.800 --> 00:07:38.832
+very briefly for you.
+So we're going to show you the
+
+00:07:38.900 --> 00:07:40.933
+code and show some screenshots
+of data model.
+
+00:07:41.000 --> 00:07:45.633
+So database for Firebase is as
+we all know it's not only SQL.
+
+00:07:45.700 --> 00:07:49.233
+So we are doing decided data
+structure as a key and value.
+
+00:07:49.300 --> 00:07:52.233
+And so it is mainly a JSON data
+in the Firebase.
+
+00:07:52.300 --> 00:07:55.533
+But it's more advanced than that.
+We have a collections and and many
+
+00:07:55.600 --> 00:07:58.832
+things that can support the features,
+support the filter.
+
+00:07:58.900 --> 00:08:02.733
+So like is the main thing here
+is for the real time database.
+
+00:08:02.800 --> 00:08:06.133
+It's very simple as that.
+When you store JSON data you you have
+
+00:08:06.200 --> 00:08:10.033
+a node and nested value and so on.
+And you can decide how you want
+
+00:08:10.100 --> 00:08:11.933
+to decide.
+You want structured data in the
+
+00:08:12.000 --> 00:08:15.033
+simple JSON format and more
+advanced features from Firebase
+
+00:08:15.100 --> 00:08:19.733
+they have Firestore and next slide.
+And the Firestore is the more
+
+00:08:19.800 --> 00:08:21.832
+advanced.
+They store data in collections.
+
+00:08:21.900 --> 00:08:24.332
+And you can have like a sub
+collection.
+
+00:08:24.400 --> 00:08:26.933
+And you can manage more data in
+advanced feature.
+
+00:08:27.000 --> 00:08:31.533
+This one is similar to MongoDB
+in terms of Firestore.
+
+00:08:31.600 --> 00:08:36.633
+So you can do a more complex filter.
+And and you can still have real time
+
+00:08:36.700 --> 00:08:43.133
+compatibilities on this one. Yeah.
+And move on to Supabase okay.
+
+00:08:43.200 --> 00:08:46.233
+Supabase like I mentioned it's
+based on Postgres.
+
+00:08:46.300 --> 00:08:51.233
+If you work with Postgres before or
+SQL database, this will be familiar.
+
+00:08:51.300 --> 00:08:54.833
+I believe this is a little small
+but left hand side.
+
+00:08:54.900 --> 00:08:57.233
+They have a dashboard,
+so whenever you run Supabase,
+
+00:08:57.300 --> 00:09:02.333
+even locally, they will give you a
+dashboard and a UI. So even no code.
+
+00:09:02.400 --> 00:09:06.233
+Let's say you're not into coding.
+I'm not sure. Maybe you are.
+
+00:09:06.300 --> 00:09:09.133
+So you're going to use the UI to
+actually create a table.
+
+00:09:09.200 --> 00:09:12.633
+You can define the database schema,
+you can use their dashboard,
+
+00:09:12.700 --> 00:09:16.433
+or you can use the code which is
+based on SQL migrations.
+
+00:09:16.500 --> 00:09:19.933
+So if you ever worked with SQL you
+probably know you can create tables,
+
+00:09:20.000 --> 00:09:24.033
+you can make changes to your schema.
+You're going to use migrations.
+
+00:09:24.100 --> 00:09:27.433
+You can use plain SQL.
+Of course it's just a Postgres.
+
+00:09:28.000 --> 00:09:32.533
+Or you use things like Prisma or
+any other type of library that you
+
+00:09:32.600 --> 00:09:36.933
+like to manage your your database
+or your Postgres migration itself.
+
+00:09:39.100 --> 00:09:43.033
+Okay. And then you made it schema.
+Then you have to explain it right?
+
+00:09:43.100 --> 00:09:48.433
+So normally you end up with the SQL
+schema that is normally based on
+
+00:09:48.500 --> 00:09:52.433
+maybe foreign keys and relationships.
+And this is what also the difference
+
+00:09:52.500 --> 00:09:56.433
+is to maybe if we compare it to
+Firebase as a NoSQL database.
+
+00:09:56.500 --> 00:09:59.033
+Maybe the concept is very
+different in terms of how you
+
+00:09:59.100 --> 00:10:02.433
+build applications.
+So this gives you just a small
+
+00:10:02.500 --> 00:10:07.433
+example how your database schema
+might look like. Yeah.
+
+00:10:07.500 --> 00:10:10.533
+Just to summarize the concept,
+I think the Supabase come from
+
+00:10:10.600 --> 00:10:13.233
+the normalization world.
+So you want the data integrity.
+
+00:10:13.300 --> 00:10:15.133
+So you don't want to duplicate
+your data.
+
+00:10:15.200 --> 00:10:18.333
+But the other side from Firebase
+is NoSQL.
+
+00:10:18.400 --> 00:10:21.133
+You have to like sometimes
+duplicate the data.
+
+00:10:21.200 --> 00:10:25.333
+So you want to optimize for risk.
+But for read but for write you have
+
+00:10:25.400 --> 00:10:28.533
+to write sometimes multiple times.
+You have to like extract cloud
+
+00:10:28.600 --> 00:10:31.633
+function two minutes to write it
+into multiple places.
+
+00:10:31.700 --> 00:10:35.433
+So that is more flexibility for
+for this data structure.
+
+00:10:35.500 --> 00:10:39.033
+But yeah it can be limited in
+query capabilities.
+
+00:10:39.100 --> 00:10:41.733
+So when you want to like do
+complex query.
+
+00:10:41.800 --> 00:10:45.733
+Supabase can do more on that in
+this SQL feature.
+
+00:10:45.800 --> 00:10:48.833
+But yeah if you want to be in
+key-value you have to be.
+
+00:10:48.900 --> 00:10:52.333
+Well think of that before you decide
+your structure, your structure,
+
+00:10:52.400 --> 00:10:57.833
+your data models in NoSQL. Yeah.
+And one thing I want to show
+
+00:10:57.900 --> 00:11:00.833
+that maybe people some people
+still use SQL, right?
+
+00:11:00.900 --> 00:11:04.733
+But some of you guys may still
+store JSON in the SQL.
+
+00:11:04.800 --> 00:11:08.133
+So that's why I think, yeah,
+sometimes we might mix between
+
+00:11:08.200 --> 00:11:12.133
+two roles and just want to
+introduce a new thing.
+
+00:11:12.200 --> 00:11:17.833
+Firebase not only have SQL but
+but we already have the the next
+
+00:11:17.900 --> 00:11:22.033
+slide please. Yeah.
+Now Firebase has the SQL feature.
+
+00:11:22.100 --> 00:11:27.133
+So you can use since since Google
+Cloud have the cloud SQL right.
+
+00:11:27.200 --> 00:11:30.233
+So they introduced a new feature
+as a Firebase Data Connect.
+
+00:11:30.300 --> 00:11:33.933
+So you can connect your Firebase
+to a cloud SQL that is support
+
+00:11:34.000 --> 00:11:37.133
+Postgres in the back end.
+But they build it into the
+
+00:11:37.200 --> 00:11:40.833
+seamless into one platform.
+So now it's available in the in
+
+00:11:40.900 --> 00:11:44.033
+the Firebase in the preview mode.
+So it can be the next slide.
+
+00:11:44.100 --> 00:11:47.233
+This just want to show the for
+the overview briefly of the
+
+00:11:47.300 --> 00:11:51.033
+Firebase SQL Data Connect.
+So you define how you connect
+
+00:11:51.100 --> 00:11:53.933
+create your data.
+And it will turn this one into a
+
+00:11:54.000 --> 00:11:56.933
+schema.
+The DDL schema automatically and
+
+00:11:57.000 --> 00:12:00.933
+it will have the type-safe.
+SDK for you to create your your
+
+00:12:01.000 --> 00:12:06.833
+database in terms of like a it's
+similar to GraphQL. Yeah.
+
+00:12:07.600 --> 00:12:11.933
+And that's all. Okay.
+Well round two CRUD.
+
+00:12:12.600 --> 00:12:15.433
+We have database.
+So let's do CRUD next right.
+
+00:12:16.700 --> 00:12:21.133
+Yeah. Next please.
+This one from yeah from Firebase
+
+00:12:21.200 --> 00:12:23.733
+I think the board feature from
+Supabase and Firebase.
+
+00:12:23.800 --> 00:12:26.233
+This one this feature is is
+mostly the same.
+
+00:12:26.300 --> 00:12:29.933
+So in terms of you don't have to
+write an API to the back end.
+
+00:12:30.000 --> 00:12:34.133
+And you can just use SDK from client
+side. You can use just DB collection.
+
+00:12:34.200 --> 00:12:37.333
+And you get cities
+and you get doc, SF.
+
+00:12:37.400 --> 00:12:40.233
+And this one can be done all in
+the client side.
+
+00:12:40.300 --> 00:12:43.733
+So yeah, it's make it convenient
+for you to read and write the
+
+00:12:43.800 --> 00:12:47.733
+data to the database in this way.
+And yeah,
+
+00:12:47.800 --> 00:12:51.333
+and they also provide the UI.
+So when you have the collection like
+
+00:12:51.400 --> 00:12:55.433
+this you can use a filter and you
+can just try the condition here and
+
+00:12:55.500 --> 00:12:59.133
+they will provide you the code.
+And if doesn't have yeah,
+
+00:12:59.200 --> 00:13:04.533
+they can provide a code snippet
+for you to try out. Okay.
+
+00:13:04.600 --> 00:13:07.133
+Supabase they have this similar
+approach.
+
+00:13:07.200 --> 00:13:09.933
+They have an SDK in different
+languages.
+
+00:13:10.000 --> 00:13:15.833
+This is a JavaScript sorry left
+hand side. You can see read.
+
+00:13:15.900 --> 00:13:21.333
+So it's a functional right.
+So you might be familiar with
+
+00:13:21.400 --> 00:13:25.433
+something like Prisma or other SDKs
+or ORMs. They work very similar.
+
+00:13:25.500 --> 00:13:28.433
+So you define your table.
+You're going to select the fields
+
+00:13:28.500 --> 00:13:31.733
+that you want or columns that you
+want. And then you have filters.
+
+00:13:31.800 --> 00:13:35.433
+So you can use equals or any other
+kind of filters that you want.
+
+00:13:35.500 --> 00:13:40.133
+You can use them in the SDK.
+The same for updates.
+
+00:13:40.200 --> 00:13:43.433
+It's a very similar approach. Right.
+You just instead of select, you're
+
+00:13:43.500 --> 00:13:46.633
+going to use update function and
+you can interact with the database.
+
+00:13:46.700 --> 00:13:50.633
+Again this is similar to Firebase.
+You can use it on the client side.
+
+00:13:50.700 --> 00:13:54.933
+Or if you have some sort of approach
+in react, which is popular now.
+
+00:13:55.000 --> 00:13:58.933
+Maybe you can also use it.
+Directly in react on server
+
+00:13:59.000 --> 00:14:02.533
+components for example.
+They also have the managed
+
+00:14:02.600 --> 00:14:04.533
+connection already.
+So you get like connection
+
+00:14:04.600 --> 00:14:08.533
+pooling for example with Postgres
+and can make an HTTP connection
+
+00:14:08.600 --> 00:14:12.533
+to your Postgres database.
+So it's really flexible where
+
+00:14:12.600 --> 00:14:15.233
+you want to use it.
+So that's the way you can interact
+
+00:14:15.300 --> 00:14:18.733
+with the Supabase database.
+Am I seeing the JSON here.
+
+00:14:18.800 --> 00:14:22.633
+The previous slides. Oh yeah.
+Yeah that was the sneak peek.
+
+00:14:22.700 --> 00:14:25.433
+How to do JSON.
+So it's nested field here.
+
+00:14:25.500 --> 00:14:30.833
+Address and post code.
+So we can do JSON in SQL right.
+
+00:14:30.900 --> 00:14:37.133
+Right. Good point. Good point. Yeah.
+So let's talk about compound Query.
+
+00:14:37.200 --> 00:14:40.033
+So I have discussed about the
+SQL capabilities.
+
+00:14:40.100 --> 00:14:45.433
+So when you decide data in the in the
+structured way it's more advanced.
+
+00:14:45.500 --> 00:14:49.533
+So you can do like advanced queries.
+But for Firebase it's very limited
+
+00:14:49.600 --> 00:14:55.133
+to just like a key value filter.
+So the one main limitation of 5G
+
+00:14:55.200 --> 00:14:58.933
+is that you cannot do like a
+calculation based query.
+
+00:14:59.000 --> 00:15:03.633
+So first of all, find me a restaurant
+where rating divided by price greater
+
+00:15:03.700 --> 00:15:08.133
+than 1.5. This is a SQL query.
+You cannot do that kind of this
+
+00:15:08.200 --> 00:15:11.533
+task in the Firebase.
+So you want to have precomputed
+
+00:15:11.600 --> 00:15:14.133
+value.
+So you can query this value in
+
+00:15:14.200 --> 00:15:16.433
+the future.
+So it's going to have a simple
+
+00:15:16.500 --> 00:15:20.233
+in the next slide.
+So for Firebase for Supabase you
+
+00:15:20.300 --> 00:15:23.133
+can do this kind of query in the
+supabase right.
+
+00:15:23.200 --> 00:15:27.933
+But in in the firebase you have to
+precompute this one value ratio.
+
+00:15:28.000 --> 00:15:32.333
+And you can have the filter this
+one again in the future.
+
+00:15:32.400 --> 00:15:36.733
+So it's it optimized for speed.
+And you can just simplify your
+
+00:15:36.800 --> 00:15:39.133
+queries.
+You don't have to like manage
+
+00:15:39.200 --> 00:15:42.933
+this one in the client side.
+But it's have to sacrifice the right
+
+00:15:43.000 --> 00:15:46.233
+complexity in the right right time.
+Yeah.
+
+00:15:47.800 --> 00:15:51.433
+And there are many ways to
+organize your data in the NoSQL
+
+00:15:51.500 --> 00:15:54.433
+You can be a an estate like this
+or you can be a flat data.
+
+00:15:54.500 --> 00:15:58.133
+But yeah, you have to think about the
+composite index as well because yeah,
+
+00:15:58.200 --> 00:16:00.733
+as we have no SQL queries,
+we have no relation.
+
+00:16:00.800 --> 00:16:03.533
+You have to think about how do
+you how you're going to index
+
+00:16:03.600 --> 00:16:08.233
+your key and how you're going to.
+Yeah, make the key sortable and
+
+00:16:08.300 --> 00:16:13.733
+filterable I think. Yeah.
+Firebase also has the feature
+
+00:16:13.800 --> 00:16:21.033
+where you can create a composite
+key on your your dashboard. Yeah.
+
+00:16:21.100 --> 00:16:26.933
+And move on to authentication.
+Okay Firebase.
+
+00:16:27.000 --> 00:16:31.033
+I think people may all know
+that Firebase is very simple to do
+
+00:16:31.100 --> 00:16:33.733
+Authentication.
+They have been well known for a
+
+00:16:33.800 --> 00:16:35.533
+while. They have Google, Sign In with
+
+00:16:35.600 --> 00:16:38.833
+Google is very the most common one.
+Once you sign in you're going to
+
+00:16:38.900 --> 00:16:41.933
+see like a list of users here in
+the UI dashboard.
+
+00:16:42.000 --> 00:16:45.933
+So you can have the user ID.
+And when people sign in and you can
+
+00:16:46.000 --> 00:16:51.433
+have the metadata, the metadata
+of that user as well And yeah,
+
+00:16:51.500 --> 00:16:55.233
+the code is very simple.
+You can have the sign in with
+
+00:16:55.300 --> 00:16:58.633
+and provider and you can just
+sign in and sign out in that way
+
+00:16:58.700 --> 00:17:04.032
+from the front end. Okay.
+Let's look at Supabase
+
+00:17:04.099 --> 00:17:07.233
+authentication.
+I think it's very similar to
+
+00:17:07.300 --> 00:17:10.333
+Firebase as well. It's very simple.
+You can use a function to sign in.
+
+00:17:10.400 --> 00:17:14.633
+You can use different providers
+email password OTP.
+
+00:17:14.700 --> 00:17:22.032
+You can have MFA anonymous logins.
+And one new thing you can use
+
+00:17:22.099 --> 00:17:26.433
+Firebase Authentication in Supabase.
+Yay. Okay.
+
+00:17:26.500 --> 00:17:32.833
+So maybe Firebase customer right.
+Yeah not sure. Not sure. Okay.
+
+00:17:32.900 --> 00:17:36.633
+Next round of authorization.
+So how do you handle security or
+
+00:17:36.700 --> 00:17:41.033
+access to your data.
+All right I think the Firebase
+
+00:17:41.100 --> 00:17:44.833
+have a strong point on this one.
+So when you start you decide
+
+00:17:44.900 --> 00:17:49.333
+your data in the JSON right.
+You can have the they say that
+
+00:17:49.400 --> 00:17:53.333
+common expression language.
+You can define how how user can
+
+00:17:53.400 --> 00:17:57.633
+access this kind of node and into an.
+In any level that you want.
+
+00:17:57.700 --> 00:18:03.333
+So so your data here, the field here.
+And so it gives you a robust
+
+00:18:03.400 --> 00:18:05.833
+access management.
+I will show you in the next slide.
+
+00:18:05.900 --> 00:18:11.833
+So for example.
+So here first of all if you have the
+
+00:18:11.900 --> 00:18:16.333
+data in the user and user ID you
+can use the request.auth.
+
+00:18:16.400 --> 00:18:20.133
+It's the same auth that you get
+from the Firebase Authentication.
+
+00:18:20.200 --> 00:18:24.933
+And you can say that user can
+only lead by if the user ID is
+
+00:18:25.000 --> 00:18:28.133
+equal to this one.
+So that means that user can only
+
+00:18:28.200 --> 00:18:33.133
+access this node if they are the
+owner of if they are the owner of
+
+00:18:33.200 --> 00:18:37.633
+this one. So and create as well.
+You can like have any rule that
+
+00:18:37.700 --> 00:18:41.833
+defines in in this structure here.
+So it can be like in any
+
+00:18:41.900 --> 00:18:45.133
+structure that you want.
+So any field any notes and
+
+00:18:45.200 --> 00:18:50.033
+collections and the next next one.
+So another example like when you want
+
+00:18:50.100 --> 00:18:56.433
+to people to create stories. That one.
+story.published == true, and read.
+
+00:18:56.500 --> 00:19:01.833
+So if it is published, you can read.
+And also if the the user ID is
+
+00:19:01.900 --> 00:19:04.733
+the author of this story,
+user can read it as well.
+
+00:19:04.800 --> 00:19:08.033
+Yeah, that's how you can define.
+And you don't have to worry about
+
+00:19:08.100 --> 00:19:10.733
+the security in the back end.
+And you can define your security
+
+00:19:10.800 --> 00:19:15.233
+right here. Yeah.
+And this is the dashboard of how you
+
+00:19:15.300 --> 00:19:18.933
+manage the security of your Firebase.
+You have version control.
+
+00:19:19.000 --> 00:19:22.733
+And next slide you you can test
+your logic before you deploy.
+
+00:19:22.800 --> 00:19:26.933
+So you can put the the location
+here the database path.
+
+00:19:27.000 --> 00:19:31.433
+And you can see if this one can
+be validated true or false.
+
+00:19:31.500 --> 00:19:36.833
+So yeah you can test your security
+logic here. Okay. Supabase.
+
+00:19:36.900 --> 00:19:41.533
+The recommended way for
+authorization is row level security.
+
+00:19:41.600 --> 00:19:44.733
+Maybe you're familiar with this,
+but what you can do is you can
+
+00:19:44.800 --> 00:19:49.433
+write a function.
+And in the function you can have
+
+00:19:49.500 --> 00:19:53.433
+some logic in the database.
+Maybe you have a multi-tenant system,
+
+00:19:53.500 --> 00:20:00.233
+maybe you have a creator
+or the owner ID, and then you
+
+00:20:00.300 --> 00:20:03.733
+can use that as a function and
+then you can apply a policy.
+
+00:20:03.800 --> 00:20:07.433
+You can see this in the bottom here.
+You can apply the policy to a table.
+
+00:20:07.500 --> 00:20:11.733
+So based on the policy you can
+then handle the authorization.
+
+00:20:11.800 --> 00:20:17.233
+The way to do it is well based on
+action. So it can be read update.
+
+00:20:17.300 --> 00:20:20.833
+For example you can inspect the
+function results.
+
+00:20:20.900 --> 00:20:25.433
+So it's almost like JavaScript right.
+So you can also write actually
+
+00:20:25.500 --> 00:20:29.333
+JavaScript in the functions and
+return the result.
+
+00:20:29.400 --> 00:20:33.833
+You can use custom JWT claims as
+well for example.
+
+00:20:33.900 --> 00:20:35.833
+Or you can combine it with
+Postgres roles.
+
+00:20:35.900 --> 00:20:39.233
+So it's quite flexible,
+but it can also be a bit complicated
+
+00:20:39.300 --> 00:20:42.733
+and it sits directly in the database.
+So you have to also think about
+
+00:20:42.800 --> 00:20:45.833
+optimization.
+So if you use row level security,
+
+00:20:45.900 --> 00:20:51.133
+think about the performance as well
+Okay. Next one. Round number five.
+
+00:20:51.200 --> 00:20:55.133
+Business logic and functions.
+Boom. Okay.
+
+00:20:55.200 --> 00:20:58.833
+So the firebase they are event
+driven.
+
+00:20:58.900 --> 00:21:03.933
+So when you want to like… so, for
+example user update the data you may
+
+00:21:04.000 --> 00:21:07.033
+want to have the additional logic to
+modify the data from this one to
+
+00:21:07.100 --> 00:21:12.333
+move data around to the other node.
+So that's where the Firebase Cloud
+
+00:21:12.400 --> 00:21:18.333
+function comes in. So there are the.
+So they eliminated the need for
+
+00:21:18.400 --> 00:21:20.433
+you to build a whole backend
+monolithic system.
+
+00:21:20.500 --> 00:21:24.333
+You can build just a function and
+you can deploy a new function.
+
+00:21:24.400 --> 00:21:28.533
+So yeah the main key thing that
+the Firebase Functions support both
+
+00:21:28.600 --> 00:21:32.033
+JavaScript and Python right now.
+And they have auto scaling.
+
+00:21:32.100 --> 00:21:34.933
+And yeah you can call also call
+function directly.
+
+00:21:35.000 --> 00:21:38.033
+Don't have to wait for event
+trigger function can serve as an
+
+00:21:38.100 --> 00:21:44.133
+API endpoint for you as well. Yeah.
+And for example when user update
+
+00:21:44.200 --> 00:21:47.233
+you watch on the value written
+for user ID.
+
+00:21:47.300 --> 00:21:51.433
+So the whole user JSON value updated.
+It will trigger this
+
+00:21:51.500 --> 00:21:54.233
+function and.
+Yeah, this one from Python and
+
+00:21:54.300 --> 00:21:58.033
+this one from JavaScript.
+And you can monitor your
+
+00:21:58.100 --> 00:22:01.033
+function in the dashboard like
+how many invocations.
+
+00:22:01.100 --> 00:22:05.333
+And you can also open more logs
+in the Google Cloud.
+
+00:22:06.200 --> 00:22:11.233
+Cloud log service as well that you
+can monitor in your Google Cloud in
+
+00:22:11.300 --> 00:22:17.233
+another service. Okay. Supabase.
+Yes. They also have functions.
+
+00:22:17.300 --> 00:22:20.933
+They call them edge functions.
+We want it on the edge, of course.
+
+00:22:22.200 --> 00:22:28.033
+One specialty they are based on dyno.
+So it's a deno runtime.
+
+00:22:28.100 --> 00:22:31.533
+This little dinosaur may be
+familiar to you.
+
+00:22:31.600 --> 00:22:35.033
+And yeah you can write a
+functions for anything.
+
+00:22:35.100 --> 00:22:39.233
+So handling HTTP requests you
+can interact with the database
+
+00:22:39.300 --> 00:22:45.033
+using the Supabase SDK.
+Or you can serve a small REST
+
+00:22:45.100 --> 00:22:48.333
+server maybe so you can use the
+function for anything that you like.
+
+00:22:48.400 --> 00:22:53.833
+They are quite flexible. Moving on.
+Round number six. Storage.
+
+00:22:55.000 --> 00:22:56.933
+This one is very simple for five
+years.
+
+00:22:57.000 --> 00:23:01.433
+You can store your any image
+text or any CSV file.
+
+00:23:01.500 --> 00:23:05.133
+So it's it's the same when you
+define the rule as the storage
+
+00:23:05.200 --> 00:23:08.033
+is the same as you define rule
+in in real time database.
+
+00:23:08.100 --> 00:23:12.433
+And you can have the you can see
+the metadata of that file and
+
+00:23:12.500 --> 00:23:15.033
+you can have the.
+They also have the extension for
+
+00:23:15.100 --> 00:23:18.433
+you to modify your data from,
+from the file written.
+
+00:23:18.500 --> 00:23:22.633
+So first of all, if user upload this
+file you can have another extension
+
+00:23:22.700 --> 00:23:28.133
+is out of the box to reduce the file
+size for it to be to be thumbnail.
+
+00:23:28.200 --> 00:23:34.133
+This one can be yeah done out of
+the box for you okay.
+
+00:23:34.200 --> 00:23:37.933
+For Supabase they also have an SDK
+you can interact with the storage.
+
+00:23:38.000 --> 00:23:42.933
+It's based on S3.
+So AWS service it's based on
+
+00:23:43.000 --> 00:23:45.233
+buckets and files.
+If you ever worked with this.
+
+00:23:45.300 --> 00:23:48.133
+So it's it's like folders.
+And then you can put files into the
+
+00:23:48.200 --> 00:23:52.733
+folder that can be public or private,
+and it can also be served from a CDN.
+
+00:23:52.800 --> 00:23:55.833
+So you can do some sort of
+transformation that you combine.
+
+00:23:55.900 --> 00:23:59.033
+For example with the edge functions.
+You can do some image
+
+00:23:59.100 --> 00:24:03.133
+transformation as well.
+Authorization is handled with
+
+00:24:03.200 --> 00:24:08.033
+the JWT or you handle directly
+with S3 because they manage the
+
+00:24:08.100 --> 00:24:12.133
+S3 bucket for you.
+So you can interact also using the
+
+00:24:12.200 --> 00:24:16.433
+S3 client you can see down here.
+So either use the SDK or you can
+
+00:24:16.500 --> 00:24:21.833
+use directly S3 if you scared
+about lock-in. Okay moving on.
+
+00:24:22.900 --> 00:24:26.833
+Of course we are all here for AI
+right? So next topic.
+
+00:24:29.000 --> 00:24:32.833
+Okay, since Firebase is in the
+Google Cloud ecosystem,
+
+00:24:32.900 --> 00:24:37.433
+they have many things to keep
+up the pace with OpenAI and AWS.
+
+00:24:37.500 --> 00:24:40.933
+So they have their own UI system
+where you can manage the prompt
+
+00:24:41.000 --> 00:24:43.933
+and they have. Yeah.
+Just want to show it just only
+
+00:24:44.000 --> 00:24:48.333
+briefly. Next slide please. Yeah.
+And you can use the vertex AI in
+
+00:24:48.400 --> 00:24:52.333
+Firebase now. So, vertex AI is a like ML
+
+00:24:52.400 --> 00:24:56.233
+feature for the Google Cloud.
+You can build the RAG system in
+
+00:24:56.300 --> 00:24:59.333
+the Vertex and you can like do
+vector search in that.
+
+00:24:59.400 --> 00:25:01.833
+And it can be integrated into
+Firebase.
+
+00:25:03.400 --> 00:25:06.933
+Yeah I just yeah I just want to
+have this one is just newly
+
+00:25:07.000 --> 00:25:10.633
+launched the GenKit.
+So you can build the GenAI into
+
+00:25:10.700 --> 00:25:13.833
+the client side.
+So they can they have as a
+
+00:25:13.900 --> 00:25:18.033
+wrapper for you to. Yeah.
+Interact with the with the AI
+
+00:25:18.100 --> 00:25:22.933
+more quickly. Yeah.
+And they also have the embedding
+
+00:25:23.000 --> 00:25:32.233
+feature as well. Yeah. That's all.
+Okay AI and Supabase. I would say
+
+00:25:32.300 --> 00:25:38.033
+two things. Number one is vectors.
+So you can create a columns based
+
+00:25:38.100 --> 00:25:43.333
+on pgvector and then can have
+an embedding on your column.
+
+00:25:43.400 --> 00:25:46.933
+There's one example in here.
+And the second one is they have
+
+00:25:47.000 --> 00:25:50.633
+integrations with the models
+that you can use that are
+
+00:25:50.700 --> 00:25:54.733
+already sometimes pre-installed
+in the edge function, so you can
+
+00:25:54.800 --> 00:25:57.933
+use smaller models directly in
+the function and can interact.
+
+00:25:58.000 --> 00:25:59.533
+So similar to what Puma actually
+showed,
+
+00:25:59.600 --> 00:26:03.133
+you can switch between the model.
+And then you can see you can generate
+
+00:26:03.200 --> 00:26:07.333
+an embedding and just store it as
+part of your normal data schema.
+
+00:26:07.400 --> 00:26:14.033
+You add one more column for your
+embedding. Okay, we are almost done.
+
+00:26:14.100 --> 00:26:17.533
+Round number eight real time.
+I think we got we can do this
+
+00:26:17.600 --> 00:26:19.833
+one very quickly.
+So I have mentioned real time
+
+00:26:19.900 --> 00:26:23.233
+feature many times for Firebase.
+So this is just to show another
+
+00:26:23.300 --> 00:26:26.433
+dashboard for Firebase.
+So this is how you store data in
+
+00:26:26.500 --> 00:26:30.633
+a nested JSON values.
+And this is for Firebase.
+
+00:26:30.700 --> 00:26:35.533
+Oh yeah yeah yeah.
+You got me confused Supabase
+
+00:26:35.600 --> 00:26:39.833
+okay okay Supabase.
+There's two ways to do it.
+
+00:26:39.900 --> 00:26:42.833
+First of all you have channels.
+Channels is almost similar to
+
+00:26:42.900 --> 00:26:45.433
+same as a table.
+And then what you can use is you
+
+00:26:45.500 --> 00:26:48.833
+can either broadcast.
+So broadcast you're listening to
+
+00:26:48.900 --> 00:26:52.733
+events in the database.
+And then you can write logic based on
+
+00:26:52.800 --> 00:26:56.833
+events in the database or presence
+which is more like online presence or
+
+00:26:56.900 --> 00:27:01.133
+presence in a file, things like that.
+You can use and authorization done
+
+00:27:01.200 --> 00:27:04.833
+through row level security as well,
+because all is based on Postgres.
+
+00:27:04.900 --> 00:27:11.033
+So again also the real time is based
+on Postgres. Okay. Last one. Yeah.
+
+00:27:11.100 --> 00:27:15.233
+Most interesting one maybe pricing.
+Yeah. Let's.
+
+00:27:15.300 --> 00:27:19.233
+Oh. I think we can skip this one.
+SDK. Okay.
+
+00:27:19.800 --> 00:27:23.433
+Do you want to continue with SDK
+first. Yeah let's do SDK. Sorry.
+
+00:27:23.500 --> 00:27:29.033
+Wrong headline. Okay.
+Just to see the SDK for Firebase.
+
+00:27:29.100 --> 00:27:35.933
+So you have like JS and Python here.
+So it's just to show the snippet
+
+00:27:36.000 --> 00:27:38.933
+of the code is very simple to
+use to for the Python user.
+
+00:27:39.000 --> 00:27:42.633
+You can just pip install and
+import firebase_admin and you can
+
+00:27:42.700 --> 00:27:48.033
+manage your data here.
+And the same as JavaScript. Okay.
+
+00:27:48.100 --> 00:27:52.433
+Supabase similar that you have SDKs
+for the client side that also able
+
+00:27:52.500 --> 00:27:55.433
+to run on the server, for example,
+and they normally scoped.
+
+00:27:55.500 --> 00:28:00.333
+So you have authorization, sorry,
+authentication, storage admin,
+
+00:28:00.400 --> 00:28:04.633
+and you have a CLI to run Supabase
+locally so you can interact and run
+
+00:28:04.700 --> 00:28:09.933
+the whole Docker containers from
+Supabase locally with the CLI.
+
+00:28:10.900 --> 00:28:18.133
+Yeah. Pricing. Okay.
+So since Firebase has two product
+
+00:28:18.200 --> 00:28:22.133
+real time database and Firestore.
+So the most use case for real time
+
+00:28:22.200 --> 00:28:25.633
+database as you did they will
+not charge for read and write.
+
+00:28:25.700 --> 00:28:28.033
+They only charge for the
+database data store.
+
+00:28:28.100 --> 00:28:33.333
+So it will be like $5 per
+gigabyte per gigabyte store.
+
+00:28:33.400 --> 00:28:37.833
+So if you don't have like many
+data and you the application
+
+00:28:37.900 --> 00:28:41.933
+requires read and write heavy.
+So it be easier for you to use
+
+00:28:42.000 --> 00:28:45.533
+real time database.
+But for this one I think this
+
+00:28:45.600 --> 00:28:47.933
+one people must say that is the
+go to choice.
+
+00:28:48.000 --> 00:28:51.633
+The standard choice if you want to
+use Firebase and they will charge
+
+00:28:51.700 --> 00:28:54.433
+you for a read and write document,
+read and write.
+
+00:28:54.500 --> 00:29:00.233
+So the free tier is that 20k write
+per day and 50k reads per day.
+
+00:29:00.300 --> 00:29:04.733
+But the pricing also very cheap.
+These are the free tier.
+
+00:29:05.300 --> 00:29:09.133
+And next slide.
+This one is for the…
+
+00:29:10.000 --> 00:29:18.033
+So it's the only $0.03 per
+100,000 documents.
+
+00:29:18.100 --> 00:29:21.333
+So it's not really a concern very much.
+
+00:29:21.400 --> 00:29:25.933
+So we have a saying that if you
+find it price expensive that
+
+00:29:26.000 --> 00:29:29.433
+means your app is successful.
+So you don't have to worry about
+
+00:29:29.500 --> 00:29:33.733
+the the price upfront that much.
+So the cost scale up from the
+
+00:29:33.800 --> 00:29:41.333
+usage of your app. Yeah okay.
+Let's see. Supabase pricing.
+
+00:29:41.400 --> 00:29:43.933
+So this is the cloud pricing.
+Of course you can use their
+
+00:29:44.000 --> 00:29:46.133
+cloud offering.
+They have a free tier,
+
+00:29:46.200 --> 00:29:51.333
+which is quite generous.
+It's based on monthly users and
+
+00:29:51.400 --> 00:29:55.033
+database space and also your
+file storage.
+
+00:29:55.100 --> 00:29:59.133
+So each different function will
+have different limits that you
+
+00:29:59.200 --> 00:30:02.633
+have to watch out for.
+I think you have to be watching
+
+00:30:02.700 --> 00:30:05.933
+out for mostly those that are
+more usage based.
+
+00:30:06.000 --> 00:30:09.533
+So if we talk about network,
+if we talk about database storage,
+
+00:30:09.600 --> 00:30:12.433
+you will have to calculate
+yourself how much you use.
+
+00:30:12.500 --> 00:30:15.833
+You have to observe it.
+You have to be careful about this,
+
+00:30:15.900 --> 00:30:20.433
+but you can also self-host maybe
+you can run it for free.
+
+00:30:20.500 --> 00:30:25.233
+Of course you can run it locally
+or you run it on a on a small VPS
+
+00:30:25.800 --> 00:30:27.733
+for example.
+Of course it will be much cheaper
+
+00:30:27.800 --> 00:30:31.233
+than the cloud version, but then
+you have to manage it yourself.
+
+00:30:31.300 --> 00:30:35.733
+So this is the cloud pricing I
+think is maybe let's say similar to
+
+00:30:35.800 --> 00:30:40.933
+Firebase in terms of the pricing
+approach, but it scales as well with
+
+00:30:41.000 --> 00:30:43.833
+your network request or how much
+storage you have in your database.
+
+00:30:43.900 --> 00:30:50.333
+So make sure you you check it before.
+Okay. Seems like we are at the end.
+
+00:30:51.000 --> 00:31:04.233
+Well, who's the winner?
+Any opinions? Okay. Questions?
+
+00:31:06.600 --> 00:31:12.833
+(Audience: “Google stores your incognito data
+and Firebase is not open source.”)
+
+00:31:12.900 --> 00:31:17.833
+I like your opinion. Yeah.
+
+00:31:19.500 --> 00:31:23.633
+Well you had a Supabase meetup right?
+So I don't know.
+
+00:31:23.700 --> 00:31:30.133
+Let's see who's the winner.
+Okay. Yeah it depends. Yeah.
+
+00:31:30.200 --> 00:31:36.633
+It depends. Yeah. All right.
+So let's take a look one more time.
+
+00:31:38.700 --> 00:31:40.833
+- You can go first.
+- Okay, I'll go first.
+
+00:31:40.900 --> 00:31:45.033
+This is a TLDR right?
+If you like open source.
+
+00:31:45.100 --> 00:31:49.433
+Yeah, you may like Supabase if
+you like self-hosting and
+
+00:31:49.500 --> 00:31:54.533
+tinkering with systems. Yeah.
+Supabase is your your bet if you like
+
+00:31:54.600 --> 00:31:59.133
+it. Very cheap to start with. Yes.
+Supabase is also a good chance if
+
+00:31:59.200 --> 00:32:04.933
+you like memes or hype topics.
+Yes, Supabase for you.
+
+00:32:05.000 --> 00:32:07.233
+They have very good documentation.
+For real.
+
+00:32:07.300 --> 00:32:10.233
+I would say this is one of the
+best documentations you can find
+
+00:32:10.300 --> 00:32:13.133
+and amazing community.
+You're right here, right?
+
+00:32:13.200 --> 00:32:16.633
+So I think community is great
+for Supabase.
+
+00:32:16.700 --> 00:32:20.633
+If you have further questions when to
+choose Supabase, you can come talk
+
+00:32:20.700 --> 00:32:24.333
+to me. Let's see about Firebase.
+Yeah just a quick summary.
+
+00:32:24.400 --> 00:32:27.533
+So if you your main
+infrastructure from Google Cloud
+
+00:32:27.600 --> 00:32:31.133
+is the no brainer for you to
+pick Firebase over Supabase.
+
+00:32:31.200 --> 00:32:34.933
+And they have a great feature.
+So you can have the user up to
+
+00:32:35.000 --> 00:32:39.933
+10,000 monthly active users without
+having to reach the free tier limit.
+
+00:32:40.000 --> 00:32:45.033
+So they are free. Tier is very high.
+So as and if you are a favorite NoSQL
+
+00:32:45.100 --> 00:32:48.433
+over SQL, this is for you as well.
+And real time capability
+
+00:32:48.500 --> 00:32:51.233
+capabilities.
+So yeah, it's very fast for you
+
+00:32:51.300 --> 00:32:54.833
+to update in real time.
+And also great, the same as Supabase.
+
+00:32:54.900 --> 00:32:59.333
+They have cli, SDK and you can
+use Google Cloud CLI as well.
+
+00:32:59.400 --> 00:33:03.033
+So it can be integrated when can
+be easily deployed.
+
+00:33:03.100 --> 00:33:07.933
+And the last one vertex AI.
+So it's have a very strong strong
+
+00:33:08.000 --> 00:33:11.733
+feature on the AI infrastructure
+that they want to have the
+
+00:33:11.800 --> 00:33:15.633
+platform that can handle many,
+many more more AI features in
+
+00:33:15.700 --> 00:33:22.833
+the future. Yeah. All right.
+And this is the reference for you to
+
+00:33:22.900 --> 00:33:27.833
+check out the Supabase and Firebase.
+Yeah. And yeah.
+
+00:33:27.900 --> 00:33:31.233
+And that's all for for the the
+talk of the comparison.
+
+00:33:31.300 --> 00:33:34.033
+So just want to give it to you
+about ourselves.
+
+00:33:34.100 --> 00:33:36.233
+So we haven’t introduced about who we are.
+
+00:33:36.300 --> 00:33:40.533
+And yeah for me I'm from the datascale.
+We have the SQL analyzer.
+
+00:33:40.600 --> 00:33:43.033
+We help you reverse engineering
+data model.
+
+00:33:43.100 --> 00:33:46.433
+So if you have lots of SQL queries,
+you don't know what your data
+
+00:33:46.500 --> 00:33:49.033
+models are.
+You don't know the metadata from
+
+00:33:49.100 --> 00:33:51.333
+your queries.
+You can help automate that from
+
+00:33:51.400 --> 00:33:54.833
+the SQL query to be in the.
+In our platform and we will analyze
+
+00:33:54.900 --> 00:33:58.633
+it. Auto generated diagram for you.
+And this is a shared workspace where
+
+00:33:58.700 --> 00:34:02.433
+your team can share the SQL
+query and everything together.
+
+00:34:04.600 --> 00:34:07.733
+Cool. Yeah. Thank you Poom.
+Check out Datascale.
+
+00:34:07.800 --> 00:34:11.733
+And I'm co-founder at hubql.
+We are building an alternative
+
+00:34:11.800 --> 00:34:13.833
+to Postman.
+If you don't like Postman or
+
+00:34:13.900 --> 00:34:16.632
+annoyed about Postman,
+please come talk to me.
+
+00:34:18.699 --> 00:34:23.233
+Our API client works with different
+JavaScript frameworks, including
+
+00:34:23.300 --> 00:34:27.733
+Elysia. Maybe that's the one you like.
+We're looking for feedback.
+
+00:34:27.800 --> 00:34:32.433
+Please have a look at hubql.com or come
+talk to me. Happy to have a chat.
+
+00:34:32.500 --> 00:34:37.233
+Also about Supabase, of course.
+And I think that's all. So thank you.
+
+00:34:37.300 --> 00:34:38.632
+Thank you so much. Thank you.
