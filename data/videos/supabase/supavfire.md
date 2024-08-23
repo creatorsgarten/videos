@@ -8,7 +8,7 @@ subtitles: [en, th]
 language: en
 description: |
   This session offers a practical comparison of Supabase and Firebase, two popular platforms for building modern applications. The speakers, one representing each platform, delve into key features like data modeling, CRUD operations, authentication, authorization, business logic, storage, AI capabilities, real-time functionality, and pricing. Through code examples and insightful discussions, they highlight the strengths and weaknesses of each platform, helping you understand which might be the better fit for your specific needs. Whether you're a seasoned developer or just starting out, this comparative overview provides valuable insights into the world of Supabase and Firebase.
-chapter:
+chapters:
   '0:00': 'Introduction: Supabase vs. Firebase in Thailand'
   '0:28': 'Audience Poll: Firebase vs. Supabase Users'
   '1:00': 'Round 0: Introductions - Firebase Overview & Ecosystem'
