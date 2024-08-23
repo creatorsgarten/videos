@@ -973,6 +973,20 @@
     },
     {
       "event": "archive",
+      "slug": "supabase",
+      "data": {
+        "title": "Supabase Bangkok Meetup 1.0",
+        "type": "archive",
+        "youtube": "oQW_-MEEi9U",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/archive/supabase.md",
+      "imageFilePath": "data/videos/archive/supabase.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "svelte1",
       "data": {
         "title": "Svelte Meetup Bangkok #1",
