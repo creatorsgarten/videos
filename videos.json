@@ -3074,6 +3074,66 @@
       "imageFilePath": "data/videos/sideproject/zero-share.jpg"
     },
     {
+      "event": "supabase",
+      "slug": "postgres",
+      "data": {
+        "title": "Custom Postgres Checkpointer using LangGraph",
+        "speaker": "Williams Sissoko",
+        "type": "talk",
+        "youtube": "xC2QoV9TBW8",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/supabase/postgres.md",
+      "imageFilePath": "data/videos/supabase/postgres.jpg"
+    },
+    {
+      "event": "supabase",
+      "slug": "realprod",
+      "data": {
+        "title": "Supabase Real-world Production Example",
+        "speaker": "Egor Gorbachev",
+        "type": "talk",
+        "youtube": "Tra9NbAwSEY",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/supabase/realprod.md",
+      "imageFilePath": "data/videos/supabase/realprod.jpg"
+    },
+    {
+      "event": "supabase",
+      "slug": "selfhost",
+      "data": {
+        "title": "Self-host Supabase & DirectAdmin",
+        "speaker": "Pornpat Paethong",
+        "type": "talk",
+        "youtube": "opObOSfrDVk",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/supabase/selfhost.md",
+      "imageFilePath": "data/videos/supabase/selfhost.jpg"
+    },
+    {
+      "event": "supabase",
+      "slug": "supavfire",
+      "data": {
+        "title": "Supabase VS Firebase - Epic battle between the two",
+        "speaker": "Poom Wettayakorn; Tobias Meixner",
+        "type": "talk",
+        "youtube": "uIBSyw8CD0s",
+        "managed": true,
+        "published": false
+      },
+      "content": "",
+      "filePath": "data/videos/supabase/supavfire.md",
+      "imageFilePath": "data/videos/supabase/supavfire.jpg"
+    },
+    {
       "event": "svelte1",
       "slug": "basic-svelte-for-react-and-vue-developers",
       "data": {
