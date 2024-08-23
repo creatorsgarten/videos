@@ -12915,3 +12915,45 @@ video:xC2QoV9TBW8:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:oQW_-MEEi9U:
+  spec:
+    videoId: oQW_-MEEi9U
+    filePath: data/videos/archive/supabase.jpg
+    hash: ffe26245ce705df45ef8217de423090ef1b662fd3584f95827ddf7a98e47b2e5
+  state: {}
+video:oQW_-MEEi9U:
+  spec:
+    id: oQW_-MEEi9U
+    snippet:
+      title: 'Garten Streams: Supabase Bangkok Meetup 1.0'
+      description: >-
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/supabase/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
