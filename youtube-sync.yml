@@ -12823,6 +12823,20 @@ video:uIBSyw8CD0s:
         Supabase VS Firebase - Epic battle between the two by Poom Wettayakorn,
         Tobias Meixner
       description: >-
+        This session offers a practical comparison of Supabase and Firebase, two
+        popular platforms for building modern applications. The speakers, one
+        representing each platform, delve into key features like data modeling,
+        CRUD operations, authentication, authorization, business logic, storage,
+        AI capabilities, real-time functionality, and pricing. Through code
+        examples and insightful discussions, they highlight the strengths and
+        weaknesses of each platform, helping you understand which might be the
+        better fit for your specific needs. Whether you're a seasoned developer
+        or just starting out, this comparative overview provides valuable
+        insights into the world of Supabase and Firebase.
+
+
+        --------------------------------------------
+
         Event: Supabase Meetup Bangkok 1.0
 
         https://guild.host/events/supabase-bangkok-meetup-le6a9z
@@ -12861,6 +12875,7 @@ video:uIBSyw8CD0s:
         etc.), please visit:
 
         https://grtn.org/e/supabase/v/supavfire/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -12957,3 +12972,23 @@ video:oQW_-MEEi9U:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:uIBSyw8CD0s:caption:en:
+  spec:
+    videoId: uIBSyw8CD0s
+    filePath: data/videos/supabase/supavfire_en.vtt
+    language: en
+    name: English
+    hash: e737ec12ff3359f13839179ce3768d889cedfb2e3203e54ece2c46dfedb6a75a
+    isDraft: true
+  state:
+    id: AUieDaax2FYuNNhO9wxOT-MZ7c-6Y10hCa_dGVuB26DksNJrEeSGOfH0
+video:uIBSyw8CD0s:caption:th:
+  spec:
+    videoId: uIBSyw8CD0s
+    filePath: data/videos/supabase/supavfire_th.vtt
+    language: th
+    name: Thai
+    hash: efbe096fd6cc6bb95fb6caced7a3064938d13881e16aa8c66d01edf8247c5781
+    isDraft: true
+  state:
+    id: AUieDaZLXo8jY8eXdABtIB_6EYdMwfIGSnDyjJ4lTELDtrp6mRZ0
