@@ -9,6 +9,7 @@
         "youtube": "kppkEaMjCTE",
         "managed": true,
         "published": "2024-06-28",
+        "language": "th",
         "subtitles": [
           "th"
         ]
@@ -26,7 +27,8 @@
         "type": "pitch",
         "youtube": "dtvAFindVK4",
         "managed": true,
-        "published": "2024-06-29"
+        "published": "2024-06-29",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d1s2.md",
@@ -41,6 +43,7 @@
         "youtube": "aZroGYIpDSU",
         "managed": true,
         "published": "2024-06-30",
+        "language": "th",
         "subtitles": [
           "th"
         ]
@@ -58,7 +61,8 @@
         "type": "pitch",
         "youtube": "XBhzfByZplE",
         "managed": true,
-        "published": "2024-07-01"
+        "published": "2024-07-01",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d1s4.md",
@@ -72,7 +76,8 @@
         "type": "pitch",
         "youtube": "Kn345YKezDY",
         "managed": true,
-        "published": "2024-07-02"
+        "published": "2024-07-02",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d1s5.md",
@@ -86,7 +91,8 @@
         "type": "pitch",
         "youtube": "Hh-_uUb2bis",
         "managed": true,
-        "published": "2024-07-03"
+        "published": "2024-07-03",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d2s1.md",
@@ -100,7 +106,8 @@
         "type": "pitch",
         "youtube": "zej4pK6Kq0Y",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d2s2.md",
@@ -114,7 +121,8 @@
         "type": "pitch",
         "youtube": "xKBzefz-x6o",
         "managed": true,
-        "published": "2024-07-07"
+        "published": "2024-07-07",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d2s3.md",
@@ -128,7 +136,8 @@
         "type": "pitch",
         "youtube": "TivEsZtlpwM",
         "managed": true,
-        "published": "2024-07-08"
+        "published": "2024-07-08",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d2s4.md",
@@ -142,293 +151,12 @@
         "type": "pitch",
         "youtube": "OSdE7p_woTU",
         "managed": true,
-        "published": "2024-07-09"
+        "published": "2024-07-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/algorave/d2s5.md",
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bank-for-all",
-      "data": {
-        "title": "Bank For All",
-        "tagline": "Peer Share and Microfinance Platform for All",
-        "type": "pitch",
-        "youtube": "su14UUhSVrM",
-        "managed": true,
-        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bank-for-all.md",
-      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkk-reward-hunter",
-      "data": {
-        "title": "BKK Reward Hunter",
-        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
-        "type": "pitch",
-        "youtube": "yd3uA1XOtww",
-        "managed": true,
-        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
-      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkkchangelog",
-      "data": {
-        "title": "BKK Changelog",
-        "type": "pitch",
-        "youtube": "inkQI5yRd_Y",
-        "managed": true,
-        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkkchangelog.md",
-      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "code-and-the-city",
-      "data": {
-        "title": "Code and the City: Bettering society with code",
-        "speaker": "Lookkid Withee Poositasai",
-        "type": "talk",
-        "youtube": "Wfu_DL29FL0",
-        "managed": true,
-        "published": true,
-        "chapters": {
-          "00:00": "แนะนำตัว",
-          "01:38": "แนะนำ Punch Up และ WeVis",
-          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
-          "03:43": "ทีมงาน",
-          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
-          "04:52": "โปรเจคแบบ Purpose-driven",
-          "08:10": "โปรเจคแบบ Data-driven",
-          "11:27": "แบบไหนดีกว่ากัน",
-          "12:29": "Part 1 Key challenges",
-          "13:28": "Part 1 Key takeaway",
-          "15:16": "Part 2 - Work with Open (?) Collaborator",
-          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
-          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
-          "20:17": "Part 2 Key takeaway",
-          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
-          "21:14": "Taiwan’s g0v",
-          "22:49": "Estonia’s Rahvaalgatus",
-          "24:48": "Part 3 Key takeaway",
-          "25:30": "Wrap up",
-          "26:50": "Q&A"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/code-and-the-city.md",
-      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "fill-you-in-the-blank",
-      "data": {
-        "title": "Fill You in the Blank",
-        "tagline": "เติมคุณในช่องว่าง",
-        "type": "pitch",
-        "youtube": "on25fTHEtus",
-        "managed": true,
-        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
-      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "muse",
-      "data": {
-        "title": "muse foundation: for-social profit impact",
-        "speaker": "Sira Sujjinanont",
-        "type": "talk",
-        "youtube": "ztHxfz7nGVE",
-        "managed": true,
-        "description": "muse foundation\nhttps://muse.as/\n",
-        "published": true,
-        "chapters": {
-          "00:00": "แนะนำ muse foundation",
-          "00:30": "แนะนำตัว",
-          "00:46": "ย้ายถิ่นฐาน",
-          "01:25": "ปาย แม่ฮ่องสอน",
-          "02:48": "Co-living space",
-          "04:00": "Education",
-          "06:30": "codeforpublic/SQUID",
-          "07:37": "หมอชนะ",
-          "08:19": "โมเดล Open source",
-          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
-          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
-          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
-          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
-          "19:03": "Conclusion"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/muse.md",
-      "imageFilePath": "data/videos/bangkok/muse.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "policytracka",
-      "data": {
-        "title": "PolicyTracka",
-        "tagline": "Creativity from Policy",
-        "type": "pitch",
-        "youtube": "JhhmE1chbWQ",
-        "managed": true,
-        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/policytracka.md",
-      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "ratchagitja",
-      "data": {
-        "title": "Ratchagitja",
-        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
-        "type": "pitch",
-        "youtube": "8EC1OLZOZyo",
-        "managed": true,
-        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/ratchagitja.md",
-      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "special-interview-session",
-      "data": {
-        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
-        "speaker": "Whee Pongpiphat; Nattanon",
-        "type": "talk",
-        "youtube": "3HGzSV3fRGQ",
-        "managed": true,
-        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/special-interview-session.md",
-      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "techthaiban",
-      "data": {
-        "title": "Tech Thaiban Model: Empower Local",
-        "speaker": "Kulachat Kena",
-        "type": "talk",
-        "youtube": "hbVoyXLWD98",
-        "managed": true,
-        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
-        "published": true,
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
-          "00:42": "ภูผาม่าน",
-          "01:07": "แนะนำตัว",
-          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
-          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
-          "03:17": "ฟาร์มคิด - ภูผาม่าน",
-          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
-          "04:37": "UX Meetup ณ ภูผาม่าน",
-          "06:27": "มหา'ลัย ไทบ้าน",
-          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
-          "09:00": "กระจายอำนาจ",
-          "09:38": "Next model",
-          "10:10": "โมเดลการศึกษา",
-          "12:22": "โมเดลการบริจาค",
-          "14:40": "Conclusion"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/techthaiban.md",
-      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
-      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
-    },
-    {
-      "event": "bangkok",
-      "slug": "thailand-area-ranking",
-      "data": {
-        "title": "Thailand Area Ranking",
-        "team": {
-          "name": "TensorMiK"
-        },
-        "type": "pitch",
-        "youtube": "TTU2oSlbT_w",
-        "managed": true,
-        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
-      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "traffy",
-      "data": {
-        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
-        "speaker": "Wasan Pattara-atikom",
-        "type": "talk",
-        "youtube": "N8eBpiCXgNE",
-        "managed": true,
-        "published": true,
-        "chapters": {
-          "00:00": "Introduction",
-          "01:17": "แนะนำ Traffy Fondue",
-          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
-          "05:07": "LINE @traffyfondue",
-          "07:02": "ตัวอย่าง",
-          "09:00": "Dashboard",
-          "09:46": "สถิติ",
-          "10:43": "ต่างจังหวัด",
-          "11:44": "สำรวจการใช้งาน",
-          "12:55": "การใช้งานในกรุงเทพฯ",
-          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
-          "27:22": "Open Data + API",
-          "29:40": "รับสมัครผู้ร่วมทีม",
-          "30:55": "Q&A"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/traffy.md",
-      "imageFilePath": "data/videos/bangkok/traffy.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "we-space",
-      "data": {
-        "title": "WeSpace",
-        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
-        "type": "pitch",
-        "youtube": "ErotrrAm0eU",
-        "managed": true,
-        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/we-space.md",
-      "imageFilePath": "data/videos/bangkok/we-space.jpg"
     },
     {
       "event": "archive",
@@ -438,7 +166,8 @@
         "type": "archive",
         "youtube": "2TFbpD4M8_c",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs14-1.md",
@@ -452,7 +181,8 @@
         "type": "archive",
         "youtube": "b2TRUel47YY",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs14-2.md",
@@ -466,7 +196,8 @@
         "type": "archive",
         "youtube": "Pyp8IJbzLdo",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs17.md",
@@ -481,7 +212,8 @@
         "youtube": "jcV3SaQvYhs",
         "managed": true,
         "description": "0:01:43 | Magento in the modern era\n0:44:54 | Faster, Cheaper Serverless APIs with Cloud Functions for Firebase 2nd Gen\n1:35:33 | Cross-framework state manager with nanostores\n1:43:44 | iconify-icon web component\n",
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs18.md",
@@ -495,7 +227,8 @@
         "type": "archive",
         "youtube": "BpmFWDJ7q7w",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs19.md",
@@ -509,7 +242,8 @@
         "type": "archive",
         "youtube": "MmtQuiE2VP4",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkjs20.md",
@@ -523,7 +257,8 @@
         "type": "archive",
         "youtube": "qicLQYQolf0",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkoss-orientation.md",
@@ -537,7 +272,8 @@
         "type": "archive",
         "youtube": "hr3dEJO6L3o",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/bkkoss-pitching.md",
@@ -551,7 +287,8 @@
         "type": "archive",
         "youtube": "oh6SgLMznUI",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/citw2.md",
@@ -565,7 +302,8 @@
         "type": "archive",
         "youtube": "c9TB7rDX0HU",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/creativecodingmeetup.md",
@@ -579,7 +317,8 @@
         "type": "archive",
         "youtube": "U6CdYFhc-tk",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/cssmeetup0823.md",
@@ -593,7 +332,8 @@
         "type": "archive",
         "youtube": "74nmsQFzltw",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/functional.md",
@@ -607,7 +347,8 @@
         "type": "archive",
         "youtube": "ku42RMFPR9Y",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/functional2-1.md",
@@ -621,7 +362,8 @@
         "type": "archive",
         "youtube": "4pHImuREacg",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/functional2-2.md",
@@ -635,7 +377,8 @@
         "type": "archive",
         "youtube": "51KibnrQO5g",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/github1.md",
@@ -649,7 +392,8 @@
         "type": "archive",
         "youtube": "1jqGRu5fP_8",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/gql10-1.md",
@@ -663,7 +407,8 @@
         "type": "archive",
         "youtube": "rZzM5jnIKFo",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/gql10-2.md",
@@ -677,7 +422,8 @@
         "type": "archive",
         "youtube": "6OS4iWfmApg",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/hacktober2020.md",
@@ -691,7 +437,8 @@
         "type": "archive",
         "youtube": "GUCkjzD4IEQ",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/hacktober2022-1.md",
@@ -705,7 +452,8 @@
         "type": "archive",
         "youtube": "T6rdYlBmjJw",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/hacktober2022-2.md",
@@ -719,7 +467,8 @@
         "type": "archive",
         "youtube": "yEti_mtpXJ8",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/mathsatsundown.md",
@@ -733,7 +482,8 @@
         "type": "archive",
         "youtube": "aBXDiariKco",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/msbuild2023.md",
@@ -747,7 +497,8 @@
         "type": "archive",
         "youtube": "IuxQdDsmJvY",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/reactmeetup0623.md",
@@ -761,7 +512,8 @@
         "type": "archive",
         "youtube": "ldctCYCYxSc",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/reactmeetup2022-1.md",
@@ -775,7 +527,8 @@
         "type": "archive",
         "youtube": "JfTbhig4MOc",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/reactmeetup2022-2.md",
@@ -789,7 +542,8 @@
         "type": "archive",
         "youtube": "kyWtr20b8Ew",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/reactmeetup2022-3.md",
@@ -803,7 +557,8 @@
         "type": "archive",
         "youtube": "xzAgKTgAhjs",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht3.md",
@@ -817,7 +572,8 @@
         "type": "archive",
         "youtube": "QDj6vV0wxQ4",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht4-orientation.md",
@@ -831,7 +587,8 @@
         "type": "archive",
         "youtube": "CPd-ZUgA-w0",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht4-pitch.md",
@@ -845,7 +602,8 @@
         "type": "archive",
         "youtube": "nmK5p5RovuA",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht5.md",
@@ -859,7 +617,8 @@
         "type": "archive",
         "youtube": "AzvXWANuNxw",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht6-orientation.md",
@@ -873,7 +632,8 @@
         "type": "archive",
         "youtube": "nKFO4ujdnQ8",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht6-pitch.md",
@@ -887,7 +647,8 @@
         "type": "archive",
         "youtube": "DjSkA1isb-c",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht6-special.md",
@@ -902,6 +663,7 @@
         "youtube": "VXBSWZPEHcM",
         "managed": true,
         "published": false,
+        "language": "th",
         "chapters": {
           "0:00:00": "[เริ่มสตรีม]",
           "0:10:07": "[แนะนำระบบโหวต]",
@@ -951,7 +713,8 @@
         "type": "archive",
         "youtube": "_vHHe1-9pEc",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sht8.md",
@@ -965,7 +728,8 @@
         "type": "archive",
         "youtube": "riUzuz5QZBo",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/sideproject.md",
@@ -979,7 +743,8 @@
         "type": "archive",
         "youtube": "oQW_-MEEi9U",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/supabase.md",
@@ -993,7 +758,8 @@
         "type": "archive",
         "youtube": "8mFIdglKjYA",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/svelte1.md",
@@ -1007,7 +773,8 @@
         "type": "archive",
         "youtube": "GdooNVWY3kQ",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/typescript1.md",
@@ -1021,11 +788,307 @@
         "type": "archive",
         "youtube": "0d0Po170y7U",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/archive/vscodeday2023.md",
       "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bank-for-all",
+      "data": {
+        "title": "Bank For All",
+        "tagline": "Peer Share and Microfinance Platform for All",
+        "type": "pitch",
+        "youtube": "su14UUhSVrM",
+        "managed": true,
+        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bank-for-all.md",
+      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkk-reward-hunter",
+      "data": {
+        "title": "BKK Reward Hunter",
+        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
+        "type": "pitch",
+        "youtube": "yd3uA1XOtww",
+        "managed": true,
+        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
+      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkkchangelog",
+      "data": {
+        "title": "BKK Changelog",
+        "type": "pitch",
+        "youtube": "inkQI5yRd_Y",
+        "managed": true,
+        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkkchangelog.md",
+      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "code-and-the-city",
+      "data": {
+        "title": "Code and the City: Bettering society with code",
+        "speaker": "Lookkid Withee Poositasai",
+        "type": "talk",
+        "youtube": "Wfu_DL29FL0",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "แนะนำตัว",
+          "01:38": "แนะนำ Punch Up และ WeVis",
+          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
+          "03:43": "ทีมงาน",
+          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
+          "04:52": "โปรเจคแบบ Purpose-driven",
+          "08:10": "โปรเจคแบบ Data-driven",
+          "11:27": "แบบไหนดีกว่ากัน",
+          "12:29": "Part 1 Key challenges",
+          "13:28": "Part 1 Key takeaway",
+          "15:16": "Part 2 - Work with Open (?) Collaborator",
+          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
+          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
+          "20:17": "Part 2 Key takeaway",
+          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
+          "21:14": "Taiwan’s g0v",
+          "22:49": "Estonia’s Rahvaalgatus",
+          "24:48": "Part 3 Key takeaway",
+          "25:30": "Wrap up",
+          "26:50": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/code-and-the-city.md",
+      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "fill-you-in-the-blank",
+      "data": {
+        "title": "Fill You in the Blank",
+        "tagline": "เติมคุณในช่องว่าง",
+        "type": "pitch",
+        "youtube": "on25fTHEtus",
+        "managed": true,
+        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
+      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "muse",
+      "data": {
+        "title": "muse foundation: for-social profit impact",
+        "speaker": "Sira Sujjinanont",
+        "type": "talk",
+        "youtube": "ztHxfz7nGVE",
+        "managed": true,
+        "description": "muse foundation\nhttps://muse.as/\n",
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "แนะนำ muse foundation",
+          "00:30": "แนะนำตัว",
+          "00:46": "ย้ายถิ่นฐาน",
+          "01:25": "ปาย แม่ฮ่องสอน",
+          "02:48": "Co-living space",
+          "04:00": "Education",
+          "06:30": "codeforpublic/SQUID",
+          "07:37": "หมอชนะ",
+          "08:19": "โมเดล Open source",
+          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
+          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
+          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
+          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
+          "19:03": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/muse.md",
+      "imageFilePath": "data/videos/bangkok/muse.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "policytracka",
+      "data": {
+        "title": "PolicyTracka",
+        "tagline": "Creativity from Policy",
+        "type": "pitch",
+        "youtube": "JhhmE1chbWQ",
+        "managed": true,
+        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/policytracka.md",
+      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "ratchagitja",
+      "data": {
+        "title": "Ratchagitja",
+        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
+        "type": "pitch",
+        "youtube": "8EC1OLZOZyo",
+        "managed": true,
+        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/ratchagitja.md",
+      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "special-interview-session",
+      "data": {
+        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
+        "speaker": "Whee Pongpiphat; Nattanon",
+        "type": "talk",
+        "youtube": "3HGzSV3fRGQ",
+        "managed": true,
+        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/special-interview-session.md",
+      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "techthaiban",
+      "data": {
+        "title": "Tech Thaiban Model: Empower Local",
+        "speaker": "Kulachat Kena",
+        "type": "talk",
+        "youtube": "hbVoyXLWD98",
+        "managed": true,
+        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
+          "00:42": "ภูผาม่าน",
+          "01:07": "แนะนำตัว",
+          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
+          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
+          "03:17": "ฟาร์มคิด - ภูผาม่าน",
+          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
+          "04:37": "UX Meetup ณ ภูผาม่าน",
+          "06:27": "มหา'ลัย ไทบ้าน",
+          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
+          "09:00": "กระจายอำนาจ",
+          "09:38": "Next model",
+          "10:10": "โมเดลการศึกษา",
+          "12:22": "โมเดลการบริจาค",
+          "14:40": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/techthaiban.md",
+      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
+      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
+    },
+    {
+      "event": "bangkok",
+      "slug": "thailand-area-ranking",
+      "data": {
+        "title": "Thailand Area Ranking",
+        "team": {
+          "name": "TensorMiK"
+        },
+        "type": "pitch",
+        "youtube": "TTU2oSlbT_w",
+        "managed": true,
+        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
+      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "traffy",
+      "data": {
+        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
+        "speaker": "Wasan Pattara-atikom",
+        "type": "talk",
+        "youtube": "N8eBpiCXgNE",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "Introduction",
+          "01:17": "แนะนำ Traffy Fondue",
+          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
+          "05:07": "LINE @traffyfondue",
+          "07:02": "ตัวอย่าง",
+          "09:00": "Dashboard",
+          "09:46": "สถิติ",
+          "10:43": "ต่างจังหวัด",
+          "11:44": "สำรวจการใช้งาน",
+          "12:55": "การใช้งานในกรุงเทพฯ",
+          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
+          "27:22": "Open Data + API",
+          "29:40": "รับสมัครผู้ร่วมทีม",
+          "30:55": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/traffy.md",
+      "imageFilePath": "data/videos/bangkok/traffy.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "we-space",
+      "data": {
+        "title": "WeSpace",
+        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
+        "type": "pitch",
+        "youtube": "ErotrrAm0eU",
+        "managed": true,
+        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/we-space.md",
+      "imageFilePath": "data/videos/bangkok/we-space.jpg"
     },
     {
       "event": "bkkjs17",
@@ -1038,6 +1101,7 @@
         "managed": true,
         "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
         "published": true,
+        "language": "th",
         "tags": [
           "js",
           "ar",
@@ -1064,6 +1128,7 @@
         "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
         "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
         "published": true,
+        "language": "th",
         "subtitles": [
           "en",
           "th"
@@ -1139,7 +1204,8 @@
         "youtube": "ltIvGLzMwzo",
         "managed": true,
         "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/manoonchai.md",
@@ -1156,6 +1222,7 @@
         "managed": true,
         "description": "Mind blown CSS techniques that you might not have seen\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
         "published": true,
+        "language": "th",
         "tags": [
           "javascript",
           "js",
@@ -1183,7 +1250,8 @@
         "youtube": "J2THXXeQMxY",
         "managed": true,
         "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs17/postr.md",
@@ -1200,6 +1268,7 @@
         "managed": true,
         "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
         "published": true,
+        "language": "th",
         "tags": [
           "typescript",
           "ts"
@@ -1218,7 +1287,8 @@
         "type": "talk",
         "youtube": "Bm0RWdSCqxM",
         "managed": true,
-        "published": "2023-07-26"
+        "published": "2023-07-26",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/firebase.md",
@@ -1234,6 +1304,7 @@
         "youtube": "Wd7oETbK5vY",
         "managed": true,
         "published": "2023-07-26",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1268,7 +1339,8 @@
         "type": "talk",
         "youtube": "IjBp3KdJW6M",
         "managed": true,
-        "published": "2023-07-26"
+        "published": "2023-07-26",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs18/magento.md",
@@ -1284,6 +1356,7 @@
         "youtube": "47oIXnbQXps",
         "managed": true,
         "published": "2023-07-26",
+        "language": "th",
         "tags": [
           "javascript",
           "js",
@@ -1315,6 +1388,7 @@
         "youtube": "Wuxt4HiZtB4",
         "managed": true,
         "published": "2024-03-08",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1351,7 +1425,8 @@
         "type": "talk",
         "youtube": "HiChHH_MhQI",
         "managed": true,
-        "published": "2024-03-08"
+        "published": "2024-03-08",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/data.md",
@@ -1366,7 +1441,8 @@
         "type": "talk",
         "youtube": "MWllwllnEPc",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/dev-survey.md",
@@ -1381,7 +1457,8 @@
         "type": "talk",
         "youtube": "B14cGlzp0_c",
         "managed": true,
-        "published": "2024-02-09"
+        "published": "2024-02-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/jest.md",
@@ -1396,7 +1473,8 @@
         "type": "talk",
         "youtube": "1g9EDpmPANI",
         "managed": true,
-        "published": "2024-03-08"
+        "published": "2024-03-08",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/pycon.md",
@@ -1411,7 +1489,8 @@
         "type": "talk",
         "youtube": "rAbcGSH1uv0",
         "managed": true,
-        "published": "2024-03-08"
+        "published": "2024-03-08",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/quasar.md",
@@ -1426,7 +1505,8 @@
         "type": "talk",
         "youtube": "chRkHsSeOjU",
         "managed": true,
-        "published": "2024-02-09"
+        "published": "2024-02-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/reactive.md",
@@ -1442,6 +1522,7 @@
         "youtube": "DoRsdVqeMUM",
         "managed": true,
         "published": "2024-02-09",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1483,7 +1564,8 @@
         "type": "talk",
         "youtube": "LJP8xmAhiUs",
         "managed": true,
-        "published": "2024-03-08"
+        "published": "2024-03-08",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/vhs.md",
@@ -1499,6 +1581,7 @@
         "youtube": "szr7swXqPSw",
         "managed": true,
         "published": "2024-02-09",
+        "language": "th",
         "subtitles": [
           "en",
           "th"
@@ -1532,7 +1615,8 @@
         "type": "talk",
         "youtube": "ENPJ4_Kq-lY",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/web-landscape.md",
@@ -1549,6 +1633,7 @@
         "managed": true,
         "description": "แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework อื่นมาก่อน\n",
         "published": "2024-06-09",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1584,6 +1669,7 @@
         "youtube": "qUbnQCHcZLU",
         "managed": true,
         "published": "2024-06-13",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1618,6 +1704,7 @@
         "managed": true,
         "description": "Revisit the fundamental concepts of JavaScript \"Primitive and reference types\"\n",
         "published": "2024-06-12",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1653,6 +1740,7 @@
         "youtube": "PCSdvZEJnmg",
         "managed": true,
         "published": "2024-06-14",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1691,6 +1779,7 @@
         "managed": true,
         "description": "เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ\n",
         "published": "2024-06-11",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1726,6 +1815,7 @@
         "managed": true,
         "description": "ทำไมท่ารำไทยต้องจำกัดแค่ 59 แม่บทด้วย เราสามารถใช้คณิตศาสตร์และ Three.js มาสร้างการแสดงที่ให้ผู้ชมร่วมสร้างท่ารำใหม่ๆ กับนักเต้นได้ไหมนะ ทอล์คนี้จะเล่าการเดินทาง 1 ปี กับการเขียน JavaScript ที่ใช้ในการแสดงนาฎศิลป์ไทยที่ต่างแดนกัน\n",
         "published": "2024-06-10",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -1761,6 +1851,7 @@
         "managed": true,
         "description": "เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต\n\nSpeaker’s website\nhttps://viz.studio/\n\nFacebook page\nhttps://www.facebook.com/VIZstudioCompany\n",
         "published": true,
+        "language": "th",
         "tags": [
           "ai",
           "stablediffusion",
@@ -1807,6 +1898,7 @@
         "managed": true,
         "description": "เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน\n\nSpeaker’s website\nhttps://www.punpitan.com/\n\nInstagram\nhttps://instagram.com/punpitan/\n\nReferences\n\nKinect programming tutorial\nhttps://www.youtube.com/watch?v=E1eIg54clGo\n",
         "published": true,
+        "language": "th",
         "chapters": {
           "00:00": "Introduction",
           "01:18": "Reel",
@@ -1836,6 +1928,7 @@
         "managed": true,
         "description": "Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.\n\nSpeaker’s website\nhttps://www.wsdigital.dev/\n\nGitHub\nhttps://github.com/dodadoa\n",
         "published": true,
+        "language": "th",
         "chapters": {
           "00:00": "Intro",
           "00:50": "Examples",
@@ -1878,6 +1971,7 @@
         "managed": true,
         "description": "an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.\n\nSource code: karnpapon/anu\nhttps://github.com/karnpapon/anu\n\nanu-processing (visual)\nhttps://github.com/karnpapon/anu-processing\n\nanu-supercollider (sound)\nhttps://github.com/karnpapon/anu/blob/app/sc-osc-example.scd\n",
         "published": true,
+        "language": "th",
         "subtitles": [
           "en"
         ],
@@ -1917,6 +2011,7 @@
         "managed": true,
         "description": "Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF\n\nSource code and references:\nhttps://d4h.cc/sdf\n\nSpeaker’s channel\nhttps://www.youtube.com/@dtinth\n\nRecommended videos\nhttps://youtu.be/svLzmFuSBhk\nhttps://youtu.be/BNZtUB7yhX4\nhttps://youtu.be/0ifChJ0nJfM\nhttps://youtu.be/8--5LwHRhjk\nhttps://youtu.be/BFld4EBO2RE\nhttps://youtu.be/PGtv-dBi2wE\n",
         "published": true,
+        "language": "th",
         "subtitles": [
           "en",
           "th"
@@ -1952,6 +2047,7 @@
         "managed": true,
         "description": "การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน\n\nSpeaker’s channel\nhttps://www.youtube.com/@crsrcrsr9902\n",
         "published": true,
+        "language": "th",
         "chapters": {
           "00:00": "Introduction",
           "01:20": "Modular Synthesizer",
@@ -1996,6 +2092,7 @@
         "managed": true,
         "description": "แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...\n\nSlides\nhttps://neizod.dev/fractal-demo/\n\nSpeaker’s website\nhttps://neizod.dev/\n\nGitHub\nhttps://github.com/neizod\n",
         "published": true,
+        "language": "th",
         "chapters": {
           "00:00": "Introduction",
           "00:58": "Fractal",
@@ -2024,6 +2121,7 @@
         "managed": true,
         "description": "จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม\n\nPlay the game\nhttps://bocchi-the-crane.tauhoo.dev/\n\nSpeaker’s website\nhttps://tauhoo.dev/\n",
         "published": true,
+        "language": "th",
         "tags": [
           "javascript",
           "js",
@@ -2055,7 +2153,8 @@
         "type": "talk",
         "youtube": "WpCR96qzCUo",
         "managed": true,
-        "published": "2023-10-20"
+        "published": "2023-10-20",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/cssmeetup0823/css-container-query.md",
@@ -2070,7 +2169,8 @@
         "type": "talk",
         "youtube": "xWSyWOdDlY4",
         "managed": true,
-        "published": "2023-10-20"
+        "published": "2023-10-20",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
@@ -2085,7 +2185,8 @@
         "type": "talk",
         "youtube": "GkVQ_GW6gFI",
         "managed": true,
-        "published": "2023-10-20"
+        "published": "2023-10-20",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/cssmeetup0823/css-variables.md",
@@ -2100,7 +2201,8 @@
         "type": "talk",
         "youtube": "GgwnfjGbKpk",
         "managed": true,
-        "published": "2023-10-20"
+        "published": "2023-10-20",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/cssmeetup0823/flexbox.md",
@@ -2115,7 +2217,8 @@
         "type": "talk",
         "youtube": "jV_bIbtKY-I",
         "managed": true,
-        "published": "2023-10-20"
+        "published": "2023-10-20",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/cssmeetup0823/thai-ui.md",
@@ -2130,7 +2233,8 @@
         "type": "talk",
         "youtube": "F5_17LqLmU4",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/functional/algebraic-structure.md",
@@ -2146,6 +2250,7 @@
         "youtube": "bn7MU7tRSI0",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "devops",
           "nix",
@@ -2166,6 +2271,7 @@
         "youtube": "8A4IAK2Pedg",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "devops",
           "docker",
@@ -2188,6 +2294,7 @@
         "youtube": "B60nabM4hgk",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "typescript"
         ]
@@ -2206,6 +2313,7 @@
         "youtube": "xCyRAH2X9FQ",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "softwaredevelopment",
           "problemsolving"
@@ -2224,7 +2332,8 @@
         "type": "talk",
         "youtube": "JGmWEAuaj2s",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/functional/tortilla.md",
@@ -2239,7 +2348,8 @@
         "type": "talk",
         "youtube": "6jK2GvN728g",
         "managed": true,
-        "published": "2023-08-24"
+        "published": "2023-08-24",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/functional2/unlock-elm.md",
@@ -2254,7 +2364,8 @@
         "type": "talk",
         "youtube": "q8yd7qfiL1g",
         "managed": true,
-        "published": "2023-11-17"
+        "published": "2023-11-17",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/github1/election.md",
@@ -2270,6 +2381,7 @@
         "youtube": "i58lEAFqDlw",
         "managed": true,
         "published": "2023-11-17",
+        "language": "th",
         "subtitles": [
           "en",
           "th"
@@ -2311,7 +2423,8 @@
         "youtube": "uDZIraaY5s8",
         "managed": true,
         "description": "เล่าเรื่องราวของการพัฒนา BCI (Brain-Computer Interface) ทั้งในไทยและต่างประเทศ โดยจะมีหัวข้อคร่าว ๆ ดังนี้\n\n1. ตั้งแต่ BCI คืออะไร\n2. ถ้าเราจะเริ่มต้นพัฒนา BCI ต้องเริ่มอย่างไร\n3. BCI ถูกเอาไปใช้กับอุตสาหกรรมไหนแล้วบ้าง\n4. อนาคตของ BCI จะเป็นอย่างไร\n",
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/bci.md",
@@ -2328,6 +2441,7 @@
         "managed": true,
         "description": "ในงานคงพูดเรื่องการ contribute ด้วยกันเขียนโค้ดกันมา ก็เลยคิดว่าการเขียนบล็อกก็เป็นอีกหนึ่งทางในการช่วย contribute community ต่าง ๆ ด้วย ก็เลยจะมาจุดประกายให้ทุกคนอยากเขียนบล็อกกัน ว่าทำไมต้องเขียนบล็อก เขียนแล้วได้อะไร แล้วต้องทำยังไง\n\nMikkiPastel blog:\nhttps://mikkipastel.com/\n",
         "published": true,
+        "language": "th",
         "chapters": {
           "00:00": "Intro",
           "01:20": "How to contribute for developer",
@@ -2355,7 +2469,8 @@
         "youtube": "raaiHUinw8c",
         "managed": true,
         "description": "GraalVM เป็น VM จาก Oracle ที่จะปลดปล่อยความสามารถของภาษาบน JVM เช่น Java ให้เทียบชั้นกับ Native แบบ Golang ได้เลย ทำไมถึงทำแบบนั้นได้ Talk นี้จะเหลาให้ฟัง",
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/graalvm.md",
@@ -2372,6 +2487,7 @@
         "managed": true,
         "description": "Talk นี้พูดถึง Features ต่างๆ ที่เกี่ยวข้องกับการสร้างสี ใน Joy UI ที่ช่วยลดเวลาให้กับนักพัฒนาได้เป็นอย่างมาก\n\nJoy UI\nhttps://mui.com/joy-ui/getting-started/overview/\n",
         "published": true,
+        "language": "th",
         "tags": [
           "materialui",
           "javascript",
@@ -2394,6 +2510,7 @@
         "managed": true,
         "description": "Talk นี้เล่าเกี่ยวกับประวัติของ repository, และเรื่องของการเปลี่ยนผันมาใช้งานตัว monorepo ในการจัดการ microservice แทน\n",
         "published": true,
+        "language": "th",
         "tags": [
           "turborepo monorepo"
         ],
@@ -2420,6 +2537,7 @@
         "managed": true,
         "description": "เล่าเรื่องเกี่ยวกับการเป็น support engineer(volunteer) ตอบคำถาม, ทดสอบ dev version, และหา solution ให้คนใน community",
         "published": true,
+        "language": "th",
         "tags": [
           "database",
           "prisma"
@@ -2439,7 +2557,8 @@
         "youtube": "KeyDrr4Qxg0",
         "managed": true,
         "description": "อยากชวนทุกคนมาเปิด PR ร่วมเขียนหนังสือ The Data Engineering Book ในภาษาไทย เพื่อให้คนไทยเข้าถึงความรู้ได้ง่ายยิ่งขึ้น\n\nThe Data Engineering Book - หนังสือวิศวกรรมข้อมูล ของคนไทย เพื่อคนไทย\nhttps://url.odds.team/tdeb\n",
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/hacktoberfest2022/tdeb.md",
@@ -2453,7 +2572,8 @@
         "type": "talk",
         "youtube": "sIDwvORIX1Q",
         "managed": true,
-        "published": "2023-08-09"
+        "published": "2023-08-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/mathsatsundown/history.md",
@@ -2467,7 +2587,8 @@
         "type": "talk",
         "youtube": "6s4A796J800",
         "managed": true,
-        "published": "2023-08-09"
+        "published": "2023-08-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/mathsatsundown/paradigms.md",
@@ -2482,6 +2603,7 @@
         "youtube": "Pj6pI6fCLiI",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "azure",
           "linux",
@@ -2501,6 +2623,7 @@
         "youtube": "vc4Ie7rpU_Y",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "githubcopilot",
           "codegeneration",
@@ -2520,6 +2643,7 @@
         "youtube": "GY8ifITzFS8",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "ai",
           "githubcopilot"
@@ -2537,7 +2661,8 @@
         "type": "talk",
         "youtube": "39CCj2yLfn0",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/imagine-cup.md",
@@ -2552,6 +2677,7 @@
         "youtube": "fv8ohV-TNSM",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "powerbi",
           "microsoftfabric",
@@ -2570,7 +2696,8 @@
         "type": "talk",
         "youtube": "gRsbvzN4cJE",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/nextgen-ai-dev.md",
@@ -2584,7 +2711,8 @@
         "type": "talk",
         "youtube": "fJzMU4xrz74",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/msbuild2023/shaping-future-of-work.md",
@@ -2600,6 +2728,7 @@
         "youtube": "MR7GaoZDABc",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "react",
           "reactjs",
@@ -2621,6 +2750,7 @@
         "youtube": "ZEKtdhlzMBA",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "react",
           "reactjs",
@@ -2644,6 +2774,7 @@
         "youtube": "LY3e3IAezBQ",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "react"
         ]
@@ -2662,6 +2793,7 @@
         "youtube": "g4zUmjKXqms",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "redux",
           "reactjs",
@@ -2683,6 +2815,7 @@
         "youtube": "jM0njSK-bPg",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "astrojs",
           "nextjs",
@@ -2708,6 +2841,7 @@
         "youtube": "IVwBbhHOvSQ",
         "managed": true,
         "published": true,
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -2759,6 +2893,7 @@
         "youtube": "iFBxlPXrZRo",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "reactspring",
           "react",
@@ -2780,6 +2915,7 @@
         "youtube": "yvfsIaj6WVM",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "react",
           "reactjs",
@@ -2801,6 +2937,7 @@
         "youtube": "-lZ5ndZhu8c",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "react",
           "typescript",
@@ -2821,7 +2958,8 @@
         "type": "talk",
         "youtube": "Z1RO-799lps",
         "managed": true,
-        "published": "2023-08-09"
+        "published": "2023-08-09",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/scisart/digitizing-ghost.md",
@@ -2837,6 +2975,7 @@
         "managed": true,
         "description": "เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2\n\nCode: https://github.com/exzenous/cosnatsu-imgcampaign\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "fabricjs",
           "vue",
@@ -2859,6 +2998,7 @@
         "managed": true,
         "description": "Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~\n\nCode: https://github.com/wonderfulsoftware/ansr\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "js",
           "javascript",
@@ -2881,6 +3021,7 @@
         "managed": true,
         "description": "Slides: https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "eeg",
           "music",
@@ -2902,6 +3043,7 @@
         "managed": true,
         "description": "17x faster than Express\nTypeScript that is as fast as Rust.\nEnd-to-end type safety like tRPC.\nAs easy as Express, and Fastify.\nWith automated tools like Ruby on Rails\n\nFeatured in BETH stack here: https://youtu.be/cpzowDDJj24\n\nDocs: https://elysiajs.com/\n",
         "published": "2023-09-22",
+        "language": "th",
         "subtitles": [
           "th",
           "en"
@@ -2943,6 +3085,7 @@
         "managed": true,
         "description": "Talk about:\n  1. Blazing fast homepage https://ham-san.net/\n  2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/\n  3. Running SQLite in a browser https://aibou.ham-san.net/\n  4. All-Platform Chatbot https://hambot.ham-san.net/\n  5. Self-deployed Notion https://notes.ham-san.net/\n+ What i learn doing side projects\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "typescript",
           "svelte",
@@ -2970,6 +3113,7 @@
         "managed": true,
         "description": "เป็น library สำหรับทำ laser tag อย่างง่าย เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม\n\nCode: https://github.com/vixtory09678/laser-tag-library\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "lasertag",
           "arduino",
@@ -2990,6 +3134,7 @@
         "managed": true,
         "description": "Code: https://github.com/wutipong/mangaweb\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "go",
           "golang",
@@ -3010,6 +3155,7 @@
         "managed": true,
         "description": "ChatOS: https://chat.narze.live/\nDigital Garden: https://garden.narze.live/\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "js",
           "javascript",
@@ -3033,6 +3179,7 @@
         "managed": true,
         "description": "เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????\n\nCode: https://github.com/rayriffy/pixiv-bookmarks-visualizer\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "pixiv",
           "js",
@@ -3054,6 +3201,7 @@
         "managed": true,
         "description": "จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate data ด้วย Notion ครับ\n\nSlide: https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "unity",
           "firebase",
@@ -3077,6 +3225,7 @@
         "managed": true,
         "description": "A client-side secure P2P file sharing using WebRTC\n\nCode: https://github.com/ntsd/zero-share\n",
         "published": "2023-09-22",
+        "language": "th",
         "tags": [
           "webrtc",
           "typescript",
@@ -3096,7 +3245,8 @@
         "type": "talk",
         "youtube": "xC2QoV9TBW8",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/supabase/postgres.md",
@@ -3111,7 +3261,8 @@
         "type": "talk",
         "youtube": "Tra9NbAwSEY",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/supabase/realprod.md",
@@ -3126,7 +3277,8 @@
         "type": "talk",
         "youtube": "opObOSfrDVk",
         "managed": true,
-        "published": false
+        "published": false,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/supabase/selfhost.md",
@@ -3142,7 +3294,12 @@
         "youtube": "uIBSyw8CD0s",
         "managed": true,
         "description": "This session offers a practical comparison of Supabase and Firebase, two popular platforms for building modern applications. The speakers, one representing each platform, delve into key features like data modeling, CRUD operations, authentication, authorization, business logic, storage, AI capabilities, real-time functionality, and pricing. Through code examples and insightful discussions, they highlight the strengths and weaknesses of each platform, helping you understand which might be the better fit for your specific needs. Whether you're a seasoned developer or just starting out, this comparative overview provides valuable insights into the world of Supabase and Firebase.\n",
-        "published": false
+        "published": false,
+        "language": "en",
+        "subtitles": [
+          "en",
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/supabase/supavfire.md",
@@ -3161,6 +3318,7 @@
         "managed": true,
         "description": "Give Svelte a try, you'll love it! - Introduction to Svelte for developers who already using React and/or Vue",
         "published": true,
+        "language": "th",
         "tags": [
           "svelte",
           "tutorial",
@@ -3182,6 +3340,7 @@
         "managed": true,
         "description": "จะเป็นยังไงถ้าเด็กที่พึ่งลองเขียน Web ได้ 4 เดือน ได้ลองเขียน Svelte",
         "published": true,
+        "language": "th",
         "tags": [
           "svelte",
           "sveltekit"
@@ -3202,6 +3361,7 @@
         "managed": true,
         "description": "ทำ project svelte โดยที่ไม่ต้องมี server ยังไงดี ?",
         "published": true,
+        "language": "th",
         "tags": [
           "devops",
           "svelte",
@@ -3224,6 +3384,7 @@
         "youtube": "Mem2Lso1DQo",
         "managed": true,
         "published": true,
+        "language": "th",
         "tags": [
           "solidjs",
           "javascript",
@@ -3244,7 +3405,8 @@
         "type": "talk",
         "youtube": "ZRQg3b4Y_1A",
         "managed": true,
-        "description": "Let's put Svelte in every codebase possible, even in a cross library one"
+        "description": "Let's put Svelte in every codebase possible, even in a cross library one",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
@@ -3261,6 +3423,7 @@
         "managed": true,
         "description": "มาเรียนรู้เกี่ยวกับการใช้ Generic สำหรับการเขียนโค้ดที่ยืดหยุ่นและมีความซับซ้อนสูงขึ้น เพื่อลดความผิดพลาดที่อาจเกิดขึ้นตอนเขียนโค้ด โดยเฉพาะเวลาใช้กับโครงสร้างข้อมูลที่มีขนาดใหญ่และมีการเปลี่ยนแปลงบ่อย\n",
         "published": "2023-09-07",
+        "language": "th",
         "tags": [
           "typescript"
         ]
@@ -3280,6 +3443,7 @@
         "managed": true,
         "description": "มาเรียนรู้เกี่ยวกับการสร้างเว็บแอป TypeScript และ Deno ซึ่งเป็นรันไทม์ที่ทันสมัยและเน้นที่ความปลอดภัย\n",
         "published": "2023-09-07",
+        "language": "th",
         "tags": [
           "typescript",
           "deno",
@@ -3303,6 +3467,7 @@
         "managed": true,
         "description": "มาเรียนรู้เกี่ยวกับการปรับแต่งและจัดการ DevOps ด้วย TypeScript 100% โดยไม่ต้องตั้งค่า Infra เอง\n",
         "published": "2023-09-07",
+        "language": "th",
         "tags": [
           "typescript",
           "devops",
@@ -3324,6 +3489,7 @@
         "managed": true,
         "description": "มาเรียนรู้เกี่ยวกับการ Publish Dependency แบบง่าย ๆ ด้วย GitHub Actions และสร้าง Provenance สำหรับแพ็คเกจด้วย npm\n\nPublic template: https://github.com/rayriffy/quick-npm\n\nSample code: https://l.rayriffy.com/changesets-keynote\nSlides: https://l.rayriffy.com/changesets-demo\n",
         "published": "2023-09-07",
+        "language": "th",
         "tags": [
           "typesciprt",
           "js",
@@ -3353,7 +3519,8 @@
         "type": "talk",
         "youtube": "ZU2p7sEKyTE",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/universe2023/best.md",
@@ -3368,7 +3535,8 @@
         "type": "talk",
         "youtube": "AqdRxnWpDfw",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/universe2023/codespaces.md",
@@ -3383,7 +3551,8 @@
         "type": "talk",
         "youtube": "GtV-0qmUAsk",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/universe2023/docker.md",
@@ -3398,7 +3567,8 @@
         "type": "talk",
         "youtube": "xYxjbg2ANx8",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/universe2023/security.md",
@@ -3415,6 +3585,7 @@
         "managed": true,
         "description": "คุณออม SaltyAom นักพัฒนา Open Source full-time ผู้สร้าง framework Elysia จะมาแบ่งปันประสบการณ์การทำงานในโลก Open Source ตั้งแต่จุดเริ่มต้นเล็กๆ จนถึงการสร้างผลงานที่ได้รับความนิยม ฟังเรื่องราวการพัฒนา Elysia พร้อมเรียนรู้ถึงบทบาทของ Open Source developer วิธีการหาเลี้ยงชีพ การสร้าง community และเคล็ดลับในการสร้างผลงานให้เป็นที่รู้จัก วิดีโอนี้เหมาะสำหรับนักพัฒนาที่สนใจ Open Source และอยากรู้ว่าการเป็น Open Source developer นั้นเป็นอย่างไร\n",
         "published": true,
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -3467,7 +3638,8 @@
         "type": "talk",
         "youtube": "8z7vxFGR8JM",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/universe2023/trends.md",
@@ -3482,7 +3654,8 @@
         "type": "talk",
         "youtube": "eRZgg0vD0WE",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/build-extension.md",
@@ -3497,7 +3670,8 @@
         "type": "talk",
         "youtube": "RVMlHxYldfk",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/codespaces.md",
@@ -3512,7 +3686,8 @@
         "type": "talk",
         "youtube": "1EI-YdsPM3E",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/contribute.md",
@@ -3527,7 +3702,8 @@
         "type": "talk",
         "youtube": "ccImhwmp0Ak",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/copilot.md",
@@ -3542,7 +3718,8 @@
         "type": "talk",
         "youtube": "aeTydSml28M",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/python.md",
@@ -3557,7 +3734,8 @@
         "type": "talk",
         "youtube": "ApIarHh3u14",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/quantum.md",
@@ -3572,7 +3750,8 @@
         "type": "talk",
         "youtube": "kx9_RDsAKRY",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/shortcuts.md",
@@ -3587,7 +3766,8 @@
         "type": "talk",
         "youtube": "ezsjCVXlOW0",
         "managed": true,
-        "published": true
+        "published": true,
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/vscodeday2023/vscode-dev.md",
@@ -3601,7 +3781,8 @@
         "type": "talk",
         "youtube": "kWSnkcSAljQ",
         "managed": true,
-        "published": "2024-05-26"
+        "published": "2024-05-26",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/f1.md",
@@ -3615,7 +3796,8 @@
         "type": "talk",
         "youtube": "tzJcJPNvi9o",
         "managed": true,
-        "published": "2024-05-26"
+        "published": "2024-05-26",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/f2.md",
@@ -3629,7 +3811,8 @@
         "type": "talk",
         "youtube": "-fAvIByango",
         "managed": true,
-        "published": "2024-05-23"
+        "published": "2024-05-23",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/q1.md",
@@ -3643,7 +3826,8 @@
         "type": "talk",
         "youtube": "tbTZb-BQFJA",
         "managed": true,
-        "published": "2024-05-24"
+        "published": "2024-05-24",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/q2.md",
@@ -3657,7 +3841,8 @@
         "type": "talk",
         "youtube": "c7bV1rxXkXw",
         "managed": true,
-        "published": "2024-05-24"
+        "published": "2024-05-24",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/q3.md",
@@ -3671,7 +3856,8 @@
         "type": "talk",
         "youtube": "3dA1P7V1w3o",
         "managed": true,
-        "published": "2024-05-25"
+        "published": "2024-05-25",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/q4.md",
@@ -3685,7 +3871,8 @@
         "type": "talk",
         "youtube": "IPV1zeCPh3c",
         "managed": true,
-        "published": "2024-05-25"
+        "published": "2024-05-25",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/quiz.md",
@@ -3699,7 +3886,8 @@
         "type": "talk",
         "youtube": "9ftrgC60pPk",
         "managed": true,
-        "published": "2024-05-23"
+        "published": "2024-05-23",
+        "language": "th"
       },
       "content": "",
       "filePath": "data/videos/wind2/testing.md",
@@ -3720,6 +3908,7 @@
         "managed": true,
         "description": "ในหัวข้อนี้ คุณปั๊บนำเสนอมุมมองที่น่าสนใจเกี่ยวกับผลกระทบของเทคโนโลยีและ AI ต่อสังคมและเศรษฐกิจเริ่มด้วยการพูดถึงความยากในการคาดการณ์อนาคต โดยยกตัวอย่างคำทำนายที่ผิดพลาดเกี่ยวกับอินเทอร์เน็ตและ Bitcoin คุณปั๊บนำเสนอเรื่องราว 3 เรื่องที่สะท้อนมุมมองต่างๆ เกี่ยวกับการเปลี่ยนแปลงทางเทคโนโลยี ได้แก่ กลุ่ม Luddite ภาพยนตร์เรื่อง Terminator และการ์ตูนเว็บตูน Clinic of Horrors และตั้งคำถามที่น่าคิดเกี่ยวกับอนาคตของงานและคุณค่าของมนุษย์ในยุค AI วิดีโอนี้จะทำให้คุณได้มุมมองใหม่ๆ ในการมองโลกที่กำลังเปลี่ยนแปลงอย่างรวดเร็ว\n",
         "published": "2024-08-16",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -3760,6 +3949,7 @@
         "managed": true,
         "description": "ใน Session นี้ ภูมิ Software Engineer จาก Metabase และผู้จัดงานในไทย ชวนตั้งคำถามและสำรวจความกังวลเรื่อง AI จะมาแทนที่งานของมนุษย์ โดยเปรียบเทียบกับ Hype Cycle ของเทคโนโลยีต่างๆ ในอดีต เช่น dot-com bubble และ crypto ภูมิอธิบายถึงธรรมชาติและข้อจำกัดของ AI พร้อมยกตัวอย่างงานวิจัยที่ช่วยให้เข้าใจการทำงานของ AI มากขึ้น Session นี้เหมาะสำหรับผู้ที่สนใจผลกระทบของ AI ต่อตลาดแรงงาน และต้องการเข้าใจความเป็นไปได้และข้อจำกัดของ AI ในปัจจุบัน\n",
         "published": "2024-08-17",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -3814,6 +4004,7 @@
         "managed": true,
         "description": "อ. ดร.สมทิพ วัฒนพงษ์วานิช จากคณะเศรษฐศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย นำเสนอมุมมองเกี่ยวกับผลกระทบของ AI ต่อตลาดแรงงานในยุคเศรษฐกิจดิจิทัล อาจารย์อธิบายทฤษฎีทางเศรษฐศาสตร์ที่เกี่ยวข้อง วิเคราะห์สถานการณ์ตลาดแรงงานไทยในปัจจุบัน และนำเสนอความท้าทายที่ประเทศไทยกำลังเผชิญ เช่น การขาดแคลนแรงงานทักษะสูง และประชากรสูงวัย นอกจากนี้ยังยกตัวอย่างนโยบาย upskilling และ reskilling ที่ประสบความสำเร็จจากประเทศอินโดนีเซีย เพื่อเป็นแนวทางในการพัฒนาทรัพยากรมนุษย์ของไทย วิดีโอนี้เหมาะสำหรับผู้ที่สนใจเรื่องเศรษฐกิจ การศึกษา และอนาคตของตลาดแรงงานในยุค AI\n",
         "published": "2024-08-18",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -3863,6 +4054,7 @@
         "managed": true,
         "description": "พบกับคุณไท ปังสกุลยานนท์ Software Engineer จาก Eventpop ในหัวข้อ Transforming Lifestyle ที่จะมาเล่าถึงประสบการณ์การใช้ AI tools ในชีวิตประจำวันและการทำงาน คุณไทจะพาไปดูตัวอย่างการใช้งานจริง ตั้งแต่ GitHub Copilot ที่ช่วยประหยัดเวลาในการเขียนโค้ด ไปจนถึงการใช้ large language model อย่าง Gemini ในการสร้าง subtitle ภาษาไทยที่มีคุณภาพสูง นอกจากนี้ยังมีการแนะนำเครื่องมือและเทคนิคต่างๆ ที่ช่วยให้การทำงานสะดวกและมีประสิทธิภาพมากขึ้น ไม่ว่าคุณจะเป็นนักพัฒนาหรือผู้ที่สนใจการนำ AI มาประยุกต์ใช้ วิดีโอนี้จะช่วยเปิดมุมมองใหม่ๆ และสร้างแรงบันดาลใจในการใช้ AI เพื่อพัฒนาชีวิตและการทำงานของคุณ\n\n— Links —\nCreatorsgarten Videos\nhttps://creatorsgarten.org/videos\n\nWrite-up เรื่องการทำซับไตเติล\nhttps://fb.com/share/p/dX6xi5W5kZEjSoUg/\n\nOpenAI: ChatGPT, OpenAI Platform\nhttps://chatgpt.com/\nhttps://platform.openai.com/\n\nAnthropic: Claude, Anthropic Console\nhttps://claude.ai/\nhttps://console.anthropic.com/\n\nGoogle: Gemini, Google AI Studio\nhttps://gemini.google.com/\nhttps://aistudio.google.com/\n\nGitHub Copilot\nhttps://github.com/features/copilot\n\nExperiment with O-NET\nhttps://notes.dt.in.th/ThaiLanguageLLMBenchmark\n\nV0 for generating UIs\nhttps://v0.dev/\n\nติดตามคอนเทนต์อื่นๆ ของไทได้ที่:\nhttps://www.youtube.com/@dtinth\n",
         "published": "2024-08-19",
+        "language": "th",
         "subtitles": [
           "th"
         ],
@@ -3911,6 +4103,7 @@
         "managed": true,
         "description": "โลกไร้งาน? อนาคตที่ AI อาจเข้ามาแทนที่แรงงานมนุษย์ ฟังมุมมองเชิงเศรษฐศาสตร์จากอ.เดชรัต สุขกำเนิด ผู้อำนวยการ Think Forward Center พรรคก้าวไกล ถึงผลกระทบของ AI ต่อตลาดแรงงานในประเทศไทย พร้อมแนวทางรับมือและการปรับตัวเพื่อเตรียมพร้อมสำหรับอนาคต การลงทุนในทักษะ การสร้างงานใหม่ และบทบาทของรัฐบาลในการช่วยเหลือประชาชน รวมถึงการพูดคุยถึงแนวคิด UBI หรือรายได้พื้นฐานถ้วนหน้า และการสร้างสมดุลระหว่างชีวิตและการทำงาน มาร่วมหาคำตอบและเตรียมพร้อมรับมือกับโลกที่กำลังเปลี่ยนแปลงไป\n",
         "published": "2024-08-20",
+        "language": "th",
         "subtitles": [
           "th"
         ],
