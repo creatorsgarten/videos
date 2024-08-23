@@ -12693,3 +12693,225 @@ video:9HbM7D-J5xU:caption:th:
     isDraft: false
   state:
     id: AUieDaY9TIqg89Zsq4BmhCsB6ALlHC95g25VYwtyCOSMpPvIQ81d
+thumbnail:Tra9NbAwSEY:
+  spec:
+    videoId: Tra9NbAwSEY
+    filePath: data/videos/supabase/realprod.jpg
+    hash: 5a14e80f1eb02d5923d82d88d8f4f5dc127be43a6d044f047d25740ac8db419a
+  state: {}
+thumbnail:opObOSfrDVk:
+  spec:
+    videoId: opObOSfrDVk
+    filePath: data/videos/supabase/selfhost.jpg
+    hash: 22217b8b01f30ad732292ebcae75da755d0da11865832433508ea4201bcff5ae
+  state: {}
+thumbnail:uIBSyw8CD0s:
+  spec:
+    videoId: uIBSyw8CD0s
+    filePath: data/videos/supabase/supavfire.jpg
+    hash: 482a7d7612c708ed1661d983e3cc612d1452151fbaf279ad75263d6063199c81
+  state: {}
+thumbnail:xC2QoV9TBW8:
+  spec:
+    videoId: xC2QoV9TBW8
+    filePath: data/videos/supabase/postgres.jpg
+    hash: 89edaa0375c72dc743163aec98731156ad5511cb5b4ba6e9e212b3ebdc6b10b9
+  state: {}
+video:Tra9NbAwSEY:
+  spec:
+    id: Tra9NbAwSEY
+    snippet:
+      title: Supabase Real-world Production Example by Egor Gorbachev
+      description: >-
+        Event: Supabase Meetup Bangkok 1.0
+
+        https://guild.host/events/supabase-bangkok-meetup-le6a9z
+
+
+        Organized by: DevTools Bangkok
+
+        https://guild.host/devtools-bangkok
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/supabase/v/realprod/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:opObOSfrDVk:
+  spec:
+    id: opObOSfrDVk
+    snippet:
+      title: Self-host Supabase & DirectAdmin by Pornpat Paethong
+      description: >-
+        Event: Supabase Meetup Bangkok 1.0
+
+        https://guild.host/events/supabase-bangkok-meetup-le6a9z
+
+
+        Organized by: DevTools Bangkok
+
+        https://guild.host/devtools-bangkok
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/supabase/v/selfhost/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:uIBSyw8CD0s:
+  spec:
+    id: uIBSyw8CD0s
+    snippet:
+      title: >-
+        Supabase VS Firebase - Epic battle between the two by Poom Wettayakorn,
+        Tobias Meixner
+      description: >-
+        Event: Supabase Meetup Bangkok 1.0
+
+        https://guild.host/events/supabase-bangkok-meetup-le6a9z
+
+
+        Organized by: DevTools Bangkok
+
+        https://guild.host/devtools-bangkok
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/supabase/v/supavfire/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:xC2QoV9TBW8:
+  spec:
+    id: xC2QoV9TBW8
+    snippet:
+      title: Custom Postgres Checkpointer using LangGraph by Williams Sissoko
+      description: >-
+        Event: Supabase Meetup Bangkok 1.0
+
+        https://guild.host/events/supabase-bangkok-meetup-le6a9z
+
+
+        Organized by: DevTools Bangkok
+
+        https://guild.host/devtools-bangkok
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/supabase/v/postgres/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
