@@ -1,0 +1,298 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:08.000
+Hello, everyone. I'm Pornpat from DevForward, a software engineer.
+
+00:00:08.000 --> 00:00:13.000
+Sorry for technical difficulties.
+
+00:00:13.000 --> 00:00:15.000
+Okay. Next slide.
+
+00:00:15.000 --> 00:00:22.000
+Okay. Usually, if you want to make a mobile application or desktop application, you have that note, right?
+
+00:00:22.000 --> 00:00:25.000
+In this case, it's a real project.
+
+00:00:25.000 --> 00:00:27.000
+So in this case, I use Flutter.
+
+00:00:27.000 --> 00:00:31.000
+The second thing you have to think about is the backend.
+
+00:00:31.000 --> 00:00:32.000
+You have to make some API.
+
+00:00:32.000 --> 00:00:37.000
+So Supabase may be the answer.
+
+00:00:37.000 --> 00:00:39.000
+Yeah, you prepare to use this one.
+
+00:00:39.000 --> 00:00:47.000
+The expectation is you have, you would like to request something via API from the database.
+
+00:00:47.000 --> 00:00:49.000
+But in this case, you have the legacy one.
+
+00:00:49.000 --> 00:00:54.000
+I mean, the legacy system, like a report system.
+
+00:00:54.000 --> 00:00:55.000
+Next slide, ครับ.
+
+00:00:55.000 --> 00:01:01.000
+This one is like a traditional module.
+
+00:01:01.000 --> 00:01:08.000
+Someone in the company made it a long time ago, and it's still useful.
+
+00:01:08.000 --> 00:01:15.000
+So in this case, this module already exists, but the new one is not yet.
+
+00:01:15.000 --> 00:01:24.000
+So I would like to use Supabase in this case.
+
+00:01:24.000 --> 00:01:27.000
+Yeah, yeah, yeah. In this case, yeah.
+
+00:01:27.000 --> 00:01:31.000
+So, some people think you can use this architecture.
+
+00:01:31.000 --> 00:01:38.000
+You mean, if you want, for example, master data, you request via the first API.
+
+00:01:38.000 --> 00:01:47.000
+And if you want to do some report or get the report file, you call the second API.
+
+00:01:47.000 --> 00:01:53.000
+You can do this, but for the authentication, privilege, you have to control about this.
+
+00:01:53.000 --> 00:01:56.000
+In this case, I try to merge them together.
+
+00:01:56.000 --> 00:02:00.000
+This one already runs on DirectAdmin.
+
+00:02:00.000 --> 00:02:03.000
+It is an existing system.
+
+00:02:03.000 --> 00:02:10.000
+So my solution is to merge two things together and set them to seamlessly work together.
+
+00:02:10.000 --> 00:02:11.000
+This is the point.
+
+00:02:11.000 --> 00:02:13.000
+So, next slide, ครับ.
+
+00:02:13.000 --> 00:02:16.000
+Okay, this one came to this picture.
+
+00:02:16.000 --> 00:02:28.000
+So, for a mobile application, desktop application, or whatever application, you can get the master data or other things via Supabase.
+
+00:02:28.000 --> 00:02:35.000
+And you can also make the edge function and call the edge function via Supabase.
+
+00:02:35.000 --> 00:02:47.000
+And you can use the Supabase features, like JWT authentication, as you know from the previous talk.
+
+00:02:47.000 --> 00:02:54.000
+And also, you can keep the legacy system behind the scenes.
+
+00:02:54.000 --> 00:03:01.000
+So to do this, we will set up a little bit.
+
+00:03:01.000 --> 00:03:08.000
+The first one, we have a server for the DirectAdmin already.
+
+00:03:08.000 --> 00:03:15.000
+So the two things we have to do are, first, install Docker into the DirectAdmin server.
+
+00:03:15.000 --> 00:03:20.000
+And also, you use Docker Compose to install Supabase.
+
+00:03:20.000 --> 00:03:24.000
+It's easy if you follow the steps on the website.
+
+00:03:24.000 --> 00:03:26.000
+Next, ครับ.
+
+00:03:26.000 --> 00:03:29.000
+Yeah, you have to do two things.
+
+00:03:29.000 --> 00:03:33.000
+Okay. This one I copied from the Supabase documentation.
+
+00:03:33.000 --> 00:03:35.000
+So you just follow this one.
+
+00:03:35.000 --> 00:03:41.000
+The first one, just go to your DirectAdmin server, I mean, your VM server.
+
+00:03:41.000 --> 00:03:45.000
+Then you clone the repo of Supabase.
+
+00:03:45.000 --> 00:03:59.000
+Second, you go to the Docker folder, you copy the environment file, and follow the documentation suggestions, for example, the private key.
+
+00:03:59.000 --> 00:04:06.000
+And the last two things, just Docker Compose pull and turn Docker up.
+
+00:04:06.000 --> 00:04:08.000
+Okay, next.
+
+00:04:08.000 --> 00:04:20.000
+From this point, you will get everything that Supabase can do via this, following this API.
+
+00:04:20.000 --> 00:04:27.000
+The dashboard, you can access via your IP and the port 8,000.
+
+00:04:27.000 --> 00:04:30.000
+You can access the dashboard.
+
+00:04:30.000 --> 00:04:38.000
+And another API, for example, the REST API for connecting to the database, authentication, storage, real-time.
+
+00:04:38.000 --> 00:04:40.000
+And also, the last one is function.
+
+00:04:40.000 --> 00:04:54.000
+If you write an edge function and put it into the Supabase volume, you can call the local function via Supabase API also.
+
+00:04:54.000 --> 00:05:00.000
+Okay. And this one is where DirectAdmin comes to help.
+
+00:05:00.000 --> 00:05:06.000
+Because DirectAdmin can control the config file.
+
+00:05:06.000 --> 00:05:19.000
+Because this one already exists, so I use DirectAdmin to modify nginx, that connects the Supabase API and DirectAdmin API.
+
+00:05:19.000 --> 00:05:26.000
+So this one is a script, but it's very simple.
+
+00:05:26.000 --> 00:05:28.000
+You just see the two things.
+
+00:05:28.000 --> 00:05:34.000
+The first thing, you just map the location of each API of Supabase.
+
+00:05:34.000 --> 00:05:37.000
+And then you forward everything to Kong.
+
+00:05:37.000 --> 00:05:42.000
+Kong is here, it's on the 8,000 port.
+
+00:05:42.000 --> 00:05:43.000
+So you do this.
+
+00:05:43.000 --> 00:05:49.000
+So it means you can call everything from the Supabase API already.
+
+00:05:49.000 --> 00:05:52.000
+But this one is especially for the legacy one.
+
+00:05:52.000 --> 00:05:54.000
+You just remap it a bit.
+
+00:05:54.000 --> 00:05:57.000
+Yeah. Next.
+
+00:05:57.000 --> 00:06:00.000
+Okay. So the big picture is here.
+
+00:06:00.000 --> 00:06:04.000
+Right. So, usually, DirectAdmin can control this one.
+
+00:06:04.000 --> 00:06:06.000
+It's very legacy.
+
+00:06:06.000 --> 00:06:13.000
+But it's very easy if you want to make a sub-website or sub-system.
+
+00:06:13.000 --> 00:06:17.000
+It's a very traditional one, a very traditional way.
+
+00:06:17.000 --> 00:06:23.000
+You can do this with a lot of traditional ones, as web hosting.
+
+00:06:23.000 --> 00:06:30.000
+But this one is the new one, that we connect previously.
+
+00:06:30.000 --> 00:06:47.000
+ครับ. Okay. Now, you can connect to Supabase with the domain name because basically Supabase provides only the IP address, you can access it via IP address.
+
+00:06:47.000 --> 00:06:59.000
+But when you configure it this way, you can connect Supabase via the domain because DirectAdmin will manage the domains, DNS and HTTPS.
+
+00:06:59.000 --> 00:07:04.000
+And also, it forwards everything to Supabase containers.
+
+00:07:04.000 --> 00:07:09.000
+So you can access it, and then you can see the dashboard here.
+
+00:07:09.000 --> 00:07:10.000
+And next.
+
+00:07:10.000 --> 00:07:18.000
+So, this one is an edge function because you want to call the report generator.
+
+00:07:18.000 --> 00:07:21.000
+It's a PDF file.
+
+00:07:21.000 --> 00:07:26.000
+But the PDF file should be behind the Supabase API.
+
+00:07:26.000 --> 00:07:42.000
+So in this one, we write a small script to receive the request via Supabase and then pass it to the legacy system.
+
+00:07:42.000 --> 00:07:43.000
+Like this.
+
+00:07:43.000 --> 00:07:50.000
+So this one is how you call the legacy one, normally.
+
+00:07:50.000 --> 00:07:54.000
+And then you pass, maybe the authorization header, to the legacy one.
+
+00:07:54.000 --> 00:08:01.000
+And then, if the legacy response is not 200, next slide, ครับ.
+
+00:08:01.000 --> 00:08:07.000
+You just pass everything back as the response.
+
+00:08:07.000 --> 00:08:14.000
+So in this way you can request the PDF file via Supabase API also.
+
+00:08:14.000 --> 00:08:19.000
+Everything looks like it's via Supabase.
+
+00:08:19.000 --> 00:08:24.000
+You cannot see the API behind the scenes.
+
+00:08:24.000 --> 00:08:33.000
+Okay. And this one is an application, or mobile application, that displays on the mobile or application.
+
+00:08:33.000 --> 00:08:34.000
+Yeah, the employee uses it.
+
+00:08:34.000 --> 00:08:36.000
+And then this one is the report.
+
+00:08:36.000 --> 00:08:43.000
+If you call the API for the mobile application, you will get the PDF file.
+
+00:08:43.000 --> 00:08:51.000
+And you don't need to care about the logic here because of the legacy system.
+
+00:08:51.000 --> 00:08:56.000
+You just pass the ID or information through it.
+
+00:08:56.000 --> 00:08:59.000
+Yeah. This is it.
+
+00:08:59.000 --> 00:09:00.000
+Thank you.
