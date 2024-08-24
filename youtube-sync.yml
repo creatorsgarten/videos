@@ -13010,6 +13010,42 @@ video:xC2QoV9TBW8:
     snippet:
       title: Custom Postgres Checkpointer using LangGraph by Williams Sissoko
       description: >-
+        Delve into the world of AI application development with Will, founder of
+        Reacthor, as he guides you through building custom workflows using
+        LangChain and LangGraph. Learn how these powerful tools can be leveraged
+        to create sophisticated AI applications, particularly focusing on the
+        innovative concept of a custom PostgreSQL checkpointer. Will shares
+        practical insights and real-world examples, including a case study with
+        Salary Hero, showcasing how LangChain and LangGraph can be used to
+        address complex challenges in a production environment. Discover how
+        these technologies can empower your AI development journey and unlock
+        new possibilities for building intelligent and efficient applications.
+
+
+        0:00 | Introduction and Overview of Custom AI Workflows
+
+        0:51 | LangChain vs. Traditional SDKs: Key Differences and Benefits
+
+        2:40 | Introducing LangGraph: A Powerful Tool for Building AI
+        Applications
+
+        3:53 | Real-World Example: Building a Travel Agent with LangGraph
+
+        7:51 | Understanding Checkpointers: Saving State in LangGraph
+        Applications
+
+        9:14 | How Checkpointers and Postgres Work Together in LangGraph
+
+        11:36 | Case Study: Salary Hero - Automating Customer Support with
+        LangGraph
+
+        14:48 | Different Architectures for Building AI Agents with LangChain
+
+        17:47 | Conclusions
+
+
+        --------------------------------------------
+
         Event: Supabase Meetup Bangkok 1.0
 
         https://guild.host/events/supabase-bangkok-meetup-le6a9z
@@ -13048,6 +13084,7 @@ video:xC2QoV9TBW8:
         etc.), please visit:
 
         https://grtn.org/e/supabase/v/postgres/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -13135,3 +13172,23 @@ video:Tra9NbAwSEY:caption:th:
     isDraft: false
   state:
     id: AUieDaY2hBEMLN74X2NFGQLz6k1RAp8HG_5QOcLPAmoR1mdLIq7o
+video:xC2QoV9TBW8:caption:en:
+  spec:
+    videoId: xC2QoV9TBW8
+    filePath: data/videos/supabase/postgres_en.vtt
+    language: en
+    name: English
+    hash: 67e4e423f71eff31950ef1ac6dd0b0e9d7184d5cc4b189e461183706a4e3c52f
+    isDraft: false
+  state:
+    id: AUieDabLMR7jM0iS9F4sQPG4gSk_aXDCKPBzMXtqPgN-S25N98fYenj8
+video:xC2QoV9TBW8:caption:th:
+  spec:
+    videoId: xC2QoV9TBW8
+    filePath: data/videos/supabase/postgres_th.vtt
+    language: th
+    name: Thai
+    hash: 01635fa9afec23431f46270bafc516269d97a08fffa9ab9de313fd4403a417cb
+    isDraft: false
+  state:
+    id: AUieDaYPYBrLZg87pcOW73iTe6ui1k82GvrM3YjKJOYu_6_o4TAG
