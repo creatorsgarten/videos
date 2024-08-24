@@ -1,0 +1,1083 @@
+WEBVTT
+
+00:00:01.300 --> 00:00:05.532
+Hello, guys. Perfect.
+So yeah, today I'll be talking
+
+00:00:05.600 --> 00:00:09.833
+about custom PostgreSQL
+checkpointer using LangGraph.
+
+00:00:09.900 --> 00:00:13.033
+It's a bit of a mouthful,
+but I'll try to go ahead and break
+
+00:00:13.100 --> 00:00:16.332
+it down into pieces so that you
+guys can kind of understand how
+
+00:00:16.400 --> 00:00:21.333
+to save data in AI application.
+So we can go to the next.
+
+00:00:21.400 --> 00:00:25.233
+So my name is Will.
+I'm a founder of Reacthor.
+
+00:00:25.300 --> 00:00:30.233
+So we basically help companies build
+custom AI workflows in Southeast
+
+00:00:30.300 --> 00:00:36.133
+Asia and also also in the US.
+So currently we we're we have about
+
+00:00:36.200 --> 00:00:39.233
+two customers here in Southeast Asia,
+one in the UK.
+
+00:00:39.300 --> 00:00:43.433
+And yeah, I'll tell you a little bit
+more about deploying your own app,
+
+00:00:44.300 --> 00:00:48.233
+building your own application,
+especially in production using
+
+00:00:48.300 --> 00:00:51.633
+AI a little bit later.
+But we'll get to we'll get to
+
+00:00:51.700 --> 00:00:54.533
+talk a little bit about how link
+chain works first.
+
+00:00:54.600 --> 00:01:00.333
+And before I start, has anybody use
+link chain in production Use it.
+
+00:01:00.400 --> 00:01:07.433
+Just testing or link chain? No.
+Never. No one. Okay, great. Perfect.
+
+00:01:08.200 --> 00:01:12.433
+Okay, let's go to the next.
+Okay, so I think in the first talk
+
+00:01:12.500 --> 00:01:19.133
+they, they used a specific they
+used an SDK from OpenAI just to,
+
+00:01:19.200 --> 00:01:23.333
+just to basically, you know,
+call the LLM and then go ahead and,
+
+00:01:23.400 --> 00:01:26.833
+and then, you know, they have a
+specific prompt, they have the LLM
+
+00:01:26.900 --> 00:01:30.933
+and then they have the output.
+So the difference between just
+
+00:01:31.000 --> 00:01:34.233
+using the SDK and using LangChain
+is the following.
+
+00:01:34.300 --> 00:01:36.933
+You have different types of
+components that you can use like tools.
+
+00:01:37.000 --> 00:01:40.133
+For example you can use tools that
+
+00:01:40.200 --> 00:01:45.133
+are pre-built like searching the web.
+You can use tools to figure out
+
+00:01:45.200 --> 00:01:47.733
+if you want to find what.
+If you want to find out the latest,
+
+00:01:47.800 --> 00:01:52.733
+the weather or or you can use
+custom tools for calculators,
+
+00:01:52.800 --> 00:01:55.833
+I'll get into the specific details
+of what type of tools that you can
+
+00:01:55.900 --> 00:02:01.433
+use in production, but you can also
+use like things like RAG for for,
+
+00:02:01.500 --> 00:02:05.833
+you know, retrieving information.
+And then also you have also the
+
+00:02:05.900 --> 00:02:09.333
+ability to like use your chat
+history when you're interacting
+
+00:02:09.400 --> 00:02:12.533
+with your LLM app.
+
+00:02:12.600 --> 00:02:17.632
+So for example, a lot of the times
+when you're using the actual SDK, you
+
+00:02:17.700 --> 00:02:23.233
+you can't typically save your memory.
+So LangChain has a ability for you
+
+00:02:23.300 --> 00:02:28.533
+to go ahead and save your memory and
+retrieve information from it. Okay.
+
+00:02:28.600 --> 00:02:33.533
+And has anybody here use
+LangGraph before? No. Okay.
+
+00:02:33.600 --> 00:02:35.833
+Obviously, if you didn't if you
+haven't used LangChain, you're not
+
+00:02:35.900 --> 00:02:40.333
+going to use LangGraph. Perfect.
+And go to go to the next slide.
+
+00:02:40.400 --> 00:02:44.132
+Okay. Cool. So what is LangGraph.
+So LangGraph was actually built by
+
+00:02:44.200 --> 00:02:47.933
+Lang Chain, the team at Lang Chain,
+and it's based on Pregel which
+
+00:02:48.000 --> 00:02:52.233
+is was built by Google.
+Originally Pregel was built for rerank.
+
+00:02:52.300 --> 00:02:54.733
+So usually when you're reranking
+
+00:02:54.800 --> 00:02:59.933
+sites and you're batching requests.
+So it was built to build like a
+
+00:03:00.000 --> 00:03:02.733
+graph database.
+So you can retrieve information
+
+00:03:02.800 --> 00:03:04.733
+and you can pass information
+very quickly.
+
+00:03:05.400 --> 00:03:10.733
+And so how LangGraph works is you
+basically have your your graph,
+
+00:03:10.800 --> 00:03:14.132
+you have your node, your main node.
+This is just as an example.
+
+00:03:14.200 --> 00:03:17.333
+And then you have your tools.
+So you can search for example
+
+00:03:17.400 --> 00:03:20.933
+you can search hotels.
+You can find the best prices in
+
+00:03:21.000 --> 00:03:25.632
+case of if you're if you're if
+you're an employee at Agoda,
+
+00:03:25.700 --> 00:03:28.533
+you'll probably know this.
+And you can confirm your hotel
+
+00:03:28.600 --> 00:03:31.933
+choice and then send a payment link.
+And then you have your state.
+
+00:03:32.000 --> 00:03:36.933
+So you I guess most of you use
+JavaScript, right? Okay, great.
+
+00:03:37.000 --> 00:03:40.733
+You guys use React. Great. Okay.
+State management. Great.
+
+00:03:40.800 --> 00:03:44.333
+That's what it is — your state.
+And so what you can do is you can
+
+00:03:44.400 --> 00:03:48.933
+save your messages, append it, and
+then also have your hotel choice and
+
+00:03:49.000 --> 00:03:53.632
+your booking history right in there.
+So if we just scroll down okay.
+
+00:03:53.700 --> 00:03:57.033
+So for,
+for example for the travel agents
+
+00:03:57.100 --> 00:04:00.733
+that we're building at the moment,
+one of the requirements for it is
+
+00:04:00.800 --> 00:04:03.833
+that we want to find the best prices.
+And we want to be able to book
+
+00:04:03.900 --> 00:04:06.933
+your travel agent,
+write directly into your app.
+
+00:04:07.000 --> 00:04:10.533
+So a lot of the times when you're
+prompting ChatGPT under the hood,
+
+00:04:10.600 --> 00:04:13.533
+it's actually using a lot of
+different things,
+
+00:04:13.600 --> 00:04:17.132
+like architectures that you that
+you might not be familiar with.
+
+00:04:17.200 --> 00:04:19.832
+We'll we'll get into details about
+the architecture that you can
+
+00:04:19.899 --> 00:04:24.832
+use when you build AI apps a
+
+00:04:24.900 --> 00:04:27.733
+little bit later.
+But this specific architecture is
+
+00:04:27.800 --> 00:04:30.933
+called a supervisor architecture.
+So essentially you have your
+
+00:04:31.000 --> 00:04:34.033
+question. It invokes a travel node.
+And then you have your router
+
+00:04:34.100 --> 00:04:37.533
+which is your conditional node.
+So you basically it runs a
+
+00:04:37.600 --> 00:04:42.133
+sentiment analysis on whether or
+not this is actually a question
+
+00:04:42.200 --> 00:04:46.933
+regarding finding hotels.
+And if it does, if it is,
+
+00:04:47.000 --> 00:04:50.233
+then it moves on to the next node.
+And then it goes ahead
+
+00:04:50.300 --> 00:04:56.733
+and invokes a ‘search hotel’.
+And then that invokes ‘find the best prices.’
+
+00:04:56.800 --> 00:04:58.733
+And then we have an interrupt.
+
+00:04:58.800 --> 00:05:02.133
+So an interrupt is when the user
+actually makes the choice whether
+
+00:05:02.200 --> 00:05:05.733
+or not they, they want to,
+they want to choose that hotel one.
+
+00:05:05.800 --> 00:05:09.033
+Hotel two or hotel four.
+Whichever hotels that they want.
+
+00:05:09.100 --> 00:05:13.633
+And then that's when you're.
+Once you, the user has chosen that,
+
+00:05:13.700 --> 00:05:16.533
+then we can confirm the hotel choice.
+And then we update the state
+
+00:05:16.600 --> 00:05:20.933
+directly.
+And then we we then we then use
+
+00:05:21.000 --> 00:05:23.733
+a conditional router to update
+the actual choice.
+
+00:05:23.800 --> 00:05:28.332
+And then we have we can send a
+payment link which is another tool.
+
+00:05:28.400 --> 00:05:32.832
+So you can think of your tool sets.
+And then you have your travel agent
+
+00:05:32.900 --> 00:05:36.433
+which is a which is the actual
+node that are connected to it.
+
+00:05:36.500 --> 00:05:41.332
+So your large language model has
+basically helpers that it can that it
+
+00:05:41.400 --> 00:05:45.832
+can basically that it can basically
+retrieve or look for to help,
+
+00:05:45.900 --> 00:05:48.033
+to help it out.
+So I think the main difference
+
+00:05:48.100 --> 00:05:51.733
+is when you're building out your
+standard application, like at Agoda,
+
+00:05:51.800 --> 00:05:55.733
+you're building out your search
+system, your your like an application
+
+00:05:55.800 --> 00:05:58.733
+that that we saw previously.
+It's all CRUD right.
+
+00:05:58.800 --> 00:06:02.332
+So create read update, delete.
+This is a bit different because
+
+00:06:02.400 --> 00:06:06.033
+you're actually giving power to
+the large language model to make
+
+00:06:06.100 --> 00:06:10.233
+the decision to retrieve a tool
+or use a tool that it needs.
+
+00:06:10.300 --> 00:06:12.832
+So it's a bit of a shift of how
+you're thinking.
+
+00:06:12.900 --> 00:06:16.033
+It's in terms of like thinking,
+if you're thinking of
+
+00:06:16.100 --> 00:06:21.033
+deterministic and imperative
+programing, where you have conditions
+
+00:06:21.100 --> 00:06:25.233
+and those conditions are set by you,
+but actually over here you have the
+
+00:06:25.300 --> 00:06:29.933
+sets of rules, and the LLM has to
+make a decision to use those tools,
+
+00:06:30.000 --> 00:06:33.533
+whether or not to use those tools.
+So and then we can scroll
+
+00:06:33.600 --> 00:06:35.832
+down a little bit.
+I don't know if you guys can see this.
+
+00:06:35.900 --> 00:06:38.633
+Is it possible to click it?
+
+00:06:39.900 --> 00:06:44.733
+It's so small you could probably
+click it I think okay. Yeah.
+
+00:06:44.800 --> 00:06:48.033
+So here's how it works.
+So you basically have your state
+
+00:06:48.100 --> 00:06:51.133
+right up top your checkpointer,
+which we'll get into a little bit
+
+00:06:51.200 --> 00:06:56.233
+later, which is your Postgres saver.
+And and then right after that you
+
+00:06:56.300 --> 00:06:59.233
+have your, you initialize your state
+and you have your travel agent.
+
+00:06:59.300 --> 00:07:01.633
+This is actually where you
+control the state.
+
+00:07:01.700 --> 00:07:04.933
+And typically inside of that you
+would have different things like
+
+00:07:05.000 --> 00:07:09.832
+your tools and then also your
+invocation for the graph.
+
+00:07:09.900 --> 00:07:13.133
+I didn't have I don't have the
+picture there, but if you guys
+
+00:07:13.200 --> 00:07:15.933
+want to talk to me later about it,
+I'd be happy to show you the
+
+00:07:16.000 --> 00:07:18.033
+code and everything.
+And this is where you're
+
+00:07:18.100 --> 00:07:21.033
+actually doing the invocation.
+This is Python, so sorry if you're
+
+00:07:21.100 --> 00:07:32.133
+JavaScript developer, but Python is
+much better. Whoa whoa whoa whoa.
+
+00:07:32.800 --> 00:07:36.033
+It is. It's easier. Come on.
+It's much easier.
+
+00:07:36.100 --> 00:07:40.233
+And it's performance.
+Okay, so anyway, this is one singular
+
+00:07:40.300 --> 00:07:44.733
+endpoint that you can invoke.
+And and then it would find the best
+
+00:07:44.800 --> 00:07:51.733
+prices and everything. So if you.
+Yep. And you can zoom out okay.
+
+00:07:51.800 --> 00:07:54.633
+So let's get into what is a
+checkpointer.
+
+00:07:54.700 --> 00:08:00.533
+So essentially a checkpointer is
+is somewhere where you can store
+
+00:08:00.600 --> 00:08:03.832
+states in a graph.
+And the difference between saving
+
+00:08:03.900 --> 00:08:08.733
+data, let's say in a standard
+database like I mentioned is you're
+
+00:08:08.800 --> 00:08:14.133
+doing at a basic level. CRUD, right?
+For for your checkpointer,
+
+00:08:14.200 --> 00:08:18.332
+it's a bit different where you
+have a connection,
+
+00:08:18.400 --> 00:08:22.033
+which is like your PostgreSQL URL.
+It could be something that you're
+
+00:08:22.100 --> 00:08:26.332
+using for like let's say on
+Supabase and you have the URL,
+
+00:08:26.400 --> 00:08:29.133
+and then you have your concurrency,
+which is your pipeline.
+
+00:08:29.200 --> 00:08:33.933
+So the concurrency pipeline is
+where you is basically where it
+
+00:08:34.000 --> 00:08:40.033
+sets up the the actual database
+where it creates the tables.
+
+00:08:40.100 --> 00:08:44.232
+And then if it's enabled,
+this is the actual part
+
+00:08:44.300 --> 00:08:46.833
+that's a bit different than the CRUD,
+
+00:08:46.900 --> 00:08:51.433
+the CRUD apps is.
+It batches most of the it batches
+
+00:08:52.100 --> 00:08:58.433
+the commands from SQL like a put,
+tuple list, and then also writes.
+
+00:08:58.500 --> 00:09:03.333
+So it's slightly different where
+every single invocation with your,
+
+00:09:03.400 --> 00:09:07.033
+your large language model or
+your chain will go ahead and
+
+00:09:07.100 --> 00:09:10.233
+batch certain requests together.
+And I'll show you how that works.
+
+00:09:10.300 --> 00:09:14.433
+If you go down. Perfect.
+Okay, so now going back to our
+
+00:09:14.500 --> 00:09:18.533
+example, we have a travel agent node.
+So I think if you go if you
+
+00:09:18.600 --> 00:09:21.433
+scroll just a little bit up oh
+shit I moved that.
+
+00:09:21.500 --> 00:09:24.333
+So this one this is actually the
+question.
+
+00:09:24.400 --> 00:09:29.233
+And then over here if you if you
+remember what I mentioned about
+
+00:09:29.300 --> 00:09:32.733
+Checkpointer,
+every checkpointer has a thread
+
+00:09:32.800 --> 00:09:36.733
+and that thread is then saved.
+So this you can think of as like
+
+00:09:36.800 --> 00:09:40.833
+your messages saved your message
+history with your agent state
+
+00:09:40.900 --> 00:09:45.133
+this is where it's saved.
+And then so anytime you're
+
+00:09:45.200 --> 00:09:48.033
+invoking a question,
+let's say you want to search for
+
+00:09:48.100 --> 00:09:51.133
+a booking somewhere, right?
+It will get the current version
+
+00:09:51.200 --> 00:09:55.833
+of the graph state.
+So it would run a batch for aget.
+
+00:09:55.900 --> 00:10:00.433
+And if you zoom out then you would
+have your conditional node, whether
+
+00:10:00.500 --> 00:10:03.933
+or not it's searching for hotels.
+And then once you get to the user
+
+00:10:04.000 --> 00:10:08.133
+picking the actual hotel which is
+hotel one, this is where we're
+
+00:10:08.200 --> 00:10:12.633
+batching operations like aget and
+aput where you have to get the
+
+00:10:12.700 --> 00:10:17.833
+actual current version of the state,
+and then you then update that
+
+00:10:17.900 --> 00:10:22.533
+the hotel choices. Hotel one.
+And then this is where you go
+
+00:10:22.600 --> 00:10:26.233
+ahead and you update the state,
+and then you eventually go ahead and
+
+00:10:26.300 --> 00:10:30.333
+the user approves it, and then you
+get your answer directly to the user.
+
+00:10:30.400 --> 00:10:35.333
+So let's say if you're using an
+SDK from OpenAI or Vertex,
+
+00:10:35.400 --> 00:10:38.433
+building a building an
+application just like this might
+
+00:10:38.500 --> 00:10:43.533
+be a bit tough just because you
+don't have the control flow when
+
+00:10:43.600 --> 00:10:47.233
+you're using one singular SDK.
+So LangChain just allows you to
+
+00:10:47.300 --> 00:10:51.133
+give, gives you the ability to go
+ahead and architect your apps in a
+
+00:10:51.200 --> 00:10:55.533
+way where you have where you have a
+human in the loop workflow.
+
+00:10:56.600 --> 00:10:58.033
+Okay.
+And yeah,
+
+00:10:58.100 --> 00:11:03.033
+so this is this is how Checkpointer
+and Postgres internally are saved.
+
+00:11:03.100 --> 00:11:05.733
+So you have your thread ID again
+like I mentioned.
+
+00:11:06.300 --> 00:11:10.933
+And each thread represents a
+version of the state.
+
+00:11:11.000 --> 00:11:16.033
+And actually one thing that I forgot
+to mention was if let's say you're on
+
+00:11:16.100 --> 00:11:20.233
+version three of the graph state,
+every thread has a
+
+00:11:20.300 --> 00:11:25.533
+parent_ts which referenced the previous state of
+
+00:11:25.600 --> 00:11:31.133
+the parent and child, and then a timestamp
+
+00:11:31.200 --> 00:11:36.133
+which isn't in there.
+But yeah, okay. We can move. Okay.
+
+00:11:36.200 --> 00:11:38.933
+So let me take you through a
+real world example.
+
+00:11:39.000 --> 00:11:41.433
+We're working with Salary Hero
+at the moment.
+
+00:11:41.500 --> 00:11:47.133
+So they have an issue where they're
+going about 20% every month per,
+
+00:11:47.200 --> 00:11:50.133
+you know, for per company that
+they're, that they're working with.
+
+00:11:50.200 --> 00:11:57.033
+And they have maybe about a thousand
+plus employees that are coming in
+
+00:11:57.100 --> 00:12:02.233
+and and interacting with the app.
+And they need a lot of help,
+
+00:12:02.300 --> 00:12:06.633
+meaning like they need information
+about loans, they need to retrieve
+
+00:12:06.700 --> 00:12:10.233
+information about, you know,
+whether or not they can take out a
+
+00:12:10.300 --> 00:12:14.433
+loan this month or the next month,
+and they're getting about,
+
+00:12:14.500 --> 00:12:18.933
+let's say, 800 requests per day.
+So and they only have five people,
+
+00:12:19.000 --> 00:12:21.533
+five customers,
+a five customer support.
+
+00:12:21.600 --> 00:12:26.033
+And they're only able to to
+they're only able to reply about
+
+00:12:26.100 --> 00:12:29.733
+300 messages per day.
+So they were constrained in that
+
+00:12:29.800 --> 00:12:31.833
+environment.
+So they try to go to different
+
+00:12:31.900 --> 00:12:34.533
+vendors.
+But they really they really
+
+00:12:34.600 --> 00:12:38.333
+couldn't build like a custom
+solution because a lot of their
+
+00:12:38.400 --> 00:12:43.733
+data was dispersed everywhere.
+They had data on Excel,
+
+00:12:43.800 --> 00:12:47.033
+data on Google Sheets,
+pretty much everywhere.
+
+00:12:47.100 --> 00:12:53.233
+So so basically we came in and we we
+first what we do is we build out a,
+
+00:12:53.300 --> 00:12:57.433
+we build out a graph model just
+like this, just to kind of
+
+00:12:57.500 --> 00:13:01.633
+represent like what we're what,
+like the different state of the flow.
+
+00:13:02.200 --> 00:13:04.433
+This is part of it.
+I'm not going to show everything,
+
+00:13:04.500 --> 00:13:09.633
+but you can think of the user
+coming in with their question with,
+
+00:13:09.700 --> 00:13:12.333
+you know, sentiment analysis.
+Before I actually explain that
+
+00:13:12.400 --> 00:13:15.533
+the one part of one part of the
+issue that they had is that
+
+00:13:15.600 --> 00:13:19.333
+their users are online.
+So we need to identify who the
+
+00:13:19.400 --> 00:13:24.033
+user is.
+So one thing is what what they what
+
+00:13:24.100 --> 00:13:28.233
+they did manually was they they
+interacted with the customer directly
+
+00:13:28.300 --> 00:13:32.133
+and then try to figure out who it is,
+look up in the database who it is,
+
+00:13:32.200 --> 00:13:36.633
+okay. Which company is it okay.
+Which is it. Priority one okay.
+
+00:13:36.700 --> 00:13:39.633
+And then they went ahead and
+replied to the user.
+
+00:13:39.700 --> 00:13:44.333
+So basically I,
+we basically erased all of the steps
+
+00:13:44.400 --> 00:13:47.033
+from the human that's doing that.
+And the first thing that we're
+
+00:13:47.100 --> 00:13:50.233
+doing is we're greeting the user.
+After greeting the user,
+
+00:13:50.300 --> 00:13:52.733
+we're updating the state that
+the greeting is true.
+
+00:13:52.800 --> 00:13:56.433
+After doing that, then the then
+we're verifying the user.
+
+00:13:56.500 --> 00:13:58.933
+This is where this is where the
+large language model is.
+
+00:13:59.000 --> 00:14:03.733
+Then invoking authentication like
+so that the user can log in.
+
+00:14:03.800 --> 00:14:07.833
+Once the user has logged in,
+we saved it in the state, and then we
+
+00:14:07.900 --> 00:14:12.433
+then reroute them based on priority.
+So it's rerouted to customer support.
+
+00:14:12.500 --> 00:14:16.333
+Large language model that's able
+to then, you know, basically just
+
+00:14:16.400 --> 00:14:20.133
+give information to the user.
+One of the things once they're
+
+00:14:20.200 --> 00:14:24.533
+routed over here,
+I'm not sure if you guys are familiar
+
+00:14:24.600 --> 00:14:28.333
+with the term called crews.
+So basically you have a master
+
+00:14:28.400 --> 00:14:31.733
+agent if you go right up top,
+I think, okay.
+
+00:14:31.800 --> 00:14:35.733
+So you determine whether what
+what question it is,
+
+00:14:35.800 --> 00:14:39.433
+and then you have a master agent.
+And that master agent is then
+
+00:14:39.500 --> 00:14:43.033
+able to then give it basically
+pass that information,
+
+00:14:43.100 --> 00:14:46.333
+pass it to the right agent.
+So company policy, general info,
+
+00:14:46.400 --> 00:14:51.433
+getting a loan, delaying payments.
+And then that master agent has tools.
+
+00:14:51.500 --> 00:14:54.833
+If you guys remember before
+about tools those tools have
+
+00:14:54.900 --> 00:14:58.633
+different types of use cases.
+So tools they retrieve
+
+00:14:58.700 --> 00:15:02.133
+information from Google.
+They retrieve information from
+
+00:15:02.200 --> 00:15:05.533
+sheets.
+So they do a lot of customization
+
+00:15:05.600 --> 00:15:09.933
+to then reply to the user like
+for example delay payments.
+
+00:15:10.000 --> 00:15:13.533
+So they get like an influx of
+delay payments. That's coming in.
+
+00:15:13.600 --> 00:15:16.733
+What we do is like we notice,
+okay, there's a delay payment.
+
+00:15:16.800 --> 00:15:22.033
+We then trigger a tool that's that,
+then replies that, then sends an
+
+00:15:22.100 --> 00:15:25.433
+email to the customer support
+team like, hey, there's about 800
+
+00:15:25.500 --> 00:15:29.733
+users that are that are asking for
+there that are basically that are,
+
+00:15:29.800 --> 00:15:34.233
+that are that have delayed payment.
+And so we need to you need to
+
+00:15:34.300 --> 00:15:37.533
+basically look at that.
+So yeah this is a different ways
+
+00:15:37.600 --> 00:15:41.633
+you can kind of architect it.
+If you go down a little bit you might
+
+00:15:41.700 --> 00:15:47.933
+have to exit out of the thing. Yeah.
+So just to kind of give you a
+
+00:15:48.000 --> 00:15:51.233
+explanation of, of how you build
+these kinds of applications,
+
+00:15:51.300 --> 00:15:55.233
+if you go on langchain.com, you can,
+you can kind of like take a look.
+
+00:15:55.300 --> 00:15:59.533
+But once you get to LangGraph it
+might get a little bit complex.
+
+00:15:59.600 --> 00:16:03.433
+So I would recommend just going
+through the documentation like
+
+00:16:03.500 --> 00:16:06.933
+thoroughly to understand.
+But the very first part that I
+
+00:16:07.000 --> 00:16:09.933
+mentioned, when this is the use
+case for Salary Hero,
+
+00:16:11.400 --> 00:16:14.333
+the company we're working with
+is we greet the user first.
+
+00:16:14.400 --> 00:16:19.333
+This is a singular LLM with no tools,
+just greeting the user.
+
+00:16:19.400 --> 00:16:23.733
+The second architecture is called
+is a basic supervisor agent,
+
+00:16:23.800 --> 00:16:29.333
+which has a supervisor and tools that
+it can use to basically talk to the
+
+00:16:29.400 --> 00:16:34.933
+user and verifying who the user is.
+And then you have crews and
+
+00:16:35.000 --> 00:16:38.833
+those crews you could think of.
+I don't know if you're a teacher
+
+00:16:38.900 --> 00:16:42.933
+and you have different types of,
+you know, helpers that are there.
+
+00:16:43.000 --> 00:16:46.333
+One is changing the diapers of
+the students, and the other is
+
+00:16:46.400 --> 00:16:49.833
+actually teaching the students
+and assisting the students.
+
+00:16:49.900 --> 00:16:53.133
+The teacher can invoke different
+tools, different people that
+
+00:16:53.200 --> 00:16:57.933
+they have, that she has in her
+tool set to retrieve information
+
+00:16:58.000 --> 00:17:00.533
+or give information.
+So this is the same thing when
+
+00:17:00.600 --> 00:17:03.733
+you have hierarchical crew teams.
+But in that case, that would actually
+
+00:17:03.800 --> 00:17:08.233
+be the principal doing that.
+And this is a good paper to read
+
+00:17:08.300 --> 00:17:11.633
+if you've never if you've never
+built these kinds of system before,
+
+00:17:11.700 --> 00:17:13.933
+you're not going to understand it.
+I didn't understand shit.
+
+00:17:14.000 --> 00:17:17.933
+I just put it on ChatGPT and
+explain this. And then.
+
+00:17:18.000 --> 00:17:21.032
+But it's great.
+It's honestly it gives you it
+
+00:17:21.099 --> 00:17:23.633
+gives you a perspective on how
+you can build like these,
+
+00:17:23.700 --> 00:17:28.433
+these like multi-agent systems.
+A lot of the anytime I say I say
+
+00:17:28.500 --> 00:17:31.233
+anything about like, oh, I'm
+building a customer support agent,
+
+00:17:31.300 --> 00:17:36.133
+like, oh wow, this must be easy.
+But the hardest part is the fact
+
+00:17:36.200 --> 00:17:40.233
+that, like information is dispersed
+depending on the organization
+
+00:17:40.300 --> 00:17:44.133
+and building something,
+custom is what they're looking for.
+
+00:17:47.900 --> 00:17:53.133
+Okay. Thank you. Yeah. Again. Reacthor.
+So we're on we're on LinkedIn.
+
+00:17:53.200 --> 00:17:56.133
+We're these are my my email if
+you want to reach out.
+
+00:17:56.200 --> 00:17:59.033
+If you want to talk a little bit
+more about what I, what I've been
+
+00:17:59.100 --> 00:18:02.133
+mentioning during this talk, great.
+If you want me to showcase some
+
+00:18:02.200 --> 00:18:06.033
+examples of applications that I'm
+building currently with companies,
+
+00:18:06.100 --> 00:18:09.933
+great. I'll do that for you.
+And if you if you want to. Yeah.
+
+00:18:10.000 --> 00:18:12.433
+If you want to talk anytime I'm here.
+All right.
+
+00:18:12.500 --> 00:18:13.233
+Thank you
