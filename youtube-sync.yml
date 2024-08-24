@@ -12820,6 +12820,55 @@ video:opObOSfrDVk:
     snippet:
       title: Self-host Supabase & DirectAdmin by Pornpat Paethong
       description: >-
+        Learn how to seamlessly integrate a modern Supabase backend with a
+        legacy system in this insightful talk by Pornpat, a software engineer
+        from DevForward.tech. Discover a practical approach to leveraging
+        Supabase's features like authentication and edge functions while
+        maintaining the functionality of your existing infrastructure. This
+        session explores a real-world project scenario, offering valuable
+        techniques for bridging the gap between legacy systems and modern
+        development practices. See how Docker, Docker Compose, DirectAdmin, and
+        nginx play a key role in this integration strategy, allowing you to
+        modernize your application architecture without disrupting existing
+        workflows. Gain valuable insights into building a more efficient and
+        scalable system by combining the power of Supabase with the reliability
+        of your legacy components.
+
+
+        0:00 | Introduction and the Challenge of Integrating Legacy Systems
+
+        0:27 | Why Supabase Might Be the Solution for Your Backend Needs
+
+        0:47 | The Problem with Traditional Architectures for Legacy Integration
+
+        1:53 | Merging Legacy Systems with Supabase: A Seamless Approach
+
+        2:13 | How the Integrated Architecture Works with Supabase and
+        DirectAdmin
+
+        3:01 | Setting Up Docker and Docker Compose for Supabase on DirectAdmin
+
+        4:08 | Accessing Supabase Features and the Role of DirectAdmin in
+        Configuration
+
+        4:54 | Leveraging DirectAdmin's Nginx Configuration for API Integration
+
+        5:57 | The Big Picture: Connecting Supabase and Legacy Systems via
+        DirectAdmin
+
+        6:23 | Accessing Supabase with a Domain Name and Managing HTTPS with
+        DirectAdmin
+
+        7:10 | Using Edge Functions to Call the Legacy Report Generator through
+        Supabase
+
+        8:24 | How the Mobile Application Interacts with the Integrated System
+
+        8:56 | Conclusion and Thank You
+
+
+        --------------------------------------------
+
         Event: Supabase Meetup Bangkok 1.0
 
         https://guild.host/events/supabase-bangkok-meetup-le6a9z
@@ -12858,6 +12907,7 @@ video:opObOSfrDVk:
         etc.), please visit:
 
         https://grtn.org/e/supabase/v/selfhost/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -13192,3 +13242,23 @@ video:xC2QoV9TBW8:caption:th:
     isDraft: false
   state:
     id: AUieDaYPYBrLZg87pcOW73iTe6ui1k82GvrM3YjKJOYu_6_o4TAG
+video:opObOSfrDVk:caption:en:
+  spec:
+    videoId: opObOSfrDVk
+    filePath: data/videos/supabase/selfhost_en.vtt
+    language: en
+    name: English
+    hash: 3591a0fbf22694e0e655f95b82aaf5ff933acb5f8c23a5848dfba470005eba65
+    isDraft: false
+  state:
+    id: AUieDaaYZwUAqV4s_0jf_1CqAltmymI9r5PIXOZw84g4RxO0ezkSPAMT
+video:opObOSfrDVk:caption:th:
+  spec:
+    videoId: opObOSfrDVk
+    filePath: data/videos/supabase/selfhost_th.vtt
+    language: th
+    name: Thai
+    hash: d2aa44ceb0848532a0c9d2d6d8eaa1763203ba69f70f558ab26e4b39b68ad54b
+    isDraft: false
+  state:
+    id: AUieDaYY8-3_NbZPblF34ipjtpgHReptHQXcqinu-WF8CqSg50ws
