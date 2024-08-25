@@ -3246,7 +3246,7 @@
         "youtube": "xC2QoV9TBW8",
         "managed": true,
         "description": "Delve into the world of AI application development with Will, founder of Reacthor, as he guides you through building custom workflows using LangChain and LangGraph. Learn how these powerful tools can be leveraged to create sophisticated AI applications, particularly focusing on the innovative concept of a custom PostgreSQL checkpointer. Will shares practical insights and real-world examples, including a case study with Salary Hero, showcasing how LangChain and LangGraph can be used to address complex challenges in a production environment. Discover how these technologies can empower your AI development journey and unlock new possibilities for building intelligent and efficient applications.\n",
-        "published": false,
+        "published": "2024-09-07",
         "language": "en",
         "subtitles": [
           "en",
@@ -3280,7 +3280,7 @@
         "youtube": "Tra9NbAwSEY",
         "managed": true,
         "description": "Learn how Egor Gorbachev, a full-stack developer, known for his contributions to popular open-source projects such as MobX, leverages Supabase to build and scale a real-world application. This talk goes beyond theory, offering practical insights into using Supabase's features for database schema design, SQL query optimization, file storage, and performance tuning. Discover how Supabase can streamline your development process and empower you to build and manage your projects efficiently, even as a solo developer. See how this developer built a spaced repetition learning application with Supabase, handling thousands of daily requests and active users. Gain valuable tips and techniques for maximizing the potential of Supabase in your own projects.\n",
-        "published": false,
+        "published": "2024-09-03",
         "language": "en",
         "subtitles": [
           "en",
@@ -3320,7 +3320,7 @@
         "youtube": "opObOSfrDVk",
         "managed": true,
         "description": "Learn how to seamlessly integrate a modern Supabase backend with a legacy system in this insightful talk by Pornpat, a software engineer from DevForward.tech. Discover a practical approach to leveraging Supabase's features like authentication and edge functions while maintaining the functionality of your existing infrastructure. This session explores a real-world project scenario, offering valuable techniques for bridging the gap between legacy systems and modern development practices. See how Docker, Docker Compose, DirectAdmin, and nginx play a key role in this integration strategy, allowing you to modernize your application architecture without disrupting existing workflows. Gain valuable insights into building a more efficient and scalable system by combining the power of Supabase with the reliability of your legacy components.\n",
-        "published": false,
+        "published": "2024-09-11",
         "language": "en",
         "subtitles": [
           "en",
@@ -3358,7 +3358,7 @@
         "youtube": "uIBSyw8CD0s",
         "managed": true,
         "description": "This session offers a practical comparison of Supabase and Firebase, two popular platforms for building modern applications. The speakers, one representing each platform, delve into key features like data modeling, CRUD operations, authentication, authorization, business logic, storage, AI capabilities, real-time functionality, and pricing. Through code examples and insightful discussions, they highlight the strengths and weaknesses of each platform, helping you understand which might be the better fit for your specific needs. Whether you're a seasoned developer or just starting out, this comparative overview provides valuable insights into the world of Supabase and Firebase.\n",
-        "published": false,
+        "published": "2024-08-30",
         "language": "en",
         "subtitles": [
           "en",
