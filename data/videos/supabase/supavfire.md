@@ -3,7 +3,6 @@ title: Supabase VS Firebase - Epic battle between the two
 speaker: Poom Wettayakorn; Tobias Meixner
 youtube: uIBSyw8CD0s
 managed: true
-published: false
 subtitles: [en, th]
 language: en
 description: |
@@ -40,4 +39,5 @@ chapters:
   '30:51': 'Conclusion: Winner & Audience Q&A'
   '31:38': 'TLDR: When to Choose Supabase vs. Firebase'
   '33:22': 'Speaker Introductions & Projects: Datascale & Hubql'
+published: '2024-08-30'
 ---

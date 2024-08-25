@@ -3,7 +3,6 @@ title: Custom Postgres Checkpointer using LangGraph
 speaker: Williams Sissoko
 youtube: xC2QoV9TBW8
 managed: true
-published: false
 subtitles: [en, th]
 language: en
 description: |
@@ -18,4 +17,5 @@ chapters:
   "11:36": "Case Study: Salary Hero - Automating Customer Support with LangGraph"
   "14:48": "Different Architectures for Building AI Agents with LangChain"
   "17:47": "Conclusions"
+published: '2024-09-07'
 ---

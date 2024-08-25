@@ -3,7 +3,6 @@ title: Supabase Real-world Production Example
 speaker: Egor Gorbachev
 youtube: Tra9NbAwSEY
 managed: true
-published: false
 subtitles: [en, th]
 language: en
 description: |
@@ -24,4 +23,5 @@ chapters:
   "12:17": "Understanding Index Performance Tradeoffs"
   "13:01": "Identifying Index Needs with PostgreSQL Extensions"
   "13:50": "Summary of Key Supabase Features and Benefits"
+published: '2024-09-03'
 ---

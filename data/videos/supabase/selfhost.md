@@ -3,7 +3,6 @@ title: Self-host Supabase & DirectAdmin
 speaker: Pornpat Paethong
 youtube: opObOSfrDVk
 managed: true
-published: false
 subtitles: [en, th]
 language: en
 description: |
@@ -22,4 +21,5 @@ chapters:
   "7:10": "Using Edge Functions to Call the Legacy Report Generator through Supabase"
   "8:24": "How the Mobile Application Interacts with the Integrated System"
   "8:56": "Conclusion and Thank You"
+published: '2024-09-11'
 ---
