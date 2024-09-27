@@ -13262,3 +13262,189 @@ video:opObOSfrDVk:caption:th:
     isDraft: false
   state:
     id: AUieDaYY8-3_NbZPblF34ipjtpgHReptHQXcqinu-WF8CqSg50ws
+thumbnail:4VI-CW-3STs:
+  spec:
+    videoId: 4VI-CW-3STs
+    filePath: data/videos/bkkjs21/mui.jpg
+    hash: 9e3106f8f491efb61913baff82487adba63f6735ba6a82de0216b998bc5edd81
+  state: {}
+thumbnail:MA8Y0GIV0Yw:
+  spec:
+    videoId: MA8Y0GIV0Yw
+    filePath: data/videos/bkkjs21/ai.jpg
+    hash: f533a104af5eee68892c61e56a64c709678c40c8ecdd61652980ca55a7b0c8dd
+  state: {}
+thumbnail:gtB7nzeKT-8:
+  spec:
+    videoId: gtB7nzeKT-8
+    filePath: data/videos/bkkjs21/tdd.jpg
+    hash: 41e47b8a80f384a4d0e3db7626713065f26191f0930e2b70add2107295d2da53
+  state: {}
+thumbnail:qGOoDFdgXFM:
+  spec:
+    videoId: qGOoDFdgXFM
+    filePath: data/videos/bkkjs21/opensource.jpg
+    hash: 75746949e755445ca217827527d499efdcb3cca76bdbd37c2d55510e3f0529f4
+  state: {}
+video:4VI-CW-3STs:
+  spec:
+    id: 4VI-CW-3STs
+    snippet:
+      title: ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้ by Siriwat Kunaporn
+      description: >-
+        Event: BKK.JS #21
+
+        https://grtn.org/e/bkkjs21
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs21/v/mui/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:MA8Y0GIV0Yw:
+  spec:
+    id: MA8Y0GIV0Yw
+    snippet:
+      title: >-
+        JavaScripts for Open-Source AI Developers in Nowadays by Charunthon
+        Limseelo
+      description: >-
+        Event: BKK.JS #21
+
+        https://grtn.org/e/bkkjs21
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs21/v/ai/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:gtB7nzeKT-8:
+  spec:
+    id: gtB7nzeKT-8
+    snippet:
+      title: The Future of Test Driven Development by Olivier Rodomond
+      description: >-
+        Event: BKK.JS #21
+
+        https://grtn.org/e/bkkjs21
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs21/v/tdd/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:qGOoDFdgXFM:
+  spec:
+    id: qGOoDFdgXFM
+    snippet:
+      title: How to really start open-source in a nutshell by Runyasak Chaengnaimuang
+      description: >-
+        Event: BKK.JS #21
+
+        https://grtn.org/e/bkkjs21
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bkkjs21/v/opensource/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
