@@ -1841,6 +1841,70 @@
       "thaiSubtitlePath": "data/videos/bkkjs20/subin_th.vtt"
     },
     {
+      "event": "bkkjs21",
+      "slug": "ai",
+      "data": {
+        "title": "JavaScripts for Open-Source AI Developers in Nowadays",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "MA8Y0GIV0Yw",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs21/ai.md",
+      "imageFilePath": "data/videos/bkkjs21/ai.jpg"
+    },
+    {
+      "event": "bkkjs21",
+      "slug": "mui",
+      "data": {
+        "title": "ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้",
+        "speaker": "Siriwat Kunaporn",
+        "type": "talk",
+        "youtube": "4VI-CW-3STs",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs21/mui.md",
+      "imageFilePath": "data/videos/bkkjs21/mui.jpg"
+    },
+    {
+      "event": "bkkjs21",
+      "slug": "opensource",
+      "data": {
+        "title": "How to really start open-source in a nutshell",
+        "speaker": "Runyasak Chaengnaimuang",
+        "type": "talk",
+        "youtube": "qGOoDFdgXFM",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs21/opensource.md",
+      "imageFilePath": "data/videos/bkkjs21/opensource.jpg"
+    },
+    {
+      "event": "bkkjs21",
+      "slug": "tdd",
+      "data": {
+        "title": "The Future of Test Driven Development",
+        "speaker": "Olivier Rodomond",
+        "type": "talk",
+        "youtube": "gtB7nzeKT-8",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs21/tdd.md",
+      "imageFilePath": "data/videos/bkkjs21/tdd.jpg"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
