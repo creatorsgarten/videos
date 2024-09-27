@@ -113,4 +113,5 @@ const events = [
       url: 'https://guild.host/devtools-bangkok',
     },
   }),
+  new Event('bkkjs21', 'BKK.JS #21'),
 ]
