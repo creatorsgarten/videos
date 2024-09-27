@@ -546,6 +546,21 @@
     },
     {
       "event": "archive",
+      "slug": "bkkjs21",
+      "data": {
+        "title": "BKK.JS #21",
+        "type": "archive",
+        "youtube": "ANAA8Ebk5Cc",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/archive/bkkjs21.md",
+      "imageFilePath": "data/videos/archive/bkkjs21.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "bkkoss-orientation",
       "data": {
         "title": "Bangkok Open Source Hackathon - Orientation",
