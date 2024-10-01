@@ -1,0 +1,1406 @@
+WEBVTT
+
+00:00:01.100 --> 00:00:02.333
+Hello
+
+00:00:04.400 --> 00:00:07.133
+So, today I don’t speak in Thai,
+
+00:00:07.200 --> 00:00:07.633
+right?
+
+00:00:09.200 --> 00:00:09.433
+So,
+
+00:00:09.500 --> 00:00:10.233
+English,
+
+00:00:10.300 --> 00:00:11.033
+Y’all understand English,
+
+00:00:12.100 --> 00:00:12.733
+Right?
+
+00:00:12.800 --> 00:00:12.933
+Okay.
+
+00:00:14.900 --> 00:00:15.433
+Okay.
+
+00:00:15.500 --> 00:00:15.633
+So,
+
+00:00:15.700 --> 00:00:16.133
+let's switch.
+
+00:00:18.700 --> 00:00:19.733
+I will talk about
+
+00:00:19.800 --> 00:00:21.233
+TDD, right?
+
+00:00:21.300 --> 00:00:21.533
+So,
+
+00:00:21.600 --> 00:00:23.233
+test-driven development.
+
+00:00:23.300 --> 00:00:23.433
+Okay.
+
+00:00:24.600 --> 00:00:24.733
+So,
+
+00:00:24.800 --> 00:00:26.233
+every time I say TDD,
+
+00:00:26.300 --> 00:00:28.633
+it's really about test-driven development.
+
+00:00:30.200 --> 00:00:32.433
+but first i have a couple of questions for you
+
+00:00:32.500 --> 00:00:34.233
+for me to understand
+
+00:00:34.300 --> 00:00:38.233
+what is your level in term of
+testing first, right?
+
+00:00:38.300 --> 00:00:42.433
+so if you can just raise your hand
+if you understand the question
+
+00:00:42.500 --> 00:00:45.633
+so who knows about unit tests?
+
+00:00:47.900 --> 00:00:51.533
+Oh wow, not a lot.
+
+00:00:54.400 --> 00:00:58.333
+So who skipped the unit test?
+
+00:00:59.800 --> 00:01:00.233
+Okay,
+
+00:01:00.300 --> 00:01:00.833
+now it's more.
+
+00:01:04.800 --> 00:01:07.532
+So who knows—
+who's using Jest a little bit?
+
+00:01:09.100 --> 00:01:09.533
+Okay,
+
+00:01:09.600 --> 00:01:10.233
+a little bit.
+
+00:01:11.000 --> 00:01:11.233
+Okay.
+
+00:01:13.300 --> 00:01:14.733
+Who knows about the mocks?
+
+00:01:15.700 --> 00:01:16.033
+Mock,
+
+00:01:16.100 --> 00:01:16.733
+mock.
+
+00:01:16.800 --> 00:01:17.233
+No.
+
+00:01:17.300 --> 00:01:17.633
+Oh,
+
+00:01:17.700 --> 00:01:17.933
+one.
+
+00:01:18.000 --> 00:01:18.333
+Okay,
+
+00:01:18.400 --> 00:01:18.633
+good.
+
+00:01:19.500 --> 00:01:20.833
+Smaller and smaller.
+
+00:01:20.900 --> 00:01:21.233
+We'll see.
+
+00:01:23.400 --> 00:01:26.032
+Who already tried test-driven development?
+
+00:01:28.400 --> 00:01:28.933
+one over there,
+
+00:01:29.900 --> 00:01:30.033
+two,
+
+00:01:30.800 --> 00:01:30.933
+okay.
+
+00:01:39.700 --> 00:01:40.133
+Hello,
+
+00:01:40.200 --> 00:01:40.333
+okay.
+
+00:01:42.800 --> 00:01:43.133
+All right,
+
+00:01:45.400 --> 00:01:45.733
+so,
+
+00:01:46.400 --> 00:01:46.933
+oh,
+
+00:01:47.000 --> 00:01:47.133
+okay.
+
+00:01:48.800 --> 00:01:49.233
+All right,
+
+00:01:49.300 --> 00:01:50.133
+so what about me?
+
+00:01:51.000 --> 00:01:52.333
+So I'm Olivier.
+
+00:01:53.400 --> 00:01:53.833
+I'm
+
+00:01:53.900 --> 00:01:54.833
+French,
+
+00:01:54.900 --> 00:01:57.433
+but in English,
+
+00:01:57.500 --> 00:01:59.133
+I'm Oliver.
+
+00:02:04.200 --> 00:02:07.133
+I have 2 children.
+
+00:02:10.400 --> 00:02:12.533
+I work in a couple of countries,
+
+00:02:12.600 --> 00:02:13.333
+USA,
+
+00:02:13.400 --> 00:02:14.132
+Poland,
+
+00:02:14.200 --> 00:02:15.033
+also Singapore.
+
+00:02:18.800 --> 00:02:19.632
+In terms of work,
+
+00:02:19.700 --> 00:02:23.333
+so now I'm working at FWD in innovation,
+
+00:02:23.400 --> 00:02:28.632
+but I also worked as engineering manager and also technical coach for different companies.
+
+00:02:32.100 --> 00:02:34.333
+My main expertise is about API,
+
+00:02:35.900 --> 00:02:36.933
+domain-driven design,
+
+00:02:37.500 --> 00:02:38.833
+test automation,
+
+00:02:38.900 --> 00:02:39.833
+and continuous delivery.
+
+00:02:43.700 --> 00:02:45.533
+And I'm passionate about Rocket League,
+
+00:02:45.600 --> 00:02:47.933
+so I don't know if there is some good player of Rocket League.
+
+00:02:49.600 --> 00:02:51.733
+And I'm also passionate about open source.
+
+00:02:53.100 --> 00:02:54.333
+When it comes to open source,
+
+00:02:56.500 --> 00:02:58.632
+I build a test automation framework.
+
+00:02:58.700 --> 00:02:59.733
+So it's online now,
+
+00:02:59.800 --> 00:03:00.433
+called RestQA.
+
+00:03:01.200 --> 00:03:03.733
+It's more focused on testing microservices,
+
+00:03:03.800 --> 00:03:04.632
+so you guys can check.
+
+00:03:08.100 --> 00:03:08.733
+All right,
+
+00:03:08.800 --> 00:03:10.033
+let's talk about the agenda.
+
+00:03:10.900 --> 00:03:16.132
+Agenda for me is to share with you as a manager why the testing is important.
+
+00:03:17.400 --> 00:03:18.132
+Because...
+
+00:03:18.200 --> 00:03:20.233
+Many talk is about technical,
+
+00:03:20.300 --> 00:03:20.733
+technical,
+
+00:03:20.800 --> 00:03:21.132
+technical.
+
+00:03:21.900 --> 00:03:24.433
+The technical needs to serve a purpose.
+
+00:03:25.900 --> 00:03:26.533
+And this is why
+
+00:03:27.400 --> 00:03:31.533
+I will share as a manager how we can understand unit test,
+
+00:03:31.600 --> 00:03:33.033
+what is test-driven development,
+
+00:03:33.900 --> 00:03:35.833
+and how you can set it up for yourself.
+
+00:03:39.000 --> 00:03:42.233
+Very important for you as a manager,
+
+00:03:42.300 --> 00:03:43.533
+every time I interview
+
+00:03:44.500 --> 00:03:47.833
+an engineer showing me that he's doing test-driven development,
+
+00:03:48.800 --> 00:03:50.033
+100 percent of the time,
+
+00:03:50.100 --> 00:03:50.833
+I will hire him.
+
+00:03:52.800 --> 00:03:55.933
+So this is why this presentation is very important for you guys.
+
+00:04:00.900 --> 00:04:03.632
+So first is why do we need unit tests?
+
+00:04:06.100 --> 00:04:11.132
+Let's take a very simple use case where we need to measure the room,
+
+00:04:11.200 --> 00:04:11.833
+size of the room.
+
+00:04:21.200 --> 00:04:21.733
+Thank you.
+
+00:04:23.300 --> 00:04:25.533
+I think it doesn't like people speak English here.
+
+00:04:29.400 --> 00:04:30.433
+Yes.
+
+00:04:31.500 --> 00:04:31.933
+Okay,
+
+00:04:32.000 --> 00:04:34.533
+so most of us will just...
+
+00:04:34.600 --> 00:04:34.733
+Oh,
+
+00:04:34.800 --> 00:04:35.332
+sorry.
+
+00:04:35.400 --> 00:04:36.033
+Let's go back.
+
+00:04:37.500 --> 00:04:39.933
+We'll just create a small function like this,
+
+00:04:40.900 --> 00:04:42.233
+and we ship production,
+
+00:04:42.300 --> 00:04:42.733
+right?
+
+00:04:43.400 --> 00:04:44.332
+And sometimes,
+
+00:04:44.400 --> 00:04:48.332
+some of us will just try to write the unit test to verify.
+
+00:04:49.100 --> 00:04:50.832
+if our function is working.
+
+00:04:52.000 --> 00:04:54.033
+So for the people that don't know unit test,
+
+00:04:54.600 --> 00:04:59.733
+it's really we try to write a function that will check if this.
+
+00:05:00.900 --> 00:05:01.433
+It's really good.
+
+00:05:02.400 --> 00:05:02.533
+Okay.
+
+00:05:06.000 --> 00:05:08.133
+So everything is working.
+
+00:05:08.200 --> 00:05:08.733
+We are happy.
+
+00:05:08.800 --> 00:05:09.332
+We can party.
+
+00:05:10.300 --> 00:05:11.033
+We can go home.
+
+00:05:11.800 --> 00:05:12.133
+It's okay.
+
+00:05:13.300 --> 00:05:13.533
+Now,
+
+00:05:14.600 --> 00:05:16.933
+let's say I have a new engineer coming in the team.
+
+00:05:20.400 --> 00:05:22.033
+He wants to change a little bit the code.
+
+00:05:22.700 --> 00:05:22.933
+Okay,
+
+00:05:23.000 --> 00:05:23.332
+why not?
+
+00:05:24.600 --> 00:05:26.633
+So we run the test.
+
+00:05:26.700 --> 00:05:28.133
+The test is still working.
+
+00:05:28.200 --> 00:05:28.832
+That's perfect.
+
+00:05:31.300 --> 00:05:35.533
+And then changing again because he prefers arrows function,
+
+00:05:35.600 --> 00:05:36.033
+you know,
+
+00:05:36.100 --> 00:05:36.933
+preference.
+
+00:05:37.000 --> 00:05:38.332
+Some developers like to change.
+
+00:05:40.300 --> 00:05:41.433
+And one refactor again.
+
+00:05:44.000 --> 00:05:44.433
+One-liner.
+
+00:05:45.600 --> 00:05:46.533
+This time we have a bug,
+
+00:05:47.300 --> 00:05:47.433
+right?
+
+00:05:49.100 --> 00:05:51.533
+And this is the new engineer.
+
+00:05:51.600 --> 00:05:56.533
+And this is me crying because we want to go home instead of trying to debug.
+
+00:05:58.400 --> 00:05:59.733
+But what happened is...
+
+00:05:59.800 --> 00:06:05.933
+the new engineer tried to put an object instead of a simple parameter.
+
+00:06:07.500 --> 00:06:09.733
+So the unit test breaks,
+
+00:06:10.500 --> 00:06:17.733
+and this is why we need to have unit test to tell us something is wrong.
+
+00:06:20.700 --> 00:06:22.433
+But what I'm trying to explain here,
+
+00:06:22.500 --> 00:06:28.533
+it's the main purpose of the unit test,
+
+00:06:28.600 --> 00:06:28.832
+right?
+
+00:06:29.800 --> 00:06:32.233
+It's not to verify the code.
+
+00:06:33.800 --> 00:06:35.633
+The technical part is to verify the code.
+
+00:06:36.300 --> 00:06:37.233
+But as a company,
+
+00:06:38.200 --> 00:06:45.233
+what we want is to make it refactorable without impacting the business.
+
+00:06:46.900 --> 00:06:48.033
+Because as a manager,
+
+00:06:48.100 --> 00:06:49.533
+I will have a big team,
+
+00:06:49.600 --> 00:06:52.633
+and I want everybody in the team
+to be able to go in the code
+
+00:06:52.700 --> 00:06:58.033
+and change everything they want
+without having some bug in production.
+
+00:07:01.100 --> 00:07:01.332
+Yes,
+
+00:07:01.900 --> 00:07:03.933
+that's starting to be a bit complex,
+
+00:07:04.000 --> 00:07:06.233
+but let's try to slow down a little bit.
+
+00:07:09.000 --> 00:07:10.133
+When I say refactoring,
+
+00:07:10.900 --> 00:07:15.433
+refactoring means we can change the library.
+
+00:07:16.200 --> 00:07:17.933
+Instead of using Axios,
+
+00:07:18.000 --> 00:07:18.832
+we want to use Fetch.
+
+00:07:19.900 --> 00:07:20.433
+It's okay,
+
+00:07:20.500 --> 00:07:20.933
+no problem.
+
+00:07:22.500 --> 00:07:24.033
+It can be a language change.
+
+00:07:24.100 --> 00:07:25.832
+Instead of using the whole JavaScript,
+
+00:07:25.900 --> 00:07:27.633
+now we want to use TypeScript.
+
+00:07:27.700 --> 00:07:28.233
+It's okay.
+
+00:07:28.300 --> 00:07:29.433
+We can still make it happen.
+
+00:07:30.900 --> 00:07:32.433
+Or it can be a data change,
+
+00:07:32.500 --> 00:07:32.832
+right?
+
+00:07:32.900 --> 00:07:35.332
+So instead of database,
+
+00:07:35.400 --> 00:07:37.133
+we want to get the data from API.
+
+00:07:37.900 --> 00:07:38.533
+It can happen.
+
+00:07:39.900 --> 00:07:42.933
+Or now we can have code generated by AI.
+
+00:07:43.000 --> 00:07:47.433
+So our code basically needs to change a lot,
+
+00:07:48.000 --> 00:07:48.433
+right?
+
+00:07:48.500 --> 00:07:50.033
+From the day we write it.
+
+00:07:50.100 --> 00:07:57.332
+and the day we use it until today
+it can be a lot and a lot of changes
+
+00:07:57.400 --> 00:08:02.233
+so this is why I want to explain like
+how TDD really help us
+
+00:08:02.300 --> 00:08:06.533
+to make a better refactoring.
+
+00:08:09.300 --> 00:08:15.233
+That's a lot. Okay, so first,
+
+00:08:17.700 --> 00:08:18.933
+We need to write the question.
+
+00:08:20.300 --> 00:08:23.233
+And this is what is the most complicated for all of us,
+
+00:08:23.300 --> 00:08:25.233
+is how we write the unit test first.
+
+00:08:26.400 --> 00:08:29.433
+Because the unit test has to be the question we have for the code.
+
+00:08:30.500 --> 00:08:32.133
+This is a simple question I ask.
+
+00:08:32.900 --> 00:08:34.832
+I want to generate a PDF.
+
+00:08:38.299 --> 00:08:40.033
+So what I will do,
+
+00:08:40.100 --> 00:08:40.633
+I will just...
+
+00:08:41.200 --> 00:08:41.433
+Oh,
+
+00:08:41.500 --> 00:08:41.633
+sorry.
+
+00:08:42.400 --> 00:08:43.533
+Every time I messed up.
+
+00:08:45.400 --> 00:08:46.533
+I will have my content.
+
+00:08:49.500 --> 00:08:51.833
+I have my function which is create
+
+00:08:51.900 --> 00:08:56.633
+PDF report and after I'm just checking that the PDF exists.
+
+00:08:57.600 --> 00:08:58.733
+Very very simple.
+
+00:09:00.800 --> 00:09:02.633
+It has to be based on the requirements,
+
+00:09:05.000 --> 00:09:06.133
+easy to understand,
+
+00:09:06.200 --> 00:09:07.933
+so as you can see it's only a couple of lines.
+
+00:09:10.100 --> 00:09:14.533
+We try to avoid technical words because technology changes a lot.
+
+00:09:15.900 --> 00:09:20.733
+function from the business stay the same
+so we try to use business words
+
+00:09:20.800 --> 00:09:26.633
+and we try to avoid the mock
+so that's what we need to do first
+
+00:09:26.700 --> 00:09:31.033
+writing the unit test
+so this is the question i have
+
+00:09:31.100 --> 00:09:36.533
+and after — only after — I can
+start writing the answer which
+
+00:09:36.600 --> 00:09:41.933
+is the code okay
+and what's going to happen for example
+
+00:09:43.100 --> 00:09:46.233
+We write the code in January 2022,
+
+00:09:47.100 --> 00:09:48.233
+the first version of the code.
+
+00:09:51.000 --> 00:09:51.733
+But in April,
+
+00:09:51.800 --> 00:09:53.833
+we discover we have an issue with Windows.
+
+00:09:55.500 --> 00:09:58.333
+So we change a little bit the code,
+
+00:10:00.500 --> 00:10:00.733
+but...
+
+00:10:01.400 --> 00:10:02.433
+The test is still passing,
+
+00:10:03.100 --> 00:10:04.733
+so we can keep changing the code,
+
+00:10:05.500 --> 00:10:09.533
+but the function stays the same and we still have a good unit test.
+
+00:10:11.600 --> 00:10:14.233
+When it comes to one year later,
+
+00:10:14.900 --> 00:10:16.833
+we discover that the report is getting bigger,
+
+00:10:16.900 --> 00:10:17.133
+bigger,
+
+00:10:17.200 --> 00:10:17.533
+bigger,
+
+00:10:17.600 --> 00:10:17.733
+bigger.
+
+00:10:18.900 --> 00:10:21.633
+So we need to change again the library.
+
+00:10:21.700 --> 00:10:23.633
+So instead of using pdf.js,
+
+00:10:23.700 --> 00:10:24.633
+I try to use pdf.
+
+00:10:26.100 --> 00:10:27.133
+Instead of using pdf,
+
+00:10:27.200 --> 00:10:28.233
+I use pdf.js.
+
+00:10:29.400 --> 00:10:30.233
+Very simple,
+
+00:10:30.300 --> 00:10:30.833
+small change.
+
+00:10:31.800 --> 00:10:32.833
+The unit test is okay.
+
+00:10:33.900 --> 00:10:35.233
+It's still working in production,
+
+00:10:35.300 --> 00:10:35.733
+no issue.
+
+00:10:37.700 --> 00:10:39.333
+And then another year later,
+
+00:10:39.400 --> 00:10:43.133
+we discover that pdf.js,
+
+00:10:43.200 --> 00:10:44.433
+which is open source,
+
+00:10:44.500 --> 00:10:45.833
+is not maintained anymore.
+
+00:10:45.900 --> 00:10:47.633
+We have a lot of security issues,
+
+00:10:47.700 --> 00:10:48.733
+so we need to change again.
+
+00:10:50.100 --> 00:10:53.933
+So I can change very easily again just by changing a couple of lines,
+
+00:10:55.100 --> 00:10:55.333
+right?
+
+00:10:56.200 --> 00:10:57.333
+And all of my logic
+
+00:10:58.700 --> 00:11:04.533
+It's still okay because my test is very simple and tell me that your logic is still working.
+
+00:11:06.500 --> 00:11:09.333
+And this is what I call refactoring
+
+00:11:09.400 --> 00:11:12.033
+and this is what is very important
+for me as a manager
+
+00:11:12.100 --> 00:11:16.333
+is to ensure like when my engineer
+needs to change the code
+
+00:11:16.400 --> 00:11:18.733
+he knows that he
+will not break something.
+
+00:11:20.700 --> 00:11:24.333
+And things gonna change for sure,
+as we saw,
+
+00:11:24.400 --> 00:11:27.333
+this code base is three years old
+and for sure we had to change.
+
+00:11:28.000 --> 00:11:29.133
+the library many times.
+
+00:11:33.500 --> 00:11:34.233
+Okay.
+
+00:11:35.000 --> 00:11:35.333
+Now,
+
+00:11:35.400 --> 00:11:36.133
+how do we start?
+
+00:11:36.900 --> 00:11:38.333
+Because this is the high level part,
+
+00:11:38.400 --> 00:11:41.733
+but let's try to find a little bit of action to start.
+
+00:11:43.100 --> 00:11:46.333
+Because now the key challenge is
+how we write the question
+
+00:11:46.400 --> 00:11:51.633
+so the unit test
+from an easier and a faster way.
+
+00:11:55.200 --> 00:11:59.033
+The first thing I want to say to all of you
+is like first stop using Jest.
+
+00:11:59.100 --> 00:11:59.233
+Okay.
+
+00:12:01.200 --> 00:12:03.833
+Because Jest is when you do npm install,
+
+00:12:04.600 --> 00:12:07.433
+it's a lot of dependency coming in that we don't need.
+
+00:12:08.100 --> 00:12:08.433
+Okay.
+
+00:12:08.500 --> 00:12:10.633
+Most of the time we need to have very small test.
+
+00:12:11.600 --> 00:12:13.633
+And Jest is good for front end.
+
+00:12:13.700 --> 00:12:14.733
+But if you do back end,
+
+00:12:14.800 --> 00:12:15.733
+you don't need it for sure.
+
+00:12:17.400 --> 00:12:17.633
+Instead,
+
+00:12:17.700 --> 00:12:20.633
+you can use node --test
+
+00:12:21.300 --> 00:12:21.733
+So this.
+
+00:12:22.400 --> 00:12:29.033
+is a function from node 18 that you can directly run the test inside Node.js.
+
+00:12:30.500 --> 00:12:31.633
+So same for the jest --watch,
+
+00:12:32.400 --> 00:12:32.933
+you can have
+
+00:12:33.700 --> 00:12:34.333
+node --test --watch
+
+00:12:36.600 --> 00:12:39.133
+And the way we use it is exactly the same,
+
+00:12:39.200 --> 00:12:39.433
+right?
+
+00:12:40.700 --> 00:12:46.033
+We go from importing the library
+and just writing the test.
+
+00:12:47.200 --> 00:12:50.133
+The only difference with Jest is like you need to do an import.
+
+00:12:51.200 --> 00:12:56.533
+and it has all the same functions as Jest like assert to check your results,
+
+00:12:58.200 --> 00:13:04.133
+description and even the mock but we don't want to do mock but it's okay.
+
+00:13:06.600 --> 00:13:09.133
+Alright so that's for the first part so that's the easy part.
+
+00:13:11.800 --> 00:13:14.733
+Second part is how we do
+
+00:13:17.600 --> 00:13:18.933
+TDD on the computer.
+
+00:13:20.400 --> 00:13:20.833
+Basically,
+
+00:13:21.600 --> 00:13:23.433
+we need to split the window in three,
+
+00:13:23.500 --> 00:13:24.133
+very simple,
+
+00:13:24.900 --> 00:13:26.533
+where we write the question on the left,
+
+00:13:27.800 --> 00:13:28.833
+the answer on the right,
+
+00:13:29.700 --> 00:13:32.933
+and we keep having tests running on the bottom.
+
+00:13:34.500 --> 00:13:35.233
+Of course,
+
+00:13:35.300 --> 00:13:36.733
+if you have a lot of tests,
+
+00:13:36.800 --> 00:13:37.933
+it can be slow,
+
+00:13:38.000 --> 00:13:40.233
+but nowadays with a good machine like the M1,
+
+00:13:40.300 --> 00:13:41.233
+M2 from Apple,
+
+00:13:43.700 --> 00:13:44.533
+It's a lot faster.
+
+00:13:49.100 --> 00:13:49.333
+All right.
+
+00:13:50.700 --> 00:13:50.933
+Now,
+
+00:13:51.000 --> 00:13:53.133
+one of the key challenge
+when we do the testing is,
+
+00:13:53.200 --> 00:13:53.533
+of course,
+
+00:13:53.600 --> 00:13:54.533
+when we have API.
+
+00:13:55.100 --> 00:13:59.433
+Because if you have an API that need to call line or that need to call
+
+00:14:01.100 --> 00:14:03.733
+GitHub, it's very annoying when you test.
+
+00:14:05.100 --> 00:14:07.133
+So that's why my first recommendation,
+
+00:14:07.200 --> 00:14:07.433
+again,
+
+00:14:07.500 --> 00:14:11.533
+is stop using Axios and start using Undici.
+
+00:14:12.800 --> 00:14:13.733
+So what is Undici?
+
+00:14:15.000 --> 00:14:16.033
+Undici is a new...
+
+00:14:17.800 --> 00:14:23.733
+HTTP clients that's been built
+by the Node.js core team actually.
+
+00:14:26.200 --> 00:14:28.633
+It has a lot of performance compared to Axios.
+
+00:14:30.100 --> 00:14:33.133
+So as you can see here in the example,
+
+00:14:33.200 --> 00:14:33.933
+it's very simple.
+
+00:14:34.600 --> 00:14:36.733
+We just need to do a request and that's it.
+
+00:14:37.500 --> 00:14:39.233
+But that's not the part that is interesting us.
+
+00:14:40.000 --> 00:14:44.133
+The most important part is how we write the test.
+
+00:14:45.100 --> 00:14:45.333
+Again,
+
+00:14:46.000 --> 00:14:48.433
+because we don't want to call GitHub when we run the test.
+
+00:14:50.400 --> 00:14:51.933
+And we don't mock as well.
+
+00:14:52.000 --> 00:14:52.733
+So what we're going to do,
+
+00:14:52.800 --> 00:14:53.833
+we're going to intercept.
+
+00:14:55.500 --> 00:14:56.333
+What's the intercept?
+
+00:14:56.400 --> 00:14:58.233
+It means every time in the test,
+
+00:14:59.500 --> 00:15:00.933
+you will create a mock agent.
+
+00:15:02.500 --> 00:15:09.733
+and you will say to that mock agent that if you see a request going to GitHub as a get,
+
+00:15:10.800 --> 00:15:13.233
+you want to reply 200 foobar.
+
+00:15:15.300 --> 00:15:23.833
+So it means now you can directly test your function without having to mock all the libraries.
+
+00:15:24.400 --> 00:15:28.033
+So that makes your code a lot better and easier to refactor.
+
+00:15:31.600 --> 00:15:32.733
+The other good thing is
+
+00:15:33.600 --> 00:15:36.933
+Undici can intercept requests from other libraries,
+
+00:15:37.000 --> 00:15:37.933
+so from Axios,
+
+00:15:38.000 --> 00:15:38.633
+from got,
+
+00:15:38.700 --> 00:15:39.033
+and so on.
+
+00:15:40.500 --> 00:15:40.633
+Okay.
+
+00:15:43.300 --> 00:15:43.533
+All right.
+
+00:15:45.100 --> 00:15:51.833
+Another one which is very hard when we do tests is how to mock MongoDB because,
+
+00:15:51.900 --> 00:15:52.233
+of course,
+
+00:15:52.300 --> 00:15:53.533
+when we run application,
+
+00:15:53.600 --> 00:15:54.933
+we have data inside,
+
+00:15:55.000 --> 00:15:55.233
+right?
+
+00:15:56.200 --> 00:16:01.433
+So there is a very good library called TestContainer.
+
+00:16:01.500 --> 00:16:02.633
+I don't know if you guys know it,
+
+00:16:02.700 --> 00:16:05.733
+but that's changed a lot the game in time of testing.
+
+00:16:07.500 --> 00:16:08.333
+What test container?
+
+00:16:09.400 --> 00:16:11.333
+So basically every time you run the test,
+
+00:16:11.400 --> 00:16:12.133
+what's going to happen?
+
+00:16:13.100 --> 00:16:17.433
+It will use Docker to spin up a small container.
+
+00:16:17.500 --> 00:16:18.633
+It could be Postgres,
+
+00:16:18.700 --> 00:16:19.033
+Kafka,
+
+00:16:21.000 --> 00:16:21.933
+Elasticsearch,
+
+00:16:22.000 --> 00:16:22.433
+MongoDB,
+
+00:16:22.500 --> 00:16:23.333
+or anything you want,
+
+00:16:24.200 --> 00:16:24.333
+right?
+
+00:16:25.000 --> 00:16:25.933
+Run the test,
+
+00:16:26.000 --> 00:16:27.133
+connect to that container,
+
+00:16:27.200 --> 00:16:27.733
+run the test,
+
+00:16:28.500 --> 00:16:30.033
+and after destroy that container.
+
+00:16:31.600 --> 00:16:34.633
+So that's for me was like mind blowing
+
+00:16:34.700 --> 00:16:41.033
+because now we don't need to mock anymore
+the connection to any of this system.
+
+00:16:41.100 --> 00:16:43.333
+I don't know if some of you
+already worked with Kafka,
+
+00:16:44.100 --> 00:16:45.833
+but testing Kafka is really annoying.
+
+00:16:46.500 --> 00:16:47.533
+But once you have this,
+
+00:16:48.100 --> 00:16:49.533
+it's becoming a lot easier.
+
+00:16:52.200 --> 00:16:58.133
+So that's why the way to do it is just like in a couple of lines like this.
+
+00:16:58.200 --> 00:16:59.933
+20 lines where we just.
+
+00:17:00.800 --> 00:17:01.933
+Run the container MongoDB.
+
+00:17:04.599 --> 00:17:08.532
+Then we directly get the information about our container,
+
+00:17:08.599 --> 00:17:09.733
+the IP and the port.
+
+00:17:11.599 --> 00:17:13.133
+And then we can start writing our test.
+
+00:17:14.300 --> 00:17:16.233
+So we inject data in the container.
+
+00:17:18.700 --> 00:17:20.133
+We run our business function.
+
+00:17:20.800 --> 00:17:21.733
+And we check the results.
+
+00:17:23.000 --> 00:17:23.933
+So it means now,
+
+00:17:26.500 --> 00:17:28.433
+if I want to write the code using...
+
+00:17:28.500 --> 00:17:30.533
+the official MongoDB client,
+
+00:17:30.600 --> 00:17:31.033
+I can.
+
+00:17:32.200 --> 00:17:38.033
+Or if I just want to change the library and use Mongoose,
+
+00:17:38.100 --> 00:17:38.633
+I also can.
+
+00:17:39.300 --> 00:17:42.733
+My test on the left will still be okay.
+
+00:17:42.800 --> 00:17:44.033
+It will not have any issue.
+
+00:17:44.800 --> 00:17:48.233
+So now I know that I can go in production with the old or the new client.
+
+00:17:49.800 --> 00:17:51.333
+Another good benefit is,
+
+00:17:51.400 --> 00:17:52.733
+I don't know if it happened to you,
+
+00:17:52.800 --> 00:17:57.833
+but on your machine
+you have MongoDB version 8.
+
+00:17:59.200 --> 00:18:01.033
+and the company is still using the version 6,
+
+00:18:01.800 --> 00:18:01.933
+right?
+
+00:18:02.900 --> 00:18:04.533
+But a lot of functions are different.
+
+00:18:05.500 --> 00:18:07.633
+So what you can do when you use Test Container,
+
+00:18:07.700 --> 00:18:12.433
+you can ask Test Container to run your test on different versions of MongoDB,
+
+00:18:13.500 --> 00:18:17.533
+so it will ensure that your test is good enough for every version as well.
+
+00:18:18.800 --> 00:18:19.733
+So that's very important.
+
+00:18:21.600 --> 00:18:22.133
+Okay,
+
+00:18:22.200 --> 00:18:23.933
+so now let's talk about
+
+00:18:25.100 --> 00:18:25.333
+AI.
+
+00:18:27.800 --> 00:18:28.033
+Actually...
+
+00:18:28.900 --> 00:18:30.733
+What I just want to say about AI is today,
+
+00:18:31.400 --> 00:18:33.733
+all of us is using AI to generate some code,
+
+00:18:33.800 --> 00:18:34.033
+right?
+
+00:18:35.000 --> 00:18:37.333
+But most of the engineers I see is using it the wrong way,
+
+00:18:38.100 --> 00:18:38.133
+right?
+
+00:18:39.000 --> 00:18:43.433
+Because if we understand correctly
+what I try to say,
+
+00:18:45.900 --> 00:18:48.833
+ChatGPT actually is the best partner for test-driven development.
+
+00:18:49.400 --> 00:18:51.533
+Because when you write the test first,
+
+00:18:52.400 --> 00:18:53.833
+it means you ask your question first.
+
+00:18:55.600 --> 00:18:58.133
+And what we try to do every time is to ask...
+
+00:18:58.200 --> 00:18:59.733
+question to ChatGPT,
+
+00:18:59.800 --> 00:18:59.933
+right?
+
+00:19:00.800 --> 00:19:02.833
+What is this function?
+
+00:19:02.900 --> 00:19:04.233
+Why is this is not working?
+
+00:19:04.300 --> 00:19:04.533
+Why,
+
+00:19:04.600 --> 00:19:04.733
+why,
+
+00:19:04.800 --> 00:19:05.233
+why,
+
+00:19:05.300 --> 00:19:05.533
+right?
+
+00:19:06.400 --> 00:19:07.733
+So that's the same thing,
+
+00:19:07.800 --> 00:19:08.033
+actually.
+
+00:19:08.100 --> 00:19:09.433
+If you write your test first,
+
+00:19:09.500 --> 00:19:11.933
+you will write a very good question for ChatGPT.
+
+00:19:13.400 --> 00:19:15.433
+So the test is becoming the question.
+
+00:19:16.900 --> 00:19:20.833
+So then it means like…
+the test is becoming the prompt.
+
+00:19:22.000 --> 00:19:24.333
+And as we just saw in the previous presentation,
+
+00:19:25.000 --> 00:19:26.733
+If your prompt is very well defined,
+
+00:19:26.800 --> 00:19:28.933
+you will have a very accurate answer.
+
+00:19:30.100 --> 00:19:34.233
+So that's why if you use ChatGPT
+to generate code,
+
+00:19:34.300 --> 00:19:40.133
+you better put your test in ChatGPT and ask ChatGPT to give you the actual function.
+
+00:19:41.300 --> 00:19:41.933
+I do this a lot.
+
+00:19:42.700 --> 00:19:48.033
+Then I don't need to write the answer by myself and get ChatGPT to get the answer for me.
+
+00:19:49.500 --> 00:19:50.133
+Okay.
+
+00:19:50.800 --> 00:19:51.433
+So.
+
+00:19:53.500 --> 00:19:54.433
+In that case,
+
+00:19:57.600 --> 00:19:58.033
+conclusion.
+
+00:20:02.000 --> 00:20:03.933
+This is a very advanced topic,
+
+00:20:04.000 --> 00:20:04.533
+but again,
+
+00:20:04.600 --> 00:20:05.133
+like I said,
+
+00:20:06.100 --> 00:20:08.633
+once I have one engineer talking to me about this,
+
+00:20:08.700 --> 00:20:09.733
+for sure I will hire him.
+
+00:20:12.000 --> 00:20:19.433
+Because an engineer
+that understands this concept
+
+00:20:19.500 --> 00:20:22.333
+is an engineer that's building
+the code that I need in my company
+
+00:20:22.400 --> 00:20:23.733
+to stay for a long time.
+
+00:20:28.700 --> 00:20:32.933
+then it's an engineer that will understand
+that the mock are the biggest enemy
+
+00:20:33.000 --> 00:20:41.433
+so we mock as less as possible
+so we try to intercept instead of mocking.
+
+00:20:41.500 --> 00:20:47.233
+If we have a dependency, we intercept
+the dependency but we don't mock.
+
+00:20:47.300 --> 00:20:50.933
+AI is good but we need to use it better.
+
+00:20:51.000 --> 00:20:54.233
+If you use it to produce
+crappy code, don't use it
+
+00:20:54.300 --> 00:20:57.433
+but if you know how to
+produce very good code
+
+00:20:57.500 --> 00:20:58.633
+I'm happy to have it too.
+
+00:21:01.000 --> 00:21:02.633
+The best way to practice
+
+00:21:02.700 --> 00:21:04.633
+TDD is definitely to use open source.
+
+00:21:06.000 --> 00:21:06.733
+Because,
+
+00:21:06.800 --> 00:21:07.433
+like I said,
+
+00:21:08.700 --> 00:21:10.433
+I'm running now an open source project,
+
+00:21:10.500 --> 00:21:12.433
+and everything I'm doing inside,
+
+00:21:12.500 --> 00:21:13.533
+I'm doing it with TDD.
+
+00:21:13.600 --> 00:21:19.833
+And this is how I'm able to provide a code that is not breaking when someone tries to use it.
+
+00:21:23.300 --> 00:21:23.533
+And,
+
+00:21:23.600 --> 00:21:24.133
+of course...
+
+00:21:25.100 --> 00:21:27.533
+Test-driven development will get you a job easily.
+
+00:21:28.800 --> 00:21:31.433
+So for the one that's already using it at work,
+
+00:21:31.500 --> 00:21:34.533
+I will be happy to talk to you
+to offer you a job right now.
+
+00:21:38.100 --> 00:21:39.133
+That's good for me.
+
+00:21:39.200 --> 00:21:40.033
+Thank you very much.
