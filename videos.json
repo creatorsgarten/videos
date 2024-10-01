@@ -1864,12 +1864,46 @@
         "type": "talk",
         "youtube": "MA8Y0GIV0Yw",
         "managed": true,
+        "description": "คุณโบ๊ท นำเสนอหัวข้อ \"Developing JavaScript for open source Generative AI Developers in Nowadays\" โดยแนะนำการใช้งาน JavaScript ในการพัฒนา AI แบบ open source คุณโบ๊ทอธิบายถึงเครื่องมือต่างๆ เช่น GitHub Models, transformers.js และ Ollama.js พร้อมสาธิตการใช้งานจริง เขาเน้นย้ำถึงความเป็นไปได้ในการใช้ JavaScript พัฒนา AI และประโยชน์ของ Small Language Model ที่สามารถทำงานบนอุปกรณ์แบบออฟไลน์ได้ วิดีโอนี้เหมาะสำหรับนักพัฒนาที่สนใจการใช้ JavaScript ในงาน AI และต้องการเรียนรู้เครื่องมือใหม่ๆ ในวงการ open source AI\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "เปิดงาน bkk.js และแนะนำตัววิทยากร",
+          "00:49": "โลกของซอฟต์แวร์: Proprietary vs. Open Source",
+          "01:42": "Open Source Tech Stack สำหรับ AI และ Machine Learning",
+          "02:05": "Small Language Model (SLM) คืออะไร?",
+          "02:22": "3 เครื่องมือ JavaScript สำหรับ SLM: transformers.js, Ollama.js และ GitHub Models",
+          "02:57": "SLM: การย่อขนาด Large Language Model และ Pain Points",
+          "04:15": "ข้อดีของ SLM: ใช้บน Local Device และ Offline ได้",
+          "04:55": "GitHub Models: ทางเลือกใหม่สำหรับ Hugging Face?",
+          "05:45": "วิธีใช้ GitHub Models ด้วย JavaScript",
+          "07:00": "transformers.js ใน Hugging Face และ Use Cases",
+          "07:55": "ปัญหาที่พบในการทดลองใช้ transformers.js",
+          "08:30": "Syntax และการทำงานของ transformers.js",
+          "10:31": "Ollama.js: รันโมเดล Local บนแพลตฟอร์มของคุณ",
+          "11:18": "หลักการทำงานของ Ollama และข้อดีเมื่อ LLM ล่ม",
+          "12:25": "Use Cases ของ Ollama: Text Generation และ Code Generation",
+          "13:42": "วิธีใช้ Ollama.js ด้วย JavaScript",
+          "14:21": "เดโม Ollama.js: การใช้งานจริงและการติดตั้ง",
+          "16:46": "การตรวจสอบและรันโมเดลใน Ollama",
+          "18:08": "การจัดการโมเดลใน Ollama: การเช็คและดาวน์โหลด",
+          "18:41": "กลับมาที่ VS Code: การเขียนโค้ดและรัน",
+          "19:29": "ผลลัพธ์จากการรันและการปรับแต่ง Output",
+          "21:22": "ตัวอย่างการใช้งาน Ollama.js: Completion Choice",
+          "23:42": "ผลลัพธ์และ Use Cases เพิ่มเติมของ Ollama.js",
+          "24:28": "ความเป็นไปได้ของการ Run AI ด้วย JavaScript",
+          "25:57": "ข้อดีของ JavaScript ในการ Run AI: Compatibility และ On-device",
+          "26:12": "สรุปและช่องทางการเรียนรู้เพิ่มเติม",
+          "27:07": "ข้อแตกต่างระหว่าง Large Language Model และ Small Language Model"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs21/ai.md",
-      "imageFilePath": "data/videos/bkkjs21/ai.jpg"
+      "imageFilePath": "data/videos/bkkjs21/ai.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs21/ai_th.vtt"
     },
     {
       "event": "bkkjs21",
@@ -1880,12 +1914,41 @@
         "type": "talk",
         "youtube": "4VI-CW-3STs",
         "managed": true,
+        "description": "คุณจุ้น Core Contributor ของ Material UI มาแชร์ความรู้และอัปเดตใหม่ๆ ใน Material UI เวอร์ชัน 6 หลังจากพัฒนาอย่างต่อเนื่องกว่า 3 ปี พบกับฟีเจอร์ใหม่ๆ ที่น่าสนใจ ไม่ว่าจะเป็นการปรับปรุง dark mode ให้ใช้งานง่ายขึ้น การปรับปรุงการ custom สไตล์ การรองรับ CSS variables และ Container Query รวมถึงการปรับปรุงประสิทธิภาพการทำงานให้เร็วขึ้น นอกจากนี้ยังมีการพูดถึง Pigment CSS library ใหม่ที่ช่วยแปลง stylesheet จาก JavaScript เป็น CSS เพื่อรองรับ React Server Components และการแก้ปัญหาเรื่อง server-side rendering มาร่วมเรียนรู้และอัปเดตความรู้เกี่ยวกับ Material UI เวอร์ชัน 6 ไปพร้อมกัน\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำ Material UI เวอร์ชัน 6",
+          "00:57": "Material UI คืออะไร? Stat และเบื้องหลังบริษัท MUI",
+          "03:10": "ลูกค้าของ MUI และที่มาของรายได้",
+          "04:31": "Material UI v6: เปลี่ยนแปลงเพื่อรองรับ React Server Component",
+          "05:09": "CSS in JS และปัญหาในการจัดการ Server-Side",
+          "07:26": "ฟีเจอร์ใหม่ใน Material UI v6: Dark Mode ที่ดีขึ้น",
+          "09:03": "รายละเอียด Dark Mode: System Preference, Tab Sync, และ Transition",
+          "11:47": "ปัญหาการกระพริบของ Dark Mode ใน Server-Side และวิธีแก้ไขใน v6",
+          "12:44": "การจัดการธีมแบบ Static ใน Material UI v6",
+          "16:19": "Custom Style สำหรับ Dark Mode ที่ง่ายขึ้นด้วย theme.applyStyles",
+          "19:02": "Codemod สำหรับการ Migrate โค้ดสไตล์",
+          "20:05": "CSS Variables: การ Debug และ Integrate ที่ง่ายขึ้น",
+          "23:37": "Container Query: Utility ใหม่ใน Material UI v6",
+          "25:56": "การปรับปรุงอื่นๆ: Performance, Template, Grid, และ Package Size",
+          "27:48": "Template ใหม่ๆ ที่ใช้งานได้ทันที",
+          "29:32": "Grid System ที่ใช้ Gap แทน Margin",
+          "30:29": "Bundle Size ที่เล็กลง",
+          "31:06": "Pigment CSS: เปลี่ยนจาก CSS-in-JS เป็น Plain CSS",
+          "32:51": "Demo Pigment CSS กับ Next.js project",
+          "36:56": "การใช้งาน Pigment CSS ใน Next.js config",
+          "39:25": "ปัญหา Performance ของ Pigment CSS และอนาคตของ Library",
+          "40:10": "สรุปและ Q&A"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs21/mui.md",
-      "imageFilePath": "data/videos/bkkjs21/mui.jpg"
+      "imageFilePath": "data/videos/bkkjs21/mui.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs21/mui_th.vtt"
     },
     {
       "event": "bkkjs21",
@@ -1896,12 +1959,46 @@
         "type": "talk",
         "youtube": "qGOoDFdgXFM",
         "managed": true,
+        "description": "คุณเวิลด์ แอดมิน Vue News Thailand และนักพัฒนาจาก ODDS จะมาแชร์ประสบการณ์การก้าวเข้าสู่โลกของ open source ฟังเรื่องราวการสนทนากับ Evan You และ Jinjiang ผู้พัฒนาของ Vue.js ในยุค Vue 2 และเคล็ดลับในการเริ่มต้น contribute ให้กับ open source project ตั้งแต่การสนับสนุนผู้พัฒนา การมองหา bug หรือแม้แต่การแปล documentation พร้อมเรียนรู้ถึงความท้าทายและข้อคิดที่ได้จากการมีส่วนร่วมกับ community รวมถึงการประกาศงาน Vue Thai Conf 2024\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "เปิด Session: ชวนคุยเรื่อง Open Source",
+          "00:26": "เล่าประสบการณ์ Open Source",
+          "00:43": "จุดเริ่มต้นของความสงสัย: เริ่มต้นทำ Open Source ยังไง?",
+          "01:58": "เก็บเกี่ยวประสบการณ์จาก CityJS สิงคโปร์ และบทสนทนากับ Jinjiang",
+          "02:21": "พบปะ Evan You ผู้สร้าง Vue.js",
+          "05:27": "วิธีสนับสนุน Open Source แบบง่ายๆ: Sponsor!",
+          "07:11": "สิ่งสำคัญของการทำ Open Source: เริ่มต้นที่ตัวเราก่อน",
+          "07:40": "Keep Going! ค้นหา Bug และ Issue อย่างสม่ำเสมอ",
+          "08:41": "เรื่องจริงของการ Contribute: ไม่ทุกครั้งที่ PR จะถูก merge",
+          "09:29": "อย่าท้อ! พรุ่งนี้ยังมี: เปรียบเทียบกับการปัด Tinder",
+          "10:01": "ประสบการณ์ Contribute Vue Extension และความภูมิใจเล็กๆ",
+          "11:11": "ข้อควรทำใจ: Open Source ส่วนใหญ่ยากเสมอ",
+          "12:00": "แปล Docs ไม่ง่ายอย่างที่คิด: ยกตัวอย่าง Vue.js",
+          "14:20": "เสน่ห์ของ GitHub Open Source: เปิด Discussion และเรียนรู้จากผู้อื่น",
+          "15:04": "มุมมองต่อ Issue และ Bug: โอกาสในการพัฒนา",
+          "15:58": "ตัวอย่างการแปลข่าว Vue 3.5: ความยากของการใช้ภาษา",
+          "18:22": "การใช้ภาษาไทยและทับศัพท์: คำแนะนำจากเพื่อนนักพัฒนา",
+          "19:34": "ดวงก็สำคัญ! Technology Hype Cycle และ Burnout",
+          "21:34": "กราฟ Technology Hype Cycle ของ Vue.js: จากจุดพีคสู่การเรียนรู้",
+          "23:27": "กล้าที่จะฉีกไอเดียและเริ่มต้นใหม่: อย่าเพิ่งท้อ",
+          "24:09": "Push โปรเจคขึ้น GitHub Public: สร้าง Portfolio ตั้งแต่วันนี้",
+          "26:06": "สิ่งที่ได้เรียนรู้จากการทำ Open Source: เติมเต็มตัวเองและสร้าง Legacy",
+          "27:21": "ได้ลองอะไรใหม่ๆ และเรียนรู้จากความล้มเหลว",
+          "29:17": "โอกาสมักมาตอนที่เราไม่พร้อมเสมอ",
+          "30:36": "Developer Experience สำคัญไม่แพ้ User Experience",
+          "33:05": "Community: กุญแจสำคัญของ Open Source",
+          "34:25": "ประกาศสำคัญ! Vue Thai Conf 2024"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs21/opensource.md",
-      "imageFilePath": "data/videos/bkkjs21/opensource.jpg"
+      "imageFilePath": "data/videos/bkkjs21/opensource.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs21/opensource_th.vtt"
     },
     {
       "event": "bkkjs21",
@@ -1912,12 +2009,57 @@
         "type": "talk",
         "youtube": "gtB7nzeKT-8",
         "managed": true,
+        "description": "This session explores the importance of Test-Driven Development (TDD) from a manager's perspective. Olivier, an experienced engineering manager and technical coach with a background in API development, domain-driven design, and test automation, explains why TDD is crucial for building maintainable and refactorable code. He argues that TDD empowers teams to make changes confidently without introducing bugs, highlighting its business value beyond just technical verification. The talk delves into practical strategies for implementing TDD, including tips on writing effective unit tests, leveraging tools like Undici and TestContainers, and even integrating AI like ChatGPT into the workflow. Learn how to embrace TDD to improve code quality, enhance team collaboration, and potentially boost your career prospects.\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction",
+          "0:18": "What is TDD (Test-Driven Development)?",
+          "0:30": "Understanding the Audience's Testing Experience",
+          "0:49": "Speaker Introduction and Background",
+          "1:42": "Speaker's Work Experience and Interests",
+          "2:53": "Open Source Project: RestQA",
+          "3:08": "Agenda: Why Testing Matters for Managers",
+          "4:00": "The Importance of Unit Tests: A Use Case",
+          "5:13": "How Unit Tests Enable Refactoring",
+          "6:20": "The Purpose of Unit Tests: Refactoring Without Business Impact",
+          "7:09": "Examples of Refactoring Scenarios",
+          "7:57": "How TDD Enables Better Refactoring",
+          "8:09": "Writing Unit Tests First: The Key Challenge",
+          "8:38": "Example: Generating a PDF Report",
+          "9:00": "Best Practices for Writing Unit Tests",
+          "9:26": "Writing the Code After the Unit Test",
+          "9:43": "Example: Maintaining Code Over Time with TDD",
+          "11:06": "Refactoring and Its Importance for Managers",
+          "11:35": "Getting Started with TDD: Practical Steps",
+          "11:55": "Stop Using Jest for Backend Testing",
+          "12:17": "Using Node.js for Testing",
+          "13:06": "Setting Up Your Development Environment for TDD",
+          "13:50": "Challenges of Testing APIs and Solutions",
+          "14:05": "Stop Using Axios, Start Using Undici",
+          "14:52": "Intercepting Requests with Undici",
+          "15:31": "Benefits of Undici for Testing",
+          "15:45": "Mocking MongoDB with TestContainers",
+          "16:20": "Benefits of Using TestContainers",
+          "17:23": "Flexibility in Choosing Database Clients",
+          "17:49": "Testing with Different MongoDB Versions",
+          "18:21": "Using AI for Test-Driven Development",
+          "18:35": "ChatGPT as the Best Partner for TDD",
+          "19:16": "Unit Tests as Prompts for ChatGPT",
+          "19:49": "Conclusion and Key Takeaways",
+          "20:28": "Mocks vs. Interception",
+          "20:47": "Using AI Effectively for Code Generation",
+          "21:01": "Practicing TDD with Open Source",
+          "21:23": "Job Opportunities for TDD Practitioners"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs21/tdd.md",
-      "imageFilePath": "data/videos/bkkjs21/tdd.jpg"
+      "imageFilePath": "data/videos/bkkjs21/tdd.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs21/tdd_en.vtt"
     },
     {
       "event": "creativecodingmeetup",
