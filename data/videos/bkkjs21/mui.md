@@ -3,7 +3,7 @@ title: ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้อ
 speaker: Siriwat Kunaporn
 youtube: 4VI-CW-3STs
 managed: true
-published: false
+published: "2024-10-10"
 subtitles: [th]
 chapters:
   '00:00': 'แนะนำ Material UI เวอร์ชัน 6'

@@ -3,7 +3,7 @@ title: How to really start open-source in a nutshell
 speaker: Runyasak Chaengnaimuang
 youtube: qGOoDFdgXFM
 managed: true
-published: false
+published: "2024-10-14"
 subtitles: [th]
 chapters:
   '00:00': 'เปิด Session: ชวนคุยเรื่อง Open Source'

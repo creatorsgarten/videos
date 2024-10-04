@@ -3,7 +3,7 @@ title: The Future of Test Driven Development
 speaker: Olivier Rodomond
 youtube: gtB7nzeKT-8
 managed: true
-published: false
+published: "2024-10-07"
 subtitles: [en]
 chapters:
   '0:00': 'Introduction'
