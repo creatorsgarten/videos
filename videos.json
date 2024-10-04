@@ -537,7 +537,7 @@
         "type": "archive",
         "youtube": "MmtQuiE2VP4",
         "managed": true,
-        "published": false,
+        "published": true,
         "language": "th"
       },
       "content": "",
@@ -1865,7 +1865,7 @@
         "youtube": "MA8Y0GIV0Yw",
         "managed": true,
         "description": "คุณโบ๊ท นำเสนอหัวข้อ \"Developing JavaScript for open source Generative AI Developers in Nowadays\" โดยแนะนำการใช้งาน JavaScript ในการพัฒนา AI แบบ open source คุณโบ๊ทอธิบายถึงเครื่องมือต่างๆ เช่น GitHub Models, transformers.js และ Ollama.js พร้อมสาธิตการใช้งานจริง เขาเน้นย้ำถึงความเป็นไปได้ในการใช้ JavaScript พัฒนา AI และประโยชน์ของ Small Language Model ที่สามารถทำงานบนอุปกรณ์แบบออฟไลน์ได้ วิดีโอนี้เหมาะสำหรับนักพัฒนาที่สนใจการใช้ JavaScript ในงาน AI และต้องการเรียนรู้เครื่องมือใหม่ๆ ในวงการ open source AI\n",
-        "published": false,
+        "published": true,
         "language": "th",
         "subtitles": [
           "th"
@@ -1915,7 +1915,7 @@
         "youtube": "4VI-CW-3STs",
         "managed": true,
         "description": "คุณจุ้น Core Contributor ของ Material UI มาแชร์ความรู้และอัปเดตใหม่ๆ ใน Material UI เวอร์ชัน 6 หลังจากพัฒนาอย่างต่อเนื่องกว่า 3 ปี พบกับฟีเจอร์ใหม่ๆ ที่น่าสนใจ ไม่ว่าจะเป็นการปรับปรุง dark mode ให้ใช้งานง่ายขึ้น การปรับปรุงการ custom สไตล์ การรองรับ CSS variables และ Container Query รวมถึงการปรับปรุงประสิทธิภาพการทำงานให้เร็วขึ้น นอกจากนี้ยังมีการพูดถึง Pigment CSS library ใหม่ที่ช่วยแปลง stylesheet จาก JavaScript เป็น CSS เพื่อรองรับ React Server Components และการแก้ปัญหาเรื่อง server-side rendering มาร่วมเรียนรู้และอัปเดตความรู้เกี่ยวกับ Material UI เวอร์ชัน 6 ไปพร้อมกัน\n",
-        "published": false,
+        "published": "2024-10-10",
         "language": "th",
         "subtitles": [
           "th"
@@ -1960,7 +1960,7 @@
         "youtube": "qGOoDFdgXFM",
         "managed": true,
         "description": "คุณเวิลด์ แอดมิน Vue News Thailand และนักพัฒนาจาก ODDS จะมาแชร์ประสบการณ์การก้าวเข้าสู่โลกของ open source ฟังเรื่องราวการสนทนากับ Evan You และ Jinjiang ผู้พัฒนาของ Vue.js ในยุค Vue 2 และเคล็ดลับในการเริ่มต้น contribute ให้กับ open source project ตั้งแต่การสนับสนุนผู้พัฒนา การมองหา bug หรือแม้แต่การแปล documentation พร้อมเรียนรู้ถึงความท้าทายและข้อคิดที่ได้จากการมีส่วนร่วมกับ community รวมถึงการประกาศงาน Vue Thai Conf 2024\n",
-        "published": false,
+        "published": "2024-10-14",
         "language": "th",
         "subtitles": [
           "th"
@@ -2010,7 +2010,7 @@
         "youtube": "gtB7nzeKT-8",
         "managed": true,
         "description": "This session explores the importance of Test-Driven Development (TDD) from a manager's perspective. Olivier, an experienced engineering manager and technical coach with a background in API development, domain-driven design, and test automation, explains why TDD is crucial for building maintainable and refactorable code. He argues that TDD empowers teams to make changes confidently without introducing bugs, highlighting its business value beyond just technical verification. The talk delves into practical strategies for implementing TDD, including tips on writing effective unit tests, leveraging tools like Undici and TestContainers, and even integrating AI like ChatGPT into the workflow. Learn how to embrace TDD to improve code quality, enhance team collaboration, and potentially boost your career prospects.\n",
-        "published": false,
+        "published": "2024-10-07",
         "language": "th",
         "subtitles": [
           "en"
