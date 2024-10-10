@@ -13385,7 +13385,7 @@ video:4VI-CW-3STs:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:MA8Y0GIV0Yw:
   spec:
