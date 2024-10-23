@@ -1456,12 +1456,40 @@
         "type": "talk",
         "youtube": "MWllwllnEPc",
         "managed": true,
+        "description": "มาดูผลสำรวจ Thailand Web Developer 2024 กันว่า developer ไทยส่วนใหญ่ใช้เทคโนโลยีอะไรกันบ้าง พบกับฟนจาก Women Techmakers ที่จะมาเปิดเผยข้อมูลเชิงลึกจากผลตอบรับกว่า 274 คน ครอบคลุมตั้งแต่ข้อมูลประชากรศาสตร์ เพศ อายุ รายได้ ไปจนถึงเทคโนโลยี frontend และ backend ยอดนิยม ไม่ว่าจะเป็น React, TypeScript, Vite, PostgreSQL และอื่นๆ อีกมากมาย รวมถึงมุมมองเกี่ยวกับความพึงพอใจในอาชีพและปัจจัยในการเลือกงาน มาร่วมอัพเดทเทรนด์เทคโนโลยีและสำรวจข้อมูลที่น่าสนใจเกี่ยวกับวงการ web development ในไทยไปพร้อมๆ กัน\n",
         "published": true,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "เปิดงานและแนะนำตัว Women Techmakers",
+          "00:35": "ผลสำรวจ Thailand Web Developer 2024: ภาพรวม",
+          "01:10": "กลุ่มตัวอย่าง: อายุและเพศ",
+          "02:28": "ความหลากหลายในวงการ Tech",
+          "02:51": "ที่ตั้งของนักพัฒนาและการกระจายตัว",
+          "03:46": "รายได้ต่อเดือนของนักพัฒนาเว็บ",
+          "04:43": "ประสบการณ์ทำงานและขนาดทีม",
+          "06:14": "ชาวต่างชาติในทีมและชื่อตำแหน่ง",
+          "07:06": "เทคโนโลยี Frontend: TypeScript และ Framework",
+          "09:07": "UI Framework, CSS, และ Build Tools",
+          "10:49": "Test Tools และ Data Layer ของ Frontend",
+          "11:37": "Backend: PHP, Python, และ JavaScript",
+          "13:11": "ภาษาอื่นๆ: ASP.NET, .NET Core, Ruby, Java, Golang",
+          "14:14": "ฐานข้อมูลยอดนิยม: PostgreSQL และ MySQL",
+          "14:41": "Cloud Service: AWS, Azure, Google Cloud",
+          "15:19": "Text Editor ยอดนิยมและ GitHub Codespaces",
+          "16:05": "คำแนะนำเครื่องมือและภาษาอื่นๆ: Rust, Copilot",
+          "17:17": "สรุปผลสำรวจและช่องทางการเผยแพร่",
+          "17:35": "ความพึงพอใจในอาชีพนักพัฒนา",
+          "18:43": "ปัจจัยในการเลือกงานและองค์กร",
+          "19:41": "สรุปและปิดท้าย"
+        }
       },
       "content": "",
       "filePath": "data/videos/bkkjs19/dev-survey.md",
-      "imageFilePath": "data/videos/bkkjs19/dev-survey.jpg"
+      "imageFilePath": "data/videos/bkkjs19/dev-survey.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs19/dev-survey_th.vtt"
     },
     {
       "event": "bkkjs19",
@@ -3723,12 +3751,41 @@
         "type": "talk",
         "youtube": "ZRQg3b4Y_1A",
         "managed": true,
-        "description": "Let's put Svelte in every codebase possible, even in a cross library one",
-        "language": "th"
+        "description": "คุณออม platform engineer จาก Brikl จะพาคุณสำรวจโลกของ web technologies และ Svelte พบกับเรื่องราวที่น่าสนใจเกี่ยวกับการแทรกซึมของ web view ใน software ต่างๆ แม้กระทั่งระบบปฏิบัติการอย่าง macOS รวมถึงการเปรียบเทียบข้อดีข้อเสียของ framework ยอดนิยมอย่าง Angular, React และ Vue เทียบกับ Svelte ที่โดดเด่นด้วยขนาด bundle size ที่เล็กและประสิทธิภาพที่สูง เรียนรู้เทคนิคการ integrate Svelte เข้ากับ code base ที่มีอยู่ โดยเน้น web components เป็นตัวอย่าง และวิธีการ migrate ไปยัง Svelte อย่างค่อยเป็นค่อยไป ไม่พลาดสำหรับนักพัฒนาที่ต้องการเพิ่มประสิทธิภาพและลดขนาดไฟล์ของแอปพลิเคชัน\n",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและเกริ่นนำ: Svelte ในทุก Code Base",
+          "0:44": "Software ทั่วไปมักมี Web View ซ่อนอยู่",
+          "2:00": "Web อยู่ทุกที่: ตั้งแต่ Mac, Windows, App ต่างๆ จนถึงตู้เต่าบิน",
+          "5:45": "ทำไมต้อง Svelte?",
+          "7:05": "ขนาด Bundle Size สำคัญ: Svelte เล็กกว่าเยอะ",
+          "9:40": "ค่อยๆ Migrate เป็น Svelte ทีละส่วน",
+          "10:05": "วิธี Migrate Code เป็น Svelte",
+          "12:48": "Web Component คืออะไร?",
+          "13:29": "ทำไมต้องใช้ Svelte สร้าง Web Component?",
+          "14:32": "Svelte เร็วกว่า Framework อื่นๆ",
+          "16:04": "Svelte ไม่มี Runtime: เหมาะกับ Component เล็กๆ",
+          "18:05": "Svelte ทำงานอย่างไร? (ไม่มี Virtual DOM)",
+          "19:23": "Web Component: Encapsulation ของ Component",
+          "20:40": "Demo: สร้าง Web Component ด้วย Svelte",
+          "24:13": "ขนาด Bundle Size ของ Web Component ที่สร้างด้วย Svelte",
+          "26:00": "Demo: ใช้ Web Component ใน React",
+          "30:17": "เพิ่ม TypeScript Support ให้ Web Component",
+          "31:23": "วิธีอื่นๆ ในการ Migrate (Mitosis, Astro, SvelteHost)",
+          "33:28": "Mitosis: เขียนครั้งเดียว ใช้ได้หลาย Framework",
+          "35:08": "Astro: ใช้หลาย Framework ใน Project เดียวกันได้",
+          "37:12": "SvelteHost: ใช้ Svelte ใน React โดยไม่ใช้ Web Component",
+          "41:20": "แก้ปัญหา Props ไม่อัพเดทใน SvelteHost",
+          "44:19": "สรุป: Web Component ดีที่สุดสำหรับการ Reuse Component"
+        }
       },
       "content": "",
       "filePath": "data/videos/svelte1/svelte-in-every-codebase.md",
-      "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg"
+      "imageFilePath": "data/videos/svelte1/svelte-in-every-codebase.jpg",
+      "thaiSubtitlePath": "data/videos/svelte1/svelte-in-every-codebase_th.vtt"
     },
     {
       "event": "typescript1",
