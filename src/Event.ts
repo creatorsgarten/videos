@@ -114,4 +114,12 @@ const events = [
     },
   }),
   new Event('bkkjs21', 'BKK.JS #21'),
+  new Event('mongo0924', 'MongoDB.local Bangkok After Party', {
+    urlOverride:
+      'https://www.eventpop.me/e/52729/mongodb-local-bangkok-2024-after-party',
+    externalOrganizer: {
+      name: 'MongoDB Thailand User Group',
+      url: 'https://mdb.link/thailand',
+    },
+  }),
 ]
