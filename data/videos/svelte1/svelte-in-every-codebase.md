@@ -3,7 +3,6 @@ title: 'Bangkok: Svelte in every codebase'
 speaker: Kongkeit Khunpanitchote
 youtube: ZRQg3b4Y_1A
 managed: true
-description: Let's put Svelte in every codebase possible, even in a cross library one
 subtitles: [th]
 description: |
   คุณออม platform engineer จาก Brikl จะพาคุณสำรวจโลกของ web technologies และ Svelte พบกับเรื่องราวที่น่าสนใจเกี่ยวกับการแทรกซึมของ web view ใน software ต่างๆ แม้กระทั่งระบบปฏิบัติการอย่าง macOS รวมถึงการเปรียบเทียบข้อดีข้อเสียของ framework ยอดนิยมอย่าง Angular, React และ Vue เทียบกับ Svelte ที่โดดเด่นด้วยขนาด bundle size ที่เล็กและประสิทธิภาพที่สูง เรียนรู้เทคนิคการ integrate Svelte เข้ากับ code base ที่มีอยู่ โดยเน้น web components เป็นตัวอย่าง และวิธีการ migrate ไปยัง Svelte อย่างค่อยเป็นค่อยไป ไม่พลาดสำหรับนักพัฒนาที่ต้องการเพิ่มประสิทธิภาพและลดขนาดไฟล์ของแอปพลิเคชัน
