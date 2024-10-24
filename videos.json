@@ -2855,7 +2855,7 @@
         "youtube": "-FQ05VqBmdc",
         "managed": true,
         "description": "Reactive libraries like RxJS allow us to easily cancel HTTP requests but is that really efficient? What really happens on the back-end? Is it possible to propagate the cancelation from the front-end through our microservices and cancel the database query?\n",
-        "published": false,
+        "published": "2024-12-17",
         "language": "th"
       },
       "content": "",
@@ -2872,7 +2872,7 @@
         "youtube": "nxjUN4nxNkw",
         "managed": true,
         "description": "Codemod is a mechanism to make sweeping changes across your code with ease and effectiveness, assisting in large-scale migrations of the code-base. This can be performed through automated tools such as jscodeshift.\n",
-        "published": false,
+        "published": "2024-12-08",
         "language": "th"
       },
       "content": "",
@@ -2889,7 +2889,7 @@
         "youtube": "F1yy1cD_QfE",
         "managed": true,
         "description": "Side projects can be daunting. It takes discipline to get started, and even more so to finish. In this talk, I’ll introduce dance-mat.js, the project for making a Dance Dance Revolution controller with a yoga mat, a Raspberry Pi, conductive paint, and Node.js.\n",
-        "published": false,
+        "published": "2025-01-19",
         "language": "th"
       },
       "content": "",
@@ -2906,7 +2906,7 @@
         "youtube": "R1VjfP7Mx-g",
         "managed": true,
         "description": "Gamers expect a flawless real-like experience. So do your applications users. Utilizing techniques that are heavily used in games, can help you boost your app’s performance and also save you money in cloud expanses. We’ll see how you can save on CPU, memory and bandwidth with these techniques.\n",
-        "published": false,
+        "published": "2024-12-05",
         "language": "th"
       },
       "content": "",
@@ -2923,7 +2923,7 @@
         "youtube": "lhIwKox9EnQ",
         "managed": true,
         "description": "New CSS features, like Flexbox, Grid or Shapes, introduce new properties that can sometimes be complicated to people who are encountering them for the first time. This talk will introduce DevTools features that can help us understand what’s going on, and make it less intimidating to try out new CSS.\n",
-        "published": false,
+        "published": "2025-01-04",
         "language": "th"
       },
       "content": "",
@@ -2940,7 +2940,7 @@
         "youtube": "hEKCJ4cckZE",
         "managed": true,
         "description": "The event loop completely underpins everything that happens in the browser. Yet many developers know very little about it. This talk will help them better understand the nitty-gritty of what’s really going on when you create a Promise, add an event listener, or request an animation frame.\n",
-        "published": false,
+        "published": "2024-12-23",
         "language": "th"
       },
       "content": "",
@@ -2957,7 +2957,7 @@
         "youtube": "LqtRpIwriDk",
         "managed": true,
         "description": "Talking about \"Scale\": Takeaways from our attempt on scaling a small system in the Gojek Universe. The year is 2019 and every engineer must have been asked once to build a “scalable” system. I will be telling the story of our team journey in building a financial system that serves 20X traffic in less than a year. Engineering practices, wrong (and right!) decisions, process improvement and more!",
-        "published": false,
+        "published": "2024-12-20",
         "language": "th"
       },
       "content": "",
@@ -2974,7 +2974,7 @@
         "youtube": "dFE5V87GiEs",
         "managed": true,
         "description": "When we need to perform a large data calculation and a large data visualization on the website, performance issues always came as an old familiar friend. This talk will share my experiment on using Rust and WebAssembly to solve this problem base on old project limitations and conditions.\n",
-        "published": false,
+        "published": "2025-01-22",
         "language": "th"
       },
       "content": "",
@@ -2991,7 +2991,7 @@
         "youtube": "QX4WbDuOXE8",
         "managed": true,
         "description": "Dating apps can feel tedious and like a waste of time. Is there a way to skip the grunt work? That’s what I asked myself six months ago when I built Swipr, a tool written in JavaScript that does the swiping for you. In this talk we’ll see how it works and how to built CLIs with Node along the way.\n",
-        "published": false,
+        "published": "2025-01-25",
         "language": "th"
       },
       "content": "",
@@ -3008,7 +3008,7 @@
         "youtube": "AspoYb2mvsQ",
         "managed": true,
         "description": "In this talk I will explain the basics of building your first chrome extension, in just a couple of minutes! It takes few more lines to turn it into a malicious one. The main purpose here is not to turn you into a hacker, but to increase awareness to these “small” and “harmless” plugins.\n",
-        "published": false,
+        "published": "2025-01-13",
         "language": "th"
       },
       "content": "",
@@ -3025,7 +3025,7 @@
         "youtube": "99l1LwRDBFM",
         "managed": true,
         "description": "Before the words “DevOps” and “Serverless” even become well-known, I, as a hobbyist Game Modder, was trying to achieve these 2 things using JavaScript and a lot of free services for my mod distribution patcher app. In this talk, I’ll walk you through how I did it and what’s my thinking behind.\n",
-        "published": false,
+        "published": "2025-01-10",
         "language": "th"
       },
       "content": "",
@@ -3042,7 +3042,7 @@
         "youtube": "2kFpxnaycyg",
         "managed": true,
         "description": "Have you ever wondered what the process of building reusable web components that are used by 200+ developer teams looks like? In this talk, you will be walked through all aspects that need to be considered while designing and implementing reusable web components along with fun real-world examples.\n",
-        "published": false,
+        "published": "2024-12-02",
         "language": "th"
       },
       "content": "",
@@ -3059,7 +3059,7 @@
         "youtube": "f2dgDT8CFSI",
         "managed": true,
         "description": "The SOLID principle is well-known in our industry. However, most of the articles, books, and examples are based on traditional Object-oriented language constructs. This talk will show how can we apply these principles in Javascript where classes are not necessary nor encouraged.\n",
-        "published": false,
+        "published": "2025-01-01",
         "language": "th"
       },
       "content": "",
@@ -3074,7 +3074,7 @@
         "type": "talk",
         "youtube": "CXN88bHT9RU",
         "managed": true,
-        "published": false,
+        "published": "2025-01-16",
         "language": "th"
       },
       "content": "",
@@ -3089,7 +3089,7 @@
         "type": "talk",
         "youtube": "PBnDTeiB_Gw",
         "managed": true,
-        "published": false,
+        "published": "2024-12-11",
         "language": "th"
       },
       "content": "",
@@ -3104,7 +3104,7 @@
         "type": "talk",
         "youtube": "Ib0Dhf-ebiI",
         "managed": true,
-        "published": false,
+        "published": "2025-01-07",
         "language": "th"
       },
       "content": "",
@@ -3119,7 +3119,7 @@
         "type": "talk",
         "youtube": "SRn-4hygxe4",
         "managed": true,
-        "published": false,
+        "published": "2024-12-29",
         "language": "th"
       },
       "content": "",
@@ -3136,7 +3136,7 @@
         "youtube": "3YTZbSMpDMY",
         "managed": true,
         "description": "My love for TypeScript is what people call “destiny”. With strongly-typed, OOP concept and how familiar we’ve been with Angular, etc. But it’s taken me awhile to hop in since changing technology require heavily researching, convincing both my team and the board. I’m here to tell you how my love life be.\n",
-        "published": false,
+        "published": "2024-12-14",
         "language": "th"
       },
       "content": "",
@@ -3153,7 +3153,7 @@
         "youtube": "j4GmcSTwyiQ",
         "managed": true,
         "description": "Discover all the benefits of using GraphQL adding End-to-end Type-Safety to your app with this live-coding talk. At the end of such, you’ll want to refactor your codebase in order to take all the advantages of TypeScript, GraphQL & React working together on a SpaceX demo 🚀\n",
-        "published": false,
+        "published": "2024-12-26",
         "language": "th"
       },
       "content": "",
