@@ -122,4 +122,11 @@ const events = [
       url: 'https://mdb.link/thailand',
     },
   }),
+  new Event('vueconf', 'Vue Conf Thailand 2024', {
+    urlOverride: 'https://connextickets.me/event/vue-thai-conf-2024',
+    externalOrganizer: {
+      name: 'Vue News Thailand',
+      url: 'https://www.facebook.com/@VueNewsThailand/'
+    },
+  })
 ]
