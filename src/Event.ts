@@ -128,5 +128,12 @@ const events = [
       name: 'Vue News Thailand',
       url: 'https://www.facebook.com/@VueNewsThailand/'
     },
+  }),
+  new Event('jsbkk1', 'JavaScript Bangkok 1.0.0', {
+    urlOverride: 'https://2019.javascriptbangkok.com/',
+    externalOrganizer: {
+      name: 'Software Developer Community',
+      url: 'https://javascriptbangkok.com'
+    },
   })
 ]
