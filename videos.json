@@ -2814,6 +2814,321 @@
       "imageFilePath": "data/videos/hacktoberfest2022/tdeb.jpg"
     },
     {
+      "event": "jsbkk1",
+      "slug": "cancel-http-request",
+      "data": {
+        "title": "What happens when you cancel an HTTP request?",
+        "speaker": "Younes Jaaidi",
+        "type": "talk",
+        "youtube": "-FQ05VqBmdc",
+        "managed": true,
+        "description": "Reactive libraries like RxJS allow us to easily cancel HTTP requests but is that really efficient? What really happens on the back-end? Is it possible to propagate the cancelation from the front-end through our microservices and cancel the database query?\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/cancel-http-request.md",
+      "imageFilePath": "data/videos/jsbkk1/cancel-http-request.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "codemods",
+      "data": {
+        "title": "The Art of Crafting Codemods",
+        "speaker": "Rajasegar Chandran",
+        "type": "talk",
+        "youtube": "nxjUN4nxNkw",
+        "managed": true,
+        "description": "Codemod is a mechanism to make sweeping changes across your code with ease and effectiveness, assisting in large-scale migrations of the code-base. This can be performed through automated tools such as jscodeshift.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/codemods.md",
+      "imageFilePath": "data/videos/jsbkk1/codemods.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "dance-mat",
+      "data": {
+        "title": "Just go for it: The story of dance-mat.js",
+        "speaker": "Ramón Huidobro",
+        "type": "talk",
+        "youtube": "F1yy1cD_QfE",
+        "managed": true,
+        "description": "Side projects can be daunting. It takes discipline to get started, and even more so to finish. In this talk, I’ll introduce dance-mat.js, the project for making a Dance Dance Revolution controller with a yoga mat, a Raspberry Pi, conductive paint, and Node.js.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/dance-mat.md",
+      "imageFilePath": "data/videos/jsbkk1/dance-mat.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "design-patterns",
+      "data": {
+        "title": "Optimization design patterns - from games to web",
+        "speaker": "Yonatan Kra",
+        "type": "talk",
+        "youtube": "R1VjfP7Mx-g",
+        "managed": true,
+        "description": "Gamers expect a flawless real-like experience. So do your applications users. Utilizing techniques that are heavily used in games, can help you boost your app’s performance and also save you money in cloud expanses. We’ll see how you can save on CPU, memory and bandwidth with these techniques.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/design-patterns.md",
+      "imageFilePath": "data/videos/jsbkk1/design-patterns.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "devtools",
+      "data": {
+        "title": "DevTools, the CSS advocate in your browser",
+        "speaker": "Chen Hui Jing",
+        "type": "talk",
+        "youtube": "lhIwKox9EnQ",
+        "managed": true,
+        "description": "New CSS features, like Flexbox, Grid or Shapes, introduce new properties that can sometimes be complicated to people who are encountering them for the first time. This talk will introduce DevTools features that can help us understand what’s going on, and make it less intimidating to try out new CSS.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/devtools.md",
+      "imageFilePath": "data/videos/jsbkk1/devtools.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "event-loop",
+      "data": {
+        "title": "Adventures with the Event Loop",
+        "speaker": "Erin Zimmer",
+        "type": "talk",
+        "youtube": "hEKCJ4cckZE",
+        "managed": true,
+        "description": "The event loop completely underpins everything that happens in the browser. Yet many developers know very little about it. This talk will help them better understand the nitty-gritty of what’s really going on when you create a Promise, add an event listener, or request an animation frame.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/event-loop.md",
+      "imageFilePath": "data/videos/jsbkk1/event-loop.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "gojek-universe",
+      "data": {
+        "title": "Takeaways from our attempt on scaling a small system in the Gojek Universe",
+        "speaker": "Tino Thamjarat",
+        "type": "talk",
+        "youtube": "LqtRpIwriDk",
+        "managed": true,
+        "description": "Talking about \"Scale\": Takeaways from our attempt on scaling a small system in the Gojek Universe. The year is 2019 and every engineer must have been asked once to build a “scalable” system. I will be telling the story of our team journey in building a financial system that serves 20X traffic in less than a year. Engineering practices, wrong (and right!) decisions, process improvement and more!",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/gojek-universe.md",
+      "imageFilePath": "data/videos/jsbkk1/gojek-universe.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "heavy-data-visualization",
+      "data": {
+        "title": "Speed up heavy data visualization with Rust and WebAssembly",
+        "speaker": "Rujira Aksornsin",
+        "type": "talk",
+        "youtube": "dFE5V87GiEs",
+        "managed": true,
+        "description": "When we need to perform a large data calculation and a large data visualization on the website, performance issues always came as an old familiar friend. This talk will share my experiment on using Rust and WebAssembly to solve this problem base on old project limitations and conditions.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/heavy-data-visualization.md",
+      "imageFilePath": "data/videos/jsbkk1/heavy-data-visualization.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "love-story",
+      "data": {
+        "title": "A love story written in JavaScript",
+        "speaker": "Ramón Guijarro",
+        "type": "talk",
+        "youtube": "QX4WbDuOXE8",
+        "managed": true,
+        "description": "Dating apps can feel tedious and like a waste of time. Is there a way to skip the grunt work? That’s what I asked myself six months ago when I built Swipr, a tool written in JavaScript that does the swiping for you. In this talk we’ll see how it works and how to built CLIs with Node along the way.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/love-story.md",
+      "imageFilePath": "data/videos/jsbkk1/love-story.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "malicious-chrome-extension",
+      "data": {
+        "title": "Building your first malicious chrome extension 😈",
+        "speaker": "Alon Kiriati",
+        "type": "talk",
+        "youtube": "AspoYb2mvsQ",
+        "managed": true,
+        "description": "In this talk I will explain the basics of building your first chrome extension, in just a couple of minutes! It takes few more lines to turn it into a malicious one. The main purpose here is not to turn you into a hacker, but to increase awareness to these “small” and “harmless” plugins.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/malicious-chrome-extension.md",
+      "imageFilePath": "data/videos/jsbkk1/malicious-chrome-extension.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "poor-man-patcher",
+      "data": {
+        "title": "Poor Man's Patcher: A game modder's adventure through serverless sea without money",
+        "speaker": "Atthaporn Thanongkiatisak",
+        "type": "talk",
+        "youtube": "99l1LwRDBFM",
+        "managed": true,
+        "description": "Before the words “DevOps” and “Serverless” even become well-known, I, as a hobbyist Game Modder, was trying to achieve these 2 things using JavaScript and a lot of free services for my mod distribution patcher app. In this talk, I’ll walk you through how I did it and what’s my thinking behind.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/poor-man-patcher.md",
+      "imageFilePath": "data/videos/jsbkk1/poor-man-patcher.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "reusable-web-components",
+      "data": {
+        "title": "A journey of building large scale reusable web components",
+        "speaker": "Varayut Lerdkanlayanawat",
+        "type": "talk",
+        "youtube": "2kFpxnaycyg",
+        "managed": true,
+        "description": "Have you ever wondered what the process of building reusable web components that are used by 200+ developer teams looks like? In this talk, you will be walked through all aspects that need to be considered while designing and implementing reusable web components along with fun real-world examples.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/reusable-web-components.md",
+      "imageFilePath": "data/videos/jsbkk1/reusable-web-components.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "solid-principles",
+      "data": {
+        "title": "Applying SOLID principle in JavaScript without Class and Object",
+        "speaker": "Chakrit Likitkhajorn",
+        "type": "talk",
+        "youtube": "f2dgDT8CFSI",
+        "managed": true,
+        "description": "The SOLID principle is well-known in our industry. However, most of the articles, books, and examples are based on traditional Object-oriented language constructs. This talk will show how can we apply these principles in Javascript where classes are not necessary nor encouraged.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/solid-principles.md",
+      "imageFilePath": "data/videos/jsbkk1/solid-principles.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "spon-exxon",
+      "data": {
+        "title": "Sponsored Session by ExxonMobil - JavaScript Bangkok 1.0.0",
+        "type": "talk",
+        "youtube": "CXN88bHT9RU",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/spon-exxon.md",
+      "imageFilePath": "data/videos/jsbkk1/spon-exxon.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "spon-kbtg",
+      "data": {
+        "title": "Sponsored Session by KBTG - JavaScript Bangkok 1.0.0",
+        "type": "talk",
+        "youtube": "PBnDTeiB_Gw",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/spon-kbtg.md",
+      "imageFilePath": "data/videos/jsbkk1/spon-kbtg.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "spon-odds",
+      "data": {
+        "title": "Sponsored Session by ODDS - JavaScript Bangkok 1.0.0",
+        "type": "talk",
+        "youtube": "Ib0Dhf-ebiI",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/spon-odds.md",
+      "imageFilePath": "data/videos/jsbkk1/spon-odds.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "spon-oozou",
+      "data": {
+        "title": "Sponsored Session by Oozou - JavaScript Bangkok 1.0.0",
+        "type": "talk",
+        "youtube": "SRn-4hygxe4",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/spon-oozou.md",
+      "imageFilePath": "data/videos/jsbkk1/spon-oozou.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "superset",
+      "data": {
+        "title": "How I met my superset of JavaScript",
+        "speaker": "Sirirat Rungpetcharat",
+        "type": "talk",
+        "youtube": "3YTZbSMpDMY",
+        "managed": true,
+        "description": "My love for TypeScript is what people call “destiny”. With strongly-typed, OOP concept and how familiar we’ve been with Angular, etc. But it’s taken me awhile to hop in since changing technology require heavily researching, convincing both my team and the board. I’m here to tell you how my love life be.\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/superset.md",
+      "imageFilePath": "data/videos/jsbkk1/superset.jpg"
+    },
+    {
+      "event": "jsbkk1",
+      "slug": "typesafe-graphql",
+      "data": {
+        "title": "End-to-end Type-Safe GraphQL Apps",
+        "speaker": "Carlos Rufo",
+        "type": "talk",
+        "youtube": "j4GmcSTwyiQ",
+        "managed": true,
+        "description": "Discover all the benefits of using GraphQL adding End-to-end Type-Safety to your app with this live-coding talk. At the end of such, you’ll want to refactor your codebase in order to take all the advantages of TypeScript, GraphQL & React working together on a SpaceX demo 🚀\n",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk1/typesafe-graphql.md",
+      "imageFilePath": "data/videos/jsbkk1/typesafe-graphql.jpg"
+    },
+    {
       "event": "mathsatsundown",
       "slug": "history",
       "data": {
