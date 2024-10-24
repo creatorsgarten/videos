@@ -15793,3 +15793,95 @@ video:nxjUN4nxNkw:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:by1lN0Gb0RU:
+  spec:
+    videoId: by1lN0Gb0RU
+    filePath: data/videos/archive/vueconf.jpg
+    hash: 11a1d10ac7a00e40df6ac4765cef06975081126319b7cc44a820562f6edea481
+  state: {}
+thumbnail:nrbgGl-TTSo:
+  spec:
+    videoId: nrbgGl-TTSo
+    filePath: data/videos/archive/mongo0924.jpg
+    hash: 5ca3caac58883f09a1e1147dca5c87a8411a619b98a35adb8d88a4a5eefdbfb9
+  state: {}
+video:by1lN0Gb0RU:
+  spec:
+    id: by1lN0Gb0RU
+    snippet:
+      title: 2024 09 Vue Conf Thailand by SPEAKER
+      description: >-
+        Event: Stream Archives
+
+        https://grtn.org/e/archive
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/vueconf/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:nrbgGl-TTSo:
+  spec:
+    id: nrbgGl-TTSo
+    snippet:
+      title: 2024 09 MongoDB localz Bangkok After Party by SPEAKER
+      description: >-
+        Event: Stream Archives
+
+        https://grtn.org/e/archive
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/archive/v/mongo0924/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
