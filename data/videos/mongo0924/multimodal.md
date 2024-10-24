@@ -3,7 +3,7 @@ title: Multimodal RAG for Images and Text with MongoDB
 speaker: Witthawin Sripheanpol
 youtube: sWEy_OTijqA
 managed: true
-published: false
+published: "2024-10-30"
 subtitles: [th]
 chapters:
   '0:00': 'แนะนำตัวและเกริ่นนำ: Multimodal LLM'
