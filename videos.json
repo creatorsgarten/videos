@@ -786,6 +786,22 @@
     },
     {
       "event": "archive",
+      "slug": "mongo0924",
+      "data": {
+        "title": "2024 09 MongoDB localz Bangkok After Party",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "nrbgGl-TTSo",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/archive/mongo0924.md",
+      "imageFilePath": "data/videos/archive/mongo0924.jpg"
+    },
+    {
+      "event": "archive",
       "slug": "msbuild2023",
       "data": {
         "title": "Microsoft Build - After Party Thailand",
@@ -1104,6 +1120,22 @@
       "content": "",
       "filePath": "data/videos/archive/vscodeday2023.md",
       "imageFilePath": "data/videos/archive/vscodeday2023.jpg"
+    },
+    {
+      "event": "archive",
+      "slug": "vueconf",
+      "data": {
+        "title": "2024 09 Vue Conf Thailand",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "by1lN0Gb0RU",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/archive/vueconf.md",
+      "imageFilePath": "data/videos/archive/vueconf.jpg"
     },
     {
       "event": "bkkjs17",
