@@ -4280,6 +4280,86 @@
       "imageFilePath": "data/videos/vscodeday2023/vscode-dev.jpg"
     },
     {
+      "event": "vueconf",
+      "slug": "ai",
+      "data": {
+        "title": "ยุค AI คือยุคทองของ Fullstack Developer, เราสามารถใช้ Skill ของเรา (NUXT) ร่วมกับ AI อย่างไร ให้ไร้เทียมทาน",
+        "speaker": "Pachara Chutisawaeng",
+        "type": "talk",
+        "youtube": "3uwtEk_ouhM",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vueconf/ai.md",
+      "imageFilePath": "data/videos/vueconf/ai.jpg"
+    },
+    {
+      "event": "vueconf",
+      "slug": "better-testing",
+      "data": {
+        "title": "Better testing with Vue application",
+        "speaker": "Somkiat Puisungnoen",
+        "type": "talk",
+        "youtube": "TJ54j3Dk5WA",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vueconf/better-testing.md",
+      "imageFilePath": "data/videos/vueconf/better-testing.jpg"
+    },
+    {
+      "event": "vueconf",
+      "slug": "composition-api",
+      "data": {
+        "title": "Why I hate composition API",
+        "speaker": "Warat Wongmaneekit",
+        "type": "talk",
+        "youtube": "sMms4lFxfV8",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vueconf/composition-api.md",
+      "imageFilePath": "data/videos/vueconf/composition-api.jpg"
+    },
+    {
+      "event": "vueconf",
+      "slug": "gamify",
+      "data": {
+        "title": "Case Developing Gamify Coding Education (K-12)",
+        "speaker": "Songklod Saengvoratip",
+        "type": "talk",
+        "youtube": "SMqJJ7o_Mi4",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vueconf/gamify.md",
+      "imageFilePath": "data/videos/vueconf/gamify.jpg"
+    },
+    {
+      "event": "vueconf",
+      "slug": "visual-testing",
+      "data": {
+        "title": "Unlock the power of visual testing with Vitest",
+        "speaker": "Maya Shavin",
+        "type": "talk",
+        "youtube": "lP7Op-K6ajk",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vueconf/visual-testing.md",
+      "imageFilePath": "data/videos/vueconf/visual-testing.jpg"
+    },
+    {
       "event": "wind2",
       "slug": "f1",
       "data": {
