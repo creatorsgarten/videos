@@ -14330,3 +14330,280 @@ video:wqedcVO_HKw:caption:th:
     isDraft: false
   state:
     id: AUieDaYkKLBXw1EMwMViDW6XmmIgNrnTUIcPU6Vp8hiBPk-ewtXk
+thumbnail:3uwtEk_ouhM:
+  spec:
+    videoId: 3uwtEk_ouhM
+    filePath: data/videos/vueconf/ai.jpg
+    hash: 35752d44e8a94a0144686e08e3188a935db6f14abfeec393d1ea3f9763a9f5e2
+  state: {}
+thumbnail:SMqJJ7o_Mi4:
+  spec:
+    videoId: SMqJJ7o_Mi4
+    filePath: data/videos/vueconf/gamify.jpg
+    hash: b11c619c532270ae4cb2a80070964b7b03f5b38b9dc39256452b5d8ca378bc83
+  state: {}
+thumbnail:TJ54j3Dk5WA:
+  spec:
+    videoId: TJ54j3Dk5WA
+    filePath: data/videos/vueconf/better-testing.jpg
+    hash: fcdd4ef314bf0367f9cf1683265aea07962478b1d01440dab1f7e7a44bf38fbd
+  state: {}
+thumbnail:lP7Op-K6ajk:
+  spec:
+    videoId: lP7Op-K6ajk
+    filePath: data/videos/vueconf/visual-testing.jpg
+    hash: 8b4760993ab9a9b345034aed2015eb1d78c9db205cfa19e308236eb65d1a96d5
+  state: {}
+thumbnail:sMms4lFxfV8:
+  spec:
+    videoId: sMms4lFxfV8
+    filePath: data/videos/vueconf/composition-api.jpg
+    hash: 83becaaa135baf6aa50b58434a39af54e5e6f054c4b6710651746162ab45460f
+  state: {}
+video:3uwtEk_ouhM:
+  spec:
+    id: 3uwtEk_ouhM
+    snippet:
+      title: >-
+        ยุค AI คือยุคทองของ Fullstack Developer, เราสามารถใช้ Skill ของเรา
+        (NUXT) ร่วมกับ AI อย่างไร ให้ไร้เ
+      description: >-
+        Event: Vue Conf Thailand 2024
+
+        https://connextickets.me/event/vue-thai-conf-2024
+
+
+        Organized by: Vue News Thailand
+
+        https://www.facebook.com/@VueNewsThailand/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vueconf/v/ai/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:SMqJJ7o_Mi4:
+  spec:
+    id: SMqJJ7o_Mi4
+    snippet:
+      title: Case Developing Gamify Coding Education (K-12) by Songklod Saengvoratip
+      description: >-
+        Event: Vue Conf Thailand 2024
+
+        https://connextickets.me/event/vue-thai-conf-2024
+
+
+        Organized by: Vue News Thailand
+
+        https://www.facebook.com/@VueNewsThailand/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vueconf/v/gamify/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:TJ54j3Dk5WA:
+  spec:
+    id: TJ54j3Dk5WA
+    snippet:
+      title: Better testing with Vue application by Somkiat Puisungnoen
+      description: >-
+        Event: Vue Conf Thailand 2024
+
+        https://connextickets.me/event/vue-thai-conf-2024
+
+
+        Organized by: Vue News Thailand
+
+        https://www.facebook.com/@VueNewsThailand/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vueconf/v/better-testing/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:lP7Op-K6ajk:
+  spec:
+    id: lP7Op-K6ajk
+    snippet:
+      title: Unlock the power of visual testing with Vitest by Maya Shavin
+      description: >-
+        Event: Vue Conf Thailand 2024
+
+        https://connextickets.me/event/vue-thai-conf-2024
+
+
+        Organized by: Vue News Thailand
+
+        https://www.facebook.com/@VueNewsThailand/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vueconf/v/visual-testing/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:sMms4lFxfV8:
+  spec:
+    id: sMms4lFxfV8
+    snippet:
+      title: Why I hate composition API by Warat Wongmaneekit
+      description: >-
+        Event: Vue Conf Thailand 2024
+
+        https://connextickets.me/event/vue-thai-conf-2024
+
+
+        Organized by: Vue News Thailand
+
+        https://www.facebook.com/@VueNewsThailand/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/vueconf/v/composition-api/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
