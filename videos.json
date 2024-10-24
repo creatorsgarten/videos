@@ -2853,7 +2853,7 @@
         "youtube": "wqedcVO_HKw",
         "managed": true,
         "description": "พบกับ คุณปิติ Senior Consulting Engineer จาก MongoDB สิงคโปร์ กับหัวข้อ What is new in MongoDB 8.0 เรียนรู้เกี่ยวกับฟีเจอร์ใหม่ๆ ที่น่าสนใจใน MongoDB เวอร์ชัน 8.0 ไม่ว่าจะเป็นเรื่องประสิทธิภาพการทำงานที่ดีขึ้น เครื่องมือ migration ที่ใช้งานง่ายขึ้น รวมถึงการปรับปรุงด้านความปลอดภัย  มาดูกันว่าฟีเจอร์เหล่านี้จะช่วยเพิ่มประสิทธิภาพและความสะดวกสบายในการทำงานกับ MongoDB ได้อย่างไรบ้าง\n",
-        "published": false,
+        "published": true,
         "language": "th",
         "subtitles": [
           "th"
@@ -2904,7 +2904,7 @@
         "youtube": "sWEy_OTijqA",
         "managed": true,
         "description": "มาร่วมสำรวจโลกของ Multimodal AI ใน session ที่จะพาไปรู้จักกับเทคโนโลยีที่ ChatGPT หรือ Gemini ใช้ ในการทำความเข้าใจทั้งรูปภาพและข้อความพร้อมๆ กัน บรรยายโดยโร่ AI engineer จาก Botnoi Group ที่จะอธิบายตั้งแต่พื้นฐานของ Multimodal  ไปจนถึงการประยุกต์ใช้กับงานอย่าง VQA (Visual Question Answering) ผ่านเทคนิคอย่าง Image Captioning และ RAG (Retrieval Augmented Generation)\n\nSession นี้เหมาะสำหรับผู้ที่สนใจ AI และต้องการต่อยอดความรู้ไปสู่ Multimodal  เพื่อสร้างแอปพลิเคชันที่สามารถเข้าใจข้อมูลได้หลากหลายรูปแบบมากขึ้น\n",
-        "published": false,
+        "published": "2024-10-30",
         "language": "th",
         "subtitles": [
           "th"
@@ -2945,7 +2945,7 @@
         "youtube": "ct2RhcBDeyE",
         "managed": true,
         "description": "มาทำความรู้จักกับ RAG หรือ Retrieval Augmented Generation และการนำไปใช้กับ vector search ใน MongoDB ใน session นี้ คุณเจมส์จะพาไปสำรวจวิธีการดึงข้อมูลที่เกี่ยวข้องกับคำถามโดยใช้ความหมาย มากกว่าการจับคู่แบบตรงตัว เพื่อประสิทธิภาพในการทำงานร่วมกับ Large Language Model (LLM) และลดค่าใช้จ่ายในการใช้งาน พร้อมเจาะลึกการทำงานของ semantic search และการนำไปใช้ประโยชน์ในการทำ caching ข้อมูลอย่างชาญฉลาด เหมาะสำหรับนักพัฒนาที่สนใจเพิ่มประสิทธิภาพการทำงานของแอปพลิเคชันที่ใช้ LLM\n",
-        "published": false,
+        "published": "2024-10-27",
         "language": "th",
         "chapters": {
           "0:00": "แนะนำตัวและเช็คความเข้าใจเบื้องต้นเกี่ยวกับ LLM, vector search และ semantic search",
