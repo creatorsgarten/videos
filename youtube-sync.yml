@@ -13990,44 +13990,59 @@ video:ct2RhcBDeyE:
         LLM
 
 
-        0:00 | แนะนำตัวและเช็คความเข้าใจเบื้องต้นเกี่ยวกับ LLM, vector search
-        และ semantic search
+        0:00 | LLM, Vector Search และ Semantic Search คืออะไร?
 
-        0:40 | ข้อจำกัดของ LLM และความสำคัญของข้อมูลอัพเดต
+        0:38 | ภาพรวม Workshop และแหล่งข้อมูลเพิ่มเติม
 
-        1:18 | Retrieval Augmented Generation (RAG) คืออะไรและทำงานอย่างไร
+        1:18 | RAG กับ Vector Search with MongoDB คืออะไร?
 
-        2:30 | ตัวอย่างโค้ดเบื้องหลังการทำงานของ RAG
+        2:03 | ตัวอย่างการใช้งาน RAG กับ MongoDB
 
-        3:20 | Model Knowledge ใน LLM ทำงานอย่างไร
+        2:29 | วิธีการ Get Data จาก MongoDB
 
-        4:00 | การเพิ่มประสิทธิภาพด้วย Cache และข้อจำกัด
+        3:18 | LLM และ Model Knowledge
 
-        5:00 | Semantic meaning และความสำคัญต่อการทำ Cache
+        4:04 | ข้อจำกัดของ Model Knowledge และวิธีแก้ไข
 
-        6:00 | Vector Embedding คืออะไร
+        5:31 | Retrieval Augmented Generation (RAG)
 
-        7:00 | Vector Search คืออะไร
+        6:00 | ขั้นตอนการทำงานของ RAG
 
-        8:00 | Vector Search ใน MongoDB
+        7:41 | Walkthrough โค้ด: การทำงานของ RAG
 
-        9:00 | วิธีการ Retrieve Cache ด้วย Vector Search
+        10:00 | การจัดการ Context Window และ Memory ของ LLM
 
-        11:00 | การ Embed คำถามที่ซับซ้อนและการกำหนด Time Range
+        12:00 | การดึงข้อมูลจาก MongoDB และปัญหาเรื่องต้นทุน LLM
 
-        14:40 | การจัดการ Cache เมื่อคำถามไม่เกี่ยวข้องกับ Function
+        13:23 | การเพิ่ม Cache เพื่อลดต้นทุน LLM
 
-        17:00 | ตัวอย่างโค้ดการใช้งาน Cache Handler
+        14:47 | ปัญหาการ Cache คำถามและคำตอบใน LLM
 
-        22:00 | การกำหนด Semantic Rules และ Logic ใน Application Layer
+        16:16 | Semantic Meaning และ Semantic Search
 
-        26:00 | วิธีการเซฟ Cache ด้วย Vector Embedding
+        17:04 | Vector คืออะไร? และ Embedding Model ทำงานอย่างไร?
 
-        28:00 | การ Embed ข้อมูลเพิ่มเติมเพื่อความแม่นยำ
+        18:04 | Vector Search คืออะไร? และการหา Similarity
 
-        30:10 | สรุปเนื้อหาและการใช้งานจริง
+        19:30 | MongoDB Vector Search
 
-        31:00 | โปรโมทงาน Javascript Bangkok และแจกของรางวัล
+        21:02 | วิธีการ Retrieve Cache ใน MongoDB
+
+        22:51 | การจัดการ Cache ที่กว้างเกินไปและการ Embed เวลา
+
+        24:43 | กรณีที่ไม่ทำ Cache และคำถามที่ไม่เกี่ยวข้อง
+
+        25:44 | การวัด Score และ Embedding Model
+
+        26:02 | Walkthrough โค้ด: การ Retrieve Cache ใน MongoDB
+
+        28:36 | การเซฟ Cache ใน MongoDB
+
+        30:28 | การกำหนด Semantic Rules และการควบคุม Cache
+
+        32:02 | สรุปขั้นตอนการเซฟ Cache และแหล่งข้อมูลเพิ่มเติม
+
+        32:33 | โปรโมทงาน Javascript Bangkok และแจกของรางวัล
 
 
         --------------------------------------------
@@ -14368,7 +14383,62 @@ video:3uwtEk_ouhM:
         ยุค AI คือยุคทองของ Fullstack Developer, เราสามารถใช้ Skill ของเรา
         (NUXT) ร่วมกับ AI อย่างไร ให้ไร้เ
       description: >-
-        Event: Vue Conf Thailand 2024
+        เฮียโหน่ง CTO น้ำตาลทราย.com มาแชร์มุมมองต่อยุคทองของ web developer
+        ในยุค Gen AI  โดยเฉพาะอย่างยิ่งกับผู้ใช้งาน Vue และ Nuxt
+        การพูดคุยครั้งนี้จะชี้ให้เห็นว่า generative AI
+        ช่วยเพิ่มศักยภาพการทำงานของโปรแกรมเมอร์ได้อย่างไร 
+        พร้อมยกตัวอย่างประสบการณ์การพัฒนาเว็บไซต์ น้ำตาลทราย.com ด้วย Nuxt 3 และ
+        Gen AI  รวมถึงการสร้าง service ของตนเอง และการมีส่วนร่วมใน community 
+        มาร่วมรับฟังแนวคิดและมุมมองที่น่าสนใจเกี่ยวกับอนาคตของ web developer
+        ในยุค AI และแรงบันดาลใจในการพัฒนาทักษะเพื่อคว้าโอกาสในยุคนี้
+
+
+        00:00 | พูดคุยเรื่อง Vue และแนะนำตัว
+
+        00:45 | AI คือยุคทองของ Web Developer
+
+        01:30 | ทำไม Gen AI ถึงเป็นยุคทองของนักพัฒนาเว็บ
+
+        02:05 | Junior programmer สู่ Senior programmer ด้วย AI
+
+        02:37 | วิวัฒนาการของการพัฒนาเว็บ
+
+        03:53 | ยุคทองคำของนักพัฒนาเว็บ
+
+        04:00 | มุมมอง CEO น้ำตาลทราย.com เกี่ยวกับการจ้างโปรแกรมเมอร์ยุค AI
+
+        05:23 | GenAI ทำให้ทำงานได้เร็วขึ้น
+
+        06:23 | นักพัฒนาควรสร้าง service ของตัวเอง
+
+        07:03 | GenAI ส่งผลต่อโปรแกรมเมอร์อย่างไรใน 2 ปีที่ผ่านมา
+
+        07:17 | GenAI ไม่ได้ส่งผลแค่โปรแกรมเมอร์ แต่มันส่งผลกับทุกอาชีพ
+
+        07:42 | การใช้ Nuxt และ GenAI ในการทำงานจริง
+
+        08:14 | สรุปเนื้อหาหลัก และพูดถึงเว็บดังในอดีต
+
+        09:19 | เว็บดังในยุค Google และการทำ SEO ด้วย Nuxt Vue
+
+        10:29 | ยุคทองคำในปัจจุบัน และ Generative AI
+
+        11:05 | โปรแกรมเมอร์ไทยเก่ง และเรื่องราว Delivery platform
+
+        11:58 | Vue framework และ Nuxt framework เป็น community ที่ดี
+
+        12:17 | ผู้ที่อยู่รอดในยุคปัจจุบัน และเครื่องมือที่ใช้เขียนโปรแกรม
+
+        13:15 | ตัวอย่างการใช้ AI ในคอร์สสอน Vue และ Nuxt
+
+        13:42 | สรุปสุดท้าย Vue, Nuxt และ AI
+
+        14:34 | ส่งท้ายและขอบคุณ
+
+
+        --------------------------------------------
+
+        Event: Vue Thai Conf 2024
 
         https://connextickets.me/event/vue-thai-conf-2024
 
@@ -14406,6 +14476,7 @@ video:3uwtEk_ouhM:
         etc.), please visit:
 
         https://grtn.org/e/vueconf/v/ai/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -14417,7 +14488,69 @@ video:SMqJJ7o_Mi4:
     snippet:
       title: Case Developing Gamify Coding Education (K-12) by Songklod Saengvoratip
       description: >-
-        Event: Vue Conf Thailand 2024
+        ปัญหาการศึกษาไทยในยุคดิจิทัลและ AI คืออะไร? มาร่วมหาคำตอบกับคุณตูนจาก
+        Spark Education ในเซสชั่นนี้  เขาจะมาแบ่งปันประสบการณ์การพัฒนาแพลตฟอร์ม
+        CodeVenture และ CodingThailand เพื่อสอน coding ให้เด็กๆ ทั่วประเทศ 
+        ฟังเรื่องราวการแก้ปัญหาการเรียน coding ที่ยากและน่าเบื่อ 
+        พร้อมเรียนรู้แนวคิดการสร้างเกมและสื่อการสอนที่น่าสนใจ 
+        รวมถึงความท้าทายในการทำงานร่วมกับโรงเรียนและคุณครูทั่วประเทศ  มาดูกันว่า
+        CodeVenture จะช่วยเตรียมความพร้อมเด็กไทยสำหรับอนาคตได้อย่างไร
+
+
+        00:00 | แนะนำตัวและ Spark Education: เตรียมเด็กๆ สู่ยุค Tech
+
+        00:40 | พูดคุยเรื่องการศึกษาไทยและ CodeVenture
+
+        01:30 | CodeVenture: สอน Coding ให้เด็กๆ มากกว่าแค่การเขียนโปรแกรม
+
+        02:23 | ทักษะสำคัญในยุค AI และ Coding
+
+        03:09 | Coding คือทักษะสำคัญ แต่ไม่จำเป็นต้องเขียน Syntax
+
+        04:10 | ปัญหาของการสอน Coding ในไทย
+
+        05:29 | ปัญหาการขาดแคลนบุคลากรและความไม่สนุกในการเรียน Coding
+
+        06:12 | วิธีแก้ปัญหา: ทำให้ง่ายขึ้น สนุกขึ้น และเตรียมเครื่องมือให้ครู
+
+        06:47 | ใช้ Nuxt 2 และ 3 ในทุก Project
+
+        07:25 | เหตุผลที่เลือกใช้ Nuxt
+
+        09:08 | CodingThailand: เรียนวิธีคิดผ่านวิธี Code
+
+        10:38 | ความสำเร็จของ CodingThailand ในช่วงโควิด
+
+        12:01 | ผสาน Coding กับวิชาอื่น: ตัวอย่างรามเกียรติ์
+
+        13:02 | การสร้าง Universe ของเกมและสื่อการสอนสำหรับโรงเรียนชายขอบ
+
+        14:38 | ยอดผู้ใช้และ Certificate ของ CodingThailand
+
+        15:00 | CodeVenture: ยกระดับ Gamify และ Gameplay
+
+        15:27 | การเลือก Game Engine และการใช้ Phaser
+
+        16:08 | 3 รูปแบบการ Coding ใน CodeVenture
+
+        17:31 | Tech Stack ที่ใช้ใน CodeVenture
+
+        18:08 | ความสำคัญของมาตรฐาน Certificate และความร่วมมือกับบางมด
+
+        19:06 | ผลการทดลองใช้ CodeVenture ในโรงเรียน
+
+        19:42 | ประสบการณ์การออกบูธและการตอบรับที่ดี
+
+        20:09 | สร้าง Ecosystem ทางการศึกษาและเครือข่ายคุณครู
+
+        20:43 | Partnership กับ code.org และที่ปรึกษา
+
+        21:05 | สรุปและขอบคุณ
+
+
+        --------------------------------------------
+
+        Event: Vue Thai Conf 2024
 
         https://connextickets.me/event/vue-thai-conf-2024
 
@@ -14455,6 +14588,7 @@ video:SMqJJ7o_Mi4:
         etc.), please visit:
 
         https://grtn.org/e/vueconf/v/gamify/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -14466,7 +14600,71 @@ video:TJ54j3Dk5WA:
     snippet:
       title: Better testing with Vue application by Somkiat Puisungnoen
       description: >-
-        Event: Vue Conf Thailand 2024
+        คุณปุ๋ย หรือคุณสมเกียรติ จะมาแชร์ประสบการณ์และมุมมองเกี่ยวกับการทดสอบ
+        (test) ใน Vue.js และ Nuxt.js 
+        พบกับเรื่องราวความสนุกปนขมขื่นของชีวิตนักพัฒนาที่ต้องเผชิญกับ deadline
+        และ bug  คุณปุ๋ยจะชวนคิดถึงปัญหาที่มักเกิดขึ้นในการพัฒนาซอฟต์แวร์  เช่น
+        การ refactor โค้ด การจัดการ environment  และความสำคัญของการ test 
+        พร้อมทั้งนำเสนอแนวคิดและเทคนิคการ test  เช่น end-to-end test, isolated
+        test และการ mock  รวมถึงการใช้เครื่องมืออย่าง Vitest, Playwright และ
+        Cypress  มาเรียนรู้วิธีสร้างความเชื่อมั่นในโค้ด 
+        และเตรียมรับมือกับการเปลี่ยนแปลงในโลกของการพัฒนาซอฟต์แวร์ไปพร้อมกัน
+
+
+        00:00 | เปิดงานและแนะนำตัว: คุณปุ๋ยกับเรื่องราวการ Test ใน Vue
+
+        00:40 | ความจริงของ Dev: เสร็จแล้ว...แต่ Test ล่ะ?
+
+        01:21 | คุณภาพ vs. ปริมาณ: เลือกอะไรเมื่อ Deadline มาถึง?
+
+        02:24 | Refactor = เขียนใหม่? ความมั่นใจในการเปลี่ยนแปลงโค้ด
+
+        04:00 | ความเชื่อมั่นในการ Coding: แก้ Bug ทีเสียวทั้งองค์กร
+
+        05:01 | ระบบงานมีชีวิต: การ Test เพื่อความมั่นใจในการเปลี่ยนแปลง
+
+        06:33 | สร้างความเชื่อมั่นด้วยการ Test: Manual vs. Automation
+
+        07:50 | ไหว้พระก่อน Deploy: เมื่อ Environment ไม่ตรงกับ Production
+
+        09:56 | Test Pyramid, Test Cupcake, Test Rocket: เลือกแบบไหนดี?
+
+        12:17 | Regression Test: ทำไมไม่ทำ? (เพราะ Deadline)
+
+        13:31 | การ Test ใน Vue: Web Application และ Nuxt
+
+        14:01 | Test ที่ดีเป็นอย่างไร: เร็ว อิสระ รันซ้ำได้ ตรวจสอบได้
+        เข้าใจง่าย
+
+        16:52 | มรดกเลือด: เมื่อโค้ดที่เราเจอไม่ใช่โค้ดที่เราเขียน
+
+        17:12 | Test First, Test Later, Test Last: คุณอยู่ทีมไหน?
+
+        17:47 | โครงสร้างโปรเจค Vue และ Nuxt: ง่ายต่อการ Test ไหม?
+
+        19:07 | Feature-based Modules: ทางออกของ Build Time ที่นานเกินไป
+
+        21:00 | การ Test Vue หลายระดับ: End-to-End, Isolated Test
+
+        23:06 | Flaky Test: ปัญหาโลกแตกของการ Test
+
+        24:19 | Decoupling from Framework: หลีกเลี่ยงการผูกมัดกับเครื่องมือ
+
+        26:54 | Custom Driver: เปลี่ยน Test Framework ได้ง่ายๆ
+
+        28:22 | Test ID: ยืดหยุ่นต่อการเปลี่ยนแปลง UI/UX
+
+        29:16 | Test ที่เข้าใจง่าย: Maintain ได้ ไม่เป็นมรดกเลือด
+
+        30:01 | Make it Work, Make it Right, Make it Fast: อย่าหยุดแค่ Make it
+        Work
+
+        30:38 | คุณภาพ vs. ปริมาณ: คุณเลือกอะไร?
+
+
+        --------------------------------------------
+
+        Event: Vue Thai Conf 2024
 
         https://connextickets.me/event/vue-thai-conf-2024
 
@@ -14504,6 +14702,7 @@ video:TJ54j3Dk5WA:
         etc.), please visit:
 
         https://grtn.org/e/vueconf/v/better-testing/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -14515,7 +14714,57 @@ video:lP7Op-K6ajk:
     snippet:
       title: Unlock the power of visual testing with Vitest by Maya Shavin
       description: >-
-        Event: Vue Conf Thailand 2024
+        Maya Shavin, a senior software engineer at Microsoft and accessibility
+        champion, explores the nuances of frontend component testing in this
+        insightful talk. She delves into the importance of validating both the
+        functionality and visual aspects of UI elements, emphasizing how these
+        tests ensure a consistent user experience across different devices and
+        browsers. The talk examines the roles of unit and end-to-end testing,
+        specifically focusing on visual testing within these contexts. Using a
+        practical example of a search component, Maya demonstrates how visual
+        testing can be implemented using Vitest, a lightweight test runner, and
+        Playwright, a browser-based end-to-end testing tool. She further
+        explores the intriguing possibility of combining the strengths of both
+        tools within Vitest's browser mode, offering a potentially streamlined
+        approach to comprehensive component testing. Discover how to effectively
+        test your Vue components for both behavior and appearance, ensuring a
+        polished and accessible user interface.
+
+
+        00:00 | Introduction of Maya Shavin and the topic
+
+        01:15 | About Maya Shavin - Speaker, Author, and More
+
+        02:58 | What is Frontend Component Testing?
+
+        04:44 | Two Aspects of Frontend Component Testing: Functional and Visual
+
+        05:55 | Visual Testing in the Testing Pyramid
+
+        07:06 | Demo Component: Pizza Store Search
+
+        07:47 | Visual Testing in Unit Tests with Vitest
+
+        09:09 | Visual Testing with Vitest: Limitations
+
+        12:58 | Visual Testing with Playwright: End-to-End
+
+        15:06 | Visual Testing in Playwright: Screenshots
+
+        16:10 | Can Playwright's Power Be Used in Vitest?
+
+        16:39 | Vitest Browser Mode: Combining Unit and Visual Testing
+
+        18:49 | Demo: Visual Testing with Vitest and Playwright
+
+        22:26 | The Pros and Cons of Vitest Browser Mode
+
+        23:35 | Conclusions
+
+
+        --------------------------------------------
+
+        Event: Vue Thai Conf 2024
 
         https://connextickets.me/event/vue-thai-conf-2024
 
@@ -14553,6 +14802,7 @@ video:lP7Op-K6ajk:
         etc.), please visit:
 
         https://grtn.org/e/vueconf/v/visual-testing/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -14564,7 +14814,62 @@ video:sMms4lFxfV8:
     snippet:
       title: Why I hate composition API by Warat Wongmaneekit
       description: >-
-        Event: Vue Conf Thailand 2024
+        คุณตั้ง วรัทธน์ วงศ์มณีกิจ Chief Product Officer ที่ WISESIGHT และ
+        Google Developer Expert ด้าน web technology มาแชร์ประสบการณ์ตรงกับ
+        Composition API ใน Vue.js ที่เขา "โคตรเกลียด" 
+        จากการพัฒนาแอปพลิเคชันส่วนตัวด้วย Vue 3 เขาพบปัญหาหลายอย่าง
+        ตั้งแต่ความซับซ้อนของการใช้งาน  การเรียนรู้ที่ยากขึ้น 
+        และความไม่เป็นระเบียบของโค้ด  มาร่วมฟังมุมมองที่แตกต่าง
+        พร้อมเหตุผลที่ทำให้เขา "เกลียด" Composition API
+        และปัญหาที่พบเจอระหว่างการใช้งานจริง  รวมถึงข้อสังเกตเกี่ยวกับ ecosystem
+        ของ Vue ที่เปลี่ยนแปลงไป  สำหรับใครที่กำลังใช้งาน Vue.js หรือสนใจ
+        framework นี้  วิดีโอนี้จะทำให้คุณเห็นอีกมุมมองหนึ่งที่น่าสนใจ
+
+
+        0:00 | แนะนำตัว: ตั้ง วรัทธน์ และประสบการณ์การทำงาน
+
+        0:17 | จุดเริ่มต้นความเกลียด Composition API
+
+        1:17 | ทำไมถึงเกลียด Composition API? (เริ่มต้น)
+
+        2:00 | ที่มาของแอป Saifah (Tesla Charger) และการใช้ Vue
+
+        3:13 | Composition API: เท่แต่โคตรน่าเกลียด
+
+        3:27 | เหตุผลจาก Official Doc: Reuse Logic
+
+        3:53 | ปัญหาของ Composition API: หลายวิธีสร้าง Component
+
+        4:33 | ความหลากหลายของ Doc และ Ecosystem
+
+        5:16 | setup() vs. script setup: ความไม่เข้ากัน
+
+        6:06 | ปัญหาการเลือกวิธีเขียน Vue สำหรับ Dev ใหม่
+
+        6:42 | Composition API ทำให้ Learning Curve สูง
+
+        7:14 | ปัญหา Free Form: การจัดเรียงโค้ดที่ยุ่งเหยิง
+
+        8:38 | ปัญหา Free Form: onMount หลายอัน
+
+        9:09 | use everywhere: use ที่มากเกินไป
+
+        9:57 | ref vs. reactive: ความสับสนและซ้ำซ้อน
+
+        11:19 | Ecosystem ที่ซับซ้อนขึ้น
+
+        11:45 | vueUse ไม่ Support Option API
+
+        12:21 | สรุป: Composition API คือ Good Solution in the Wrong Place
+
+        12:42 | ความในใจเพิ่มเติมและปิดท้าย
+
+        13:36 | ผู้จัดงานสรุปประเด็นปัญหา Composition API และ Option API
+
+
+        --------------------------------------------
+
+        Event: Vue Thai Conf 2024
 
         https://connextickets.me/event/vue-thai-conf-2024
 
@@ -14602,6 +14907,7 @@ video:sMms4lFxfV8:
         etc.), please visit:
 
         https://grtn.org/e/vueconf/v/composition-api/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15885,3 +16191,53 @@ video:nrbgGl-TTSo:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:3uwtEk_ouhM:caption:th:
+  spec:
+    videoId: 3uwtEk_ouhM
+    filePath: data/videos/vueconf/ai_th.vtt
+    language: th
+    name: Thai
+    hash: 08fb13915771894a60a6e9f8694a71478ee9745c979b2372707e82ef05f1f635
+    isDraft: false
+  state:
+    id: AUieDaa4PDqX0a-CJE4-HHCCnNP5BzY8rE2yY2JfJYYtxTumcsPY
+video:SMqJJ7o_Mi4:caption:th:
+  spec:
+    videoId: SMqJJ7o_Mi4
+    filePath: data/videos/vueconf/gamify_th.vtt
+    language: th
+    name: Thai
+    hash: 00a87fac5584bc80b7fe0f29cf191ca74e373c5e274f0368b420278fbd3febbd
+    isDraft: false
+  state:
+    id: AUieDabWIDq5HDAwrSjBgaBOQVOgDCtmq2KYpmUddnny3JCfoyNU
+video:TJ54j3Dk5WA:caption:th:
+  spec:
+    videoId: TJ54j3Dk5WA
+    filePath: data/videos/vueconf/better-testing_th.vtt
+    language: th
+    name: Thai
+    hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    isDraft: false
+  state:
+    id: AUieDaYsuDTeMOQod2DfSJ4AQTDO4ZhTtu3Nts501uUmrwdIapgO
+video:lP7Op-K6ajk:caption:en:
+  spec:
+    videoId: lP7Op-K6ajk
+    filePath: data/videos/vueconf/visual-testing_en.vtt
+    language: en
+    name: English
+    hash: 52df6676e4f3e721351153bd8683c7beaa50f8e39f1943851b6f7aa308803e9b
+    isDraft: false
+  state:
+    id: AUieDaYW8x0h0j-GC6_O_RdOiPUMzVoq4xOti9ed9nNnGUqBnIO1ZHty
+video:sMms4lFxfV8:caption:th:
+  spec:
+    videoId: sMms4lFxfV8
+    filePath: data/videos/vueconf/composition-api_th.vtt
+    language: th
+    name: Thai
+    hash: 47295696843092b772e022116069a2325e071ac25036dbe0b5582872532dd3c2
+    isDraft: false
+  state:
+    id: AUieDabNST-2OqRluQ1LYEUAv41rlbDKVbotRTO82jmrIndCJnfu
