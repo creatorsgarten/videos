@@ -1,0 +1,1522 @@
+WEBVTT
+
+00:00:00.900 --> 00:00:04.333
+For the next session is Maya Shavin.
+
+00:00:04.400 --> 00:00:08.032
+She is very popular speaker for Vue community.
+
+00:00:08.100 --> 00:00:11.233
+I have follow her for many many conferences.
+
+00:00:11.300 --> 00:00:14.333
+Many of her is about testing.
+
+00:00:14.400 --> 00:00:20.733
+If you like about testing or unit testing or
+
+00:00:20.800 --> 00:00:22.733
+end-to-end testing, Playwright, you have to
+
+00:00:22.800 --> 00:00:24.333
+follow Maya Shavin.
+
+00:00:24.400 --> 00:00:28.333
+I am the one that follow her for many conference.
+
+00:00:28.400 --> 00:00:33.533
+Besides from testing, she is one of the popular
+
+00:00:33.600 --> 00:00:35.133
+contributor of Vue community.
+
+00:00:35.200 --> 00:00:41.633
+Maya Shavin really want to join our event.
+
+00:00:42.200 --> 00:00:48.633
+She really want to speak in live session, but
+
+00:00:48.700 --> 00:00:50.133
+she is unavailable.
+
+00:00:50.200 --> 00:00:54.533
+But she try to make the pre-record for us.
+
+00:00:54.600 --> 00:00:59.633
+Especially this session is the new topic,
+
+00:00:59.700 --> 00:01:03.633
+the new session from Maya Shavin.
+
+00:01:03.700 --> 00:01:08.333
+We are the first event that can watch
+
+00:01:08.400 --> 00:01:10.033
+Maya Shavin session.
+
+00:01:10.100 --> 00:01:12.433
+So please welcome Maya Shavin!
+
+00:01:15.800 --> 00:01:15.933
+Hey.
+
+00:01:17.000 --> 00:01:19.532
+Welcome to my talk.
+
+00:01:19.600 --> 00:01:22.833
+I'm really sad, what a pity that I'm not there
+
+00:01:22.900 --> 00:01:24.533
+in persons.
+
+00:01:24.600 --> 00:01:26.133
+But welp…
+
+00:01:26.200 --> 00:01:29.233
+I hope next time we will see each other in person.
+
+00:01:29.300 --> 00:01:31.933
+Meanwhile, hope you enjoy the first edition of
+
+00:01:32.000 --> 00:01:34.333
+Vue.js Conf Thailand and my talk.
+
+00:01:34.400 --> 00:01:36.933
+Let's talk about testing, shall we?
+
+00:01:37.000 --> 00:01:39.833
+First and foremost, my name is Maya Shavin and
+
+00:01:39.900 --> 00:01:42.532
+I'm a senior software engineer at Microsoft and
+
+00:01:42.600 --> 00:01:46.133
+also an accessibility champ in my group.
+
+00:01:46.200 --> 00:01:50.433
+We oversees accessibility compliance and trying
+
+00:01:50.500 --> 00:01:54.733
+to provide best practices and guideline to help
+
+00:01:54.800 --> 00:01:58.032
+developer comply with accessibility during their
+
+00:01:58.100 --> 00:01:59.833
+development before release.
+
+00:02:00.600 --> 00:02:03.933
+I'm also Cloudinary ambassador, Vue.js Israel
+
+00:02:04.000 --> 00:02:07.133
+organizer, and a Google Developer Expert on Vue
+
+00:02:07.200 --> 00:02:09.233
+on web technologies.
+
+00:02:09.300 --> 00:02:11.333
+You can follow me on mayashavin on Twitter,
+
+00:02:11.400 --> 00:02:14.632
+LinkedIn or Facebook or visit my website at
+
+00:02:14.700 --> 00:02:17.733
+mayashavin.com where I like to talk and write
+
+00:02:17.800 --> 00:02:20.132
+about all the experiments and what I learn
+
+00:02:20.200 --> 00:02:22.733
+during my journey in high-tech.
+
+00:02:22.800 --> 00:02:25.733
+In addition, I'm currently the mom of 4 kids,
+
+00:02:25.800 --> 00:02:28.433
+which is actually 3 and a +1.
+
+00:02:29.200 --> 00:02:32.433
+My latest kid is about 1½ month,
+
+00:02:32.500 --> 00:02:34.233
+so I'm still in maternity leave.
+
+00:02:34.300 --> 00:02:36.733
+But hey, it's fun to be back to talk about
+
+00:02:36.800 --> 00:02:38.632
+things that I'm passionate about.
+
+00:02:38.700 --> 00:02:42.533
+I'm also an illustrator in free time and I am
+
+00:02:42.600 --> 00:02:46.533
+a book author, which yeah, this is my book,
+
+00:02:46.600 --> 00:02:47.733
+Learning Vue.
+
+00:02:47.800 --> 00:02:49.733
+I'm so excited to have this book released
+
+00:02:49.800 --> 00:02:50.632
+this year.
+
+00:02:50.700 --> 00:02:53.132
+If you are interested in learning Vue with
+
+00:02:53.200 --> 00:02:55.132
+TypeScript, check my book out.
+
+00:02:55.200 --> 00:02:56.533
+I hope you enjoy it.
+
+00:02:56.600 --> 00:02:57.933
+That's it about myself.
+
+00:02:58.000 --> 00:03:00.533
+Let's go back to our main topic today.
+
+00:03:00.600 --> 00:03:04.433
+First and foremost, let's talk about component
+
+00:03:04.500 --> 00:03:05.433
+testing.
+
+00:03:05.500 --> 00:03:08.733
+In a frontend context, or we can say frontend
+
+00:03:08.800 --> 00:03:10.333
+component testing.
+
+00:03:10.400 --> 00:03:12.833
+So what is frontend component testing?
+
+00:03:12.900 --> 00:03:17.233
+In the sense of normal development and
+
+00:03:17.300 --> 00:03:19.733
+especially for backend, component testing is
+
+00:03:19.800 --> 00:03:22.933
+like modular testing or we can call it like
+
+00:03:23.000 --> 00:03:24.132
+unit testing.
+
+00:03:24.200 --> 00:03:26.533
+But for frontend, it's a bit different.
+
+00:03:26.600 --> 00:03:29.033
+For frontend component testing, it means that
+
+00:03:29.100 --> 00:03:32.533
+we have to validate the GUI element are
+
+00:03:32.600 --> 00:03:34.733
+functional as expected.
+
+00:03:34.800 --> 00:03:37.533
+GUI element means graphic user interface
+
+00:03:37.600 --> 00:03:41.632
+element, which we validate also the style,
+
+00:03:41.700 --> 00:03:44.733
+the class, the hooks, the component props,
+
+00:03:45.300 --> 00:03:47.233
+the data flow, the interaction within the
+
+00:03:47.300 --> 00:03:50.132
+component with other components and with user.
+
+00:03:50.200 --> 00:03:54.033
+When we talk about graphical user interface
+
+00:03:54.100 --> 00:03:58.433
+element or UI, we are talking about validate
+
+00:03:58.500 --> 00:04:01.833
+appearance, how it looks, how it functions,
+
+00:04:01.900 --> 00:04:05.632
+not just the functional testing.
+
+00:04:05.700 --> 00:04:10.933
+Frontend component testing means we validate
+
+00:04:11.000 --> 00:04:14.733
+how the component looks and appear to the end
+
+00:04:14.800 --> 00:04:18.533
+user on the browser and how it functions or
+
+00:04:18.600 --> 00:04:22.332
+interact with the user or with other components
+
+00:04:22.400 --> 00:04:25.533
+under the same parent or with its children
+
+00:04:25.600 --> 00:04:26.832
+components.
+
+00:04:26.900 --> 00:04:29.433
+Once you validate things like this, you also
+
+00:04:29.500 --> 00:04:33.633
+need to validate the consistency or regression
+
+00:04:34.600 --> 00:04:37.332
+test between change, between feature added,
+
+00:04:37.400 --> 00:04:41.332
+remove, between bug fixes on different device,
+
+00:04:41.400 --> 00:04:44.033
+on different browser, and so on.
+
+00:04:44.800 --> 00:04:50.733
+For this, we divide frontend component testing
+
+00:04:50.800 --> 00:04:53.733
+into two biggest aspect.
+
+00:04:53.800 --> 00:04:57.933
+The first one is behavior or functional testing
+
+00:04:58.000 --> 00:05:01.133
+including how the component functions.
+
+00:05:01.200 --> 00:05:05.933
+So hooks, how it process data, how it take the
+
+00:05:06.000 --> 00:05:09.733
+interaction of user and reply to the user
+
+00:05:09.800 --> 00:05:10.433
+and so on.
+
+00:05:11.000 --> 00:05:14.733
+The other aspect of frontend component testing
+
+00:05:14.800 --> 00:05:19.433
+is visual UI testing or UI testing.
+
+00:05:19.500 --> 00:05:23.633
+It including how the component appear on the
+
+00:05:23.700 --> 00:05:28.033
+browser to the client, to the end user.
+
+00:05:28.100 --> 00:05:30.133
+How it looks, color, image, styling, layout,
+
+00:05:30.200 --> 00:05:30.832
+and so on.
+
+00:05:30.900 --> 00:05:34.332
+We also need to validate the consistency of
+
+00:05:34.400 --> 00:05:36.633
+the look whenever we add a new feature, we add
+
+00:05:36.700 --> 00:05:38.933
+a new button, so on and so forth.
+
+00:05:39.000 --> 00:05:41.832
+Not just test how it appear.
+
+00:05:41.900 --> 00:05:44.433
+We test how it appears, how it looks on
+
+00:05:44.500 --> 00:05:47.233
+different device, on different browser, on
+
+00:05:47.300 --> 00:05:49.533
+different operation system.
+
+00:05:49.600 --> 00:05:53.133
+And this is our main topic of today, visual
+
+00:05:53.200 --> 00:05:55.733
+testing or UI testing.
+
+00:05:55.800 --> 00:05:58.832
+But hold on a minute.
+
+00:05:58.900 --> 00:06:00.933
+We know the functional component testing
+
+00:06:01.000 --> 00:06:03.933
+including visual testing or UI testing.
+
+00:06:04.600 --> 00:06:08.733
+Remember this pyramid, which we have unit test,
+
+00:06:08.800 --> 00:06:10.832
+integration test, and end-to-end test.
+
+00:06:11.500 --> 00:06:14.332
+So where this visual testing or functional
+
+00:06:14.400 --> 00:06:17.633
+component test of a frontend component testing
+
+00:06:17.700 --> 00:06:18.933
+fall into?
+
+00:06:19.600 --> 00:06:22.533
+You can say it fall into unit testing or can
+
+00:06:22.600 --> 00:06:25.332
+fall into end-to-end testing.
+
+00:06:25.400 --> 00:06:28.433
+It makes more sense with end-to-end testing
+
+00:06:28.500 --> 00:06:30.633
+because in end-to-end, you actually simulate
+
+00:06:30.700 --> 00:06:36.633
+the user actual flow on the actual browser.
+
+00:06:36.700 --> 00:06:40.033
+But we also can have visual testing on unit
+
+00:06:40.100 --> 00:06:44.233
+test by snapshot comparison, for example.
+
+00:06:44.300 --> 00:06:46.033
+So,
+
+00:06:46.100 --> 00:06:49.433
+In this talk, we're going to explore
+
+00:06:49.500 --> 00:06:54.033
+what the difference between visual testing
+
+00:06:54.100 --> 00:06:57.332
+in unit test and end-to-end test and how
+
+00:06:57.400 --> 00:07:01.933
+we can combine these two in the same testing
+
+00:07:02.000 --> 00:07:05.933
+system for visual testing of a component.
+
+00:07:06.000 --> 00:07:10.233
+Before we move on, we're going to take a look
+
+00:07:10.300 --> 00:07:12.433
+on the demo component.
+
+00:07:12.500 --> 00:07:14.633
+In this demo, we're going to use a search
+
+00:07:14.700 --> 00:07:20.233
+component from a demo app that is Pizza Store.
+
+00:07:20.300 --> 00:07:22.533
+It has only three features: receive the search
+
+00:07:22.600 --> 00:07:25.733
+term and synchronize the search according to
+
+00:07:25.800 --> 00:07:27.533
+what the user type and of course, it will
+
+00:07:27.600 --> 00:07:29.433
+emit the search term, the new search term
+
+00:07:29.500 --> 00:07:32.133
+and the filter item that has within,
+
+00:07:32.200 --> 00:07:35.933
+beginning with, by this, the new search term.
+
+00:07:36.000 --> 00:07:37.133
+Okay, simple.
+
+00:07:37.200 --> 00:07:39.832
+You can implement it in any way in Vue
+
+00:07:39.900 --> 00:07:43.433
+application, in a Vue component, but these
+
+00:07:43.500 --> 00:07:45.733
+are the main features that we're going to
+
+00:07:45.800 --> 00:07:46.332
+test on.
+
+00:07:47.000 --> 00:07:47.633
+Okay.
+
+00:07:47.700 --> 00:07:49.433
+The first thing we're going to look at is
+
+00:07:49.500 --> 00:07:53.133
+visual testing on unit test with Vitest.
+
+00:07:53.200 --> 00:07:53.633
+Okay.
+
+00:07:54.300 --> 00:07:58.233
+So, let's recap what is Vitest.
+
+00:07:58.300 --> 00:08:01.133
+Vitest is a test runner that is super
+
+00:08:01.200 --> 00:08:03.933
+lightweight, super fast, and it's a headless
+
+00:08:04.000 --> 00:08:07.832
+test runner in a Node.js environment.
+
+00:08:07.900 --> 00:08:12.233
+It was created for Vite projects, which is
+
+00:08:12.300 --> 00:08:14.733
+JavaScript projects, and mainly used for
+
+00:08:14.800 --> 00:08:18.033
+unit test, integration test that's written
+
+00:08:18.100 --> 00:08:18.633
+in Node.js.
+
+00:08:19.800 --> 00:08:22.832
+And it's not only for Node.js.
+
+00:08:22.900 --> 00:08:26.533
+We can extend it to work with browser,
+
+00:08:26.600 --> 00:08:29.533
+mimicking the browser and configure it with
+
+00:08:29.600 --> 00:08:32.633
+other package to make sure that Vitest can
+
+00:08:32.700 --> 00:08:35.533
+run on specific framework application,
+
+00:08:35.600 --> 00:08:36.633
+such as Vue.
+
+00:08:36.700 --> 00:08:39.533
+So for Vue, when you install Vitest, you
+
+00:08:39.600 --> 00:08:42.033
+need to install also test-utils, Vue Test
+
+00:08:42.100 --> 00:08:45.233
+Utils or the package for testing library
+
+00:08:45.300 --> 00:08:49.233
+in Vue in order to get the set of APIs
+
+00:08:50.400 --> 00:08:53.733
+for assertions, a component in Vue and also
+
+00:08:54.400 --> 00:08:58.033
+be able to get a sets of methods that help
+
+00:08:58.100 --> 00:09:00.533
+you to render a component in a Vue
+
+00:09:00.600 --> 00:09:03.533
+environment with all the capability that
+
+00:09:03.600 --> 00:09:06.733
+you needed for running the test successfully.
+
+00:09:08.800 --> 00:09:09.033
+Okay.
+
+00:09:09.800 --> 00:09:11.533
+So let's talk about visual testing with
+
+00:09:11.600 --> 00:09:12.033
+Vitest.
+
+00:09:12.100 --> 00:09:16.333
+So for Vitest, like I said, it's a very
+
+00:09:16.400 --> 00:09:20.333
+generic test runner, so we won't have any
+
+00:09:22.600 --> 00:09:24.633
+browser support here because we are using
+
+00:09:24.700 --> 00:09:26.133
+the Node environment.
+
+00:09:26.200 --> 00:09:29.833
+For browser environment, well, because it's
+
+00:09:29.900 --> 00:09:33.133
+in Node environment by default, when you run
+
+00:09:33.200 --> 00:09:35.933
+a test on a component which is for front-end,
+
+00:09:36.000 --> 00:09:38.933
+for browser, you need to have extra
+
+00:09:39.000 --> 00:09:41.333
+implementation for DOM API and HTML
+
+00:09:41.400 --> 00:09:44.233
+standards, such as jsdom or happy-dom.
+
+00:09:44.800 --> 00:09:47.933
+These package will provide the APIs like
+
+00:09:48.900 --> 00:09:52.433
+query selector, like to have attribute and
+
+00:09:52.500 --> 00:09:55.433
+query by role and so on, so that you can
+
+00:09:55.500 --> 00:09:59.333
+assert it according to the DOM API or even
+
+00:09:59.400 --> 00:10:01.533
+window object, for example.
+
+00:10:01.600 --> 00:10:05.133
+It does have visual testing by default using
+
+00:10:05.200 --> 00:10:08.533
+snapshot comparison with the function
+
+00:10:08.600 --> 00:10:12.733
+toMatchSnapshot, but very limited and why,
+
+00:10:12.800 --> 00:10:14.933
+we're going to take a look in the next slide.
+
+00:10:15.500 --> 00:10:18.633
+For visual testing with Vitest, since it's
+
+00:10:18.700 --> 00:10:21.333
+a generic test runner for unit test and
+
+00:10:21.400 --> 00:10:25.433
+integration test, you cannot test per device,
+
+00:10:25.500 --> 00:10:27.933
+you cannot test per browser, and you cannot
+
+00:10:28.000 --> 00:10:30.733
+add behavior, accessibility testing.
+
+00:10:30.800 --> 00:10:36.533
+You can test the ARIA standard, but for
+
+00:10:36.600 --> 00:10:38.533
+anything that require navigation, user
+
+00:10:38.600 --> 00:10:41.233
+interaction, actual user interaction for
+
+00:10:41.800 --> 00:10:44.833
+accessibility, this doesn't work.
+
+00:10:44.900 --> 00:10:45.633
+Okay.
+
+00:10:45.700 --> 00:10:48.333
+Let's take a look how we set it up and we
+
+00:10:48.400 --> 00:10:49.833
+try our test.
+
+00:10:50.800 --> 00:10:52.933
+So, first of all, you need to set up the
+
+00:10:53.000 --> 00:10:54.933
+environment, jsdom or happy-dom, whatever
+
+00:10:55.000 --> 00:10:56.133
+you feel like.
+
+00:10:56.200 --> 00:10:58.533
+And then you can just use the function,
+
+00:10:58.600 --> 00:11:00.433
+just mount it.
+
+00:11:00.500 --> 00:11:03.533
+mount the component at the wrapper and then
+
+00:11:03.600 --> 00:11:07.633
+expects the mounted component to match the
+
+00:11:07.700 --> 00:11:08.633
+snapshot.
+
+00:11:08.700 --> 00:11:09.333
+That's it.
+
+00:11:09.400 --> 00:11:13.133
+We have this visual testing for in Vitest
+
+00:11:14.000 --> 00:11:14.933
+implemented.
+
+00:11:15.000 --> 00:11:18.733
+In the first run, it would generate the
+
+00:11:18.800 --> 00:11:22.133
+snapshot in the locations that we define in
+
+00:11:22.200 --> 00:11:25.233
+the <i>vitest.config</i> for snapshot.
+
+00:11:25.300 --> 00:11:27.733
+And then you can open the snapshot and then
+
+00:11:27.800 --> 00:11:30.033
+whenever run the second run, it would try
+
+00:11:30.100 --> 00:11:32.233
+to match the snapshot with the new snapshot
+
+00:11:32.300 --> 00:11:33.933
+and see whether it's the same.
+
+00:11:34.600 --> 00:11:35.233
+Okay.
+
+00:11:35.300 --> 00:11:37.433
+So we can take a look at the snapshot and
+
+00:11:37.500 --> 00:11:39.533
+the reason why I say it's limited because
+
+00:11:39.600 --> 00:11:41.933
+the snapshots is actually virtual node.
+
+00:11:42.000 --> 00:11:45.033
+It's mean node JavaScript.
+
+00:11:45.100 --> 00:11:47.733
+And you can see here that is not something
+
+00:11:47.800 --> 00:11:51.033
+that you can look and understand straight
+
+00:11:51.100 --> 00:11:53.033
+away what is this component.
+
+00:11:53.100 --> 00:11:55.133
+And whenever you make a change, let's say I
+
+00:11:55.200 --> 00:11:58.433
+changed the label to search label, the
+
+00:11:58.500 --> 00:11:59.533
+snapshot will fail.
+
+00:12:00.200 --> 00:12:03.533
+In order to make sure that the snapshot
+
+00:12:03.600 --> 00:12:06.933
+updated, we have another command called
+
+00:12:07.000 --> 00:12:09.033
+<i>vitest -u</i>.
+
+00:12:09.900 --> 00:12:11.833
+And then when you run this, it will run
+
+00:12:11.900 --> 00:12:15.933
+like the normal <i>vitest run</i>, but it will
+
+00:12:16.000 --> 00:12:18.333
+automatically update the snapshot to the
+
+00:12:18.400 --> 00:12:19.533
+latest code.
+
+00:12:20.200 --> 00:12:23.733
+And this is something pretty dangerous
+
+00:12:23.800 --> 00:12:27.033
+because when you do something like that, it
+
+00:12:27.100 --> 00:12:29.933
+kind of erase on the idea of snapshot
+
+00:12:30.000 --> 00:12:31.833
+testing because you can just update the
+
+00:12:31.900 --> 00:12:34.033
+snapshot and you never find the bugs.
+
+00:12:34.100 --> 00:12:36.633
+You never see what went wrong and what can
+
+00:12:36.700 --> 00:12:37.633
+be wrong.
+
+00:12:37.700 --> 00:12:40.833
+And since it's hard to read, it's not very
+
+00:12:40.900 --> 00:12:46.033
+maintainable or reliable because no one can
+
+00:12:46.100 --> 00:12:48.433
+understand what they written in the
+
+00:12:48.500 --> 00:12:52.733
+snapshot except for tree and object and so
+
+00:12:52.800 --> 00:12:53.333
+on.
+
+00:12:53.400 --> 00:12:55.333
+But the more the bigger component, the
+
+00:12:55.400 --> 00:12:56.533
+harder to understand it.
+
+00:12:57.900 --> 00:12:58.133
+Okay.
+
+00:12:58.900 --> 00:13:03.433
+So next, so that is visual testing in unit
+
+00:13:03.500 --> 00:13:05.033
+test in Vitest.
+
+00:13:05.100 --> 00:13:09.133
+What can we do with other end-to-end test
+
+00:13:09.200 --> 00:13:11.133
+runner such as Playwright for visual
+
+00:13:11.200 --> 00:13:11.733
+testing?
+
+00:13:11.800 --> 00:13:13.533
+Let's take a quick look about it.
+
+00:13:13.600 --> 00:13:15.933
+So Playwright as the test runner is the
+
+00:13:16.000 --> 00:13:18.733
+browser-based runner for end-to-end test in
+
+00:13:18.800 --> 00:13:20.033
+web application.
+
+00:13:20.100 --> 00:13:24.133
+So it's pretty freaking fast and isolated
+
+00:13:24.200 --> 00:13:27.333
+and it have component testing features that
+
+00:13:27.400 --> 00:13:30.433
+is specifically for testing component, not
+
+00:13:30.500 --> 00:13:32.633
+testing the whole application or whole
+
+00:13:32.700 --> 00:13:33.433
+page.
+
+00:13:33.500 --> 00:13:34.833
+And it cross language.
+
+00:13:34.900 --> 00:13:37.733
+So if your project have two different
+
+00:13:37.800 --> 00:13:39.133
+language, one for backend, one for
+
+00:13:39.200 --> 00:13:41.833
+frontend, using Playwright can be very
+
+00:13:41.900 --> 00:13:47.133
+beneficial for your application management.
+
+00:13:47.200 --> 00:13:47.733
+Okay.
+
+00:13:47.800 --> 00:13:49.733
+So let's take a look how we enable visual
+
+00:13:49.800 --> 00:13:51.933
+testing in Playwright.
+
+00:13:52.000 --> 00:13:54.033
+First, we using component testing.
+
+00:13:54.100 --> 00:13:56.833
+So we go to install something called
+
+00:13:56.900 --> 00:13:59.433
+<i>@playwright/experimental-ct-vue</i> package
+
+00:13:59.500 --> 00:14:01.033
+for component testing.
+
+00:14:01.100 --> 00:14:02.633
+And when we install it, it will auto
+
+00:14:02.700 --> 00:14:05.433
+generate for us Playwright config
+
+00:14:05.500 --> 00:14:07.533
+specifically for component testing with all
+
+00:14:07.600 --> 00:14:09.533
+the browser, the basic browser we want to
+
+00:14:09.600 --> 00:14:09.933
+test.
+
+00:14:10.600 --> 00:14:14.333
+And then we can go to the spec like test
+
+00:14:14.400 --> 00:14:18.533
+file, import the <i>test</i>, <i>expect</i> from this
+
+00:14:18.600 --> 00:14:20.933
+package and write the test as normal
+
+00:14:21.000 --> 00:14:23.833
+because we in Playwright, we can write
+
+00:14:23.900 --> 00:14:25.133
+JSX here.
+
+00:14:25.200 --> 00:14:26.933
+And then we can check use the function
+
+00:14:27.800 --> 00:14:32.133
+<i>screenshot</i> and we pass the path where do
+
+00:14:32.200 --> 00:14:34.733
+we want or what format and what name of the
+
+00:14:35.300 --> 00:14:37.933
+screenshot they want to generate under.
+
+00:14:38.600 --> 00:14:40.933
+And we can also use full page, but for
+
+00:14:41.000 --> 00:14:43.033
+component, full page will not do anything
+
+00:14:43.100 --> 00:14:43.433
+much.
+
+00:14:44.100 --> 00:14:46.533
+In other, we can use the screenshot
+
+00:14:46.600 --> 00:14:49.833
+function of page or method of page.
+
+00:14:49.900 --> 00:14:53.233
+Similar syntax, we can pass the path and we
+
+00:14:53.300 --> 00:14:57.833
+can enable full page to make sure they
+
+00:14:57.900 --> 00:14:59.933
+capture the whole page as this is in the
+
+00:15:00.000 --> 00:15:00.933
+browser.
+
+00:15:01.000 --> 00:15:02.133
+And we can run it.
+
+00:15:02.800 --> 00:15:05.433
+And this is how we run the test.
+
+00:15:06.300 --> 00:15:10.233
+Okay.
+
+00:15:17.400 --> 00:15:20.133
+Now if you look at the screenshot,
+
+00:15:20.200 --> 00:15:22.133
+so for component screenshot is only the
+
+00:15:22.200 --> 00:15:22.733
+component.
+
+00:15:22.800 --> 00:15:25.233
+But for the page it's display the whole
+
+00:15:25.300 --> 00:15:25.533
+page.
+
+00:15:25.600 --> 00:15:27.933
+So really depends on how you want to do it.
+
+00:15:28.000 --> 00:15:30.233
+With this screenshot, you can actually do
+
+00:15:30.300 --> 00:15:33.233
+manual, look at this and see whether it's
+
+00:15:33.300 --> 00:15:35.633
+render correctly, because render as is,
+
+00:15:35.700 --> 00:15:37.633
+so you can really see look and feel,
+
+00:15:37.700 --> 00:15:39.133
+what you see what you get.
+
+00:15:39.200 --> 00:15:41.333
+And you can also upload it to a cloud,
+
+00:15:41.400 --> 00:15:44.333
+integrate with the third party smart tool
+
+00:15:44.400 --> 00:15:46.933
+to do comparison between the two screenshot
+
+00:15:47.000 --> 00:15:52.633
+and see which one doesn't match in the
+
+00:15:52.700 --> 00:15:54.333
+automation process.
+
+00:15:55.200 --> 00:15:59.833
+So we also have full accessibility testing
+
+00:15:59.900 --> 00:16:02.433
+with additional package as core Playwright.
+
+00:16:02.500 --> 00:16:05.833
+And it sounds cool, right?
+
+00:16:05.900 --> 00:16:09.833
+But that's not the point of this talk.
+
+00:16:10.500 --> 00:16:12.133
+Here comes the next question.
+
+00:16:12.200 --> 00:16:14.233
+So that stay along.
+
+00:16:14.800 --> 00:16:17.133
+Obviously, Vitest have more limited
+
+00:16:17.200 --> 00:16:20.733
+Playwright have a lot more advantage
+
+00:16:20.800 --> 00:16:23.933
+towards end-to-end test or visual testing
+
+00:16:24.000 --> 00:16:26.133
+for component since it have component
+
+00:16:26.200 --> 00:16:27.133
+testing also.
+
+00:16:27.800 --> 00:16:30.833
+But the question in this talk is, can we
+
+00:16:30.900 --> 00:16:34.833
+have the similar power of Playwright in
+
+00:16:34.900 --> 00:16:38.033
+Vitest to support full browser visual
+
+00:16:38.100 --> 00:16:39.033
+testing?
+
+00:16:39.100 --> 00:16:41.533
+Well, the answer is yes, kind of.
+
+00:16:42.300 --> 00:16:45.433
+With Vitest browser mode, you can have
+
+00:16:45.500 --> 00:16:49.033
+this together in the same Vitest, in the
+
+00:16:49.100 --> 00:16:50.533
+same test runner.
+
+00:16:50.600 --> 00:16:52.633
+How we going to do it, especially with
+
+00:16:52.700 --> 00:16:53.233
+Playwright?
+
+00:16:53.300 --> 00:16:57.933
+What we do, we install the package called
+
+00:16:58.000 --> 00:17:00.633
+<i>@vitest/browser</i>.
+
+00:17:00.700 --> 00:17:03.533
+This package will enable the browser
+
+00:17:03.600 --> 00:17:05.733
+features, more features for Vitest.
+
+00:17:06.500 --> 00:17:10.933
+And then, we write a command
+
+00:17:11.000 --> 00:17:13.833
+<i>npx vitest init browser</i> and it will
+
+00:17:13.900 --> 00:17:15.532
+walk it through the configuration
+
+00:17:15.599 --> 00:17:18.233
+automatically to set up the environmental
+
+00:17:18.300 --> 00:17:20.733
+configuration ready and even the sample
+
+00:17:20.800 --> 00:17:23.333
+test ready for browser mode.
+
+00:17:24.000 --> 00:17:25.933
+And yes, of course, we can choose Vue,
+
+00:17:26.000 --> 00:17:28.233
+we can choose another browser, Chromium,
+
+00:17:28.300 --> 00:17:30.833
+or we can choose another browser provider,
+
+00:17:30.900 --> 00:17:33.533
+not just Playwright, can WebDriverIO or
+
+00:17:33.600 --> 00:17:34.033
+something.
+
+00:17:34.100 --> 00:17:36.333
+In this talk, we're going to use
+
+00:17:36.400 --> 00:17:37.333
+Playwright.
+
+00:17:37.400 --> 00:17:41.033
+And then, that's not it, we need to do
+
+00:17:41.100 --> 00:17:42.733
+extra setup.
+
+00:17:42.800 --> 00:17:46.333
+Because now in our application, we have
+
+00:17:46.400 --> 00:17:48.633
+unit test and we have browser test.
+
+00:17:49.300 --> 00:17:51.633
+And this doesn't really work together
+
+00:17:51.700 --> 00:17:53.533
+because each test, the test runner need
+
+00:17:53.600 --> 00:17:54.833
+to know different mode, different
+
+00:17:54.900 --> 00:17:57.333
+configuration in order to run the test
+
+00:17:57.400 --> 00:18:00.033
+correctly and not throw error.
+
+00:18:00.600 --> 00:18:03.233
+So we need to provide different test
+
+00:18:04.900 --> 00:18:05.833
+configuration.
+
+00:18:05.900 --> 00:18:07.933
+Like in here, you can see one is for
+
+00:18:08.000 --> 00:18:10.233
+unit test where I set the environment
+
+00:18:10.300 --> 00:18:13.333
+to be <i>jsdom</i> and pass the include
+
+00:18:14.800 --> 00:18:17.733
+directory of files that's meant to be
+
+00:18:17.800 --> 00:18:18.933
+for unit test.
+
+00:18:19.000 --> 00:18:21.433
+And for browser test, I have the object
+
+00:18:21.500 --> 00:18:23.233
+browser where I enable the browser and
+
+00:18:23.300 --> 00:18:28.533
+pass the target browser, the provider,
+
+00:18:28.600 --> 00:18:31.033
+and other options of the provider inside
+
+00:18:31.100 --> 00:18:32.333
+the configuration.
+
+00:18:32.400 --> 00:18:36.433
+And with that, I add another command to
+
+00:18:37.400 --> 00:18:39.933
+point the command Vitest when to run
+
+00:18:40.000 --> 00:18:41.033
+the Vitest.
+
+00:18:41.700 --> 00:18:44.733
+With Vitest, it will use this workspace
+
+00:18:44.800 --> 00:18:45.933
+file instead of the normal
+
+00:18:46.000 --> 00:18:48.333
+<i>vitest.config</i> file.
+
+00:18:49.800 --> 00:18:53.133
+And with that, let's go to do a quick
+
+00:18:53.200 --> 00:18:54.533
+demo.
+
+00:18:54.900 --> 00:18:55.533
+Okay
+
+00:18:55.600 --> 00:18:59.433
+So in this demo, this is the search box.
+
+00:19:00.000 --> 00:19:03.933
+And I already have…
+
+00:19:04.000 --> 00:19:05.133
+The component.
+
+00:19:05.200 --> 00:19:07.333
+And now I already have the end-to-end test
+
+00:19:07.400 --> 00:19:08.433
+right here.
+
+00:19:08.500 --> 00:19:15.933
+So we can copy it and move it to browser.
+
+00:19:16.000 --> 00:19:18.733
+And now, instead of using the component
+
+00:19:18.800 --> 00:19:20.933
+testing view package, we can just use
+
+00:19:21.000 --> 00:19:23.133
+the normal Vitest package.
+
+00:19:23.200 --> 00:19:28.133
+Now we're going to update the route path
+
+00:19:28.200 --> 00:19:29.533
+to the component.
+
+00:19:29.600 --> 00:19:32.733
+And because we are in Vitest and not in
+
+00:19:32.800 --> 00:19:35.533
+Playwright native environment for writing
+
+00:19:35.600 --> 00:19:37.833
+the test, we cannot use JSX.
+
+00:19:37.900 --> 00:19:41.733
+Instead, we use the normal mount and we do
+
+00:19:41.800 --> 00:19:42.733
+the prop.
+
+00:19:42.800 --> 00:19:45.733
+And of course, this will not be available
+
+00:19:45.800 --> 00:19:48.633
+here because it's not on the server and
+
+00:19:48.700 --> 00:19:52.133
+it's not a Playwright going through Vitest.
+
+00:19:52.700 --> 00:19:54.533
+So instead of mount, we using render
+
+00:19:54.600 --> 00:19:56.733
+function from Vitest browser view.
+
+00:19:57.300 --> 00:20:00.633
+And then locator, some of the native
+
+00:20:00.700 --> 00:20:04.133
+function of Playwright will not present in
+
+00:20:04.200 --> 00:20:06.333
+the browser mode of Vitest yet.
+
+00:20:07.000 --> 00:20:09.133
+So instead of locator, we will do
+
+00:20:09.200 --> 00:20:14.133
+getByTestID and instead of ID, we put the
+
+00:20:14.200 --> 00:20:17.133
+test ID which is the search input.
+
+00:20:17.700 --> 00:20:21.233
+And here we getByText where we get the text
+
+00:20:21.300 --> 00:20:25.333
+of the component by passing the text of
+
+00:20:25.400 --> 00:20:25.933
+the label.
+
+00:20:26.600 --> 00:20:29.933
+And we keep everything the same except for
+
+00:20:30.000 --> 00:20:31.833
+component doesn't have a screenshot.
+
+00:20:31.900 --> 00:20:34.133
+Instead, we will use the element where we
+
+00:20:34.200 --> 00:20:35.933
+take the screenshot of that element,
+
+00:20:36.000 --> 00:20:37.533
+the input element.
+
+00:20:37.600 --> 00:20:40.233
+And the page not here.
+
+00:20:40.300 --> 00:20:44.333
+So instead, we will use the page from
+
+00:20:44.400 --> 00:20:48.933
+context of Vitest browser context package.
+
+00:20:49.600 --> 00:20:56.033
+And we will just pass element because this
+
+00:20:56.100 --> 00:20:59.633
+one work and since a label is the locator,
+
+00:20:59.700 --> 00:21:02.533
+it's always true and we will return
+
+00:21:02.600 --> 00:21:05.833
+the element and we can do the actual
+
+00:21:05.900 --> 00:21:09.533
+element to be truthy.
+
+00:21:10.400 --> 00:21:13.733
+And to have value, element is a locator
+
+00:21:13.800 --> 00:21:14.733
+and not an element.
+
+00:21:14.800 --> 00:21:17.233
+So we also need to use the same function
+
+00:21:17.300 --> 00:21:20.133
+element to get that.
+
+00:21:20.200 --> 00:21:24.933
+And similarly, we don't need this test.
+
+00:21:25.000 --> 00:21:26.433
+Just for the purpose here.
+
+00:21:27.100 --> 00:21:31.133
+So now let's run the test.
+
+00:21:32.800 --> 00:21:37.433
+Once I run the test, you can see here.
+
+00:21:37.500 --> 00:21:38.433
+It will run the test.
+
+00:21:38.500 --> 00:21:40.133
+It run the unit test and then it start
+
+00:21:40.200 --> 00:21:41.633
+running the browser test.
+
+00:21:42.300 --> 00:21:44.733
+And you can see the test and once it's
+
+00:21:44.800 --> 00:21:47.433
+done, it shows us a GUI where we can see
+
+00:21:47.500 --> 00:21:50.033
+all the passing running and each of the
+
+00:21:50.100 --> 00:21:52.233
+test will have the label to tell us
+
+00:21:52.300 --> 00:21:54.233
+exactly whether it's the unit test or
+
+00:21:54.300 --> 00:21:55.733
+the browser test.
+
+00:21:55.800 --> 00:21:58.533
+And you can see the UI, can interact it,
+
+00:21:58.600 --> 00:22:01.433
+can check in different device and we also
+
+00:22:01.500 --> 00:22:03.533
+have a dashboard.
+
+00:22:03.600 --> 00:22:04.633
+Awesome, right?
+
+00:22:04.700 --> 00:22:05.733
+And that's it.
+
+00:22:05.800 --> 00:22:11.033
+We have both visual testing together with
+
+00:22:11.100 --> 00:22:14.033
+unit testing for a component in Vitest
+
+00:22:14.900 --> 00:22:17.633
+with the help of Playwright very little
+
+00:22:17.700 --> 00:22:19.933
+and we don't need to install the whole
+
+00:22:20.000 --> 00:22:21.133
+Playwright standalone.
+
+00:22:21.200 --> 00:22:23.833
+It do everything for us.
+
+00:22:24.700 --> 00:22:25.233
+Cool.
+
+00:22:26.400 --> 00:22:31.533
+Before we finish, what we expected for
+
+00:22:31.600 --> 00:22:34.233
+Vitest browser mode with Playwright?
+
+00:22:34.300 --> 00:22:36.933
+Well, the pros are obviously we have
+
+00:22:37.000 --> 00:22:38.933
+everything in one place, everything.
+
+00:22:39.000 --> 00:22:41.633
+And we can also actually testing our
+
+00:22:41.700 --> 00:22:44.833
+component in the state of the isolated
+
+00:22:44.900 --> 00:22:47.933
+mode with the actual browser, with actual
+
+00:22:48.000 --> 00:22:50.533
+UI and with actual data.
+
+00:22:50.600 --> 00:22:52.733
+And we can have one UI to see all the
+
+00:22:52.800 --> 00:22:55.133
+report on the status of the test.
+
+00:22:55.200 --> 00:22:58.133
+And we don't need to run different command
+
+00:22:58.200 --> 00:23:01.333
+and different mode for different type
+
+00:23:01.400 --> 00:23:02.633
+of testing.
+
+00:23:02.700 --> 00:23:06.433
+And of course, the biggest disadvantage of
+
+00:23:06.500 --> 00:23:09.133
+the mode at the moment is that it's in
+
+00:23:09.200 --> 00:23:10.333
+preview mode.
+
+00:23:10.400 --> 00:23:12.533
+So some of the functionality is not
+
+00:23:12.600 --> 00:23:13.533
+there yet.
+
+00:23:13.600 --> 00:23:15.733
+But I'm sure it will be there very soon
+
+00:23:16.500 --> 00:23:19.933
+and I'm sure that Vitest team is working
+
+00:23:20.000 --> 00:23:21.133
+very hard on that.
+
+00:23:21.700 --> 00:23:23.733
+But meanwhile, check it out.
+
+00:23:23.800 --> 00:23:26.133
+The browser mode, you may not need
+
+00:23:26.200 --> 00:23:28.033
+component utility testing anymore.
+
+00:23:28.100 --> 00:23:31.033
+Instead, you can use unit test plus
+
+00:23:31.100 --> 00:23:34.033
+component testing with Vitest browser mode
+
+00:23:34.100 --> 00:23:35.033
+and Playwright.
+
+00:23:35.100 --> 00:23:38.633
+And remember, test what a component does,
+
+00:23:38.700 --> 00:23:40.033
+not how it does it.
+
+00:23:40.800 --> 00:23:41.533
+And thank you.
+
+00:23:41.600 --> 00:23:43.133
+I hope you enjoy my talk.
+
+00:23:43.200 --> 00:23:44.933
+If you have any questions, feel free to
+
+00:23:45.000 --> 00:23:45.533
+talk to me.
+
+00:23:47.300 --> 00:23:49.433
+I will be happy to answer any questions
+
+00:23:49.500 --> 00:23:51.533
+and see if I can help you in any case.
+
+00:23:52.100 --> 00:23:54.133
+And have a great day and enjoy
+
+00:23:54.200 --> 00:23:55.233
+the conference.
