@@ -122,18 +122,18 @@ const events = [
       url: 'https://mdb.link/thailand',
     },
   }),
-  new Event('vueconf', 'Vue Conf Thailand 2024', {
+  new Event('vueconf', 'Vue Thai Conf 2024', {
     urlOverride: 'https://connextickets.me/event/vue-thai-conf-2024',
     externalOrganizer: {
       name: 'Vue News Thailand',
-      url: 'https://www.facebook.com/@VueNewsThailand/'
+      url: 'https://www.facebook.com/@VueNewsThailand/',
     },
   }),
   new Event('jsbkk1', 'JavaScript Bangkok 1.0.0', {
     urlOverride: 'https://2019.javascriptbangkok.com/',
     externalOrganizer: {
       name: 'Software Developer Community',
-      url: 'https://javascriptbangkok.com'
+      url: 'https://javascriptbangkok.com',
     },
-  })
+  }),
 ]
