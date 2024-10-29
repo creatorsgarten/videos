@@ -15137,6 +15137,7 @@ video:2kFpxnaycyg:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/reusable-web-components/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16239,3 +16240,13 @@ video:sMms4lFxfV8:caption:th:
     isDraft: false
   state:
     id: AUieDabNST-2OqRluQ1LYEUAv41rlbDKVbotRTO82jmrIndCJnfu
+video:2kFpxnaycyg:caption:th:
+  spec:
+    videoId: 2kFpxnaycyg
+    filePath: data/videos/jsbkk1/reusable-web-components_th.vtt
+    language: th
+    name: Thai
+    hash: a57021560f04d12fd9bd43d8676750b9d9a47486e4fab10f811a17beb523515e
+    isDraft: false
+  state:
+    id: AUieDabV2D2HE4cL-ndXOdCvREhkO8iIE_NDwmQyows95DXCud8Z
