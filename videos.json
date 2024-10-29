@@ -3043,11 +3043,15 @@
         "managed": true,
         "description": "Have you ever wondered what the process of building reusable web components that are used by 200+ developer teams looks like? In this talk, you will be walked through all aspects that need to be considered while designing and implementing reusable web components along with fun real-world examples.\n",
         "published": "2024-12-02",
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/jsbkk1/reusable-web-components.md",
-      "imageFilePath": "data/videos/jsbkk1/reusable-web-components.jpg"
+      "imageFilePath": "data/videos/jsbkk1/reusable-web-components.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk1/reusable-web-components_th.vtt"
     },
     {
       "event": "jsbkk1",
