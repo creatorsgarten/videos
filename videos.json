@@ -2911,7 +2911,8 @@
       },
       "content": "",
       "filePath": "data/videos/jsbkk1/design-patterns.md",
-      "imageFilePath": "data/videos/jsbkk1/design-patterns.jpg"
+      "imageFilePath": "data/videos/jsbkk1/design-patterns.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk1/design-patterns_en.vtt"
     },
     {
       "event": "jsbkk1",
