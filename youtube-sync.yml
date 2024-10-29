@@ -15695,6 +15695,7 @@ video:R1VjfP7Mx-g:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/design-patterns/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16250,3 +16251,13 @@ video:2kFpxnaycyg:caption:th:
     isDraft: false
   state:
     id: AUieDabV2D2HE4cL-ndXOdCvREhkO8iIE_NDwmQyows95DXCud8Z
+video:R1VjfP7Mx-g:caption:en:
+  spec:
+    videoId: R1VjfP7Mx-g
+    filePath: data/videos/jsbkk1/design-patterns_en.vtt
+    language: en
+    name: English
+    hash: 52ace76e12ba498208fa54a4bd2af88853229bd3c49c6551f2895dc6d648a556
+    isDraft: true
+  state:
+    id: AUieDabFavR7YKeePxPOLe83JvS2hhBE8IgY5KeT7AIXLAb5wmwKc45s
