@@ -3,7 +3,8 @@ title: How to perform RAG and Vector Search with MongoDB
 speaker: Kanin Kearpimy
 youtube: ct2RhcBDeyE
 managed: true
-published: "2024-10-27"
+published: '2024-10-27'
+subtitles: [th]
 chapters:
   '0:00': 'LLM, Vector Search และ Semantic Search คืออะไร?'
   '0:38': 'ภาพรวม Workshop และแหล่งข้อมูลเพิ่มเติม'
