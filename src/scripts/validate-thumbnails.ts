@@ -1,11 +1,11 @@
-import { Video } from '../Video'
 import fs from 'fs'
 import Jimp from 'jimp'
+import { Video } from '../Video'
 
 const videos = await Video.findAll()
 for (const video of videos) {
   const imageFilePath = video.imageFilePath
-  if (fs.existsSync(imageFilePath)) {
+  if (imageFilePath && fs.existsSync(imageFilePath)) {
     console.log('Validating image file:', imageFilePath)
     try {
       const report = (message: string) => {
