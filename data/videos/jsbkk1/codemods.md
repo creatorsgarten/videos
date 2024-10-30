@@ -5,6 +5,7 @@ youtube: nxjUN4nxNkw
 managed: true
 published: '2024-12-08'
 language: en
+subtitles: [en]
 chapters:
   '0:00': 'Introduction and Event Details'
   '0:45': 'Welcome and Remote Speaker Setup'

@@ -5,6 +5,7 @@ youtube: R1VjfP7Mx-g
 managed: true
 published: '2024-12-05'
 language: en
+subtitles: [en]
 chapters:
   '0:00': "Introduction and Speaker's Journey into Optimization"
   '0:39': 'Optimization Design Patterns: From Games to Web'
