@@ -40,6 +40,14 @@ export class Event {
   get externalOrganizer() {
     return this.options.externalOrganizer
   }
+  toJSON() {
+    return {
+      id: this.id,
+      name: this.name,
+      url: this.url,
+      externalOrganizer: this.externalOrganizer,
+    }
+  }
 }
 
 const events = [
