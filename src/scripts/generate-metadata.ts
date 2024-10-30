@@ -199,10 +199,19 @@ async function runPrompt(text: string) {
   return result.response.text()
 }
 
-console.log('Generating chapters…')
-const chaptersResult = await runPrompt(chaptersPrompt)
-console.log(chaptersResult)
-console.log()
-console.log('Generating description…')
-const descriptionResult = await runPrompt(descriptionPrompt)
-console.log(descriptionResult)
+if (video.data.chapters) {
+  console.log('Skipping chapters generation because it already exists')
+} else {
+  console.log('Generating chapters…')
+  const chaptersResult = await runPrompt(chaptersPrompt)
+  console.log(chaptersResult)
+  console.log()
+}
+
+if (video.data.description) {
+  console.log('Skipping description generation because it already exists')
+} else {
+  console.log('Generating description…')
+  const descriptionResult = await runPrompt(descriptionPrompt)
+  console.log(descriptionResult)
+}
