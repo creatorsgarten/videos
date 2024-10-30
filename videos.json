@@ -4841,7 +4841,7 @@
         "youtube": "3uwtEk_ouhM",
         "managed": true,
         "description": "เฮียโหน่ง CTO น้ำตาลทราย.com มาแชร์มุมมองต่อยุคทองของ web developer ในยุค Gen AI  โดยเฉพาะอย่างยิ่งกับผู้ใช้งาน Vue และ Nuxt การพูดคุยครั้งนี้จะชี้ให้เห็นว่า generative AI ช่วยเพิ่มศักยภาพการทำงานของโปรแกรมเมอร์ได้อย่างไร  พร้อมยกตัวอย่างประสบการณ์การพัฒนาเว็บไซต์ น้ำตาลทราย.com ด้วย Nuxt 3 และ Gen AI  รวมถึงการสร้าง service ของตนเอง และการมีส่วนร่วมใน community  มาร่วมรับฟังแนวคิดและมุมมองที่น่าสนใจเกี่ยวกับอนาคตของ web developer ในยุค AI และแรงบันดาลใจในการพัฒนาทักษะเพื่อคว้าโอกาสในยุคนี้\n",
-        "published": false,
+        "published": "2024-11-02",
         "language": "th",
         "subtitles": [
           "th"
@@ -4885,7 +4885,7 @@
         "youtube": "TJ54j3Dk5WA",
         "managed": true,
         "description": "คุณปุ๋ย หรือคุณสมเกียรติ จะมาแชร์ประสบการณ์และมุมมองเกี่ยวกับการทดสอบ (test) ใน Vue.js และ Nuxt.js  พบกับเรื่องราวความสนุกปนขมขื่นของชีวิตนักพัฒนาที่ต้องเผชิญกับ deadline และ bug  คุณปุ๋ยจะชวนคิดถึงปัญหาที่มักเกิดขึ้นในการพัฒนาซอฟต์แวร์  เช่น การ refactor โค้ด การจัดการ environment  และความสำคัญของการ test  พร้อมทั้งนำเสนอแนวคิดและเทคนิคการ test  เช่น end-to-end test, isolated test และการ mock  รวมถึงการใช้เครื่องมืออย่าง Vitest, Playwright และ Cypress  มาเรียนรู้วิธีสร้างความเชื่อมั่นในโค้ด  และเตรียมรับมือกับการเปลี่ยนแปลงในโลกของการพัฒนาซอฟต์แวร์ไปพร้อมกัน\n",
-        "published": false,
+        "published": "2024-11-07",
         "language": "th",
         "subtitles": [
           "th"
@@ -4932,7 +4932,7 @@
         "youtube": "sMms4lFxfV8",
         "managed": true,
         "description": "คุณตั้ง วรัทธน์ วงศ์มณีกิจ Chief Product Officer ที่ WISESIGHT และ Google Developer Expert ด้าน web technology มาแชร์ประสบการณ์ตรงกับ Composition API ใน Vue.js ที่เขา \"โคตรเกลียด\"  จากการพัฒนาแอปพลิเคชันส่วนตัวด้วย Vue 3 เขาพบปัญหาหลายอย่าง ตั้งแต่ความซับซ้อนของการใช้งาน  การเรียนรู้ที่ยากขึ้น  และความไม่เป็นระเบียบของโค้ด  มาร่วมฟังมุมมองที่แตกต่าง พร้อมเหตุผลที่ทำให้เขา \"เกลียด\" Composition API และปัญหาที่พบเจอระหว่างการใช้งานจริง  รวมถึงข้อสังเกตเกี่ยวกับ ecosystem ของ Vue ที่เปลี่ยนแปลงไป  สำหรับใครที่กำลังใช้งาน Vue.js หรือสนใจ framework นี้  วิดีโอนี้จะทำให้คุณเห็นอีกมุมมองหนึ่งที่น่าสนใจ\n",
-        "published": false,
+        "published": "2024-11-13",
         "language": "th",
         "subtitles": [
           "th"
@@ -4975,7 +4975,7 @@
         "youtube": "SMqJJ7o_Mi4",
         "managed": true,
         "description": "ปัญหาการศึกษาไทยในยุคดิจิทัลและ AI คืออะไร? มาร่วมหาคำตอบกับคุณตูนจาก Spark Education ในเซสชั่นนี้  เขาจะมาแบ่งปันประสบการณ์การพัฒนาแพลตฟอร์ม CodeVenture และ CodingThailand เพื่อสอน coding ให้เด็กๆ ทั่วประเทศ  ฟังเรื่องราวการแก้ปัญหาการเรียน coding ที่ยากและน่าเบื่อ  พร้อมเรียนรู้แนวคิดการสร้างเกมและสื่อการสอนที่น่าสนใจ  รวมถึงความท้าทายในการทำงานร่วมกับโรงเรียนและคุณครูทั่วประเทศ  มาดูกันว่า CodeVenture จะช่วยเตรียมความพร้อมเด็กไทยสำหรับอนาคตได้อย่างไร\n",
-        "published": false,
+        "published": "2024-11-04",
         "language": "th",
         "subtitles": [
           "th"
@@ -5023,7 +5023,7 @@
         "youtube": "lP7Op-K6ajk",
         "managed": true,
         "description": "Maya Shavin, a senior software engineer at Microsoft and accessibility champion, explores the nuances of frontend component testing in this insightful talk. She delves into the importance of validating both the functionality and visual aspects of UI elements, emphasizing how these tests ensure a consistent user experience across different devices and browsers. The talk examines the roles of unit and end-to-end testing, specifically focusing on visual testing within these contexts. Using a practical example of a search component, Maya demonstrates how visual testing can be implemented using Vitest, a lightweight test runner, and Playwright, a browser-based end-to-end testing tool. She further explores the intriguing possibility of combining the strengths of both tools within Vitest's browser mode, offering a potentially streamlined approach to comprehensive component testing. Discover how to effectively test your Vue components for both behavior and appearance, ensuring a polished and accessible user interface.\n",
-        "published": false,
+        "published": "2024-11-10",
         "language": "en",
         "subtitles": [
           "en"
