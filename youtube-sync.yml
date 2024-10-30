@@ -15097,6 +15097,47 @@ video:2kFpxnaycyg:
         real-world examples.
 
 
+        00:00 | เกริ่นนำ: ปัญหา UI ไม่สอดคล้องกันในระบบขนาดใหญ่
+
+        00:53 | แนะนำวิทยากรและหัวข้อบรรยาย
+
+        01:26 | ระบบ AWS และปัญหา UI ที่ไม่สอดคล้องกัน
+
+        02:22 | การเติบโตของ AWS และผลกระทบต่อ UI
+
+        03:40 | ตัวอย่างปัญหา UI ของ Lambda และ S3
+
+        05:05 | ปัญหาเรื่องสีและ Accessibility
+
+        06:40 | ปัญหาการใช้งานคีย์บอร์ด
+
+        07:30 | ความสำคัญของสีและการใช้งานคีย์บอร์ดที่ดี
+
+        08:09 | ต้นทุนของการพัฒนา UI ซ้ำซ้อน
+
+        09:25 | แนวคิดการสร้าง Components เพื่อแก้ปัญหา
+
+        09:45 | การเลือก Framework ที่เหมาะสม: React, Vue และ Web Components
+
+        11:20 | ปัญหา Web Components กับ IE และทางแก้
+
+        12:47 | การใช้ Pure JavaScript และ Wrapper
+
+        13:56 | การออกแบบ API ของ Component: Flexible vs. Rigid
+
+        16:44 | ความสำคัญของการทดสอบ Component
+
+        17:23 | ตัวอย่างปัญหาและการใช้ Screenshot Test
+
+        20:28 | Percy: Tool สำหรับ Screenshot Test
+
+        22:18 | การสร้าง Design System และ Community
+
+        23:19 | Design System คืออะไรและตัวอย่างบริษัทที่ใช้
+
+        23:54 | สรุปและ Q&A
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -15156,6 +15197,30 @@ video:3YTZbSMpDMY:
         here to tell you how my love life be.
 
 
+        00:00 | แนะนำวิทยากรและหัวข้อ How I Met My Superset of JavaScript
+
+        00:36 | ทำไม Builk One Group ถึงเลือก TypeScript
+
+        02:07 | ข้อดีของ TypeScript: Strongly Typed, OOP, Compatibility, Open
+        Source
+
+        06:37 | ปัญหาที่พบเจอระหว่างการเปลี่ยนมาใช้ TypeScript
+
+        08:48 | ความท้าทายในการขอ Refactor โค้ด
+
+        10:11 | เทคนิคการขออนุญาต Refactor กับทีม Dev, Tester และ PM
+
+        13:07 | วิธีการโน้มน้าว Product Owner, C-Level และ Board
+
+        14:18 | เทคนิคการสื่อสารกับ Non-Tech-Savvy People
+
+        16:03 | การวางแผนและการเแอบ Research เพื่อการ Refactor
+
+        18:07 | สรุป: ทำให้ชีวิต Dev ดีขึ้น และเพิ่มโอกาสทางธุรกิจ
+
+        19:49 | ขอบคุณวิทยากรและประกาศพักเบรก
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -15196,6 +15261,7 @@ video:3YTZbSMpDMY:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/superset/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15541,6 +15607,69 @@ video:PBnDTeiB_Gw:
     snippet:
       title: Sponsored Session by KBTG - JavaScript Bangkok 1.0.0
       description: >-
+        คุณ Nattapon Rattajak, full stack JavaScript developer จาก KBTG
+        จะพาคุณไปทำความเข้าใจ React Practice ผ่านการเรียนรู้ functional
+        programming ใน JavaScript  การบรรยายนี้จะพูดถึง feature สำคัญๆ ของ
+        JavaScript ที่เป็นพื้นฐานของ functional programming เช่น first-class
+        function, anonymous function และ closure  พร้อมทั้งอธิบาย key concept
+        สำคัญ 5 ประการของ functional programming ได้แก่ pure function, function
+        composition, การหลีกเลี่ยง shared state, การหลีกเลี่ยง mutate state
+        และการหลีกเลี่ยง side effect  และเรียนรู้วิธีประยุกต์ใช้ concept
+        เหล่านี้ในการพัฒนา React application อย่างมีประสิทธิภาพ 
+        ไม่ว่าจะเป็นการสร้าง pure component, การจัดการ side effect และการใช้
+        immutable data structure  มาร่วมเรียนรู้เทคนิคการเขียนโค้ด React
+        ที่สะอาด, เข้าใจง่าย และง่ายต่อการทดสอบ กับคุณณัฐพลในวิดีโอนี้
+
+
+        00:00 | แนะนำสปอนเซอร์ KBTG และหัวข้อเกี่ยวกับ React และ Functional
+        Programming
+
+        01:13 | แนะนำตัววิทยากรและหัวข้อที่จะพูด
+
+        01:41 | ความสำคัญของ Functional Programming ในการพัฒนา JavaScript
+        โดยเฉพาะ React
+
+        02:25 | Functional Programming คืออะไรและข้อดี
+
+        02:50 | หัวข้อที่จะพูดถึง: JavaScript Feature, Key Concept
+        และการประยุกต์ใช้กับ React
+
+        03:16 | JavaScript Feature ที่ทำให้เกิดการเขียนโค้ดแบบ Functional
+        Programming
+
+        03:31 | First-class Function, Anonymous Function, Higher-order Function
+        และ Closure
+
+        05:17 | Key Concept ของ Functional Programming: 5 หลักการสำคัญ
+
+        05:36 | Pure Function: ฟังก์ชันที่ให้ Output เดิมๆ เสมอและไม่ทำ Side
+        Effect
+
+        06:29 | Function Composition: การรวมฟังก์ชันหลายๆ ตัวเข้าด้วยกัน
+
+        07:07 | Avoid Shared State: หลีกเลี่ยงการใช้ Data ร่วมกัน
+
+        08:09 | Avoid Mutate State: หลีกเลี่ยงการแก้ไขค่า Object ตรงๆ
+
+        09:02 | Avoid Side Effect: หลีกเลี่ยงการเข้าถึง Context ด้านนอก
+
+        09:37 | การประยุกต์ใช้ Functional Programming กับ React Application
+
+        09:48 | ตัวอย่าง: การสร้าง Header Component ด้วย Function Composition
+
+        10:40 | ตัวอย่าง: ปัญหาจาก Shared State และ Mutation ใน React Component
+
+        11:25 | การจัดการ Side Effect ใน React Application
+
+        12:34 | การใช้ Immutable Data Structure Library ในการแก้ไข Global State
+
+        13:01 | สรุปหลักการ Functional Programming และแนะนำงาน Meetup
+
+        14:03 | ขอบคุณวิทยากรและประกาศพักเบรก
+
+
+        --------------------------------------------
+
         Event: JavaScript Bangkok 1.0.0
 
         https://2019.javascriptbangkok.com/
@@ -15579,6 +15708,7 @@ video:PBnDTeiB_Gw:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/spon-kbtg/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15655,6 +15785,51 @@ video:R1VjfP7Mx-g:
         techniques.
 
 
+        0:00 | Introduction and Speaker's Journey into Optimization
+
+        0:39 | Optimization Design Patterns: From Games to Web
+
+        1:29 | The Importance of Performance Optimization
+
+        2:25 | Gaming's Influence on Software Performance
+
+        3:04 | About the Speaker: Yonatan Kra
+
+        3:42 | Presentation Overview and the Triangle of Considerations
+
+        4:19 | Design Patterns: Everyday Use and Gaming's Role
+
+        5:38 | Why Gaming Leads in Performance Optimization
+
+        6:42 | Balancing Architecture, Performance, and Deadlines
+
+        7:52 | Memory Management and the Object Pool Pattern
+
+        9:16 | Why Memory Fragmentation and Garbage Collection are Bad
+
+        10:11 | Code Example: Object Pool Performance Comparison
+
+        14:02 | When and Why to Use the Object Pool Pattern
+
+        15:35 | The System Bus and Cache Misses
+
+        17:57 | Cache Misses in JavaScript: A jsPerf Example
+
+        19:31 | Code Example: Data Locality and Performance
+
+        21:14 | When and Why to Use Data Locality Optimization
+
+        22:25 | The Flyweight Pattern: Reducing Memory and Bandwidth
+
+        24:12 | Flyweight Pattern in Production: A WalkMe Use Case
+
+        25:01 | Code Example: Flyweight Pattern's Impact on Network and Memory
+
+        26:33 | When and Why to Use the Flyweight Pattern
+
+        27:14 | Summary and Resources
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -15695,7 +15870,7 @@ video:R1VjfP7Mx-g:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/design-patterns/edit
-      defaultAudioLanguage: th
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16054,6 +16229,71 @@ video:nxjUN4nxNkw:
         jscodeshift.
 
 
+        0:00 | Introduction and Event Details
+
+        0:45 | Welcome and Remote Speaker Setup
+
+        1:07 | Event Hashtag and Social Media Information
+
+        3:34 | Sponsor Acknowledgements
+
+        4:29 | Introduction to the Next Talk: Codemods
+
+        5:25 | Remote Speaker Introduction and Greetings
+
+        5:47 | Talk Start
+
+        6:11 | What are Codemods and Their Purpose?
+
+        7:16 | Speaker Introduction and Background
+
+        7:51 | The Problems Codemods Solve
+
+        8:13 | Example: Simple Code Changes and Regex Issues
+
+        9:18 | Limitations of Regular Expressions
+
+        10:20 | Upgrading Codebases: Types and Examples
+
+        11:49 | The Need for Better Tooling
+
+        12:15 | Reflecting on Code Changes and Efficiency
+
+        14:05 | Introducing Codemods: Automated Large-Scale Refactoring
+
+        14:28 | Applications of Codemods
+
+        15:55 | How Codemods Work: AST Manipulation
+
+        16:21 | What is an AST (Abstract Syntax Tree)?
+
+        17:01 | How ASTs are Created
+
+        17:42 | AST Representation and Visualization
+
+        18:50 | Where are ASTs Used?
+
+        19:26 | Codemods Workflow: Parse, Transform, Print
+
+        19:50 | JSCodeShift: The De Facto Tool for Codemods
+
+        20:21 | Recast: The AST Transformer
+
+        22:17 | AST Analogy: DOM and jQuery for Code
+
+        22:50 | Live Codemod Demo in AST Explorer
+
+        26:20 | Tools for Easier Codemodding
+
+        29:00 | Jarvis: Automated Codemod Generation Tool
+
+        30:23 | How Jarvis Works
+
+        30:45 | Key Takeaways and Conclusion
+
+        32:43 | Event Merchandise and Closing Remarks
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16094,6 +16334,7 @@ video:nxjUN4nxNkw:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/codemods/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16257,7 +16498,37 @@ video:R1VjfP7Mx-g:caption:en:
     filePath: data/videos/jsbkk1/design-patterns_en.vtt
     language: en
     name: English
-    hash: 52ace76e12ba498208fa54a4bd2af88853229bd3c49c6551f2895dc6d648a556
-    isDraft: true
+    hash: 4879a16d7218f9ae4d8f79de3fc23cfbb149c55eb4a3c5efa4df845f6435d973
+    isDraft: false
   state:
     id: AUieDabFavR7YKeePxPOLe83JvS2hhBE8IgY5KeT7AIXLAb5wmwKc45s
+video:3YTZbSMpDMY:caption:th:
+  spec:
+    videoId: 3YTZbSMpDMY
+    filePath: data/videos/jsbkk1/superset_th.vtt
+    language: th
+    name: Thai
+    hash: 361018b2a382179e77057584d615c14d1db6f19b490a2436e0a9ac919d52e52c
+    isDraft: false
+  state:
+    id: AUieDaarBBXvT7xPykqfrVzCV7ze4GrI6k7dBayF41e28_zWAysh
+video:PBnDTeiB_Gw:caption:th:
+  spec:
+    videoId: PBnDTeiB_Gw
+    filePath: data/videos/jsbkk1/spon-kbtg_th.vtt
+    language: th
+    name: Thai
+    hash: 4b619ebf1878dd956c714c493ecf86b2fccc06bde2e58c2c7217af3ea7c2226e
+    isDraft: false
+  state:
+    id: AUieDaaJR6YzP5CdfQpry_YSx8be4OuCanoq4TFUnVvGxZyeuFjS
+video:nxjUN4nxNkw:caption:en:
+  spec:
+    videoId: nxjUN4nxNkw
+    filePath: data/videos/jsbkk1/codemods_en.vtt
+    language: en
+    name: English
+    hash: 17071b8be116e5560c076bfb71668e21ff352d25a51bae55000823ce0829434f
+    isDraft: false
+  state:
+    id: AUieDabe2llR-zG03BFar9iKHkQVFSN8El-ky2uC8CnvwjZClYxRVymf
