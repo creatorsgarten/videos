@@ -3,7 +3,7 @@ title: ทำไมยุค Gen AI ถึงเป็นยุคทองค�
 speaker: Pachara Chutisawaeng
 youtube: 3uwtEk_ouhM
 managed: true
-published: false
+published: "2024-11-02"
 subtitles: [th]
 chapters:
   '00:00': 'พูดคุยเรื่อง Vue และแนะนำตัว'

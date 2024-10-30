@@ -3,7 +3,7 @@ title: Better testing with Vue application
 speaker: Somkiat Puisungnoen
 youtube: TJ54j3Dk5WA
 managed: true
-published: false
+published: "2024-11-07"
 subtitles: [th]
 chapters:
   '00:00': 'เปิดงานและแนะนำตัว: คุณปุ๋ยกับเรื่องราวการ Test ใน Vue'

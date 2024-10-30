@@ -3,7 +3,7 @@ title: Unlock the power of visual testing with Vitest
 speaker: Maya Shavin
 youtube: lP7Op-K6ajk
 managed: true
-published: false
+published: "2024-11-10"
 subtitles: [en]
 language: en
 chapters:

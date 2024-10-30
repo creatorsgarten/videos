@@ -3,7 +3,7 @@ title: Why I hate composition API
 speaker: Warat Wongmaneekit
 youtube: sMms4lFxfV8
 managed: true
-published: false
+published: "2024-11-13"
 subtitles: [th]
 chapters:
   '0:00': 'แนะนำตัว: ตั้ง วรัทธน์ และประสบการณ์การทำงาน'

@@ -3,7 +3,7 @@ title: Case Developing Gamify Coding Education (K-12)
 speaker: Songklod Saengvoratip
 youtube: SMqJJ7o_Mi4
 managed: true
-published: false
+published: "2024-11-04"
 subtitles: [th]
 chapters:
   '00:00': 'แนะนำตัวและ Spark Education: เตรียมเด็กๆ สู่ยุค Tech'
