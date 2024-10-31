@@ -2914,11 +2914,30 @@
         "managed": true,
         "description": "Reactive libraries like RxJS allow us to easily cancel HTTP requests but is that really efficient? What really happens on the back-end? Is it possible to propagate the cancelation from the front-end through our microservices and cancel the database query?\n",
         "published": "2024-12-17",
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Welcome",
+          "0:55": "Live Search Implementation Challenges",
+          "2:32": "Solving API Overload: Debouncing and RxJS",
+          "4:39": "RxJS Explanation and switchMap Operator",
+          "6:54": "Cancelling HTTP Requests and API Behavior",
+          "7:09": "Speaker Introduction and Marmicode",
+          "8:10": "NestJS Overview and Code Example",
+          "10:20": "Observables and Cancellability",
+          "11:36": "Live Coding Demo: File Search Performance",
+          "16:43": "NestJS Interceptors for Request Interruption",
+          "19:56": "MongoDB Integration and Performance Optimization",
+          "22:01": "How Request Cancellation Works and Key Takeaways",
+          "24:31": "Conclusion and Contact Information"
+        }
       },
       "content": "",
       "filePath": "data/videos/jsbkk1/cancel-http-request.md",
-      "imageFilePath": "data/videos/jsbkk1/cancel-http-request.jpg"
+      "imageFilePath": "data/videos/jsbkk1/cancel-http-request.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk1/cancel-http-request_en.vtt"
     },
     {
       "event": "jsbkk1",
@@ -3065,11 +3084,28 @@
         "managed": true,
         "description": "The event loop completely underpins everything that happens in the browser. Yet many developers know very little about it. This talk will help them better understand the nitty-gritty of what’s really going on when you create a Promise, add an event listener, or request an animation frame.\n",
         "published": "2024-12-23",
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Speaker Intro",
+          "0:48": "What is the Event Loop?",
+          "2:09": "Speaker Background and Slide Availability",
+          "2:48": "The Event Loop and How It Controls JavaScript Execution",
+          "4:13": "The Event Loop's Simple Model: A Continuous While Loop",
+          "5:18": "Event Loop and Rendering Pipeline Interaction",
+          "7:14": "Multiple Task Queues in the Event Loop",
+          "9:54": "Microtasks: Tasks Between Tasks (Promises)",
+          "13:04": "Animation Frame Callbacks and 𝚛𝚎𝚚𝚞𝚎𝚜𝚝𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗𝙵𝚛𝚊𝚖𝚎",
+          "17:59": "Why 𝚛𝚎𝚚𝚞𝚎𝚜𝚝𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗𝙵𝚛𝚊𝚖𝚎? Smooth Animations and DOM Manipulation",
+          "18:55": "Key Takeaways: Blocking, Microtasks, and 𝚛𝚎𝚚𝚞𝚎𝚜𝚝𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗𝙵𝚛𝚊𝚖𝚎"
+        }
       },
       "content": "",
       "filePath": "data/videos/jsbkk1/event-loop.md",
-      "imageFilePath": "data/videos/jsbkk1/event-loop.jpg"
+      "imageFilePath": "data/videos/jsbkk1/event-loop.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk1/event-loop_en.vtt"
     },
     {
       "event": "jsbkk1",
@@ -3082,11 +3118,29 @@
         "managed": true,
         "description": "Talking about \"Scale\": Takeaways from our attempt on scaling a small system in the Gojek Universe. The year is 2019 and every engineer must have been asked once to build a “scalable” system. I will be telling the story of our team journey in building a financial system that serves 20X traffic in less than a year. Engineering practices, wrong (and right!) decisions, process improvement and more!",
         "published": "2024-12-20",
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "00:00": "Introduction: Scaling Challenges at Gojek",
+          "01:32": "Story 1: The Three-Week Feature and Codebase Issues",
+          "04:00": "Hoarded Code vs. Over-Abstraction: Finding a Livable Codebase",
+          "07:50": "The KonMari Method for Code: Finding the Right Questions",
+          "11:53": "Story 2: The BonChon Incident and the Importance of Monitoring",
+          "13:37": "Scaling Infrastructure: Monitoring and Alerting",
+          "15:25": "Why Monitor? Analyzing Trends, Alerts, Dashboards, and Postmortems",
+          "18:22": "Black Box vs. White Box Monitoring: Symptoms and Causes",
+          "21:52": "Google's Four Golden Signals: Latency, Traffic, Errors, and Saturation",
+          "24:01": "Story 3: Urgent Requests and the Importance of People and Process",
+          "26:54": "Prioritization Sessions: Scaling Product and Process Through Collaboration",
+          "27:57": "Conclusion: Scaling is More Than Just Infrastructure"
+        }
       },
       "content": "",
       "filePath": "data/videos/jsbkk1/gojek-universe.md",
-      "imageFilePath": "data/videos/jsbkk1/gojek-universe.jpg"
+      "imageFilePath": "data/videos/jsbkk1/gojek-universe.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk1/gojek-universe_en.vtt"
     },
     {
       "event": "jsbkk1",
@@ -5542,7 +5596,11 @@
     {
       "id": "universe2023",
       "name": "GitHub Universe After Party Thailand",
-      "url": "https://grtn.org/e/universe2023"
+      "url": "https://www.eventpop.me/e/16683/github-universe-2023-after-party",
+      "externalOrganizer": {
+        "name": "Spark Tech Thailand",
+        "url": "https://www.facebook.com/SparkTechTH"
+      }
     },
     {
       "id": "bkkjs19",
