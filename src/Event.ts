@@ -108,7 +108,14 @@ const events = [
   new Event('functional2', 'Functional Meetup #2: Elm for Frontend Developers'),
   new Event('cssmeetup0823', 'CSS Meetup 16.08.2023'),
   new Event('github1', 'GitHub Community Meetup #1'),
-  new Event('universe2023', 'GitHub Universe After Party Thailand'),
+  new Event('universe2023', 'GitHub Universe After Party Thailand', {
+    urlOverride:
+      'https://www.eventpop.me/e/16683/github-universe-2023-after-party',
+    externalOrganizer: {
+      name: 'Spark Tech Thailand',
+      url: 'https://www.facebook.com/SparkTechTH',
+    },
+  }),
   new Event('bkkjs19', 'BKK.JS #19'),
   new Event('bkkjs20', 'BKK.JS #20'),
   new Event('wind2', 'Code in the Wind #2'),
