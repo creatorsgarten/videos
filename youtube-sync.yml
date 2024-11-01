@@ -16148,6 +16148,42 @@ video:SRn-4hygxe4:
     snippet:
       title: Sponsored Session by Oozou - JavaScript Bangkok 1.0.0
       description: >-
+        คุณเจษฎา ตรีรุ่งกิจ JavaScript developer จาก Oozou มาแบ่งปันแนวคิดเรื่อง
+        work-life balance ในหัวข้อ Work on your life and make it balance 
+        ฟังมุมมองเกี่ยวกับการจัดการชีวิตและการทำงานให้สมดุล
+        โดยมองว่างานและชีวิตเป็นส่วนหนึ่งของกันและกัน ไม่สามารถแยกออกจากกันได้ 
+        คุณเจษฎาจะมาเล่าประสบการณ์ส่วนตัว ทั้งในฐานะนักพัฒนาและนักดนตรี 
+        พร้อมแชร์เคล็ดลับการจัดสรรเวลาและพลังงาน รวมถึงการเลือกองค์กรที่สนับสนุน
+        work-life balance 
+        มาร่วมค้นหาแรงบันดาลใจในการสร้างสมดุลชีวิตและการทำงานให้ลงตัว
+        และเรียนรู้วิธีการสร้าง work-life balance ที่ดีจาก Oozou
+
+
+        00:00 | แนะนำ Oozou และหัวข้อ Work on your life and make it balance
+
+        00:32 | การเตรียมตัวและแนะนำตัวคุณเจษฎา (อั๋น)
+
+        02:10 | Work on your life and make it balance คืออะไร?
+
+        03:02 | ปัญหาเบื่องานวันจันทร์ และภาวะหมดไฟ (Burnout)
+
+        03:48 | Work-life balance คือการ Work on your life
+
+        04:39 | ตัวอย่าง Work-life balance ของคุณอั๋น: นักพัฒนาและนักดนตรี
+
+        05:35 | ตัวอย่าง Work-life balance ของพี่ไท: นักพัฒนาและนักดนตรี
+
+        06:10 | ข้อดีของการมี Work-life balance ที่ดี
+
+        06:48 | วิธีการสร้าง Work-life balance: จัดสรรเวลาและเลือกองค์กรที่ใช่
+
+        07:37 | Oozou สนับสนุน Work-life balance
+
+        08:18 | รักวันจันทร์เท่ากับวันศุกร์: ชวนคุยต่อที่ Q&A และ Booth Oozou
+
+
+        --------------------------------------------
+
         Event: JavaScript Bangkok 1.0.0
 
         https://2019.javascriptbangkok.com/
@@ -16186,6 +16222,7 @@ video:SRn-4hygxe4:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/spon-oozou/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16407,6 +16444,50 @@ video:j4GmcSTwyiQ:
         TypeScript, GraphQL & React working together on a SpaceX demo 🚀
 
 
+        0:00 | Introduction and Speaker Announcement
+
+        0:56 | Welcoming Carlos Rufo
+
+        1:19 | Introduction and Kudos to JavaScript Bangkok
+
+        2:22 | About Carlos and Today's Agenda
+
+        3:06 | Dev Jokes
+
+        4:31 | Introduction to GraphQL
+
+        5:08 | Why GraphQL? Comparison with REST
+
+        7:44 | Why TypeScript Loves GraphQL
+
+        9:12 | Live Coding: GraphQL API and Testing (Server-Side)
+
+        10:03 | Generating a REST API with GraphQL Schema
+
+        11:16 | GraphQL Server Setup and Context
+
+        12:12 | GraphQL Schema: Single Source of Truth
+
+        13:51 | GraphQL Resolvers: Fetching and Returning Data
+
+        14:48 | GraphQL Playground Demo: Introspection and Avoiding
+        Over/Under-Fetching
+
+        17:30 | Tooling and TypeScript
+
+        18:01 | Evolving the API: Adding rocketByName Query
+
+        19:56 | Using TypeScript to Maintain API Consistency
+
+        22:34 | Live Coding: Client-Side with React and Apollo
+
+        24:00 | Client-Side Setup and Data Display
+
+        25:23 | Adding Ships to the UI: Developer Experience with GraphQL
+
+        28:26 | Wrap Up and Call to Action
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16447,6 +16528,7 @@ video:j4GmcSTwyiQ:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/typesafe-graphql/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16875,3 +16957,23 @@ video:hEKCJ4cckZE:caption:en:
     isDraft: false
   state:
     id: AUieDabofQdY5eXCkgHccuQ_wmmK8Jmmsho46nJgSGtRDjQEfD6CgxgQ
+video:SRn-4hygxe4:caption:th:
+  spec:
+    videoId: SRn-4hygxe4
+    filePath: data/videos/jsbkk1/spon-oozou_th.vtt
+    language: th
+    name: Thai
+    hash: 942a410c1652a2a42e510fe65d4f6eba3ae4754433387bbf9e047d243fcb76ad
+    isDraft: false
+  state:
+    id: AUieDaaPbq9Iky6CyFGmGTH5s_ZzRj41aaVp12oX-WEiGZSbnBWH
+video:j4GmcSTwyiQ:caption:en:
+  spec:
+    videoId: j4GmcSTwyiQ
+    filePath: data/videos/jsbkk1/typesafe-graphql_en.vtt
+    language: en
+    name: English
+    hash: 646ea2b25795964b13ab77def16e98f411a80212578f4fd0b143ae1645d61e82
+    isDraft: false
+  state:
+    id: AUieDaZatRCbLeIQr4eWXsBGwANTtTBrnaOW8uTbM5-1K2_mV8FR23n9
