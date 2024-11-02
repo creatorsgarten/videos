@@ -16302,6 +16302,65 @@ video:f2dgDT8CFSI:
         principles in Javascript where classes are not necessary nor encouraged.
 
 
+        0:00 | Introduction and Speaker Background
+
+        0:27 | Applying SOLID Principles in JavaScript without Classes
+
+        0:46 | Speaker's Background and Software Architecture Perspective
+
+        1:44 | SOLID Principles Overview
+
+        2:01 | Motivation for Applying SOLID in JavaScript
+
+        2:49 | Single Responsibility Principle: One Reason to Change
+
+        3:13 | Example: User Registration and Password Policy
+
+        4:42 | Separating Concerns for Clear Communication
+
+        5:03 | Implementation with and without Classes
+
+        6:23 | Class vs. Function Composition: Trade-offs
+
+        7:35 | Without Classes: Incremental Development and Fluidity
+
+        8:46 | Team Implementation and Standardization Challenges
+
+        11:15 | Balancing Standardization and Flexibility
+
+        11:44 | Open/Closed Principle: Extension without Modification
+
+        11:58 | Example: Invoice Confirmation and Side Effects
+
+        14:50 | Liskov Substitution Principle: Substitutability of Derived
+        Classes
+
+        15:07 | Example: Error Reporting in Production vs. Local
+
+        17:01 | Ensuring Total Substitutability
+
+        17:21 | Function Replaceability and React Component Example
+
+        18:03 | Interface Segregation Principle: Avoiding Unused Dependencies
+
+        18:14 | Example: Invoice Deletion, Recovery, and GDPR Compliance
+
+        20:18 | Avoiding Unnecessary Parameters and Embracing Duplication
+
+        21:43 | Dependency Inversion Principle: Decoupling High-Level from
+        Low-Level Modules
+
+        21:58 | Example: User Avatar Upload and Object Storage
+
+        22:58 | Dependency Injection for Abstraction and Communication
+
+        24:47 | Polymorphism and Perspective in Communication
+
+        25:35 | Trade-offs of Class-Based vs. Function-Based Injection
+
+        26:43 | Conclusion and Key Takeaways
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16342,6 +16401,7 @@ video:f2dgDT8CFSI:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/solid-principles/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16547,6 +16607,34 @@ video:lhIwKox9EnQ:
         out new CSS.
 
 
+        0:00 | Introduction and Welcome
+
+        0:25 | CSS and DevTools: A Love Story
+
+        0:39 | Understanding CSS with DevTools
+
+        1:30 | Flexbox: Demystifying the Sizing
+
+        2:40 | Flexbox Deep Dive: flex-basis and Sizing Behaviors
+
+        4:19 | Flexbox Inspector: Visualizing Flexbox Calculations
+
+        7:41 | Flex Basis Auto vs. Zero: Content Sizing and Free Space
+        Distribution
+
+        9:05 | Flex Basis and Width Interactions
+
+        11:12 | CSS Grid: Exploring grid-template-areas
+
+        14:44 | CSS Subgrid: Aligning Nested Grids
+
+        17:53 | CSS Shapes: Flowing Text Around Non-Rectangular Elements
+
+        21:16 | Demo: Building Layouts with Modern CSS
+
+        25:07 | The Power of DevTools and Exploring New CSS Properties
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16587,6 +16675,7 @@ video:lhIwKox9EnQ:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/devtools/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16977,3 +17066,23 @@ video:j4GmcSTwyiQ:caption:en:
     isDraft: false
   state:
     id: AUieDaZatRCbLeIQr4eWXsBGwANTtTBrnaOW8uTbM5-1K2_mV8FR23n9
+video:f2dgDT8CFSI:caption:en:
+  spec:
+    videoId: f2dgDT8CFSI
+    filePath: data/videos/jsbkk1/solid-principles_en.vtt
+    language: en
+    name: English
+    hash: 11f5f1b5b886c0036f7e177ac64a751d1a970bca29b544ad3b6e2001183809b5
+    isDraft: false
+  state:
+    id: AUieDabIYA0RHZaZnzPAOQSlQCsu73fLR68c29y4jdhygWBKrPpEw_Ws
+video:lhIwKox9EnQ:caption:en:
+  spec:
+    videoId: lhIwKox9EnQ
+    filePath: data/videos/jsbkk1/devtools_en.vtt
+    language: en
+    name: English
+    hash: 96f25a438bbd05e89563eb3dc6300d7d1041a9a866eebcb835aae14274e2c139
+    isDraft: false
+  state:
+    id: AUieDaayXbik1wUk7Y2SnTRM_CB3zobN0ZyxvCnQ8F6NYG1wOqSBWyCe
