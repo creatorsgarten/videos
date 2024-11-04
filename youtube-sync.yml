@@ -15558,6 +15558,7 @@ video:99l1LwRDBFM:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/poor-man-patcher/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15574,6 +15575,55 @@ video:AspoYb2mvsQ:
         it into a malicious one. The main purpose here is not to turn you into a
         hacker, but to increase awareness to these “small” and “harmless”
         plugins.
+
+
+        0:00 | Introduction and Welcome
+
+        1:02 | Speaker Introduction and Browser Poll
+
+        1:42 | Focus on Chrome Extensions and Cross-Browser Compatibility
+
+        2:08 | The Story of a Hack Week Extension Project
+
+        3:06 | Lessons Learned: Ease of Building and Power of Extensions
+
+        4:40 | Building a Currency Conversion Extension Demo
+
+        5:19 | Live Demo of the Currency Conversion Extension
+
+        6:19 | Code Explanation: HTML, Popup, and Background Script
+
+        7:05 | Extension Architecture: Core and Content Contexts
+
+        8:01 | Content Script and Interacting with the User's Browser
+
+        9:19 | Messaging Between Contexts
+
+        11:58 | Complete Code Overview and Second Demo with a Twist
+
+        13:00 | Spotting the Malicious Behavior: Affiliate Link Injection
+
+        14:14 | Extending the Malicious Behavior and Redirection Risks
+
+        14:49 | Key Logging Example with Firebase Demonstration
+
+        16:10 | Capturing Browser Screenshots and Data Exfiltration
+
+        17:21 | How Malicious Extensions Make Money: Adware, Data Collection,
+        and Cryptojacking
+
+        18:18 | Chrome Web Store Security Measures and Review Process
+
+        19:19 | Techniques Used by Malicious Extensions to Bypass Review
+
+        20:03 | Recent Chrome Security Updates and User Controls
+
+        22:02 | User Responsibility and Rethinking Extension Security
+
+        23:46 | Bonus for Developers: Reading Code and Reporting Malicious
+        Extensions
+
+        24:00 | Conclusion and Call to Action: Build, Rethink, and Be Good
 
 
         --------------------------------------------
@@ -15616,6 +15666,7 @@ video:AspoYb2mvsQ:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/malicious-chrome-extension/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15627,6 +15678,33 @@ video:CXN88bHT9RU:
     snippet:
       title: Sponsored Session by ExxonMobil - JavaScript Bangkok 1.0.0
       description: >-
+        พบกับคุณสุวิชา แก้วละเอียด IT Solution Architect จาก ExxonMobil ในหัวข้อ
+        We Are ExxonMobil  มาทำความรู้จักกับ ExxonMobil
+        บริษัทน้ำมันและก๊าซครบวงจรระดับโลก  คุณสุวิชาจะมาเล่าถึงบทบาทของ
+        ExxonMobil ในอุตสาหกรรมพลังงาน รวมถึงความสำคัญของแผนก IT และศูนย์กลาง IT
+        ในประเทศไทยที่มีขนาดใหญ่  และโอกาสสำหรับนักพัฒนาที่ต้องการร่วมงานกับ
+        ExxonMobil
+
+
+        00:00 | แนะนำ ExxonMobil และแจ้งข้อมูลเกี่ยวกับของที่ระลึกและงานปาร์ตี้
+
+        01:44 | แนะนำคุณสุวิชา แก้วละเอียด และเริ่มต้นช่วง We Are ExxonMobil
+
+        01:59 | คุณสุวิชา กล่าวทักทายและแนะนำบริษัท ExxonMobil
+
+        03:44 | พูดคุยเกี่ยวกับแผนก IT ของ ExxonMobil ในประเทศไทย
+
+        04:54 | ชีวิตการทำงานของนักพัฒนาใน ExxonMobil: โอกาสทางธุรกิจระดับโลก
+
+        05:38 | อาชีพนักพัฒนาใน ExxonMobil: เส้นทางอาชีพระยะยาวและการเติบโต
+
+        06:18 | บทบาทของนักพัฒนาใน ExxonMobil: การเปลี่ยนแปลงทางดิจิทัล
+
+        07:20 | เชิญชวนนักพัฒนาเข้าร่วมงานกับ ExxonMobil
+
+
+        --------------------------------------------
+
         Event: JavaScript Bangkok 1.0.0
 
         https://2019.javascriptbangkok.com/
@@ -15665,6 +15743,7 @@ video:CXN88bHT9RU:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/spon-exxon/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15722,6 +15801,7 @@ video:F1yy1cD_QfE:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/dance-mat/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -15733,6 +15813,17 @@ video:Ib0Dhf-ebiI:
     snippet:
       title: Sponsored Session by ODDS - JavaScript Bangkok 1.0.0
       description: >-
+        พบกับช่วงพิเศษจาก ODDS หนึ่งใน sponsor ใจดีของงาน ที่ฝากข้อความสั้นๆ
+        แต่สร้างเสียงหัวเราะและความคุ้นเคยให้ผู้เข้าร่วมทุกท่าน
+
+
+        0:00 | ประกาศหาเจ้าของบัตรจอดรถที่ทำหาย
+
+        0:29 | ข้อความจากผู้สนับสนุน ODDS: ‘We are not hiring’
+
+
+        --------------------------------------------
+
         Event: JavaScript Bangkok 1.0.0
 
         https://2019.javascriptbangkok.com/
@@ -15771,6 +15862,7 @@ video:Ib0Dhf-ebiI:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/spon-odds/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -17086,3 +17178,53 @@ video:lhIwKox9EnQ:caption:en:
     isDraft: false
   state:
     id: AUieDaayXbik1wUk7Y2SnTRM_CB3zobN0ZyxvCnQ8F6NYG1wOqSBWyCe
+video:99l1LwRDBFM:caption:th:
+  spec:
+    videoId: 99l1LwRDBFM
+    filePath: data/videos/jsbkk1/poor-man-patcher_th.vtt
+    language: th
+    name: Thai
+    hash: c88e65ee09a3e70dc0c2ec589e1588b03990ab29dc3d939ba5e65a6370bf166f
+    isDraft: false
+  state:
+    id: AUieDab8vM09EC-CAkvCJWXAdaRnlqYbt2TqL5O4qnvmW7G6XG7P
+video:AspoYb2mvsQ:caption:en:
+  spec:
+    videoId: AspoYb2mvsQ
+    filePath: data/videos/jsbkk1/malicious-chrome-extension_en.vtt
+    language: en
+    name: English
+    hash: 250f8ad44b6c99b3c3c26d6fb79ec5dc83c87d655d350e573250a82896670fc9
+    isDraft: false
+  state:
+    id: AUieDaZ-JCfnmqbjHusQayxYzYsq8jJ0etinkFjseBH1cewGjn-wR1Ic
+video:CXN88bHT9RU:caption:th:
+  spec:
+    videoId: CXN88bHT9RU
+    filePath: data/videos/jsbkk1/spon-exxon_th.vtt
+    language: th
+    name: Thai
+    hash: c102756da7c4d6afc7e484d7b83ad2da97b5ac5c3593e667164d4b85cefb187d
+    isDraft: false
+  state:
+    id: AUieDaYPtPoOXYiszgFbaP1-XJuSvicKQBtj2w4Tf4-h0xexUu58
+video:F1yy1cD_QfE:caption:en:
+  spec:
+    videoId: F1yy1cD_QfE
+    filePath: data/videos/jsbkk1/dance-mat_en.vtt
+    language: en
+    name: English
+    hash: 6cca9417600ef49363ee3bb73a2619f5d9f1c438ce47aea4eedba0fa9d3ede23
+    isDraft: false
+  state:
+    id: AUieDaYIbWx4pyHjF1f5Jr5LIoeK9OeEOF9Az2IPVUFvcKP5wWv3Wcsj
+video:Ib0Dhf-ebiI:caption:th:
+  spec:
+    videoId: Ib0Dhf-ebiI
+    filePath: data/videos/jsbkk1/spon-odds_th.vtt
+    language: th
+    name: Thai
+    hash: 4572b7f3de3fdc0d4ed0591dbda47a1a7671aa70fa9f5b3d3b5229ea978d45f8
+    isDraft: false
+  state:
+    id: AUieDaZFWgdZBVmz0NA56tyEWExMiM6FDEXgCawRCP-ibW_EtDIr
