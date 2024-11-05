@@ -16085,6 +16085,48 @@ video:QX4WbDuOXE8:
         along the way.
 
 
+        0:00 | Introduction and Speaker Intro - Ramón Guijarro from Undefined
+        Labs
+
+        1:30 | About Ramón: Web Developer, Startup Life, and Community
+        Involvement
+
+        2:27 | A Call for More Inclusive and Safe Conferences
+
+        3:02 | Contact Info and Diving into Dating App Issues
+
+        3:18 | The “Like Everybody” Strategy and its Shortcomings
+
+        4:05 | Automating the Dating Grind: Preferences and Efficiency
+
+        7:26 | Building “Swipr”: From Browser Automation to API Interaction
+
+        8:36 | Swipr's Evolution: Reverse-Engineering the Tinder API
+
+        10:24 | Swipr in Action: A Demo of the CLI Tool
+
+        11:39 | Swipr's Architecture: Modular and Decoupled Design
+
+        12:28 | Key Modules: UI, Error Handling, and Logging
+
+        14:07 | The Config Module: Reading, Writing, and Validating User
+        Preferences
+
+        16:18 | The Network Module: Handling Authentication, Tokens, and API
+        Errors
+
+        18:29 | Semantic Error Handling for a Robust API Client
+
+        20:14 | The Node.js CLI Ecosystem: Useful Packages for Streamlined
+        Development
+
+        22:22 | Future of Swipr: Expanding Criteria, Supporting More Apps, and
+        UI Enhancements
+
+        24:22 | Final Thoughts: Fun with Automation, but Dating Still Requires
+        Human Connection
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16125,6 +16167,7 @@ video:QX4WbDuOXE8:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/love-story/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -16335,6 +16378,33 @@ video:dFE5V87GiEs:
         conditions.
 
 
+        00:00 | แนะนำงานสัมมนา สปอนเซอร์ หัวข้อถัดไป และ speaker คุณรุจิรา
+
+        03:36 | คุณรุจิราแนะนำตัวและหัวข้อ Speed up heavy data visualization
+        with Rust and WebAssembly
+
+        05:10 | ปัญหาของ Data Visualization และข้อจำกัดในการ tune performance
+        ด้วย JavaScript
+
+        06:09 | ทำไมถึงเลือก WebAssembly และ Rust
+
+        09:14 | เริ่มต้น Optimization: ลอง Import JavaScript เข้า Rust
+        (และผลลัพธ์ที่ล้มเหลว)
+
+        11:46 | Plan B: เขียน Rust ใหม่ทั้งหมด และผลลัพธ์ที่เร็วขึ้น 50%
+
+        13:05 | ทดสอบการจูน Data Visualization จริงๆ (และข้อจำกัดในการ Interact
+        กับ DOM)
+
+        15:41 | สรุปผลการทดลอง: ข้อดีและข้อเสียของ WebAssembly ใน Data
+        Visualization
+
+        16:00 | ตัวอย่างการใช้งาน WebAssembly ใน Data Visualization และ
+        Inspiration สำหรับ Next Step
+
+        17:42 | สรุปและขอบคุณ
+
+
         --------------------------------------------
 
         Event: JavaScript Bangkok 1.0.0
@@ -16375,6 +16445,7 @@ video:dFE5V87GiEs:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk1/v/heavy-data-visualization/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -17228,3 +17299,23 @@ video:Ib0Dhf-ebiI:caption:th:
     isDraft: false
   state:
     id: AUieDaZFWgdZBVmz0NA56tyEWExMiM6FDEXgCawRCP-ibW_EtDIr
+video:QX4WbDuOXE8:caption:en:
+  spec:
+    videoId: QX4WbDuOXE8
+    filePath: data/videos/jsbkk1/love-story_en.vtt
+    language: en
+    name: English
+    hash: 694c8a50d82b716733cc4ae44b2fdab2b3183e1b1616a481078752f5cd9e260d
+    isDraft: false
+  state:
+    id: AUieDaaTY00zToSrW3YvK5PotWC6hYTLgsiZP_5P9n12DBbFCsFCOsCZ
+video:dFE5V87GiEs:caption:th:
+  spec:
+    videoId: dFE5V87GiEs
+    filePath: data/videos/jsbkk1/heavy-data-visualization_th.vtt
+    language: th
+    name: Thai
+    hash: e12c23e6fd4e1d621a38e1ca85c281d6e572124be33a7f2b310f41c714adfc41
+    isDraft: true
+  state:
+    id: AUieDaZUD865vxuRvQWDbwtmJ4s5wOSoXso4FFv3TfQ1nNI8cIoZ
