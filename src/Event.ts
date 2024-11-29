@@ -151,4 +151,5 @@ const events = [
       url: 'https://javascriptbangkok.com',
     },
   }),
+  new Event('bac', 'Browser automation challenges'),
 ]
