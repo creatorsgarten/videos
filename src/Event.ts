@@ -152,4 +152,11 @@ const events = [
     },
   }),
   new Event('bac', 'Browser automation challenges'),
+  new Event('jsbkk2', 'JavaScript Bangkok 2.0.0', {
+    urlOverride: 'https://javascriptbangkok.com/',
+    externalOrganizer: {
+      name: 'Software Developer Community',
+      url: 'https://javascriptbangkok.com',
+    },
+  }),
 ]
