@@ -17666,6 +17666,7 @@ video:4MgfRPkJMJk:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/svelte-5/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -17725,6 +17726,7 @@ video:DZDr1LiDTrI:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/life/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18106,6 +18108,7 @@ video:TUL3ePI_tJY:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/quality-of-code/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18171,6 +18174,7 @@ video:WqUe7q-NJ8s:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/art-performance/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18298,6 +18302,7 @@ video:Z_Mtat8Fzm4:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/monads/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18604,6 +18609,7 @@ video:jjxu614FG80:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/type-integrity/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18909,6 +18915,7 @@ video:ytCsiusPR0g:
         etc.), please visit:
 
         https://grtn.org/e/jsbkk2/v/cypress/edit
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -18989,3 +18996,73 @@ thumbnail:jjxu614FG80:
     filePath: data/videos/jsbkk2/type-integrity.jpg
     hash: 3c8b20b3d824d2abb876760e29018a5395811bd6042ab255dbd9e33cf5ea9290
   state: {}
+video:4MgfRPkJMJk:caption:en:
+  spec:
+    videoId: 4MgfRPkJMJk
+    filePath: data/videos/jsbkk2/svelte-5_en.vtt
+    language: en
+    name: English
+    hash: 6ea62bcf4ed23cafb343e9571a682a32acf122e5a23f86f09aed5893d5088c87
+    isDraft: false
+  state:
+    id: AUieDaYKyuz68qvEMivhC5oWMmEXytvuwzPHHmnjBfKHNW0o9C0Rx70G
+video:DZDr1LiDTrI:caption:th:
+  spec:
+    videoId: DZDr1LiDTrI
+    filePath: data/videos/jsbkk2/life_th.vtt
+    language: th
+    name: Thai
+    hash: fdca07fe82b81bc4ebf4b64a7c3a05e24beb271e8c87681daa749e3a53a4183e
+    isDraft: false
+  state:
+    id: AUieDaYnj6fnvpRT3dX8zZNUCsaJjy-coA9PJIXOr6ZWJH_VNM0E
+video:TUL3ePI_tJY:caption:en:
+  spec:
+    videoId: TUL3ePI_tJY
+    filePath: data/videos/jsbkk2/quality-of-code_en.vtt
+    language: en
+    name: English
+    hash: 6398f1fd82d314c087408acb27197a149ec8550cf6aed0181e5694c1176f7b78
+    isDraft: false
+  state:
+    id: AUieDaaJQLil5CmjwEkTtw1Z3CaBzD0xwqfjfLYlEUPdLakjUGk9U3WT
+video:WqUe7q-NJ8s:caption:en:
+  spec:
+    videoId: WqUe7q-NJ8s
+    filePath: data/videos/jsbkk2/art-performance_en.vtt
+    language: en
+    name: English
+    hash: 1dde3cdaa1a3bdbe99788a5ae992e72649d43a1c82fcb93083a6ae322009ccc4
+    isDraft: false
+  state:
+    id: AUieDaahL6CKK9m6tNlnl1xAVp_Bh2rbcnj-svi4-_BZs-IKtEWi7mke
+video:Z_Mtat8Fzm4:caption:th:
+  spec:
+    videoId: Z_Mtat8Fzm4
+    filePath: data/videos/jsbkk2/monads_th.vtt
+    language: th
+    name: Thai
+    hash: 1ff7b707eb4753b5622aff7b24efede5da590209a3681145d19c46c39f92c6f1
+    isDraft: false
+  state:
+    id: AUieDaYv__hNXGtA2EmMWKbTM_Td4ds6QAUpgJCAchSI5MbfQsgY
+video:jjxu614FG80:caption:en:
+  spec:
+    videoId: jjxu614FG80
+    filePath: data/videos/jsbkk2/type-integrity_en.vtt
+    language: en
+    name: English
+    hash: c7dd059922add73fdb44faf9f90f31df096b21bca088ba23aeb67ec9b617967d
+    isDraft: false
+  state:
+    id: AUieDaa9fSzsO60Nb_OXhKu3nZ-RWdkpQmVqQWtSMOmlXhjcyvKIhZd6
+video:ytCsiusPR0g:caption:en:
+  spec:
+    videoId: ytCsiusPR0g
+    filePath: data/videos/jsbkk2/cypress_en.vtt
+    language: en
+    name: English
+    hash: c35d82419eba808c5dca7ee05d7ffdab1e4919f0bee3679ff6a6049171cf8a6e
+    isDraft: false
+  state:
+    id: AUieDaYxjzT4vhcsZssXzmwUNlJmn0XmUX62l43Adj3v0hUpTCobk7wJ
