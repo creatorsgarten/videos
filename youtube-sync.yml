@@ -17319,3 +17319,49 @@ video:dFE5V87GiEs:caption:th:
     isDraft: true
   state:
     id: AUieDaZUD865vxuRvQWDbwtmJ4s5wOSoXso4FFv3TfQ1nNI8cIoZ
+thumbnail:fQo9j648l5s:
+  spec:
+    videoId: fQo9j648l5s
+    filePath: data/videos/bac/automate.jpg
+    hash: 656197ae76d0ff6aef451a41c07435ffdd701bc81e2aca9c074d7ca2367194c7
+  state: {}
+video:fQo9j648l5s:
+  spec:
+    id: fQo9j648l5s
+    snippet:
+      title: How web automation saved my friendship by Wasin Silakong
+      description: >-
+        Event: Browser automation challenges
+
+        https://grtn.org/e/bac
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/bac/v/automate/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
+  state: {}
