@@ -14,6 +14,11 @@ type EventOptions = {
    * Extra description about the event to add to the video description.
    */
   description?: string
+
+  /**
+   * Which organization recorded the event videos, for proper attribution.
+   */
+  recordedBy?: 'creatorsgarten' | 'livetubex'
 }
 
 export class Event {
@@ -39,6 +44,9 @@ export class Event {
   }
   get externalOrganizer() {
     return this.options.externalOrganizer
+  }
+  get recordedBy() {
+    return this.options.recordedBy ?? 'creatorsgarten'
   }
   toJSON() {
     return {
@@ -119,7 +127,9 @@ const events = [
   new Event('bkkjs19', 'BKK.JS #19'),
   new Event('bkkjs20', 'BKK.JS #20'),
   new Event('wind2', 'Code in the Wind #2'),
-  new Event('algorave', 'a bit of thai tunes'),
+  new Event('algorave', 'a bit of thai tunes', {
+    recordedBy: 'livetubex',
+  }),
   new Event('worldwithoutwork', 'เศรษฐกิจเอไอกับโลกไร้งาน'),
   new Event('supabase', 'Supabase Meetup Bangkok 1.0', {
     urlOverride: 'https://guild.host/events/supabase-bangkok-meetup-le6a9z',
@@ -150,6 +160,7 @@ const events = [
       name: 'Software Developer Community',
       url: 'https://javascriptbangkok.com',
     },
+    recordedBy: 'livetubex',
   }),
   new Event('bac', 'Browser automation challenges'),
   new Event('jsbkk2', 'JavaScript Bangkok 2.0.0', {
@@ -158,5 +169,6 @@ const events = [
       name: 'Software Developer Community',
       url: 'https://javascriptbangkok.com',
     },
+    recordedBy: 'livetubex',
   }),
 ]

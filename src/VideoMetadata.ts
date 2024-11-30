@@ -51,6 +51,27 @@ function localize(text: LocalizableText, language?: 'en') {
   return typeof text === 'string' ? text : text[language || 'th']
 }
 
+export function recordingCredit(
+  recordedBy: Event['recordedBy'],
+  type: 'internal' | 'external',
+): string[] {
+  if (recordedBy === 'livetubex') {
+    return type === 'internal'
+      ? ['Recorded by LiveTubeX.', 'https://www.livetubex.com/']
+      : [
+          'Recorded by LiveTubeX and published by Creatorsgarten.',
+          'https://www.livetubex.com/',
+        ]
+  }
+  return type === 'internal'
+    ? []
+    : ['Recorded and published by Creatorsgarten.']
+}
+
+function padAbove(x: string[]): string[] {
+  return x.length ? ['', ...x] : x
+}
+
 export async function getVideoDescription(
   video: Video,
   language?: 'en',
@@ -98,9 +119,9 @@ export async function getVideoDescription(
               ? `\n${event.externalOrganizer.url}`
               : ''),
           '--------------------------------------------',
-          'Recorded and published by Creatorsgarten.',
+          ...recordingCredit(event.recordedBy, 'external'),
         ]
-      : []),
+      : [...padAbove(recordingCredit(event.recordedBy, 'internal'))]),
     '',
     'Website:',
     'https://creatorsgarten.org',
