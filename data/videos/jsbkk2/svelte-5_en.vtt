@@ -34,7 +34,7 @@ I have a few proposals to come to Bangkok.
 I submitted a few proposals,
 
 00:00:47.480 --> 00:00:50.397
-but Pantip told me that you guys want to have
+but Phantip told me that you guys want to have
 
 00:00:50.480 --> 00:00:52.359
 a coding talk first thing in the morning.
@@ -1249,7 +1249,7 @@ So that's what we're going to do.
 We're going to import a library called print
 
 00:22:17.600 --> 00:22:19.199
-from estree-print.
+from esrap.
 
 00:22:19.679 --> 00:22:23.037
 Basically it's a reverse of parse,
@@ -1609,7 +1609,7 @@ You can pass this object,
 reference of this object anywhere, right?
 
 00:28:00.080 --> 00:28:03.797
-You can pass it into a p
+You can pass it into a…
 
 00:28:03.880 --> 00:28:08.196
 Do something function and you know you're just passing in

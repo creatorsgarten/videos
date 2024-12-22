@@ -13,7 +13,7 @@ This talk would be in English.
 Let me introduce myself a little bit.
 
 00:00:11.160 --> 00:00:12.639
-My name is ภูมิ, ภูมิเป็นมโนนะครับ
+My name is ภูมิ, ภูมิปรินทร์ มะโน นะครับ
 
 00:00:13.559 --> 00:00:16.279
 Right now, I work as a software engineer at Metabase.
@@ -118,7 +118,7 @@ machines, with algorithms.
 Second project is a project I did with a Singaporean
 
 00:01:57.960 --> 00:02:02.760
-artist, Horyon, which is about history of human
+artist, Ho Rui An, which is about history of human
 
 00:02:02.920 --> 00:02:04.399
 and history of AI.
@@ -280,7 +280,7 @@ programs that we can use to generate new dance.
 That means you are not limited to the number of dance
 
 00:04:29.199 --> 00:04:32.717
-you have like 10 panom, for example, but you're able
+you have like Thepphanom, for example, but you're able
 
 00:04:32.800 --> 00:04:35.280
 to continuously create new dance.
@@ -628,7 +628,7 @@ So let me show you a very simple example.
 So this is the one we actually use,
 
 00:09:45.839 --> 00:09:47.200
-called โอริ energy.
+called overrideEnergy.
 
 00:09:47.600 --> 00:09:50.480
 So some elements you can interpret it very simply.
@@ -694,7 +694,7 @@ What if you want to represent something like
 external body space?
 
 00:10:38.040 --> 00:10:41.237
-So in Thai, this is ช่องว่างรอบๆร่างกาย.
+So in Thai, this is ช่องว่างระหว่างร่างกาย.
 
 00:10:41.320 --> 00:10:43.360
 It's the space that surrounds your body.
@@ -913,7 +913,7 @@ Okay, I have another Dora thing for you.
 What API do you think it is?
 
 00:13:33.160 --> 00:13:35.681
-WebOTP, Speech, MIDI, or WebTunnel?
+WebOTP, Speech, MIDI, or Webพนัน?
 
 00:13:36.399 --> 00:13:39.120
 Okay, who thinks it's WebOTP, raise your hand?
@@ -925,7 +925,7 @@ Who thinks it's Web Speech?
 Who thinks it's Web MIDI?
 
 00:13:43.360 --> 00:13:44.760
-And who thinks it's WebTunnel?
+And who thinks it's Webพนัน?
 
 00:13:45.760 --> 00:13:46.160
 Okay.
@@ -1006,7 +1006,7 @@ like rotations, Y, and
 For example, 94.
 
 00:14:52.600 --> 00:14:55.520
-And then it would kind of change that avatar life.
+And then it would kind of change that live.
 
 00:14:56.120 --> 00:14:58.157
 But I think the interesting thing for me is not
@@ -1084,13 +1084,13 @@ shorter.
 So this is a project I did with my Singaporean
 
 00:15:48.800 --> 00:15:50.040
-artist friend, Ruian Ho Rui An.
+artist friend, Ho Rui An.
 
 00:15:50.560 --> 00:15:53.996
 So he's very interested in Singapore's history.
 
 00:15:54.079 --> 00:15:56.800
-So Ruian is actually a Singaporean artist,
+So Rui An is actually a Singaporean artist,
 
 00:15:57.079 --> 00:15:59.517
 and he's interested in basically how the history
@@ -1468,7 +1468,7 @@ I think it was going to be very hard,
 but I see a lot of people,
 
 00:21:21.159 --> 00:21:23.880
-for example, the guys who did UXN and Warara.
+for example, the guys who did uxn and varvara.
 
 00:21:24.559 --> 00:21:26.639
 So, it's kind of like a group of people
@@ -1600,7 +1600,7 @@ Yeah, and with React,
 I think it's quite straightforward.
 
 00:23:08.000 --> 00:23:10.440
-I think one interesting thing is Lexure,
+I think one interesting thing is Lezer,
 
 00:23:10.600 --> 00:23:12.076
 which is a library that helps you
@@ -1612,7 +1612,7 @@ to write your own language.
 So, here you can see we have some syntax highlighting here.
 
 00:23:18.520 --> 00:23:22.279
-This is thanks to the power of CodeMirror and Lexure.
+This is thanks to the power of CodeMirror and Lezer.
 
 00:23:22.799 --> 00:23:25.520
 Okay, so how do I create this program?
@@ -1753,7 +1753,7 @@ You can see like playing with numbers can result
 in so many cool sounds.
 
 00:25:09.360 --> 00:25:11.076
-And even creators garden themselves,
+And even Creatorsgarten themselves,
 
 00:25:11.159 --> 00:25:12.840
 we organize an event called Algorave,
@@ -2028,12 +2028,6 @@ Okay, but I think this is now not working.
 00:28:51.720 --> 00:28:54.360
 But we're at the last slide, so it's going to be fine.
 
-00:28:54.960 --> 00:28:55.344
-ได้นะฮะ
-
-00:29:05.504 --> 00:29:05.760
-Uh oh.
-
 00:29:06.440 --> 00:29:13.640
 I think we're lucky because this is the last slide.
 
@@ -2196,9 +2190,6 @@ maybe we can take a photo first quickly.
 00:31:45.559 --> 00:31:49.319
 Or maybe whenever you feel like it.
 
-00:31:50.159 --> 00:31:50.517
-มากเลยไหมฮะ
-
 00:31:50.600 --> 00:31:55.279
 Yeah, we take photo together.
 
@@ -2208,41 +2199,25 @@ So this is the last session,
 00:31:57.240 --> 00:32:05.676
 so let's do some photos.
 
-00:32:05.759 --> 00:32:05.936
-เก็บเข้าๆ ก็ดี
-
-00:32:06.019 --> 00:32:25.236
-เอาไปตัด external white space
-
-00:32:25.319 --> 00:32:25.702
-เพราะว่าจะได้ไม่บังกล้อง
-
 00:32:25.786 --> 00:32:26.476
 It was really nice.
 
 00:32:26.559 --> 00:32:26.716
 Thank you.
 
-00:32:26.799 --> 00:32:29.887
-like the typical things you have to do as a developer.
-
-00:32:29.970 --> 00:32:32.737
-อ่ายืนเรียงกันเลยค่ะ
-
-00:32:32.821 --> 00:32:35.588
-รบกวนไม่บังสไลด์นะคะ
-
 00:32:35.672 --> 00:32:38.439
-จะได้เห็นสไลด์เต็มๆ นะคะ
+อ่ายืนเรียงกันเลยค่ะ รบกวนไม่บังสไลด์นะคะ
 
 00:32:38.523 --> 00:32:39.865
-โอเคครับ
+จะได้เห็น
 
 00:32:39.948 --> 00:32:42.716
-เดี๋ยวยืนเรียงกันนะครับ
+- สไลด์เต็มๆ นะคะ
+- โอเคครับเดี๋ยวยืนเรียงกันนะครับ
 
 00:32:42.799 --> 00:32:44.920
 Could you stand in one row, I think?
 
 00:32:45.279 --> 00:32:47.320
-Maybe one or two rows, so that it doesn't-
+Maybe one or two rows,
+so that it doesn't block the slide

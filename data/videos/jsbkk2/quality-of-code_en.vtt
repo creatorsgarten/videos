@@ -274,7 +274,7 @@ Maybe not in this slide, but I guess you have some
 favorite.
 
 00:06:10.520 --> 00:06:14.757
-And then why we have people who reject all the
+And then a while, we have people who reject all the
 
 00:06:14.840 --> 00:06:17.400
 frameworks here and say that,
@@ -1249,7 +1249,7 @@ I think it comes from Svelte 4
 because I just learned that Svelte 5
 
 00:26:15.799 --> 00:26:19.440
-you need to put the state in the morning, but anyway.
+you need to put $state(…) in the morning, but anyway.
 
 00:26:19.960 --> 00:26:21.037
 And on the right side,
@@ -1756,4 +1756,4 @@ So, but it starts from being aware of what I care.
 So, yes, thank you for today.
 
 00:37:02.359 --> 00:37:03.599
-Okay. Thank you, P'P.
+Okay. Thank you, P'Chris.

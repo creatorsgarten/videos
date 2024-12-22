@@ -232,10 +232,10 @@ I think that's probably the most popular one here.
 So Ollama, another project that Mozilla is working on
 
 00:04:31.160 --> 00:04:33.160
-is called llama.cpp.
+is called Llamafile.
 
 00:04:33.919 --> 00:04:36.359
-Have people heard of llama.cpp here?
+Have people heard of Llamafile here?
 
 00:04:37.039 --> 00:04:37.279
 No?
@@ -301,7 +301,7 @@ it's basically running the workloads on your GPU.
 Okay.
 
 00:05:58.800 --> 00:06:02.559
-Now, let me quickly show you llama.cpp,
+Now, let me quickly show you Llamafile,
 
 00:06:02.680 --> 00:06:05.520
 which is a really neat project as well.
@@ -364,7 +364,7 @@ vibrant and exciting cities in Southeast Asia."
 There we go.
 
 00:07:08.360 --> 00:07:11.796
-I think llama.cpp knows that I'm in Bangkok
+I think Llamafile knows that I'm in Bangkok
 
 00:07:11.879 --> 00:07:14.479
 and it's trying to please.
@@ -403,7 +403,7 @@ in the browser, let's do a little demo here.
 So what this does is, actually similar to what
 
 00:08:09.240 --> 00:08:12.879
-Petey was talking about just before,
+Piti was talking about just before,
 
 00:08:13.720 --> 00:08:16.279
 vector search within MongoDB.
@@ -480,11 +480,8 @@ into the browser, I can, yeah.
 00:09:39.720 --> 00:09:40.240
 All good?
 
-00:09:51.399 --> 00:09:51.489
-ขอโทษนะครับ ตอนนี้มีใครต้องการใบกำกับภาษีมั้ยครับ
-
-00:09:51.666 --> 00:09:51.799
-ข้างนอกนะครับ ถ้าไม่มีก็โอเคครับ
+00:09:44.399 --> 00:09:51.489
+[announcement about tax invoice in Thai]
 
 00:09:52.399 --> 00:09:52.879
 Sorry.
@@ -658,7 +655,7 @@ Including actually a full Postgres database.
 So this is a really cool open source project.
 
 00:12:25.079 --> 00:12:26.999
-It's called PG Light,
+It's called PGlite,
 
 00:12:27.720 --> 00:12:32.839
 which actually basically runs Postgres in your browser
@@ -1008,16 +1005,16 @@ Okay, maybe we'll go the other round.
 00:19:18.919 --> 00:19:20.960
 I know, you know, English.
 
-00:19:22.760 --> 00:19:33.021
-So now the cooler thing as well is zum Beispiel,
+00:19:22.760 --> 00:19:24.824
+So now the cooler thing as well is
 
-00:19:33.105 --> 00:19:42.753
-wir haben hier Tobias, der spricht Deutsch.
+00:19:26.864 --> 00:19:29.856
+zum Beispiel, wir haben hier Tobias, der spricht Deutsch.
 
-00:19:42.837 --> 00:19:43.680
+00:19:31.349 --> 00:19:35.186
 Aber ihr alle sprecht kein Deutsch,
 
-00:19:43.763 --> 00:19:47.637
+00:19:35.649 --> 00:19:38.012
 also können wir das dann auf Englisch übersetzen.
 
 00:19:47.720 --> 00:19:52.760
@@ -1026,10 +1023,13 @@ Well, so it actually works quite well for sort of
 00:19:53.600 --> 00:19:56.560
 the Latin languages.
 
-00:19:57.039 --> 00:20:10.927
-But now what we could do as well is 大家好
+00:19:57.039 --> 00:19:59.037
+But now what we could do as well is
 
-00:20:11.010 --> 00:20:11.557
+00:20:01.538 --> 00:20:02.329
+大家好
+
+00:20:04.047 --> 00:20:11.557
 我是住在新加坡的德国人
 
 00:20:11.640 --> 00:20:12.200
@@ -1050,7 +1050,7 @@ convey here.
 00:20:31.640 --> 00:20:46.159
 Or maybe French.
 
-00:20:46.679 --> 00:20:47.037
+00:20:34.008 --> 00:20:47.037
 Bonjour, un mot français, c'est très mauvais.
 
 00:20:47.120 --> 00:20:48.596

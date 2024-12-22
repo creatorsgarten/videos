@@ -28,13 +28,13 @@ JavaScript and TypeScript in general.
 Okay, let's start with a little bit of introduction.
 
 00:00:30.679 --> 00:00:34.316
-You can call me Om, or if you're not sure how to
+You can call me Aom, or if you're not sure how to
 
 00:00:34.399 --> 00:00:40.960
-pronounce Om in English, you may call me Salty.
+pronounce Aom in English, you may call me Salty.
 
 00:00:41.399 --> 00:00:43.837
-The full name is Salty Om.
+The full name is SaltyAom.
 
 00:00:43.920 --> 00:00:48.439
 I use this name on both Twitter and other places as well
@@ -61,7 +61,7 @@ technical stuff.
 Today I cosplay as Pekomama from the kind of the
 
 00:01:22.159 --> 00:01:28.517
-company that made YouTubers.
+company that made VTubers.
 
 00:01:28.600 --> 00:01:37.199
 Let's just skip because about license and stuff.
@@ -176,12 +176,6 @@ That's a little bit of history.
 
 00:03:53.000 --> 00:03:57.757
 I think maybe we can start or should we still wait?
-
-00:03:57.840 --> 00:04:03.396
-Let's wait.
-
-00:04:03.479 --> 00:04:03.597
-BEEP!
 
 00:04:03.680 --> 00:04:07.520
 Okay, let's start with what is TypeScript.
@@ -493,7 +487,7 @@ we infer the type from the first one
 in the JavaScript code base.
 
 00:09:20.680 --> 00:09:24.240
-And then we use some utility call 𝙲.𝚒𝚗𝚏𝚎𝚛
+And then we use some utility call 𝚣.𝚒𝚗𝚏𝚎𝚛
 
 00:09:24.880 --> 00:09:26.560
 and then we get a type.
@@ -772,10 +766,10 @@ I hope you guys forgive me for that.
 A little bit of introduction.
 
 00:14:38.000 --> 00:14:44.237
-My name is Ohm in Thai, but for people somewhere else,
+My name is Aom in Thai, but for people somewhere else,
 
 00:14:44.320 --> 00:14:46.797
-you can call me Salty or SaltyOhm.
+you can call me Salty or SaltyAom.
 
 00:14:46.880 --> 00:14:51.000
 Basically, I am a core maintainer of Elysia.js.
@@ -829,7 +823,7 @@ A lot of people actually follow my Instagram account
 and saw that I cosplay.
 
 00:16:07.800 --> 00:16:12.560
-Today I cosplay as Pekora, which is from the Vtuber
+Today I cosplay as Pekomama, which is from the Vtuber
 
 00:16:13.040 --> 00:16:15.957
 company called Hololive.
@@ -1537,10 +1531,10 @@ and then we turn it into a code.
 So, how is that possible, right?
 
 00:28:46.000 --> 00:28:49.519
-Actually, there's some library called type fear
+Actually, there's some library called typia
 
 00:28:50.080 --> 00:28:54.157
-or type safe or io-ts that you can define a type
+or typespec or io-ts that you can define a type
 
 00:28:54.240 --> 00:28:54.760
 in TypeScript,
@@ -1591,7 +1585,7 @@ it doesn't actually let you run it in TypeScript itself.
 You have to install some additional library
 
 00:29:53.240 --> 00:29:54.320
-called T-TypeScript
+called ttypescript
 
 00:29:54.880 --> 00:29:58.677
 and then you add the plugin into the compiler plugin
@@ -2026,7 +2020,7 @@ But we are very close to making it possible.
 With community libraries like Zod,
 
 00:39:08.880 --> 00:39:10.880
-and companies like Prisma, tRPC
+and companies like Prisma and Drizzle
 
 00:39:11.440 --> 00:39:15.877
 have been trying to aggressively use TypeScript
@@ -2188,7 +2182,7 @@ But please really just connect with open source maintainer
 that maintain that you are using.
 
 00:42:29.400 --> 00:42:36.476
-So also shout out to Scala that we are since I am
+So also shout out to Scalar that we are since I am
 
 00:42:36.559 --> 00:42:39.677
 maintainer of Elysia, I also benefit from this
@@ -2197,7 +2191,7 @@ maintainer of Elysia, I also benefit from this
 open source pledge.
 
 00:42:43.200 --> 00:42:45.637
-There's something called Scala which is like
+There's something called Scalar which is like
 
 00:42:45.720 --> 00:42:47.877
 a Swagger UI alternative.
@@ -2358,15 +2352,6 @@ Alright.
 00:45:38.799 --> 00:45:39.797
 Okay, wait.
 
-00:45:39.880 --> 00:45:40.311
-ช่วงนี้คือต้องแปะ QR code
-
-00:45:44.825 --> 00:45:45.120
-QR payment แล้วนะครับ โอม
-
-00:45:45.800 --> 00:45:47.093
-Hello hello ทุกคนพร้อมจาก
-
 00:45:47.176 --> 00:45:47.557
 Yeah sure.
 
@@ -2389,7 +2374,7 @@ Okay. So there's actually a lot of stuff.
 The first thing first is that the big O notation.
 
 00:46:18.880 --> 00:46:22.280
-If we grind the code, there's like some algorithm
+If we grind LeetCode, there's like some algorithm
 
 00:46:22.880 --> 00:46:24.639
 to like make some stuff faster,
@@ -2656,7 +2641,8 @@ a name for that release.
 They name after the anime.
 
 00:51:50.319 --> 00:51:52.480
-The latest one are like Queen.
+The latest one are like
+[Quintessential Quintuplets].
 
 00:51:54.119 --> 00:51:56.720
 The latest one are also name after the anime.
@@ -2670,14 +2656,11 @@ version, you can see that we have some name
 00:52:04.319 --> 00:52:05.560
 after the version.
 
-00:52:05.799 --> 00:52:10.437
-The first one are The Blessing Which Are From
-
-00:52:10.520 --> 00:52:11.317
-Yozora Beat.
+00:52:05.799 --> 00:52:11.317
+The first one are The Blessing from YOASOBI.
 
 00:52:11.400 --> 00:52:13.520
-I think from Yozora Beat, from this song.
+I think from YOASOBI, from this song.
 
 00:52:13.640 --> 00:52:16.837
 I'm not going to meme it, but I think a lot of

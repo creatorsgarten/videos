@@ -346,13 +346,13 @@ And we think that maybe we need another class
 a bit different from that paragraph.
 
 00:09:26.560 --> 00:09:28.680
-We use all P here to extend.
+We use OOP here to extend.
 
 00:09:30.920 --> 00:09:33.917
 And all the method will go to the new class
 
 00:09:34.000 --> 00:09:36.680
-as well as inheritance in NoOp.
+as well as inheritance in OOP.
 
 00:09:37.920 --> 00:09:44.756
 I'm sorry if anyone doesn't actually understand.
@@ -461,9 +461,6 @@ It has to be hidden at first.
 
 00:11:49.560 --> 00:11:54.676
 So it needs some style.
-
-00:11:54.759 --> 00:11:54.879
-P
 
 00:11:55.639 --> 00:11:57.160
 I think it's too small.
@@ -895,7 +892,7 @@ It the way web component evolve over time.
 This kind of API, even for me, I don't want to use it.
 
 00:22:39.120 --> 00:22:45.600
-But for the fair completion, I include it anyway.
+But for the sake of completion, I include it anyway.
 
 00:22:46.120 --> 00:22:48.680
 Template has a pro and con.
@@ -1029,12 +1026,6 @@ You can speak Thai.
 00:25:32.679 --> 00:25:38.676
 I will try to translate.
 
-00:25:38.759 --> 00:25:39.184
-ถามเป็นไทยได้นะครับ ถามเป็นไทยได้ครับ
-
-00:25:39.268 --> 00:25:40.277
-สงสัย web component คืออะไร
-
 00:25:40.360 --> 00:25:42.656
 You can ask in Thai as well.
 
@@ -1058,27 +1049,6 @@ Well, I can answer that already.
 
 00:25:55.679 --> 00:25:57.237
 No, not a good idea.
-
-00:25:57.441 --> 00:25:57.537
-คืออยากรู้ว่าตัว web component นะครับมันสามารถช่วยให้
-
-00:25:57.831 --> 00:26:04.090
-คือบางทีโปรเจคใหญ่ๆ อย่างเงี้ยครับ มันใช้เวลา build
-
-00:26:04.173 --> 00:26:04.274
-นานมาก ประมาณครึ่งชั่วโมงถึง
-
-00:26:04.357 --> 00:26:24.133
-component อย่างเงี้ยครับ
-
-00:26:24.216 --> 00:26:24.308
-มันจะช่วยทำให้เวลา build time ของแอปเนี่ย
-
-00:26:24.391 --> 00:26:24.479
-มันลดลงไหมครับ
-
-00:26:31.360 --> 00:26:31.600
-Yes.
 
 00:26:32.840 --> 00:26:34.800
 I will answer in Thai first.
@@ -1125,32 +1095,8 @@ Any question?
 00:27:17.320 --> 00:27:17.640
 Yes.
 
-00:27:26.178 --> 00:27:26.982
-ทางนี้ใช่ไหมครับ
-
-00:27:27.381 --> 00:27:28.040
-พอดีอยากรู้ว่าตัว web component นะครับ
-
-00:27:28.123 --> 00:27:28.214
-ใน use case จริงๆ ในชีวิตจริงอะครับ
-
-00:27:28.297 --> 00:27:28.439
-เราจะเลือกใช้ในกรณีไหนบ้างครับ
-
 00:27:31.640 --> 00:27:51.200
 Okay. I will answer in Thai first.
-
-00:27:51.940 --> 00:28:22.003
-เราอยากได้ behavior custom behavior เนี่ย
-
-00:28:22.407 --> 00:28:23.317
-เราก็เลยสร้างเป็น web component
-
-00:28:23.400 --> 00:28:26.156
-แล้วเรา extend HTML image element
-
-00:28:26.239 --> 00:28:40.617
-แล้วใน constructor เราสั่งมันว่า
 
 00:28:40.799 --> 00:28:42.196
 I will now answer in English.
@@ -1196,48 +1142,6 @@ Yep.
 
 00:29:37.960 --> 00:29:42.760
 Okay. Thank you so much. Okay. Last question.
-
-00:29:45.432 --> 00:29:45.518
-โอเค ก็ผมสงสัยตรงที่ว่า
-
-00:29:45.602 --> 00:29:46.413
-ถ้าสมมุติมี custom element นะครับ
-
-00:29:46.496 --> 00:29:46.594
-แล้วมันสามารถควบคุม state
-
-00:29:46.677 --> 00:29:47.122
-สมมุติมี parent อันนึง แล้วมี child 2 อันนะครับ
-
-00:29:47.205 --> 00:30:05.307
-สามารถควบคุม state ข้าม child กันได้ไหมครับ
-
-00:30:05.390 --> 00:30:05.500
-โอเคครับ ขอตอบเป็นไทยก่อน
-
-00:30:05.583 --> 00:30:24.391
-ก็คือ state ของ element ถ้าดูโค้ดส่วนที่ตรงนี้
-
-00:30:24.520 --> 00:30:26.360
-by default label click me
-
-00:30:27.200 --> 00:30:40.555
-ถ้าเราจะ change state เราสามารถ change label ได้
-
-00:30:40.639 --> 00:30:40.818
-โดยการสั่งให้ JavaScript สั่งให้มันเปลี่ยน label tag
-
-00:30:41.262 --> 00:30:52.747
-เราสามารถเก็บ state ไว้ที่นี่ได้ครับ
-
-00:30:52.830 --> 00:30:52.938
-เป็นวิธีของ web component ที่เราจะ manage state ไว้ที่นี่
-
-00:30:53.022 --> 00:30:53.779
-แล้วก็เป็นข้อดีที่เราสามารถ manage state
-
-00:30:53.954 --> 00:30:54.120
-เพราะว่าเรา render เข้ามาตรงนี้เลย
 
 00:31:03.440 --> 00:31:05.237
 I will now explain in English.
@@ -1307,6 +1211,3 @@ Actually Thank you for having me.
 
 00:32:15.639 --> 00:32:16.556
 Yes. Thank you so much.
-
-00:32:16.639 --> 00:32:17.000
-Actually

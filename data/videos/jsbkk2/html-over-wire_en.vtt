@@ -256,7 +256,7 @@ And our apps become like this:
 unresponsive, janky, and not a good user experience.
 
 00:06:09.360 --> 00:06:12.000
-We welcome to SPAlgeddon era.
+We welcome to Spinnageddon era.
 
 00:06:14.400 --> 00:06:16.437
 So turns out, single-page application
@@ -831,9 +831,6 @@ then the client will re-render.
 00:18:45.760 --> 00:18:47.479
 Let's see in an action.
 
-00:19:05.120 --> 00:19:05.520
-Error.
-
 00:19:08.159 --> 00:19:09.277
 Okay, this is the app.
 
@@ -883,7 +880,7 @@ This is HTML as well.
 You can see the statistic over here like CPU usage
 
 00:20:05.679 --> 00:20:07.400
-144.43 and anything else.
+14.43% and anything else.
 
 00:20:08.039 --> 00:20:08.279
 Okay.
@@ -946,13 +943,13 @@ Okay.
 What interesting is when you use HTMX,
 
 00:21:12.000 --> 00:21:17.840
-you got a new property from HTML like 𝚜𝚡-𝚐𝚎𝚝
+you got a new property from HTML like 𝚑𝚡-𝚐𝚎𝚝
 
 00:21:18.360 --> 00:21:19.839
-or 𝚜𝚡-𝚙𝚘𝚜𝚝 or 𝚜𝚡-𝚙𝚊𝚝𝚌𝚑.
+or 𝚑𝚡-𝚙𝚘𝚜𝚝 or 𝚑𝚡-𝚙𝚊𝚝𝚌𝚑.
 
 00:21:20.440 --> 00:21:26.019
-And you define the 𝚜𝚡-𝚝𝚊𝚛𝚐𝚎𝚝 which is for my case
+And you define the 𝚑𝚡-𝚝𝚊𝚛𝚐𝚎𝚝 which is for my case
 
 00:21:26.102 --> 00:21:29.679
 will replace the content or the child of the body.
@@ -1252,7 +1249,7 @@ If you want to give some feedback for me for this
 session, you can scan the QR code or you can visit
 
 00:28:00.480 --> 00:28:01.280
-feedback.rizal.work.
+feedback.riza.world.
 
 00:28:07.440 --> 00:28:11.076
 Okay.
