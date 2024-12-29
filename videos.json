@@ -3641,6 +3641,990 @@
       "englishSubtitlePath": "data/videos/jsbkk1/typesafe-graphql_en.vtt"
     },
     {
+      "event": "jsbkk2",
+      "slug": "ai-agent",
+      "data": {
+        "title": "Build Simple AI Agent using Typescript",
+        "speaker": "Sarin Suriyakoon",
+        "type": "talk",
+        "youtube": "fe-vb_TbXpo",
+        "managed": true,
+        "description": "In this session, I will share the journey of building AI agent using Typescript. The tech stack I use is Next.js, OpenAI API. To be specific, the prompt I use is called ReAct prompting pattern.\n\nSpeaker LinkedIn:\nhttps://www.linkedin.com/in/sarin-suriyakoon-b47978127/\n\nRepository:\nhttps://github.com/palo-it-th/PALO-LLM-Playground\n\nDownload presentation:\nhttps://www.palo-it.com/en/events/javascriptbkk2024-3\n",
+        "published": "2025-02-12",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำตัวและเปิดเซสชันเกี่ยวกับ AI Agent ด้วย TypeScript",
+          "00:48": "แนะนำตัววิทยากรและประสบการณ์ทำงาน",
+          "01:39": "แนะนำ PALO IT บริษัทที่ปรึกษาด้านเทคโนโลยี",
+          "01:57": "บริการหลักของ PALO IT และ GitHub Copilot",
+          "02:19": "บริการของ PALO IT: การพัฒนาและปรับปรุงผลิตภัณฑ์ และ DevOps",
+          "02:35": "แรงบันดาลใจและที่มาของเซสชัน: ReAct และ OS Copilot",
+          "03:01": "เป้าหมายในการสร้าง AI ที่ควบคุม Bash Script ได้",
+          "03:40": "ความสามารถของ AI Agent ตัวนี้: DevOps, Automation, Coding",
+          "03:51": "ตัวอย่างการทำงานของ AI Agent (Demo)",
+          "06:33": "วิธีการใช้งาน Shell Agent และเลือกโหมดการทำงาน",
+          "07:08": "หลักการทำงานของ ReAct และการ Reasoning ก่อน Action",
+          "07:46": "แนะนำ Paper เกี่ยวกับ ReAct และการนำไปใช้งาน",
+          "07:54": "ตัวอย่างโค้ด Python พื้นฐานของ ReAct และ Loop 8 ครั้ง",
+          "08:18": "Observation ใน ReAct: การเรียก Tool หรือ API จริง",
+          "09:07": "สรุปขั้นตอนการทำงานของ ReAct ในรูปแบบ Stack",
+          "10:19": "ตัวอย่าง Prompt พื้นฐานจาก Langchain และการอธิบาย Instruction, Thought, Observation",
+          "11:03": "สาธิตการใช้ GitHub Copilot ในการทำ Prompt Engineering",
+          "12:16": "ตัวอย่างการเขียน Prompt ReAct เพิ่มเติม: AI นักอ่านใจ",
+          "12:52": "แจก Repo สำหรับผู้สนใจทดลองใช้งาน",
+          "13:29": "Implementation: Full Stack Next.js และ 2 API หลัก",
+          "14:01": "การอัปเดต Repo ให้ใช้ Structure Output ของ OpenAI",
+          "14:32": "Prompt Structure ที่เพิ่มเข้ามา: Verification Step by Step",
+          "15:05": "อธิบายขั้นตอนการทำงานหลังเพิ่ม Structure Output และ Verification",
+          "15:31": "การใช้งาน OpenAI SDK และ Message Object",
+          "16:15": "การสร้าง Chatbot ด้วย History และ Context Awareness",
+          "16:50": "ตัวอย่าง Payload หลังใช้ Structure Output และ Verification",
+          "17:33": "System Prompt ที่ใช้จริงและการอธิบาย Thought, Action Type, Action",
+          "18:09": "สรุป"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/ai-agent.md",
+      "imageFilePath": "data/videos/jsbkk2/ai-agent.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/ai-agent_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "ai-edge",
+      "data": {
+        "title": "AI in the Browser and on the Edge",
+        "speaker": "Thor 雷神 Schaeff",
+        "type": "talk",
+        "youtube": "tAGt9lksC9E",
+        "managed": true,
+        "description": "Open Source libraries like Transformer.js allow you to run Machine Learning workloads right within your browser. We can perform multi-language speech recognition and translation, text-to-speech, and even RAG, fully offline and in-browser! In this session we take a look at some examples of what's possible, as well as a small look behind the scenes at Microsoft's open source ONNX Runtime which makes this possible. Hopefully this session can inspire you to sprinkle some AI into your client applications!\n\nSlides:\nhttps://go.thor.bio/jsbkk-slides\n\nThor on X:\nhttps://x.com/thorwebdev\n\nIn-Browser Semantic Search with Transformers.js and pglite + pgvector:\nhttps://github.com/thorwebdev/browser-vector-search\n\nBabelfish AI:\nhttps://github.com/supabase-community/babelfish.ai?tab=readme-ov-file\n",
+        "published": "2025-02-12",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Intro and Fun Demo with Google Gemini and ElevenLabs",
+          "2:29": "Transitioning to Local AI and LLMs",
+          "3:57": "Running LLMs Locally: Ollama, Llamafile, and Cortex",
+          "5:57": "Demo: Local Semantic Search with Hugging Face Models",
+          "7:49": "Local LLMs on Beefy Machines and Small Token Windows",
+          "8:04": "Demo: Semantic Search with Local Postgres Database (PGlite)",
+          "9:07": "Explanation of Semantic Search and Embeddings",
+          "12:40": "How In-Browser LLMs Work: ONNX Runtime and Wasm",
+          "14:23": "Hugging Face, Transformers.js, and Model Conversion",
+          "15:48": "Demo: Babelfish AI - Realtime Transcription and Translation in the Browser",
+          "21:58": "Supabase Edge Runtime and ONNX with Rust"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/ai-edge.md",
+      "imageFilePath": "data/videos/jsbkk2/ai-edge.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/ai-edge_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "ai-ethics",
+      "data": {
+        "title": "How to Trick Users into Filling in Your Boring AI Ethics Survey Using React",
+        "speaker": "Umphaipun Atipunumphai",
+        "type": "talk",
+        "youtube": "KYqDXrMPKqk",
+        "managed": true,
+        "description": "We’re at a turning point where it’s easier to claim that real images are fake than to prove that images are generated by AI. When it’s increasingly easy to generate convincing depictions of individuals doing or saying things that they never did we’re stuck in a situation where we can no longer agree on a shared reality. What does this mean for using audio as evidence in court if anyone can mimic speech? How can we make informed voting decisions when digital tools can make politicians say or do anything? To explore these issues, I designed an experiment called the \"Turing Twest (Tweet + Test),\" which challenges users to differentiate between tweets from well-known public figures (like Elon Musk, Donald Trump, and Taylor Swift) and AI-generated tweets. The design of the test is made to mimic Twitter’s UI using React and AntD. The game-like interface as opposed to a survey is there to motivate users to respond and replay multiple times. The results showed that people initially struggled to identify real tweets from fake ones, but also revealed an interesting detail on how we can improve media literacy in the attention economy.\n\nDuckgrammer on Facebook:\nhttps://www.facebook.com/@Duckgrammer\n",
+        "published": "2025-02-18",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและหัวข้อ: หลอกให้คนกรอกแบบสอบถาม AI Ethics",
+          "0:24": "การหลอกล่อคืออะไร? และ Research เกี่ยวกับ Media Manipulation",
+          "1:02": "Social Media Manipulation: สร้าง AI ปลอมความเห็น",
+          "2:05": "Social Media Manipulation มีมานานแล้ว แต่ AI ทำให้มันง่ายขึ้น",
+          "2:36": "Experiment: Turing Test บน Twitter แยก AI กับคนจริง",
+          "3:22": "ปัญหา ChatGPT ไม่ยอมสร้าง Tweet แบบ Trump และวิธีแก้",
+          "4:01": "จาก Google Form สู่ Web App: เพิ่มการตอบแบบสอบถาม",
+          "4:53": "ข้อดีของการสร้าง App เอง: เก็บข้อมูลได้ทุกคลิก",
+          "5:13": "ผลลัพธ์: คนตอบแบบสอบถามเยอะขึ้นเพราะอยากเอาชนะ AI",
+          "5:55": "กราฟแสดงผล: คนแยก AI ได้ดีขึ้นเมื่อเล่นหลายครั้ง",
+          "6:28": "ข้อจำกัดของ Experiment และคำถามถึงปัญหา AI บน Twitter",
+          "7:01": "Real-life Case Study: AI สร้างความแตกแยกทางการเมือง",
+          "7:40": "Deepfake ของ Zelenskyy และผลกระทบในสงคราม",
+          "8:24": "Deepfake เสียงใน Court Case: ปัญหาของหลักฐานในอนาคต",
+          "9:14": "สรุป: ระวังการถูกหลอกบน Social Media และ Content จาก AI"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/ai-ethics.md",
+      "imageFilePath": "data/videos/jsbkk2/ai-ethics.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/ai-ethics_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "art-performance",
+      "data": {
+        "title": "TypeScript Theatre: Coding Art Performances with Algorithms, AI and Assembly",
+        "speaker": "Phoomparin Mano",
+        "type": "talk",
+        "youtube": "WqUe7q-NJ8s",
+        "managed": true,
+        "description": "What happens when TypeScript takes the center stage in interactive art performances? This talk explores three of my art collaboration projects that pushes the boundaries of creative coding: an algorithmic Thai Khon dance performance, an AI-powered performance lecture on intelligences in Singapore, and audio-visual live-coding with assembly language. We'll uncover how TypeScript, Three.js, React, and WebAssembly can enrich stage performances. From generating dance moves in real-time to creating AI images on the fly, and even turning assembly code into a visual spectacle, you'll discover the exciting possibilities that emerge when we bring the power of TypeScript into the art theatre.\n\nPoom on YouTube:\nhttps://www.youtube.com/@heypoom\n\nCyber Subin Project:\nhttps://cybersubin.pages.dev/\n\nFigures of History and the Grounds of Intelligence:\nhttps://horuian.com/figures-of-history-and-the-grounds-of-intelligence/\n\nVisual Assembly Canvas:\nhttps://github.com/heypoom/visual-assembly-canvas\n\nAlgorave:\nhttps://www.youtube.com/playlist?list=PLTuz2sLvbRpyh3nQ8RE6mjbzN3sF56969\n",
+        "published": "2025-02-28",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction: Exploring Creative Coding Projects",
+          "2:18": "Cyber Subin: Art Performance and Technology's Role",
+          "2:55": "The Cyber Subin Team and Project Origins",
+          "3:32": "Deconstructing Thai Dance: A 100-Year Perspective",
+          "4:14": "Using Algorithms to Generate New Dance Moves",
+          "5:07": "Domain-Driven Design in Dance and Technology",
+          "6:04": "Goals: Creating New Dance and Human-Machine Interaction",
+          "6:28": "Cybernetics: Feedback Loops in Dance and Missiles",
+          "7:16": "Technology: Three.js and Motion Capture",
+          "8:09": "Modifying Dance with Keyframes",
+          "9:12": "Six Elements of Dance as Transformation Functions",
+          "10:14": "Demo: Manipulating Dance with Energy Parameters",
+          "10:31": "Representing External Body Space in Code",
+          "11:25": "Coding Dance Transformations: From Curves to IK",
+          "12:43": "Interactive Dance Manipulation with Voice Commands",
+          "14:34": "Demo: Live Dance Manipulation",
+          "15:41": "Singapore History and AI: A Performance Lecture Project",
+          "16:36": "Diffusion Project: Exploring Singapore's History through AI",
+          "17:22": "Technology: Hugging Face Diffusers and WebSockets",
+          "18:07": "Visualizing Diffusion Steps in Real Time",
+          "19:00": "Automating the Exhibition with Captured Actions",
+          "19:53": "Visual Assembly Canvas: Writing Assembly for Audio-Visual Projects",
+          "20:25": "Inspiration: Old Computers and Shenzhen I/O",
+          "21:11": "Writing a Custom OS and Stack Machine",
+          "22:38": "Using React Flow and Rust for Assembly Programming",
+          "24:39": "Inspiration: EDM Concerts and Algorithmic Music",
+          "25:23": "Writing Assembly for Music and Visuals",
+          "26:00": "Actor Model and Message Passing in Visual Programming",
+          "27:13": "Adding a Command Palette and Web MIDI Integration",
+          "28:15": "Bad Apple Challenge: Running Animations with Assembly",
+          "29:23": "Reflections: Following the Fun and Doing Hard Things"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/art-performance.md",
+      "imageFilePath": "data/videos/jsbkk2/art-performance.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/art-performance_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "browser-automation",
+      "data": {
+        "title": "The future of cross-browser automation testing",
+        "speaker": "Ivan Kristianto",
+        "type": "talk",
+        "youtube": "oJYVLqxTv_Y",
+        "managed": true,
+        "description": "I'm introducing a better cross browser testing automation tools with WebDriver BiDi along with demo for example cases.\n\nIvan Kristianto on X:\nhttps://x.com/ivankrisdotcom\n\nLinkedIn:\nhttps://www.linkedin.com/in/ivankristianto/\n\nWebDriver BiDi Roadmap:\nhttps://bit.ly/wbidi-roadmap\n",
+        "published": "2025-02-18",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Speaker Background",
+          "0:52": "Testing for Software Reliability",
+          "1:14": "Common Browser Automation Challenges",
+          "2:09": "Overview of Browser Automation Tools",
+          "2:30": "How Browser Automation Works: High-Level vs. Low-Level",
+          "3:39": "WebDriver Classic Protocol: How it Works and its Limitations",
+          "6:34": "CDP (Chrome DevTools Protocol): Benefits and Drawbacks",
+          "8:42": "Introducing WebDriver BiDi: Combining the Best of Both Worlds",
+          "9:04": "WebDriver BiDi: A New Web Standard for Browser Automation",
+          "10:07": "Integrating WebDriver BiDi into Existing Tests",
+          "11:21": "Example: Using WebDriver BiDi with WebDriverIO",
+          "12:12": "Monitoring Console Logs with WebDriver BiDi",
+          "13:52": "Combining WebDriver BiDi with Web Vitals",
+          "14:39": "WebDriver BiDi Roadmap and Interoperability",
+          "15:54": "Using WebDriver BiDi with Puppeteer"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/browser-automation.md",
+      "imageFilePath": "data/videos/jsbkk2/browser-automation.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/browser-automation_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "creative-coding",
+      "data": {
+        "title": "Sparking Curiosity: The Power of Creative Coding",
+        "speaker": "Patt Vira",
+        "type": "talk",
+        "youtube": "Q3dgS5KFfHk",
+        "managed": true,
+        "description": "In an age where technology is deeply intertwined with creativity, teaching coding has become much more than just learning a technical skill—it's about fostering a mindset of exploration, innovation, and artistic expression. This talk delves into the transformative potential of creative coding in education, highlighting how it can be a powerful tool to inspire students and unlock their creative potential. By integrating coding with art, music, and design, educators can engage students in new and exciting ways, making the learning process fun, intuitive, and deeply impactful.\n\nPatt Vira\nhttps://www.youtube.com/@pattvira\nhttps://www.pattvira.com/\n",
+        "published": "2025-02-14",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and What is Coding?",
+          "0:35": "The Power of Creative Coding",
+          "1:45": "Patt's Creative Coding Journey",
+          "2:01": "Early Coding Experiences and Discovering Interactive Art",
+          "3:17": "Text Rain Project and Other Creative Coding Assignments",
+          "4:48": "The Impact of Creative Coding on Patt's Learning Approach",
+          "5:15": "Slices of Beijing: A Physical Computing Project",
+          "7:21": "Exploration and Experimentation in Creative Coding",
+          "7:37": "Finding Inspiration and the Sound Mini Series",
+          "8:06": "Experimenting with Sound Libraries and Techniques",
+          "11:01": "The Pendulum Wave Project and Curiosity-Driven Exploration",
+          "11:17": "Creative Coding Across Disciplines",
+          "12:18": "Challenges of Interdisciplinary Coding and Overcoming the Fear of Starting New",
+          "13:32": "Treating Learning Like a Video Game",
+          "14:51": "The Quadtree and Flocking Simulation Project",
+          "17:07": "Venturing into Physical Computing and Future Directions",
+          "18:00": "The Value of Creative Coding and Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/creative-coding.md",
+      "imageFilePath": "data/videos/jsbkk2/creative-coding.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/creative-coding_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "css",
+      "data": {
+        "title": "Why use JavaScript when CSS is possible?",
+        "speaker": "Siriwat Kunaporn",
+        "type": "talk",
+        "youtube": "gMU237Vyees",
+        "managed": true,
+        "description": "With the current state of CSS, it is now possible to move React Context to CSS for faster and smaller web. Let's explore the technique and its application together!\n\nSiriwat Kunaporn's YouTube channel\nhttps://www.youtube.com/@devMasterSomeday\n",
+        "published": "2025-02-14",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เริ่มต้นด้วยแบบสำรวจ Styling Component และเกริ่นนำ Talk",
+          "0:30": "สปอยล์เนื้อหา Talk: เน้น CSS และ Reusable UI",
+          "0:51": "แนะนำตัวผู้บรรยายและบริษัท MUI",
+          "1:48": "หัวข้อ Talk: ใช้ JavaScript Styling ทำไมในเมื่อมี CSS?",
+          "2:01": "เป้าหมายของ Reusable UI: End User, Business, Developer",
+          "4:00": "Reusable UI/UI Library ควรครอบคลุมอะไรบ้าง?",
+          "6:32": "เฉลยวิธีที่ดีที่สุดในการสร้าง Reusable Component",
+          "7:08": "ทำไมไม่ใช่ Tailwind และ CSS in JS?",
+          "8:03": "รวมพลัง CSS Modules และ Inline Style",
+          "8:46": "CSS Modules คืออะไรและทำไมถึงเหมาะกับ Reusable Component",
+          "10:37": "ปัญหาการ Scale ของ CSS ทั่วไปและ Tailwind",
+          "11:41": "วิธีการ Scale CSS ด้วย JavaScript และ Tree Shaking",
+          "13:18": "ตัวอย่างปัญหา CSS แบบเดิมกับ Variants, สี, และขนาดของปุ่ม",
+          "15:37": "แนวคิด: ย้าย Style เข้า JavaScript เพื่อ Tree Shaking",
+          "17:45": "วิธีการ Implement: CSS Modules + Inline Style",
+          "20:36": "เปรียบเทียบขนาด Bundle Size กับ TailwindCSS พร้อม Dark Mode",
+          "22:04": "สรุปข้อดีของวิธี CSS Modules + Inline Style",
+          "25:47": "ปิดท้าย: POC และอนาคตของ Library"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/css.md",
+      "imageFilePath": "data/videos/jsbkk2/css.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/css_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "cypress",
+      "data": {
+        "title": "Modern JavaScript Testing with Cypress: Beyond the Basics",
+        "speaker": "Louis Yoong",
+        "type": "talk",
+        "youtube": "ytCsiusPR0g",
+        "managed": true,
+        "description": "Dive into advanced testing strategies using Cypress, a powerful end-to-end testing framework for modern JavaScript applications. This session will explore how to leverage Cypress for more than just basic tests, showcasing advanced techniques, real-world examples, and best practices. Learn how to create custom commands, perform comprehensive API and component testing, and integrate Cypress into CI/CD pipelines to ensure your JavaScript applications are robust and reliable. Perfect for developers looking to elevate their testing game and ensure high-quality software delivery.\n\nLouis Yoong\nhttps://twitter.com/louisyoong91\nhttps://github.com/louisyoong\nhttps://www.linkedin.com/in/louis-yoong-a2370ab7\n",
+        "published": "2025-02-05",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Speaker Background",
+          "1:54": "Cypress: End-to-End Testing with JavaScript",
+          "2:49": "Installing and Setting Up Cypress",
+          "3:12": "Cypress UI Demo and Example Specs",
+          "4:17": "Understanding the Cypress Dashboard",
+          "5:52": "Basic Cypress Syntax and Test Case Structure",
+          "7:01": "Demo: Building a Login Page Test",
+          "8:32": "Running Cypress Tests and Analyzing Results",
+          "10:54": "Best Practices for Element Selectors: data-cy and data-testId",
+          "15:25": "Handling Data in Cypress Tests: Mapbox Example",
+          "17:09": "Writing Test Cases for Data Validation",
+          "19:42": "Testing for Incorrect Data and Error Handling",
+          "21:25": "Integrating Cypress with CI/CD and Cypress Cloud",
+          "23:52": "Cypress Cloud Demo: Viewing Runs and Analytics",
+          "28:21": "Easy Test Case Creation: Cypress Chrome Recorder",
+          "30:01": "Using the Chrome DevTools Recorder for Cypress Tests",
+          "32:44": "Survey, Q&A, and Closing Remarks"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/cypress.md",
+      "imageFilePath": "data/videos/jsbkk2/cypress.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/cypress_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "devtools",
+      "data": {
+        "title": "Advanced Frontend Debugging with DevTools Beyond Console.log",
+        "speaker": "Trung Vo",
+        "type": "talk",
+        "youtube": "uMMIRpR00es",
+        "managed": true,
+        "description": "As a web developer, you're no stranger to the browser and the trusty console.log in your debugging process. But did you know that browser DevTools offer a wealth of features beyond the basics? In this talk, we'll uncover the untapped potential of DevTools, exploring powerful tricks and lesser-known tools that can revolutionise your debugging experience. From debugging hidden elements to leveraging Visual Coverage, Animation Timeline, Performance panels, Web Vitals metrics and beyond, you'll discover features that simplify your workflow and boost your productivity. Many of us miss out on essential DevTools features simply because we assume they're common knowledge. This talk is your chance to gain a fresh perspective. Think of it as an information buffet—I'll present a variety of tools, and you can pick what suits your needs. Let's dive in with an open mind and transform the way you work with DevTools!\n\nLinks and resources\nhttps://trungvose.com/jsbkk24\n",
+        "published": "2025-02-07",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and DevTools Overview",
+          "2:50": "Exploring Chrome DevTools History",
+          "4:30": "Basic DevTools Navigation and Shortcuts",
+          "6:01": "Speaker Introduction and Background",
+          "7:08": "Speaker's Company: Ascenda",
+          "7:33": "Console: The Most Accessible DevTools Tool",
+          "9:13": "Logpoints: Console Logging Without Code Changes",
+          "12:49": "Changing Program Behavior On-the-Fly with Conditional Breakpoints",
+          "17:34": "Understanding console.dir for DOM Objects",
+          "18:54": "Measuring Execution Time with console.time and console.timeEnd",
+          "21:50": "console.table and Other Console Utilities",
+          "22:08": "DOM Element Selection Shortcuts: $, $$, $0",
+          "24:18": "Styling Console Output with CSS",
+          "26:21": "Understanding and Clearing Cache in DevTools",
+          "33:08": "Snippets: Storing and Reusing Code in DevTools",
+          "35:48": "Understanding Console Messages with AI Assistance",
+          "39:25": "Wrap Up and Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/devtools.md",
+      "imageFilePath": "data/videos/jsbkk2/devtools.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/devtools_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "first-static-web",
+      "data": {
+        "title": "Build your first static web app with Azure, GitHub, and MongoDB",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "ngqXFVgN0rk",
+        "managed": true,
+        "description": "Quickly set up and deploy a static web app using Microsoft Azure, automate workflows with GitHub Actions, and connect to MongoDB Atlas App Services for backend API integration. This session provides hands-on experience in creating a complete web app with CI/CD integration, ideal for beginners and those looking to expand their development toolkit.\n",
+        "published": "2025-02-18",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำตัวและที่มาของหัวข้อ Build Your First Web App",
+          "02:02": "ใครเหมาะกับ Session นี้? (End-to-end, ฟรี, DBaaS, MongoDB)",
+          "02:40": "สถาปัตยกรรม 3 ชั้นของ Web App และ MongoDB Atlas",
+          "04:03": "เหตุการณ์ไม่คาดฝัน: Service Deprecation เปลี่ยนหัวข้อเป็น Azure, GitHub และ Mongo",
+          "05:02": "เรื่องราว Device Sync ที่น่าเสียดาย",
+          "07:14": "Backend, Webhook, Function และสิทธิ์ผู้ใช้ใน MongoDB (ที่ถูก Deprecate)",
+          "08:41": "สถาปัตยกรรมใหม่: Azure Static Web App, AWS Lambda และ GitHub",
+          "09:47": "ใช้ MongoDB Query ข้อมูลจาก S3 แทน Database ปกติ",
+          "10:34": "ทางเลือกสำหรับผู้ใช้ Service ที่ถูก Deprecate",
+          "11:45": "เริ่ม Demo: Static Web App, Lambda, MongoDB Query บน S3 และ GitHub CI/CD",
+          "13:37": "GitHub Actions คืออะไร? CI/CD เบื้องต้น",
+          "17:12": "โครงสร้างโปรเจกต์ตัวอย่าง",
+          "19:23": "ตั้งค่า Static Web App บน Azure",
+          "22:00": "Deploy Frontend ลง Azure Static Web App",
+          "23:29": "Deploy Backend ลง AWS Lambda",
+          "24:53": "Demo: แก้ไขโค้ดและ Deploy ผ่าน GitHub Actions",
+          "28:00": "ตรวจสอบผลการ Deploy บน Azure และ Lambda",
+          "29:54": "อธิบาย Code Lambda และ Aggregation ใน MongoDB",
+          "31:56": "Data Federation: ดึงข้อมูลจาก S3 ด้วย MongoDB Query Language",
+          "34:43": "Demo: สร้าง Data Federation และ Query ข้อมูลจาก S3 ผ่าน Compass",
+          "37:51": "Generative AI ช่วยเขียน Query MongoDB",
+          "40:36": "สรุป Demo และช่องทางติดตาม",
+          "42:08": "คำแนะนำสำหรับผู้ใช้ Service ที่ถูก Deprecate และช่องทางติดตามเพิ่มเติม"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/first-static-web.md",
+      "imageFilePath": "data/videos/jsbkk2/first-static-web.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/first-static-web_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "html-over-wire",
+      "data": {
+        "title": "The Rise of HTML Over the Wire",
+        "speaker": "Riza Fahmi",
+        "type": "talk",
+        "youtube": "zXFfKwIw02I",
+        "managed": true,
+        "description": "Web development has evolved from traditional request-response models to complex single-page applications (SPAs). While SPAs brought interactivity, they also introduced complexity and performance challenges. Enter \"HTML over the Wire\" - a return to simplicity with modern benefits. This talk looks at HTML-first techniques like LiveView, Hotwire, and HTMX. These tools are changing how we build web apps. We'll explore the key ideas behind this approach. You'll see how it uses basic web tech to create dynamic, responsive application. At the end of this talk, audience will learn: - The evolution from traditional web apps to SPAs, and why HTML over the Wire emerged - Core concepts and how they differ from SPA approaches - Real-world implementation examples - Performance benefits and potential drawbacks This talk is for everyone in web development. Experienced developers will find ways to simplify their work. Newcomers will learn efficient methods for building interactive apps. You'll gain insights into a powerful new approach to web development.\n\nRiza Fahmi\nhttps://github.com/rizafahmi\nhttps://www.linkedin.com/in/rizafahmi/\nhttps://www.youtube.com/rizafahmi\nhttps://x.com/rizafahmi22\nhttps://rizafahmi.com/\n",
+        "published": "2025-02-07",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Welcome",
+          "0:35": "History of Web Page Rendering",
+          "1:03": "Early Web Rendering (1990s)",
+          "2:11": "Dynamic Web and Browser Wars (2000s)",
+          "3:08": "Mobile Web and the Dawn of Frameworks (2007-2010s)",
+          "3:38": "The Rise of Client-Side Rendering and Its Challenges",
+          "5:11": "Information Overload and the Limits of Client-Side Rendering",
+          "6:09": "The Problems with Single-Page Applications",
+          "7:39": "The Shift Back to Server-Side Rendering",
+          "8:07": "Evolution of Server-Client Interaction",
+          "9:19": "Meta Frameworks and Their Role",
+          "10:12": "What is HTML Over The Wire?",
+          "11:12": "Benefits of HTML Over The Wire",
+          "12:11": "Server-Centric Approach and Reduced Client Complexity",
+          "13:52": "Drawbacks of HTML Over The Wire",
+          "15:17": "Positioning HTML Over The Wire: UX vs DX",
+          "16:14": "Phoenix LiveView: A Pioneer in HTML Over The Wire",
+          "17:09": "Frameworks and Libraries for HTML Over The Wire",
+          "17:58": "Demo 1: Simple Dashboard with HTMX and Hono",
+          "19:08": "Demo 1: Code Explanation",
+          "22:15": "Demo 2: Real-time Dashboard with Elixir and Phoenix LiveView",
+          "23:17": "Demo 2: WebSocket Communication and Code Overview",
+          "26:38": "Summary and Key Takeaways"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/html-over-wire.md",
+      "imageFilePath": "data/videos/jsbkk2/html-over-wire.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/html-over-wire_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "level-up-dx",
+      "data": {
+        "title": "Beyond Compile Times: Leveling Up Your Developer Experience",
+        "speaker": "Nattaaek Wattanuyan",
+        "type": "talk",
+        "youtube": "146dc9GWpmc",
+        "managed": true,
+        "description": "Waiting around for your JavaScript to build? You grab a coffee, check some emails... and before you know it, 5 minutes turns into 15, and getting back into the flow feels like climbing a mountain. In this session, we’re digging into the real cost of those tiny timeouts and how they mess with our groove. We’ll show you how we’re tackling this with developer feedback tools that track build times, unit test runs, and more, so we can spot the slowdowns and start speeding things up. No more long breaks that break your focus—let’s make your workflow smoother, faster, and way more efficient!\n",
+        "published": "2025-02-14",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and The Problem of Context Switching",
+          "0:48": "Examples of Context Switching and Their Impact",
+          "2:59": "The Cost of Context Switching: Productivity, Errors, and Job Satisfaction",
+          "5:26": "Technical Context Switching at Agoda and Data Collection",
+          "7:55": "Agoda's Approach to Fixing Context Switching: Data Analysis and Tooling",
+          "9:19": "Visualizing Build Data and Identifying Bottlenecks",
+          "11:11": "Seeking New Build Tools and A/B Testing with Vite",
+          "13:03": "Tracking Test Times and Non-Technical Context Switching Solutions",
+          "15:53": "Q&A: A/B Testing Methodology, Webpack to Vite Migration Challenges, and Invasive Monitoring Concerns"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/level-up-dx.md",
+      "imageFilePath": "data/videos/jsbkk2/level-up-dx.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/level-up-dx_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "life",
+      "data": {
+        "title": "What I use and what I build to make my life easier this year",
+        "speaker": "Thai Pangsakulyanont",
+        "type": "talk",
+        "youtube": "DZDr1LiDTrI",
+        "managed": true,
+        "description": "In this session, I cover what I learned in 2024 that improved my life and made me better at developing software and creating content. It includes exploration of self-hosted web-based tools, JavaScript tooling, multimodal generative AI models, and how they connect together.\n\nLinks and resources:\nhttps://d4h.cc/jsbkk2024talk\n",
+        "published": "2025-02-26",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เกริ่นนำและแนะนำตัว",
+          "1:51": "โปรเจค Creatorsgarten.org และความต้องการ Subtitle",
+          "6:59": "การใช้ Large Language Models (LLMs) และเปรียบเทียบ ChatGPT, Claude, Gemini",
+          "14:29": "โปรเจคสแกนใบเสร็จด้วย Google AI Studio",
+          "16:40": "แนะนำ Open Web UI และ LiteLLM สำหรับการใช้งาน LLM หลายตัว",
+          "18:44": "แนะนำ Grist: Spreadsheet + Database แบบ Self-Host",
+          "19:41": "เปรียบเทียบข้อดีข้อเสียและสไตล์การเขียนของ LLM แต่ละตัว",
+          "27:40": "การทดสอบ Speech-to-Text หลายเจ้าและ Whisper ของ OpenAI",
+          "32:21": "Multimodal AI Model: Gemini 1.5 Pro",
+          "33:38": "ปัญหาและวิธีแก้ไขการทำ Subtitle อัตโนมัติด้วย Gemini Pro",
+          "38:49": "TypeScript และเครื่องมือที่ช่วยลดความยุ่งยากในการพัฒนา",
+          "39:24": "การแชร์เทคนิคและการเรียนรู้จาก Community",
+          "40:39": "การทดสอบ CapCut และ iApp ASR Pro",
+          "41:50": "บทเรียนและประสบการณ์จากการลองผิดลองถูก",
+          "42:54": "การสร้างเครื่องมือแก้ไข Subtitle ด้วย Google Apps Script",
+          "45:46": "การสร้างและเผยแพร่ TypeScript Library ด้วย JSR",
+          "47:04": "สรุป และการสร้าง Description และ Chapters ด้วย Gemini"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/life.md",
+      "imageFilePath": "data/videos/jsbkk2/life.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/life_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "mastering-phi3",
+      "data": {
+        "title": "Mastering Phi-3 Experiments: Innovative Approaches with JavaScript & Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "gJqvzfRhzNc",
+        "managed": true,
+        "description": "Join us for an immersive session where we dive deep into the world of Phi-3 experiments, leveraging the power of JavaScript and the versatile Ollama platform. Whether you're a seasoned developer or a curious newcomer, this workshop is designed to equip you with the knowledge and skills needed to create cutting-edge applications and AI-driven solutions. In this session, participants will learn about the latest advancements in JavaScript with \"Bun\" and how they can be applied to Phi-3 experiments, as well as explore the potential of the Ollama platform to enhance Phi-3 projects with state-of-the-art AI models as running locally on device. In this session, I will guide you through hands-on projects, enabling you to build practical skills and reinforce your learning. From networking with fellow enthusiasts to staying updated on the latest trends, this workshop offers a comprehensive experience tailored for anyone looking to advance their knowledge in the exciting intersection of web development and AI.\n\nBoat Charunthon Limseelo\nhttps://linktr.ee/boatchrnthn\n",
+        "published": "2025-02-10",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและ Mastering Phi-3.5 กับ Small Language Model",
+          "1:19": "Agenda และภาพรวมของ Open Source Language Model",
+          "2:14": "ปัญหาของ Proprietary Model และข้อดีของ Small Language Model (SLM)",
+          "3:37": "เปรียบเทียบ LLM และ SLM พร้อมตัวอย่าง",
+          "4:33": "ขนาดที่เหมาะสมของ SLM และ Use Cases",
+          "6:04": "การย่อขนาด LLM เป็น SLM ด้วย Quantization",
+          "7:00": "Microsoft และ Phi: AI for Science",
+          "8:37": "ประสิทธิภาพของ Phi และการ Training",
+          "9:44": "Mixture of Expert (MOE) ใน Phi-3.5",
+          "10:13": "หลักการ Training Model ของ Microsoft: PYD (Privacy, Your Responsibility, Diversity)",
+          "11:16": "แนะนำ Ollama: Running AI on Local Device",
+          "12:49": "Bun: JavaScript Runtime ที่เร็วและมีประสิทธิภาพ",
+          "14:20": "การติดตั้ง Bun",
+          "14:55": "Demo การใช้งาน Ollama และ Bun กับ JavaScript",
+          "17:04": "Demo: Text Generation ด้วย Phi-3.5",
+          "18:34": "Demo: RAG (Retrieval Augmented Generation) กับไฟล์ CSV",
+          "22:16": "Demo: Streaming Response ใน Browser",
+          "22:55": "Demo: สรุปไฟล์ TXT ด้วย Summarizer",
+          "23:29": "Key Takeaway: Python vs JavaScript สำหรับ AI Development",
+          "24:27": "อนาคตของ Language Model และความน่าเชื่อถือ",
+          "25:37": "แนวโน้มของ Small Language Model และ Federated Learning",
+          "26:05": "ทำไมคนไทยยังไม่ค่อยรู้จัก SLM",
+          "27:02": "สรุปและช่องทางติดตาม"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/mastering-phi3.md",
+      "imageFilePath": "data/videos/jsbkk2/mastering-phi3.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/mastering-phi3_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "monads",
+      "data": {
+        "title": "Monads in JavaScript",
+        "speaker": "Witaya Tospitakkul",
+        "type": "talk",
+        "youtube": "Z_Mtat8Fzm4",
+        "managed": true,
+        "description": "Are you curious about Monads but find them confusing? This session is designed for beginners looking to grasp the concept in simple, relatable terms. I'll break down what Monads are using simple language and relatable analogies, such as managing boxes or following a recipe. You’ll learn the key components and discover how Monads help streamline coding, manage side effects, and improve readability and why they matter in programming without the technical jargon.\n",
+        "published": "2025-01-30",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและหัวข้อ Monad ใน TypeScript",
+          "0:48": "ทำไมการเรียนรู้ Monad ถึงยาก",
+          "1:42": "ปัญหาของการเพิ่ม Log ใน Function อย่างง่าย",
+          "2:48": "Refactor Code เพื่อเพิ่ม Log และปัญหาที่ตามมา",
+          "5:02": "การแก้ปัญหาเบื้องต้นและการ Refactor เพื่อแยก Logic",
+          "7:42": "ออกแบบฟังก์ชัน runWithLog เพื่อจัดการ Log",
+          "10:07": "เชื่อมโยงสิ่งที่ทำกับ Monad",
+          "11:25": "Monad คืออะไร? (แบบไม่ลงรายละเอียดมาก)",
+          "13:20": "Monad คือกล่องและองค์ประกอบของ Monad",
+          "15:01": "AuditedNumber ทำงานคล้าย Monad อย่างไร",
+          "18:27": "AuditedNumber ช่วยจัดการ Log อย่างไร",
+          "19:13": "Maybe Monad: Monad ง่ายๆ ที่คุณอาจเคยใช้",
+          "22:04": "การ Implement และใช้งาน Maybe Monad",
+          "24:39": "ประโยชน์ของ Maybe Monad ในการจัดการ Null/Undefined",
+          "25:46": "ตัวอย่างการใช้ Maybe Monad ในสถานการณ์จริง",
+          "27:59": "แก้ปัญหา Missing Value ด้วย Maybe Monad",
+          "30:22": "Monad อื่นๆ และการ Abstract งานที่แตกต่างกัน",
+          "32:21": "แหล่งข้อมูลเพิ่มเติมสำหรับการศึกษา Monad",
+          "33:03": "ช่วงถาม-ตอบ: แนะนำแหล่งเรียนรู้ Functional Programming",
+          "34:28": "ข้อดีของ Functional Programming และการประยุกต์ใช้"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/monads.md",
+      "imageFilePath": "data/videos/jsbkk2/monads.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/monads_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "quality-of-code",
+      "data": {
+        "title": "Objective and subjective quality of code and system",
+        "speaker": "Chakrit Riddhagni",
+        "type": "talk",
+        "youtube": "TUL3ePI_tJY",
+        "managed": true,
+        "description": "Developer tends to believe that there are such things as objectively good code and system design. There are things such as best practices that can apply to every system regardless of context. This belief, while not completely false, is not completely true. In this talk, I will bring you to explore a characteristic is objectively high quality code and system. We also going to explore a characteristic of subjectively high quality code and system. And by exploring these two side of spectrum, we can see why subjectivity matters and how much does it matter to code and design. Therefore, we can understand which kind of practices need to be adjusted based on context and what kind of practices ring true to any type of software.\n",
+        "published": "2025-02-02",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction: The Quest for Objectively Good Code",
+          "0:22": "Speaker's Background and the Genesis of the Talk",
+          "1:25": "The Elusive Nature of Objectively Good Code",
+          "2:08": "Conflicting Coding Philosophies: Design Patterns vs. Duplication",
+          "3:59": "The Clean Code Movement and Its Critics",
+          "5:10": "The JavaScript Framework Frenzy and the HTMX Counter-Movement",
+          "7:01": "Defining Objectivity in Code",
+          "8:12": "Today's Agenda: Understanding and Defining Objectively Good Code",
+          "8:38": "Subjectivity vs. Objectivity: A Deeper Dive",
+          "11:53": "Identifying Your Coding Priorities: What Do You Care About?",
+          "12:43": "Objectively Good Code: Maximizing Goal Achievement",
+          "15:09": "Example 1: One Return Rule vs. Early Return Pattern",
+          "19:05": "Example 2: React's useEffect API: Simplicity vs. Clarity",
+          "25:41": "Example 3: One-Way vs. Two-Way Data Binding",
+          "29:27": "The Importance of Understanding Design Pattern Objectives",
+          "32:48": "Subjectivity Enhances Objectivity: The Key Takeaway",
+          "35:46": "Awareness Precedes Choice: A Path to Better Engineering Practices"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/quality-of-code.md",
+      "imageFilePath": "data/videos/jsbkk2/quality-of-code.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/quality-of-code_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "redis",
+      "data": {
+        "title": "Redis cache decorator for hexagonal architecture in NestJS",
+        "speaker": "Yosapol Jitrak; Sikkapat Sricheangsa",
+        "type": "talk",
+        "youtube": "J10gI6G6-Zw",
+        "managed": true,
+        "description": "We designed our system with a hexagonal architecture in NestJS. Our database is MongoDB. But we don't want to hit MongoDB with every request. We want to use cached data from Redis without changing a lot of our hexagonal code. Finally, we chose a decorator to solve this problem. We have 2 decorators. 1. Cache decorator 2. Invalid cache decorator\n\nSlides\nhttps://docs.google.com/presentation/d/e/2PACX-1vRdpkTV9l-nflcVs6xmur8pN6BUTwRzl8XN9vZnkj1x_fnZnOs1J34XvYkJdLcMPdPYd-X4fbq0HFqR/pub?start=false&loop=false&delayms=3000&slide=id.p\n\nGit Repository\nhttps://github.com/Eji4h/redis-cache-decorator-for-hexagonal-architecture-in-nestjs\n",
+        "published": "2025-02-18",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำตัวและเกริ่นนำ Hexagonal Architecture กับ NestJS",
+          "01:41": "Decorator คืออะไร? เปรียบเทียบกับ Annotation และ Attribute",
+          "02:42": "Decorator ใน TypeScript และ NestJS",
+          "03:05": "ตัวอย่าง Decorator ใน NestJS: Controller, Get, Module, Injectable",
+          "04:13": "Hexagonal Architecture คืออะไร? (Ports and Adapters)",
+          "05:18": "Driving Side และ Driven Side - การเชื่อมต่อแบบ Port",
+          "06:20": "ข้อดีของ Hexagonal Architecture: ลด Coupling, เทสต์ง่าย, Logic ไม่กระจาย",
+          "07:27": "ตัวอย่างการ Implement Hexagonal Architecture ใน NestJS",
+          "08:59": "Demo Code: Controller, Use Case, Repository, Interface",
+          "11:29": "การ Map Object จาก Database กลับเป็น Domain Model และ Branded Type",
+          "12:57": "Branded Type คืออะไร? เพิ่มความ Strict ให้กับ Type",
+          "14:25": "ตัวอย่างการใช้ Branded Type ใน Domain Model",
+          "15:16": "ข้อดีของ Hexagonal Architecture: เปลี่ยน Database ได้ง่าย",
+          "16:04": "ปัญหา Caching ใน NestJS และ TTL",
+          "17:52": "Solution แรก: แก้ที่ Use Case (ข้อดีข้อเสีย)",
+          "19:40": "Solution ที่สอง: แก้ที่ MongoDB Repository (ข้อดีข้อเสีย)",
+          "20:41": "Final Solution: ใช้ Decorator สำหรับ Caching",
+          "21:47": "Decorator สำหรับ Method ของ Class ทำงานอย่างไร",
+          "23:10": "ตัวอย่าง Decorator Memorize",
+          "24:06": "Caching Decorator ทำงานอย่างไร",
+          "24:38": "Invalidating Cache Decorator ทำงานอย่างไร",
+          "25:01": "ตัวอย่าง Key Combination สำหรับ Caching",
+          "25:37": "Demo Code: Repository, Base Key, Key Combination",
+          "26:56": "Demo Code: Caching Decorator Implementation",
+          "28:55": "Demo Code: Setting and Getting Cache",
+          "29:02": "Demo Code: Unit Test สำหรับ Decorator",
+          "30:27": "Demo: ยิง Request ให้ดูการทำงานจริง",
+          "34:34": "สรุปและข้อจำกัดของ Caching Decorator",
+          "36:15": "ปัญหา Key ที่ใช้ในการ Search เปลี่ยนแปลงได้",
+          "36:41": "ผลลัพธ์หลังจาก Implement Caching Decorator: Load ลดลง, ราคาลดลง",
+          "36:54": "ช่วงขายของ: Course RESTful API by NestJS",
+          "37:18": "Q&A: REST Client Plugin ใน VS Code"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/redis.md",
+      "imageFilePath": "data/videos/jsbkk2/redis.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/redis_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "schrodinger",
+      "data": {
+        "title": "Defy Architectural Uncertainty by Building Schrödinger's App",
+        "speaker": "John Meeuwissen",
+        "type": "talk",
+        "youtube": "_wJ7wonSA4g",
+        "managed": true,
+        "description": "Can an application be a monolith and microservices at the same time? Spoiler alert: Yes! In this session, we will explore a TypeScript codebase that defies the traditional boundaries. Much like Schrödinger's famous thought experiment, the application exists in multiple states simultaneously during development, but it's true form is only revealed at the moment of deployment. We'll uncover tools that empower developers to dance between monoliths and microservices, embracing the fluidity of development. Whether you're a seasoned developer, a curious architect, or simply excited about the future of software, this session is for you. So, buckle up as we dive into the unknown, question the status quo, and redefine the boundaries of what's possible in modern application development.\n\nJohn Meeuwissen\nhttps://www.linkedin.com/in/john-meeuwissen/\n",
+        "published": "2025-02-07",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "00:00": "Monolith and Microservices: Can an app be both?",
+          "00:24": "Schrödinger's App: Can software exist in multiple states?",
+          "02:06": "Speaker Introduction: From Mainframes to Microservices, a Journey Through Tech",
+          "03:00": "The Big Challenge: Adapting to Changing Client Requirements",
+          "04:05": "Problems with Traditional Layered Architectures",
+          "05:46": "The Continuous Architecting Cycle: A Time-Consuming Struggle",
+          "06:52": "Modern Struggles: Balancing Microservices and Monoliths",
+          "07:31": "Just-in-Time Architecture: A Solution for Adaptability",
+          "08:45": "Modular Application Structure: Enabling Flexibility",
+          "09:33": "Slicing the Monolith: Vertical and Horizontal Splitting for Performance and Security",
+          "11:20": "Current Solutions: Service Weaver and Jitar",
+          "12:28": "Jitar Demo: Three Deployment Scenarios with Comify",
+          "14:44": "Comify Showcase: A Social Media App for Comics",
+          "15:36": "Jitar Deep Dive: A Runtime for Just-in-Time Architecture",
+          "17:21": "Demo: Monolith to Microservices, Step-by-Step",
+          "19:44": "Demo: Splitting off Notifications and Load Balancing",
+          "24:44": "Demo: Separating Reads and Writes into Different Segments",
+          "28:14": "Show Me the Code: Principles and Structure of a Jitar App",
+          "30:11": "Database Management: Immutable Objects and Sagas",
+          "31:07": "Security: Keycloak, Ownership Model, and Data Aggregation",
+          "33:58": "Q&A: Addressing Database Access and Security Concerns",
+          "38:10": "Closing Remarks"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/schrodinger.md",
+      "imageFilePath": "data/videos/jsbkk2/schrodinger.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/schrodinger_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "semantic-web",
+      "data": {
+        "title": "Hybrid Semantic web with MongoDB and Vector Search using LangChain.js and Phi-3",
+        "speaker": "Piti Champeethong",
+        "type": "talk",
+        "youtube": "YLQKuGnKmAs",
+        "managed": true,
+        "description": "This talk provides the way to build intelligent applications powered by semantic search and GenAI over any type of data using a full-featured vector database, LLM framework, and open small language models with low-cost development. For the frontend site, I will use Vercel using Vue.js. For the backend site, I will use Node.js for MongoDB API and Ollama API. The agenda is described below. - Preparing local environments - Ollama with Phi-3-mini - Cloudflare Tunnel - MongoDB Atlas and Atlas Vector Search using Podman - Integrate MongoDB and Ollama using Ollama JavaScript library - Hybrid Semantic search with Reciprocal Rank Fusion (RRF) - Deploying GenAI web application with a low-cost budget to Vercel (Vue.js) and MongoDB App Services (Node.js) - Key takeaways and challenges.\n\nMongoDB Thailand User Group\nhttps://www.facebook.com/groups/mongodbthailand\n",
+        "published": "2025-02-10",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำตัวและ MongoDB User Group",
+          "00:32": "Web Search และ MongoDB Killer Feature คืออะไร?",
+          "02:02": "Flexible Schema: จุดเด่นของ MongoDB",
+          "03:05": "MongoDB Atlas: SaaS/PaaS ของ MongoDB",
+          "03:40": "GenAI กับ MongoDB ทำงานร่วมกันอย่างไร",
+          "04:43": "Semantic Web คืออะไร? ทำไมต้อง Semantic Search?",
+          "06:54": "Semantic Web เชื่อมโยงทุกอย่างอย่างไร? และ AI/GenAI มีบทบาทอย่างไร?",
+          "08:19": "MongoDB เก็บข้อมูลอย่างไรใน Semantic Web Search?",
+          "08:43": "Vector Search ใน MongoDB คืออะไร?",
+          "09:22": "Embedding Model และ Large Language Model คืออะไร?",
+          "11:49": "Embedding Model ใน MongoDB ทำงานอย่างไร?",
+          "12:50": "Vector Search บน MongoDB Atlas",
+          "15:13": "Search Score ใน Vector Search สำคัญอย่างไร?",
+          "17:19": "วิธีการให้คะแนน Search Score ใน MongoDB Atlas",
+          "20:16": "Demo: การใช้งาน Vector Search กับ Local Model (Ollama)",
+          "23:52": "สรุปการใช้งาน Vector Search และ Local Model แบบ Offline"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/semantic-web.md",
+      "imageFilePath": "data/videos/jsbkk2/semantic-web.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/semantic-web_th.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "svelte-5",
+      "data": {
+        "title": "Build your own Svelte 5",
+        "speaker": "Li Hau Tan",
+        "type": "talk",
+        "youtube": "4MgfRPkJMJk",
+        "managed": true,
+        "description": "We will see how to create a framework like Svelte, how to write a compiler, deep dive into concepts like runtime reactivity and signals, and we will live code a framework in 40 mins!\n\nLi Hau Tan\nhttps://www.youtube.com/c/lihautan\n",
+        "published": "2025-01-27",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Welcome to JavaScript Bangkok",
+          "0:39": "Speaker's Background",
+          "2:08": "What is Svelte? A Compiler-Based Framework",
+          "3:04": "Svelte 5: Runes, Reactivity, and Signals",
+          "5:55": "Understanding Compilers: Parsing, Analyzing, and Generating",
+          "7:42": "Implementing a Simplified Svelte Compiler",
+          "9:44": "Examining Svelte 5's Compiled Output",
+          "11:54": "Generating Code Element by Element",
+          "13:03": "Writing a Parser and Defining Svelte Syntax",
+          "16:26": "Implementing the Parser",
+          "18:31": "Generating Code: Walking the AST",
+          "22:53": "Testing the Compiler and Initial Output",
+          "25:03": "Making Reactivity Work: Introducing Signals",
+          "29:25": "Introducing the Concept of Effects",
+          "32:07": "Implementing Signals and Effects in Runtime",
+          "34:26": "Updating the Compiler for Reactivity",
+          "36:16": "Universal Reactivity Demo: Moving State into Functions",
+          "37:30": "Summary of Svelte Compiler Concepts"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/svelte-5.md",
+      "imageFilePath": "data/videos/jsbkk2/svelte-5.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/svelte-5_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "type-integrity",
+      "data": {
+        "title": "What if TypeScript has Type Integrity",
+        "speaker": "Kongkeit Khunpanitchot",
+        "type": "talk",
+        "youtube": "jjxu614FG80",
+        "managed": true,
+        "description": "Imagine if TypeScript has a strong system, what would happen? But we might not need to imagine. Tools like tRPC, Zod, Typia, Hook Form, and Elysia are making this dream a reality and what will happen when we reach there?\n\nKongkeit Khunpanitchot (SaltyAom)\nhttps://saltyaom.com/\nhttps://x.com/SaltyAom\nhttps://github.com/SaltyAom\n",
+        "published": "2025-02-24",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Initial Technical Discussion",
+          "0:24": "Speaker Introduction and Cosplay",
+          "1:37": "Technical Quiz: Guess the Language",
+          "3:00": "JavaScript ES4 History and TypeScript Overview",
+          "4:03": "What is TypeScript? (Definition, Compilation, and Popularity)",
+          "5:48": "TypeScript's Duck Typing and Type Safety Issues",
+          "7:07": "Solutions for Improved Type Safety: Type Inference and Transformers",
+          "8:02": "Type Inference with Zod and Generics",
+          "11:00": "Drawbacks of Implementing Type Inference and Audience Arrival",
+          "13:05": "Recap and Apology for False Start",
+          "14:06": "TypeScript with Type Integrity and Speaker Introduction (Restarted)",
+          "16:58": "Technical Quiz: Guess the Language (Restarted)",
+          "17:35": "JavaScript ES4 History and TypeScript Overview (Restarted)",
+          "19:09": "TypeScript Compilation and Runtime Support",
+          "20:09": "TypeScript Type Example and State of JavaScript Survey",
+          "21:25": "The Problem with TypeScript: Duck Typing Explained",
+          "22:53": "Duck Typing Example in Code",
+          "24:05": "Two Solutions for Improved Type Safety (Restarted)",
+          "24:28": "Type Inference with Zod and Generics (Restarted)",
+          "26:57": "When to Use Type Inference and Elysia Code Example",
+          "28:17": "Transformers: Turning Types into Code",
+          "30:14": "Taking Type Inference to the Limit: GraphQL Mobius and SQL to Type",
+          "32:17": "Limitations of Type-Level Programming: Runtime Validation and Performance",
+          "34:03": "Visualizing TypeScript Type Checking Time and Optimization",
+          "36:58": "The Future of Type Safety in TypeScript",
+          "39:39": "The Importance of Community Involvement and Open Source Contributions",
+          "43:29": "Q&A: Maintaining Code Safety in Large Projects",
+          "45:37": "Q&A: Type-Level Optimization in Elysia",
+          "51:07": "Q&A: Naming the Next Major Release of Elysia"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/type-integrity.md",
+      "imageFilePath": "data/videos/jsbkk2/type-integrity.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/type-integrity_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "web-components",
+      "data": {
+        "title": "Develop modern HTML components with Web Components",
+        "speaker": "Wittawas Wisarnkanchana",
+        "type": "talk",
+        "youtube": "M1yyHqozv9w",
+        "managed": true,
+        "description": "Web Components have been around for more than 10 years. They should be one of the concepts we teach to young developers, but somehow, with the rise of promising JavaScript frameworks like Next.js, Nuxt.js, and various others, developing modern frontend applications with Web Components is still not widely known. In this talk, I want to show how we can develop modern JavaScript components with only native APIs that most browsers support. How they can be used with or inside most JavaScript frameworks without problems.\n",
+        "published": "2025-02-12",
+        "language": "en",
+        "subtitles": [
+          "en"
+        ],
+        "chapters": {
+          "0:00": "Introduction and Greetings",
+          "0:40": "Modern JavaScript Development and Web Components",
+          "1:40": "Overview of Web Components: HTML, Custom Elements, and Core Tech",
+          "2:07": "HTML Components: A Brief History",
+          "3:38": "Core Technologies: Custom Elements, Shadow DOM, and Templates/Slots",
+          "4:02": "Custom Elements and Extending Existing Elements",
+          "5:03": "Custom Element Examples and OOP in JavaScript",
+          "7:11": "Interactive Custom Element Example and Framework Compatibility",
+          "8:08": "Extending Existing HTML Elements: Clickable Paragraph Example",
+          "10:31": "Complex Custom Element Example: Modal Component",
+          "13:07": "Shadow DOM: Encapsulation and Isolation",
+          "14:46": "Shadow DOM Example and Declarative Shadow DOM",
+          "17:23": "Shadow DOM Pros and Cons",
+          "19:09": "Templates and Slots: Building Reusable Components",
+          "20:59": "Templates: Defining Reusable HTML for Later Use",
+          "22:46": "Template Pros and Cons and Slot Explanation",
+          "23:54": "Advantages of Web Components and Framework Compatibility",
+          "24:37": "Next Steps and Exploring Web Component Integration",
+          "25:13": "Q&A: Converting React Applications, Build Times, Practical Examples, and State Management"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/web-components.md",
+      "imageFilePath": "data/videos/jsbkk2/web-components.jpg",
+      "englishSubtitlePath": "data/videos/jsbkk2/web-components_en.vtt"
+    },
+    {
+      "event": "jsbkk2",
+      "slug": "webar",
+      "data": {
+        "title": "SLAM: WebAR Without Markers",
+        "speaker": "Gittitat Ekchantawut",
+        "type": "talk",
+        "youtube": "EXCf79UOpKo",
+        "managed": true,
+        "description": "Discover how to create markerless AR using SLAM technology and JavaScript! In this session, we will explore how to develop web-based AR without the need for markers, enabling you to create more immersive and dynamic AR experiences. We'll cover the differences between marker-based AR and SLAM-based AR, and demonstrate SLAM in action. Whether you're a beginner or an experienced developer, this session will enhance your skills and knowledge in developing Web AR.\n",
+        "published": "2025-02-10",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "แนะนำตัวและเกริ่นนำเรื่อง WebAR",
+          "00:15": "WebAR คืออะไร? แตกต่างจาก VR อย่างไร?",
+          "00:55": "ประโยชน์ของ AR: การเรียนรู้และการตลาด",
+          "02:02": "ประเภทของ AR: Marker-based, Markerless, Projection-based และ Superimposition-based",
+          "03:40": "AR ทำงานอย่างไร? เจาะลึกการใช้ AR บนเว็บ",
+          "05:18": "ข้อดี-ข้อเสียของ WebAR และปัญหาการใช้งาน",
+          "06:27": "ตัวอย่าง WebAR ในไทยและการใช้งาน AR.js",
+          "07:43": "ข้อจำกัดของ AR.js และการใช้ SLAM ใน Markerless AR",
+          "08:24": "SLAM คืออะไร? Use Case และการทำงานของ SLAM",
+          "09:42": "ข้อดีของ SLAM และการใช้งานใน IKEA Place และ Pokemon Go",
+          "10:29": "ORB-SLAM: Library สำหรับ SLAM และการทำงานร่วมกับ OpenCV",
+          "11:37": "ทำไมต้องสร้างเอง? เปรียบเทียบกับ Third-party WebAR Platform",
+          "14:07": "ข้อจำกัดและราคาของ 8th Wall และ Zappar",
+          "15:38": "เหตุผลที่ต้องพัฒนา WebAR เองและแนะนำ React-three-fiber",
+          "17:14": "ข้อดีของ React-three-fiber สำหรับการ Render 3D บนเว็บ",
+          "18:15": "Demo: การ Implement ORB-SLAM กับ React-three-fiber",
+          "18:59": "Roadmap ในการพัฒนา WebAR และ Plane Detection",
+          "19:54": "ทำไมไม่ใช้ ARKit และ ARCore บนเว็บ?"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/jsbkk2/webar.md",
+      "imageFilePath": "data/videos/jsbkk2/webar.jpg",
+      "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
+    },
+    {
       "event": "mathsatsundown",
       "slug": "history",
       "data": {
@@ -3669,485 +4653,6 @@
       "content": "",
       "filePath": "data/videos/mathsatsundown/paradigms.md",
       "imageFilePath": "data/videos/mathsatsundown/paradigms.jpg"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "ai-agent",
-      "data": {
-        "title": "Build Simple AI Agent using Typescript",
-        "speaker": "Sarin Suriyakoon",
-        "type": "talk",
-        "youtube": "fe-vb_TbXpo",
-        "managed": true,
-        "description": "In this session, I will share the journey of building AI agent using Typescript. The tech stack I use is Next.js, OpenAI API. To be specific, the prompt I use is called ReAct prompting pattern.\n",
-        "published": "2025-02-12",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/ai-agent.md",
-      "imageFilePath": "data/videos/jsbkk2/ai-agent.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/ai-agent_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "ai-edge",
-      "data": {
-        "title": "AI in the Browser and on the Edge",
-        "speaker": "Thor 雷神 Schaeff",
-        "type": "talk",
-        "youtube": "tAGt9lksC9E",
-        "managed": true,
-        "description": "Open Source libraries like Transformer.js allow you to run Machine Learning workloads right within your browser. We can perform multi-language speech recognition and translation, text-to-speech, and even RAG, fully offline and in-browser! In this session we take a look at some examples of what's possible, as well as a small look behind the scenes at Microsoft's open source ONNX Runtime which makes this possible. Hopefully this session can inspire you to sprinkle some AI into your client applications!\n",
-        "published": "2025-02-12",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/ai-edge.md",
-      "imageFilePath": "data/videos/jsbkk2/ai-edge.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/ai-edge_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "ai-ethics",
-      "data": {
-        "title": "How to Trick Users into Filling in Your Boring AI Ethics Survey Using React",
-        "speaker": "Umphaipun Atipunumphai",
-        "type": "talk",
-        "youtube": "KYqDXrMPKqk",
-        "managed": true,
-        "description": "We’re at a turning point where it’s easier to claim that real images are fake than to prove that images are generated by AI. When it’s increasingly easy to generate convincing depictions of individuals doing or saying things that they never did we’re stuck in a situation where we can no longer agree on a shared reality. What does this mean for using audio as evidence in court if anyone can mimic speech? How can we make informed voting decisions when digital tools can make politicians say or do anything? To explore these issues, I designed an experiment called the \"Turing Twest (Tweet + Test),\" which challenges users to differentiate between tweets from well-known public figures (like Elon Musk, Donald Trump, and Taylor Swift) and AI-generated tweets. The design of the test is made to mimic Twitter’s UI using React and AntD. The game-like interface as opposed to a survey is there to motivate users to respond and replay multiple times. The results showed that people initially struggled to identify real tweets from fake ones, but also revealed an interesting detail on how we can improve media literacy in the attention economy.\n",
-        "published": "2025-02-18",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/ai-ethics.md",
-      "imageFilePath": "data/videos/jsbkk2/ai-ethics.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/ai-ethics_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "art-performance",
-      "data": {
-        "title": "TypeScript Theatre: Coding Art Performances with Algorithms, AI and Assembly",
-        "speaker": "Phoomparin Mano",
-        "type": "talk",
-        "youtube": "WqUe7q-NJ8s",
-        "managed": true,
-        "description": "What happens when TypeScript takes the center stage in interactive art performances? This talk explores three of my art collaboration projects that pushes the boundaries of creative coding: an algorithmic Thai Khon dance performance, an AI-powered performance lecture on intelligences in Singapore, and audio-visual live-coding with assembly language. We'll uncover how TypeScript, Three.js, React, and WebAssembly can enrich stage performances. From generating dance moves in real-time to creating AI images on the fly, and even turning assembly code into a visual spectacle, you'll discover the exciting possibilities that emerge when we bring the power of TypeScript into the art theatre.\n",
-        "published": "2025-02-28",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/art-performance.md",
-      "imageFilePath": "data/videos/jsbkk2/art-performance.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/art-performance_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "browser-automation",
-      "data": {
-        "title": "The future of cross-browser automation testing",
-        "speaker": "Ivan Kristianto",
-        "type": "talk",
-        "youtube": "oJYVLqxTv_Y",
-        "managed": true,
-        "description": "I'm introducing a better cross browser testing automation tools with WebDriver BiDi along with demo for example cases.\n",
-        "published": "2025-02-18",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/browser-automation.md",
-      "imageFilePath": "data/videos/jsbkk2/browser-automation.jpg"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "creative-coding",
-      "data": {
-        "title": "Sparking Curiosity: The Power of Creative Coding",
-        "speaker": "Patt Vira",
-        "type": "talk",
-        "youtube": "Q3dgS5KFfHk",
-        "managed": true,
-        "description": "In an age where technology is deeply intertwined with creativity, teaching coding has become much more than just learning a technical skill—it's about fostering a mindset of exploration, innovation, and artistic expression. This talk delves into the transformative potential of creative coding in education, highlighting how it can be a powerful tool to inspire students and unlock their creative potential. By integrating coding with art, music, and design, educators can engage students in new and exciting ways, making the learning process fun, intuitive, and deeply impactful.\n",
-        "published": "2025-02-14",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/creative-coding.md",
-      "imageFilePath": "data/videos/jsbkk2/creative-coding.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/creative-coding_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "css",
-      "data": {
-        "title": "Why use JavaScript when CSS is possible?",
-        "speaker": "Siriwat Kunaporn",
-        "type": "talk",
-        "youtube": "gMU237Vyees",
-        "managed": true,
-        "description": "With the current state of CSS, it is now possible to move React Context to CSS for faster and smaller web. Let's explore the technique and its application together!\n",
-        "published": "2025-02-14",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/css.md",
-      "imageFilePath": "data/videos/jsbkk2/css.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/css_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "cypress",
-      "data": {
-        "title": "Modern JavaScript Testing with Cypress: Beyond the Basics",
-        "speaker": "Louis Yoong",
-        "type": "talk",
-        "youtube": "ytCsiusPR0g",
-        "managed": true,
-        "description": "Dive into advanced testing strategies using Cypress, a powerful end-to-end testing framework for modern JavaScript applications. This session will explore how to leverage Cypress for more than just basic tests, showcasing advanced techniques, real-world examples, and best practices. Learn how to create custom commands, perform comprehensive API and component testing, and integrate Cypress into CI/CD pipelines to ensure your JavaScript applications are robust and reliable. Perfect for developers looking to elevate their testing game and ensure high-quality software delivery.\n",
-        "published": "2025-02-05",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/cypress.md",
-      "imageFilePath": "data/videos/jsbkk2/cypress.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/cypress_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "devtools",
-      "data": {
-        "title": "Advanced Frontend Debugging with DevTools Beyond Console.log",
-        "speaker": "Trung Vo",
-        "type": "talk",
-        "youtube": "uMMIRpR00es",
-        "managed": true,
-        "description": "As a web developer, you're no stranger to the browser and the trusty console.log in your debugging process. But did you know that browser DevTools offer a wealth of features beyond the basics? In this talk, we'll uncover the untapped potential of DevTools, exploring powerful tricks and lesser-known tools that can revolutionise your debugging experience. From debugging hidden elements to leveraging Visual Coverage, Animation Timeline, Performance panels, Web Vitals metrics and beyond, you'll discover features that simplify your workflow and boost your productivity. Many of us miss out on essential DevTools features simply because we assume they're common knowledge. This talk is your chance to gain a fresh perspective. Think of it as an information buffet—I'll present a variety of tools, and you can pick what suits your needs. Let's dive in with an open mind and transform the way you work with DevTools!\n",
-        "published": "2025-02-07",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/devtools.md",
-      "imageFilePath": "data/videos/jsbkk2/devtools.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/devtools_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "first-static-web",
-      "data": {
-        "title": "Build your first static web app with Azure, GitHub, and MongoDB",
-        "speaker": "Jirachai Chansivanon",
-        "type": "talk",
-        "youtube": "ngqXFVgN0rk",
-        "managed": true,
-        "description": "Quickly set up and deploy a static web app using Microsoft Azure, automate workflows with GitHub Actions, and connect to MongoDB Atlas App Services for backend API integration. This session provides hands-on experience in creating a complete web app with CI/CD integration, ideal for beginners and those looking to expand their development toolkit.\n",
-        "published": "2025-02-18",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/first-static-web.md",
-      "imageFilePath": "data/videos/jsbkk2/first-static-web.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/first-static-web_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "html-over-wire",
-      "data": {
-        "title": "The Rise of HTML Over the Wire",
-        "speaker": "Riza Fahmi",
-        "type": "talk",
-        "youtube": "zXFfKwIw02I",
-        "managed": true,
-        "description": "Web development has evolved from traditional request-response models to complex single-page applications (SPAs). While SPAs brought interactivity, they also introduced complexity and performance challenges. Enter \"HTML over the Wire\" - a return to simplicity with modern benefits. This talk looks at HTML-first techniques like LiveView, Hotwire, and HTMX. These tools are changing how we build web apps. We'll explore the key ideas behind this approach. You'll see how it uses basic web tech to create dynamic, responsive application. At the end of this talk, audience will learn: - The evolution from traditional web apps to SPAs, and why HTML over the Wire emerged - Core concepts and how they differ from SPA approaches - Real-world implementation examples - Performance benefits and potential drawbacks This talk is for everyone in web development. Experienced developers will find ways to simplify their work. Newcomers will learn efficient methods for building interactive apps. You'll gain insights into a powerful new approach to web development.\n",
-        "published": "2025-02-07",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/html-over-wire.md",
-      "imageFilePath": "data/videos/jsbkk2/html-over-wire.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/html-over-wire_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "level-up-dx",
-      "data": {
-        "title": "Beyond Compile Times: Leveling Up Your Developer Experience",
-        "speaker": "Nattaaek Wattanuyan",
-        "type": "talk",
-        "youtube": "146dc9GWpmc",
-        "managed": true,
-        "description": "Waiting around for your JavaScript to build? You grab a coffee, check some emails... and before you know it, 5 minutes turns into 15, and getting back into the flow feels like climbing a mountain. In this session, we’re digging into the real cost of those tiny timeouts and how they mess with our groove. We’ll show you how we’re tackling this with developer feedback tools that track build times, unit test runs, and more, so we can spot the slowdowns and start speeding things up. No more long breaks that break your focus—let’s make your workflow smoother, faster, and way more efficient!\n",
-        "published": "2025-02-14",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/level-up-dx.md",
-      "imageFilePath": "data/videos/jsbkk2/level-up-dx.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/level-up-dx_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "life",
-      "data": {
-        "title": "What I use and what I build to make my life easier this year",
-        "speaker": "Thai Pangsakulyanont",
-        "type": "talk",
-        "youtube": "DZDr1LiDTrI",
-        "managed": true,
-        "description": "In this session, I cover what I learned in 2024 that improved my life and made me better at developing software and creating content. It includes exploration of self-hosted web-based tools, JavaScript tooling, multimodal generative AI models, and how they connect together.\n",
-        "published": "2025-02-26",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/life.md",
-      "imageFilePath": "data/videos/jsbkk2/life.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/life_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "mastering-phi3",
-      "data": {
-        "title": "Mastering Phi-3 Experiments: Innovative Approaches with JavaScript & Ollama",
-        "speaker": "Charunthon Limseelo",
-        "type": "talk",
-        "youtube": "gJqvzfRhzNc",
-        "managed": true,
-        "description": "Join us for an immersive session where we dive deep into the world of Phi-3 experiments, leveraging the power of JavaScript and the versatile Ollama platform. Whether you're a seasoned developer or a curious newcomer, this workshop is designed to equip you with the knowledge and skills needed to create cutting-edge applications and AI-driven solutions. In this session, participants will learn about the latest advancements in JavaScript with \"Bun\" and how they can be applied to Phi-3 experiments, as well as explore the potential of the Ollama platform to enhance Phi-3 projects with state-of-the-art AI models as running locally on device. In this session, I will guide you through hands-on projects, enabling you to build practical skills and reinforce your learning. From networking with fellow enthusiasts to staying updated on the latest trends, this workshop offers a comprehensive experience tailored for anyone looking to advance their knowledge in the exciting intersection of web development and AI.\n",
-        "published": "2025-02-10",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/mastering-phi3.md",
-      "imageFilePath": "data/videos/jsbkk2/mastering-phi3.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/mastering-phi3_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "monads",
-      "data": {
-        "title": "Monads in JavaScript",
-        "speaker": "Witaya Tospitakkul",
-        "type": "talk",
-        "youtube": "Z_Mtat8Fzm4",
-        "managed": true,
-        "description": "Are you curious about Monads but find them confusing? This session is designed for beginners looking to grasp the concept in simple, relatable terms. I'll break down what Monads are using simple language and relatable analogies, such as managing boxes or following a recipe. You’ll learn the key components and discover how Monads help streamline coding, manage side effects, and improve readability and why they matter in programming without the technical jargon.\n",
-        "published": "2025-01-30",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/monads.md",
-      "imageFilePath": "data/videos/jsbkk2/monads.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/monads_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "quality-of-code",
-      "data": {
-        "title": "Objective and subjective quality of code and system",
-        "speaker": "Chakrit Riddhagni",
-        "type": "talk",
-        "youtube": "TUL3ePI_tJY",
-        "managed": true,
-        "description": "Developer tends to believe that there are such things as objectively good code and system design. There are things such as best practices that can apply to every system regardless of context. This belief, while not completely false, is not completely true. In this talk, I will bring you to explore a characteristic is objectively high quality code and system. We also going to explore a characteristic of subjectively high quality code and system. And by exploring these two side of spectrum, we can see why subjectivity matters and how much does it matter to code and design. Therefore, we can understand which kind of practices need to be adjusted based on context and what kind of practices ring true to any type of software.\n",
-        "published": "2025-02-02",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/quality-of-code.md",
-      "imageFilePath": "data/videos/jsbkk2/quality-of-code.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/quality-of-code_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "redis",
-      "data": {
-        "title": "Redis cache decorator for hexagonal architecture in NestJS",
-        "speaker": "Yosapol Jitrak; Sikkapat Sricheangsa",
-        "type": "talk",
-        "youtube": "J10gI6G6-Zw",
-        "managed": true,
-        "description": "We designed our system with a hexagonal architecture in NestJS. Our database is MongoDB. But we don't want to hit MongoDB with every request. We want to use cached data from Redis without changing a lot of our hexagonal code. Finally, we chose a decorator to solve this problem. We have 2 decorators. 1. Cache decorator 2. Invalid cache decorator\n",
-        "published": "2025-02-18",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/redis.md",
-      "imageFilePath": "data/videos/jsbkk2/redis.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/redis_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "schrodinger",
-      "data": {
-        "title": "Defy Architectural Uncertainty by Building Schrödinger's App",
-        "speaker": "John Meeuwissen",
-        "type": "talk",
-        "youtube": "_wJ7wonSA4g",
-        "managed": true,
-        "description": "Can an application be a monolith and microservices at the same time? Spoiler alert: Yes! In this session, we will explore a TypeScript codebase that defies the traditional boundaries. Much like Schrödinger's famous thought experiment, the application exists in multiple states simultaneously during development, but it's true form is only revealed at the moment of deployment. We'll uncover tools that empower developers to dance between monoliths and microservices, embracing the fluidity of development. Whether you're a seasoned developer, a curious architect, or simply excited about the future of software, this session is for you. So, buckle up as we dive into the unknown, question the status quo, and redefine the boundaries of what's possible in modern application development.\n",
-        "published": "2025-02-07",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/schrodinger.md",
-      "imageFilePath": "data/videos/jsbkk2/schrodinger.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/schrodinger_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "semantic-web",
-      "data": {
-        "title": "Hybrid Semantic web with MongoDB and Vector Search using LangChain.js and Phi-3",
-        "speaker": "Piti Champeethong",
-        "type": "talk",
-        "youtube": "YLQKuGnKmAs",
-        "managed": true,
-        "description": "This talk provides the way to build intelligent applications powered by semantic search and GenAI over any type of data using a full-featured vector database, LLM framework, and open small language models with low-cost development. For the frontend site, I will use Vercel using Vue.js. For the backend site, I will use Node.js for MongoDB API and Ollama API. The agenda is described below. - Preparing local environments - Ollama with Phi-3-mini - Cloudflare Tunnel - MongoDB Atlas and Atlas Vector Search using Podman - Integrate MongoDB and Ollama using Ollama JavaScript library - Hybrid Semantic search with Reciprocal Rank Fusion (RRF) - Deploying GenAI web application with a low-cost budget to Vercel (Vue.js) and MongoDB App Services (Node.js) - Key takeaways and challenges.\n",
-        "published": "2025-02-10",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/semantic-web.md",
-      "imageFilePath": "data/videos/jsbkk2/semantic-web.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/semantic-web_th.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "svelte-5",
-      "data": {
-        "title": "Build your own Svelte 5",
-        "speaker": "Li Hau Tan",
-        "type": "talk",
-        "youtube": "4MgfRPkJMJk",
-        "managed": true,
-        "description": "We will see how to create a framework like Svelte, how to write a compiler, deep dive into concepts like runtime reactivity and signals, and we will live code a framework in 40 mins!\n",
-        "published": "2025-01-27",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/svelte-5.md",
-      "imageFilePath": "data/videos/jsbkk2/svelte-5.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/svelte-5_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "type-integrity",
-      "data": {
-        "title": "What if TypeScript has Type Integrity",
-        "speaker": "Kongkeit Khunpanitchot",
-        "type": "talk",
-        "youtube": "jjxu614FG80",
-        "managed": true,
-        "description": "Imagine if TypeScript has a strong system, what would happen? But we might not need to imagine. Tools like tRPC, Zod, Typia, Hook Form, and Elysia are making this dream a reality and what will happen when we reach there?\n",
-        "published": "2025-02-24",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/type-integrity.md",
-      "imageFilePath": "data/videos/jsbkk2/type-integrity.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/type-integrity_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "web-components",
-      "data": {
-        "title": "Develop modern HTML components with Web Components",
-        "speaker": "Wittawas Wisarnkanchana",
-        "type": "talk",
-        "youtube": "M1yyHqozv9w",
-        "managed": true,
-        "description": "Web Components have been around for more than 10 years. They should be one of the concepts we teach to young developers, but somehow, with the rise of promising JavaScript frameworks like Next.js, Nuxt.js, and various others, developing modern frontend applications with Web Components is still not widely known. In this talk, I want to show how we can develop modern JavaScript components with only native APIs that most browsers support. How they can be used with or inside most JavaScript frameworks without problems.\n",
-        "published": "2025-02-12",
-        "language": "en",
-        "subtitles": [
-          "en"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/web-components.md",
-      "imageFilePath": "data/videos/jsbkk2/web-components.jpg",
-      "englishSubtitlePath": "data/videos/jsbkk2/web-components_en.vtt"
-    },
-    {
-      "event": "jsbkk2",
-      "slug": "webar",
-      "data": {
-        "title": "SLAM: WebAR Without Markers",
-        "speaker": "Gittitat Ekchantawut",
-        "type": "talk",
-        "youtube": "EXCf79UOpKo",
-        "managed": true,
-        "description": "Discover how to create markerless AR using SLAM technology and JavaScript! In this session, we will explore how to develop web-based AR without the need for markers, enabling you to create more immersive and dynamic AR experiences. We'll cover the differences between marker-based AR and SLAM-based AR, and demonstrate SLAM in action. Whether you're a beginner or an experienced developer, this session will enhance your skills and knowledge in developing Web AR.\n",
-        "published": "2025-02-10",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/jsbkk2/webar.md",
-      "imageFilePath": "data/videos/jsbkk2/webar.jpg",
-      "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
     },
     {
       "event": "mongo0924",
