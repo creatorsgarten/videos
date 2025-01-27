@@ -4921,119 +4921,6 @@
       "imageFilePath": "data/videos/msbuild2023/shaping-future-of-work.jpg"
     },
     {
-      "event": "reactmeetup0623",
-      "slug": "blazing-fast",
-      "data": {
-        "title": "How to make snappy apps!",
-        "speaker": "ธีรภัทร เมืองพูล",
-        "type": "talk",
-        "youtube": "MR7GaoZDABc",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "tags": [
-          "react",
-          "reactjs",
-          "js",
-          "javascript"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0623/blazing-fast.md",
-      "imageFilePath": "data/videos/reactmeetup0623/blazing-fast.jpg"
-    },
-    {
-      "event": "reactmeetup0623",
-      "slug": "framer-motion",
-      "data": {
-        "title": "Framer Motion is EZ",
-        "speaker": "Phat Thaveepholcharoen",
-        "type": "talk",
-        "youtube": "ZEKtdhlzMBA",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "tags": [
-          "react",
-          "reactjs",
-          "js",
-          "javascript",
-          "framer",
-          "framermotion"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0623/framer-motion.md",
-      "imageFilePath": "data/videos/reactmeetup0623/framer-motion.jpg"
-    },
-    {
-      "event": "reactmeetup0623",
-      "slug": "headless-component",
-      "data": {
-        "title": "Building a Long-Lived Component with Headless Components",
-        "speaker": "Komkanit Sujautra",
-        "type": "talk",
-        "youtube": "LY3e3IAezBQ",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "tags": [
-          "react"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0623/headless-component.md",
-      "imageFilePath": "data/videos/reactmeetup0623/headless-component.jpg"
-    },
-    {
-      "event": "reactmeetup0623",
-      "slug": "redux-saga",
-      "data": {
-        "title": "Level Up your Redux with Redux-Saga",
-        "speaker": "สมภพ กุละปาลานนท์",
-        "type": "talk",
-        "youtube": "g4zUmjKXqms",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "tags": [
-          "redux",
-          "reactjs",
-          "js",
-          "javascript"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0623/redux-saga.md",
-      "imageFilePath": "data/videos/reactmeetup0623/redux-saga.jpg"
-    },
-    {
-      "event": "reactmeetup0623",
-      "slug": "reject-client-side",
-      "data": {
-        "title": "ละทิ้ง Client-Side JavaScript หวนคืนสู่ Server-Side Rendering",
-        "speaker": "Phumrapee Limpianchop",
-        "type": "talk",
-        "youtube": "jM0njSK-bPg",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "tags": [
-          "astrojs",
-          "nextjs",
-          "react",
-          "vue",
-          "svelte",
-          "typescript",
-          "javascript",
-          "js"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/reactmeetup0623/reject-client-side.md",
-      "imageFilePath": "data/videos/reactmeetup0623/reject-client-side.jpg"
-    },
-    {
       "event": "reactmeetup0922",
       "slug": "open-source-in-fully-remote-company",
       "data": {
@@ -5150,6 +5037,119 @@
       "content": "",
       "filePath": "data/videos/reactmeetup0922/typescript.md",
       "imageFilePath": "data/videos/reactmeetup0922/typescript.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "blazing-fast",
+      "data": {
+        "title": "How to make snappy apps!",
+        "speaker": "ธีรภัทร เมืองพูล",
+        "type": "talk",
+        "youtube": "MR7GaoZDABc",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "tags": [
+          "react",
+          "reactjs",
+          "js",
+          "javascript"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/blazing-fast.md",
+      "imageFilePath": "data/videos/reactmeetup0623/blazing-fast.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "framer-motion",
+      "data": {
+        "title": "Framer Motion is EZ",
+        "speaker": "Phat Thaveepholcharoen",
+        "type": "talk",
+        "youtube": "ZEKtdhlzMBA",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "tags": [
+          "react",
+          "reactjs",
+          "js",
+          "javascript",
+          "framer",
+          "framermotion"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/framer-motion.md",
+      "imageFilePath": "data/videos/reactmeetup0623/framer-motion.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "headless-component",
+      "data": {
+        "title": "Building a Long-Lived Component with Headless Components",
+        "speaker": "Komkanit Sujautra",
+        "type": "talk",
+        "youtube": "LY3e3IAezBQ",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "tags": [
+          "react"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/headless-component.md",
+      "imageFilePath": "data/videos/reactmeetup0623/headless-component.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "redux-saga",
+      "data": {
+        "title": "Level Up your Redux with Redux-Saga",
+        "speaker": "สมภพ กุละปาลานนท์",
+        "type": "talk",
+        "youtube": "g4zUmjKXqms",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "tags": [
+          "redux",
+          "reactjs",
+          "js",
+          "javascript"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/redux-saga.md",
+      "imageFilePath": "data/videos/reactmeetup0623/redux-saga.jpg"
+    },
+    {
+      "event": "reactmeetup0623",
+      "slug": "reject-client-side",
+      "data": {
+        "title": "ละทิ้ง Client-Side JavaScript หวนคืนสู่ Server-Side Rendering",
+        "speaker": "Phumrapee Limpianchop",
+        "type": "talk",
+        "youtube": "jM0njSK-bPg",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "tags": [
+          "astrojs",
+          "nextjs",
+          "react",
+          "vue",
+          "svelte",
+          "typescript",
+          "javascript",
+          "js"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/reactmeetup0623/reject-client-side.md",
+      "imageFilePath": "data/videos/reactmeetup0623/reject-client-side.jpg"
     },
     {
       "event": "scisart",
