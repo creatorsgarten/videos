@@ -57,7 +57,7 @@ thumbnail:uDZIraaY5s8:
   spec:
     videoId: uDZIraaY5s8
     filePath: data/videos/hacktoberfest2022/bci.jpg
-    hash: 21456dc6339056f12ae253d57f5de93b3ab84b6bfb1b9c710d86e7acb47007d6
+    hash: 27081a2cfd1515b42256b481746460951c7527b0031ddd8b0d68bf475a10123a
   state: {}
 video:8aVdlBhY6zU:
   spec:
@@ -139,7 +139,7 @@ thumbnail:8aVdlBhY6zU:
   spec:
     videoId: 8aVdlBhY6zU
     filePath: data/videos/hacktoberfest2022/blog.jpg
-    hash: 2277e33268930cf3c76cb34475169b211af8387324abd418a70a9b717061fde0
+    hash: 7ca5d1eaceeb07ad926dd38060cca6fdad4c5d197e6efcc81a1adef2c886dfa1
   state: {}
 video:raaiHUinw8c:
   spec:
@@ -192,7 +192,7 @@ thumbnail:raaiHUinw8c:
   spec:
     videoId: raaiHUinw8c
     filePath: data/videos/hacktoberfest2022/graalvm.jpg
-    hash: 5359117a4e906eafe9453bbd48e4e41d60f7e533c9e1ed79588fd4b121717b1b
+    hash: aa9a43b47ffa895c41bc724b5befcf75d5407c01b662201d93830bc40a0f8628
   state: {}
 video:nQa3foXwzGE:
   spec:
@@ -252,7 +252,7 @@ thumbnail:nQa3foXwzGE:
   spec:
     videoId: nQa3foXwzGE
     filePath: data/videos/hacktoberfest2022/joy-ui.jpg
-    hash: 8b26e09e6bb501b0ec8658037bcc31658ddd1f2172cdc44388081f58ef6baa56
+    hash: 085d074a423f9ca766905adeea91f8cacd60326431b50248e0addcb4984455d6
   state: {}
 video:nfnP0W0ZL94:
   spec:
@@ -319,7 +319,7 @@ thumbnail:nfnP0W0ZL94:
   spec:
     videoId: nfnP0W0ZL94
     filePath: data/videos/hacktoberfest2022/monorepo.jpg
-    hash: 94f50b8d8de0af28875520dad6450b4e760b1a8dc3cd6a3f41dffd949b7d0269
+    hash: 5dbcbb10dab565fcceb20b8927495d51045c5f81d25a295804d2515953010a2f
   state: {}
 video:XD3n9J-eV1g:
   spec:
@@ -374,7 +374,7 @@ thumbnail:XD3n9J-eV1g:
   spec:
     videoId: XD3n9J-eV1g
     filePath: data/videos/hacktoberfest2022/prisma.jpg
-    hash: 37b9a70d311cc0f92f4853d3e290d73c6b348e94ecf3a47e64d7d54fd97328a3
+    hash: 3b3385592e5995e93cdb722869bddf392272138fffac40819ec23743f0411a35
   state: {}
 video:KeyDrr4Qxg0:
   spec:
@@ -433,7 +433,7 @@ thumbnail:KeyDrr4Qxg0:
   spec:
     videoId: KeyDrr4Qxg0
     filePath: data/videos/hacktoberfest2022/tdeb.jpg
-    hash: 276f91b3daaca3b3cbc61e8da52dc5489f8973a8ada05dafbd5687ba76797256
+    hash: 3206da4d27a74f374f392bac48fa9bb29ffb0a1956e9b4cc1c90c4c705a57088
   state: {}
 video:kS-LvjiZzUE:
   spec:
@@ -488,7 +488,7 @@ thumbnail:kS-LvjiZzUE:
   spec:
     videoId: kS-LvjiZzUE
     filePath: data/videos/svelte1/basic-svelte-for-react-and-vue-developers.jpg
-    hash: 445cfb28bddfe119d4948db0b90e2c1d82bf49cf7851e9b8f61d78db6995779e
+    hash: 3005f91f9fa720b2d2148290b71ceb454641dad332d6f4d40ae33fc18aecb618
   state: {}
 video:EAaXA0PFXBA:
   spec:
@@ -542,7 +542,7 @@ thumbnail:EAaXA0PFXBA:
   spec:
     videoId: EAaXA0PFXBA
     filePath: data/videos/svelte1/newbie-vs-sveltekit.jpg
-    hash: 5ef8168518592e7ca5cd571f8362b3f581525b82abd30ae919b2b97708206660
+    hash: e809e59fc6d0e6e95aa5505492db0db455322c5f40f71de1b9cbc793ebc85a92
   state: {}
 video:S1jUjA4mz0U:
   spec:
@@ -596,7 +596,7 @@ thumbnail:S1jUjA4mz0U:
   spec:
     videoId: S1jUjA4mz0U
     filePath: data/videos/svelte1/serverless-sveltekit-project.jpg
-    hash: b3120d334fff17be1ed774b69ea4c623b7599084efbb464c643c58e4a9b66431
+    hash: 5302dafb6f6659b0182643c7da8ddddc25d5af299c7345769e34c3c63ed08460
   state: {}
 video:ZRQg3b4Y_1A:
   spec:
@@ -702,7 +702,7 @@ thumbnail:ZRQg3b4Y_1A:
   spec:
     videoId: ZRQg3b4Y_1A
     filePath: data/videos/svelte1/svelte-in-every-codebase.jpg
-    hash: 521b3226fd83344f3ccc948f819988cc5157bf4b021046020f449e5d8f68de12
+    hash: 5385b31bf0ef133fe4560ee99f8e9024b413ce76a6cec0defbd586e1b8765405
   state: {}
 video:IVwBbhHOvSQ:
   spec:
@@ -823,7 +823,7 @@ thumbnail:IVwBbhHOvSQ:
   spec:
     videoId: IVwBbhHOvSQ
     filePath: data/videos/reactmeetup0922/open-source-in-fully-remote-company.jpg
-    hash: fe6a2b6dcbdcdab79db4ccc8446ccc3d0bcee8a50f72e1f0d6711378eccead3d
+    hash: e0fe05b4cb54bbc32a58688efd83562762a130eed036fcfe6b98088afd1d2946
   state: {}
 video:iFBxlPXrZRo:
   spec:
@@ -881,7 +881,7 @@ thumbnail:iFBxlPXrZRo:
   spec:
     videoId: iFBxlPXrZRo
     filePath: data/videos/reactmeetup0922/react-spring.jpg
-    hash: 9b99af5bc2f5d25187c18af40beff6140e76a5ffa60ef005acfd51049bdcfda6
+    hash: 669c89c1722df64bc9eee1779624a007079e611baf3f0fd2a73d83bfc39445d7
   state: {}
 video:yvfsIaj6WVM:
   spec:
@@ -939,7 +939,7 @@ thumbnail:yvfsIaj6WVM:
   spec:
     videoId: yvfsIaj6WVM
     filePath: data/videos/reactmeetup0922/strict-mode.jpg
-    hash: ffc890310bdd8a478a3b453ed56a482b822f2be4bf3ad7f3a1d6adb3613e3b76
+    hash: 9ac3e5793c1b01444954993899e922ebfc136b37668dae2d7c2350b4402dc9d0
   state: {}
 video:-lZ5ndZhu8c:
   spec:
@@ -997,7 +997,7 @@ thumbnail:-lZ5ndZhu8c:
   spec:
     videoId: '-lZ5ndZhu8c'
     filePath: data/videos/reactmeetup0922/typescript.jpg
-    hash: 47ff7a8ff4cda9aa8f7275cf74cb08c6fa7a52fbed3baaecf0c321229199243a
+    hash: 9f4b443de7be046b3270e5f1fd143fcc3b8ac85f84436a03f2a35e5385201885
   state: {}
 video:vbIWSwz8NxQ:
   spec:
@@ -1253,7 +1253,7 @@ thumbnail:vbIWSwz8NxQ:
   spec:
     videoId: vbIWSwz8NxQ
     filePath: data/videos/bkkjs17/blackbox.jpg
-    hash: 3a61a0057818431ab9592c432a8239bb56de7df264758ac496c6c58aff60b886
+    hash: 9bfed73f1f1ea24582bf6816c40b215aff2fe881d5c119fc9d812da6d1638430
   state: {}
 video:ltIvGLzMwzo:
   spec:
@@ -1327,7 +1327,7 @@ thumbnail:ltIvGLzMwzo:
   spec:
     videoId: ltIvGLzMwzo
     filePath: data/videos/bkkjs17/manoonchai.jpg
-    hash: 22d4bad57607f153030b6a1974c91317b427d8eb5e8aa1d4be4476f8ac29a4fa
+    hash: c7fedfbada6f19bbc80d5b3144a79557abf70844ca10205014afc4e5d3618ae6
   state: {}
 video:le5M-5mhPY0:
   spec:
@@ -1397,7 +1397,7 @@ thumbnail:le5M-5mhPY0:
   spec:
     videoId: le5M-5mhPY0
     filePath: data/videos/bkkjs17/nojs.jpg
-    hash: ceeeb39f2c3f7567dcfb0cfcb373f872ad08fa80114a3b3e8280240332bf87d3
+    hash: f14756e17118ae4b0297978553aefdc80cdca56320cf6bda26763b8ad710e4c4
   state: {}
 video:J2THXXeQMxY:
   spec:
@@ -1454,7 +1454,7 @@ thumbnail:J2THXXeQMxY:
   spec:
     videoId: J2THXXeQMxY
     filePath: data/videos/bkkjs17/postr.jpg
-    hash: ff6fe3e8720e79b780464bbc1ae79d49fc1d094fbd7dc1bfd0677b811b326666
+    hash: 179c209abb522cf66f2977517d482da185c66cc8792d447a0f1a30d94de0a3c5
   state: {}
 video:JuWzquQwt4g:
   spec:
@@ -1514,7 +1514,7 @@ thumbnail:JuWzquQwt4g:
   spec:
     videoId: JuWzquQwt4g
     filePath: data/videos/bkkjs17/ar.jpg
-    hash: ab47337454a3c738dc9c6cdba605b5735b433f0cc86c3749a977fbd0b0f4ed41
+    hash: 1478f4c2c203bb0bf9bed3f6b856298a47b473ff35f1620c5a0ec9b2e1d5dacd
   state: {}
 video:wrPz2Sp9EZU:
   spec:
@@ -1571,7 +1571,7 @@ thumbnail:wrPz2Sp9EZU:
   spec:
     videoId: wrPz2Sp9EZU
     filePath: data/videos/bkkjs17/typescript.jpg
-    hash: 194d0c53ba613995b0c719c63bf95a217b316a92ed6cec7cfb18543cd9ec7366
+    hash: bbf66923c21b6d2e2ec86e7582dfbcde09bc5c11e42685ee7cf09a03b759eed2
   state: {}
 video:vbIWSwz8NxQ:caption:en:
   spec:
@@ -7852,7 +7852,7 @@ thumbnail:Z1RO-799lps:
   spec:
     videoId: Z1RO-799lps
     filePath: data/videos/scisart/digitizing-ghost.jpg
-    hash: deb20cac729eba2d2c6b86f2937f1b5ba75b7ca7679b510f7d568e18c653aaff
+    hash: cfeac04a74842e779c27dc164e1283e5db42c1905a90d0baaa55cdcaed4288b3
   state: {}
 video:Z1RO-799lps:
   spec:
@@ -8120,7 +8120,7 @@ thumbnail:Mem2Lso1DQo:
   spec:
     videoId: Mem2Lso1DQo
     filePath: data/videos/svelte1/state-of-s.jpg
-    hash: 09cfdb013a3e8fa8076c016f057ec0632189fbead1181fd1d29628f3ad6bcbb9
+    hash: 11769905d5e8739341164432c5b50f61f15f3be6877917cf63c258f95203d5fb
   state: {}
 video:Mem2Lso1DQo:
   spec:
