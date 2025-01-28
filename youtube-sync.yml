@@ -1966,13 +1966,13 @@ thumbnail:on25fTHEtus:
   spec:
     videoId: on25fTHEtus
     filePath: data/videos/bangkok/fill-you-in-the-blank.jpg
-    hash: 7daea984fb2ae116faadf9bb96203705e9a923758c147e4572c08cd42aa03c2d
+    hash: c71a3bac3e9df8e937b7c882cbf8dfd9845cb256483135de606473e8e0692978
   state: {}
 thumbnail:su14UUhSVrM:
   spec:
     videoId: su14UUhSVrM
     filePath: data/videos/bangkok/bank-for-all.jpg
-    hash: 5621e7327e101fd1a7fe5fdd7651617618a63c0ec3c246fd502fb4ff50a1070e
+    hash: 09e89f23ed08b7d6f987235f20d19d8e15044461a195bb80a1600d08119781f0
   state: {}
 thumbnail:yd3uA1XOtww:
   spec:
@@ -3482,7 +3482,7 @@ thumbnail:kXfi4FhzCi8:
   spec:
     videoId: kXfi4FhzCi8
     filePath: data/videos/creativecodingmeetup/regular-expression.jpg
-    hash: d0adb6f2f6520dc5e1cad78500ae5f7c9293cb325e8fcc18bd43f36735d90d97
+    hash: 902f34a3daf4f33b502ab85c4196ac76202475b1eeb1aa6c8564e9f233f18d1d
   state: {}
 video:KCPjgyDsuN4:
   spec:
@@ -3678,7 +3678,7 @@ thumbnail:qzbyQAnqWYk:
   spec:
     videoId: qzbyQAnqWYk
     filePath: data/videos/creativecodingmeetup/sdf.jpg
-    hash: 4aca1fdbbec54576933c86c87d29aa224e7d72d8f0ec099fb7093dd2800c747d
+    hash: 06d83d5420931c7c5c41e3eb867049dcae355f652687844f2086526bb25aad2b
   state: {}
 video:7qelbJphNyI:
   spec:
@@ -4579,7 +4579,7 @@ thumbnail:kx9_RDsAKRY:
   spec:
     videoId: kx9_RDsAKRY
     filePath: data/videos/vscodeday2023/shortcuts.jpg
-    hash: 98c1aa2e7b7cf2c3e275da82b0c0b7720af065d4b2731c5051f6333ee46b5c70
+    hash: c4dd9ae0f1f38fe176887f788900247ebb5dbde01be83fac0c59fb0a8a3232c2
   state: {}
 thumbnail:xTlsYVT5Oc4:
   spec:
@@ -5147,7 +5147,7 @@ thumbnail:xCyRAH2X9FQ:
   spec:
     videoId: xCyRAH2X9FQ
     filePath: data/videos/functional/problem-solving.jpg
-    hash: 650304f1f58e31f66f929347f005f054fa451cb38706b1986672a0a726a58720
+    hash: ea13ab6fe641167591d91b4838e0069b27d782b7c5971ff22f86ccd12032f74d
   state: {}
 video:8A4IAK2Pedg:
   spec:
@@ -5537,7 +5537,7 @@ thumbnail:vc4Ie7rpU_Y:
   spec:
     videoId: vc4Ie7rpU_Y
     filePath: data/videos/msbuild2023/codespaces.jpg
-    hash: 931c83b35f8cccc59538f413ad7d93516f558a0c8ca79d3051e958e7b39b0e04
+    hash: 4ea284037aadbaf758a1ec8775d7fde9aaa0520f48f67165e7acf97c07be36b1
   state: {}
 video:39CCj2yLfn0:
   spec:
@@ -6909,7 +6909,7 @@ thumbnail:vMWpCWoKotQ:
   spec:
     videoId: vMWpCWoKotQ
     filePath: data/videos/typescript1/advanced-generics.jpg
-    hash: e2998442bee9e93843095dd183650c42095102539d9b8155ebb17125b321e2b2
+    hash: 4d4fda13661869650001611fa9fe066a66c820cd200ecd671537d295a542ea11
   state: {}
 video:1o_cNJMZr0Y:
   spec:
@@ -7221,19 +7221,19 @@ thumbnail:mByVF0ZhqfM:
   spec:
     videoId: mByVF0ZhqfM
     filePath: data/videos/sideproject/mangaweb.jpg
-    hash: f43955ef2e6c6a410749ce565ff1b874f5b2922e4d9d6d1dc3af7fc2e6cfdc26
+    hash: 1f62a13c76049a4696177eabcc8caf00e49f1c8a512f34ad7687a311abf98aee
   state: {}
 thumbnail:rvoQ1rZF2LE:
   spec:
     videoId: rvoQ1rZF2LE
     filePath: data/videos/sideproject/cosnatsu.jpg
-    hash: af2707f77bd2904917bf5007b8caf93c959f8236fde5b543e6ffa4d1159d35b8
+    hash: b1530b0592fa57b070ecef297298d03637987003245aae6a4b09c86b277e91de
   state: {}
 thumbnail:vn433iUZQSU:
   spec:
     videoId: vn433iUZQSU
     filePath: data/videos/sideproject/pixiv.jpg
-    hash: d99818e2a49d9e21393ce9344da71dcbded4417dd297a298706daaa938f61a31
+    hash: b6cae83eb50150f8a5ccec8f97c16b422882f27318b302987b478f6297050fce
   state: {}
 video:7V7h0idgP7o:
   spec:
@@ -7904,7 +7904,7 @@ thumbnail:sIDwvORIX1Q:
   spec:
     videoId: sIDwvORIX1Q
     filePath: data/videos/mathsatsundown/history.jpg
-    hash: 80572b44c0fffd02c78fb236d1c2398db43a5953c26294a136738759edea729f
+    hash: ff81af5c1ec6ffaaf4e9a584cfe21d6641bf30ede9586d4e8693f9efde0bf2eb
   state: {}
 video:6s4A796J800:
   spec:
@@ -7990,7 +7990,7 @@ thumbnail:6jK2GvN728g:
   spec:
     videoId: 6jK2GvN728g
     filePath: data/videos/functional2/unlock-elm.jpg
-    hash: 335c97b3f5fb82c9a24529e5e83479f1ed449a3b94099e195c66b6229da47003
+    hash: fc16297994ed21fb1fb7d67a1adcbb5ee2e3f546a183b9838c70a61186dd9599
   state: {}
 video:6jK2GvN728g:
   spec:
@@ -8193,7 +8193,7 @@ thumbnail:xWSyWOdDlY4:
   spec:
     videoId: xWSyWOdDlY4
     filePath: data/videos/cssmeetup0823/css-in-2023.jpg
-    hash: 3fabf120b07d184d796ea8c4703015d383e8c9eb5a6a1a625c547b3fadf43c86
+    hash: 049c91605515c5d42f987df71bbdb103b252c6b8fabe3fe5228201e18a1eadc9
   state: {}
 video:GgwnfjGbKpk:
   spec:
@@ -8407,7 +8407,7 @@ thumbnail:q8yd7qfiL1g:
   spec:
     videoId: q8yd7qfiL1g
     filePath: data/videos/github1/election.jpg
-    hash: 7fed2ce1a2ced9d7499cd04f50dc0375f50e0274154b3b1ca3cf9df4ef6d0b57
+    hash: 115847685cf2ba02d6a2351b9352980933dd3583ab90c4a98d679b26173ddab3
   state: {}
 video:i58lEAFqDlw:
   spec:
@@ -8577,7 +8577,7 @@ thumbnail:xYxjbg2ANx8:
   spec:
     videoId: xYxjbg2ANx8
     filePath: data/videos/universe2023/security.jpg
-    hash: 4507ca1da63a0e72d8b51317829cbd8760f640d3d8bf86161c2385b7f88083f6
+    hash: 92e1abbdf44b30ccf8837980cdac4322d23e9e2eda79de8dd5d2c8bc80e36135
   state: {}
 video:8z7vxFGR8JM:
   spec:
@@ -8966,13 +8966,13 @@ thumbnail:1g9EDpmPANI:
   spec:
     videoId: 1g9EDpmPANI
     filePath: data/videos/bkkjs19/pycon.jpg
-    hash: 7d8d447ef93ba0b744c495c6e73be6a5f8ca6008f6888b00398e4b7a6a94b2c5
+    hash: 1ef7d55d9aeeeaf2f57486b835d5f8fb54f778d9985ee53502842fffd8179cf3
   state: {}
 thumbnail:B14cGlzp0_c:
   spec:
     videoId: B14cGlzp0_c
     filePath: data/videos/bkkjs19/jest.jpg
-    hash: c3c1ff1f3a33644f95dc6a776552448748cb336beaf7748ff5768401c998c6fc
+    hash: faec809fbfea61dbded7a4f83a59aecfa3e60c229f9d6191779fc7945ae945bd
   state: {}
 thumbnail:DoRsdVqeMUM:
   spec:
@@ -8984,49 +8984,49 @@ thumbnail:ENPJ4_Kq-lY:
   spec:
     videoId: ENPJ4_Kq-lY
     filePath: data/videos/bkkjs19/web-landscape.jpg
-    hash: 0e9e9c2c60d808a840cb2165396de3e57a1263bb4c4bbfe06f937f14523e8c88
+    hash: 771b1438736f917748550d5dce942d73b652471d9c5e11c05c0d337bd858147d
   state: {}
 thumbnail:HiChHH_MhQI:
   spec:
     videoId: HiChHH_MhQI
     filePath: data/videos/bkkjs19/data.jpg
-    hash: 55a11ac8f86bd2e1b28173766c214f4d81acf530445cac2f9d1eaeffd460eb78
+    hash: 2f63ffaf6e3b33f645b39a8de86e128c889eba72fc7067a03bbcd98583193097
   state: {}
 thumbnail:LJP8xmAhiUs:
   spec:
     videoId: LJP8xmAhiUs
     filePath: data/videos/bkkjs19/vhs.jpg
-    hash: 20401bc1463eb0203acd939d7501e513ac76c097550ae163b7fc20b843702d92
+    hash: dcae3fe1dd9b12c9d476e1907aef676623cfbf16181a6da88b1b1e7c8acdd18b
   state: {}
 thumbnail:MWllwllnEPc:
   spec:
     videoId: MWllwllnEPc
     filePath: data/videos/bkkjs19/dev-survey.jpg
-    hash: 629e9140529966ebccb2abf1f2c130d3548ea770f7b83b23fc56d9c729b0c25f
+    hash: a45da59f319b14e7c14ef8ba74f74ec139fa602442d6506614398168937063ba
   state: {}
 thumbnail:Wuxt4HiZtB4:
   spec:
     videoId: Wuxt4HiZtB4
     filePath: data/videos/bkkjs19/css-in-js.jpg
-    hash: e6ed12e941e4f997bab6f29ea751dff5bd0b6212c278627d05900e0347fdb377
+    hash: 4ed4d511ebebb26e4f0642b4c8d7a0fb62b59100d0450676e47168e37593f1d6
   state: {}
 thumbnail:chRkHsSeOjU:
   spec:
     videoId: chRkHsSeOjU
     filePath: data/videos/bkkjs19/reactive.jpg
-    hash: a870fd67fb557bf4e6ec2ca4a9679bffee173c2e98b1201a260c901cfe3f803c
+    hash: 1b208a2d1f65f84f7b0e0ae830465f8b5b9462e14d703e55de509e28a3ee3c10
   state: {}
 thumbnail:rAbcGSH1uv0:
   spec:
     videoId: rAbcGSH1uv0
     filePath: data/videos/bkkjs19/quasar.jpg
-    hash: 9ea277b01bf9a84fc2526175b581ec41343dca61f83bcfda62be9fb286c80f70
+    hash: c425bccee621bbcec8ca9d750e7516070765aec4f0d1cd0f0a25e719525e7b74
   state: {}
 thumbnail:szr7swXqPSw:
   spec:
     videoId: szr7swXqPSw
     filePath: data/videos/bkkjs19/vitepress.jpg
-    hash: 960faeddeb466ab8109a8eed7b7ae985c00e6ab735f21b01de6f2b45871afaae
+    hash: f7e32cc4d999170b044127eb5e6301c39f3dd911c2d12a24c76a8708b0034a03
   state: {}
 video:1g9EDpmPANI:
   spec:
@@ -9934,37 +9934,37 @@ thumbnail:N05h_-aDtC0:
   spec:
     videoId: N05h_-aDtC0
     filePath: data/videos/bkkjs20/jsmodel.jpg
-    hash: cc6071382633f4267c07a4889df800e9fe85a1bef581b0ca2659bf0420a03f67
+    hash: daefd8196c17dd02af1711b98ae04dad6155a13a23b9c211e95eb3eb66d3185b
   state: {}
 thumbnail:PCSdvZEJnmg:
   spec:
     videoId: PCSdvZEJnmg
     filePath: data/videos/bkkjs20/open.jpg
-    hash: 277de0e6d04f3cc233671ed8652f8d4c9b72fc8de04db899c3b393b5e337bef4
+    hash: 9ad3c2580f15f4f4ce3879d81388e9039aac6ea833ab19dd690056f71ece036e
   state: {}
 thumbnail:PNind_xIlxc:
   spec:
     videoId: PNind_xIlxc
     filePath: data/videos/bkkjs20/optimize.jpg
-    hash: 69acb154e8ae596a71cc91f9893c36373728266202be81cb1a3a1042df92fcd7
+    hash: c759d5cb7316cf2f0cce16c3e0492e1988b4034d1dacc110b90462c1e688834f
   state: {}
 thumbnail:R9ww5Qh13MM:
   spec:
     videoId: R9ww5Qh13MM
     filePath: data/videos/bkkjs20/subin.jpg
-    hash: 1de2ace32d02b53d8842b4f96028acf5560759996b90934a45bd9d2911f30f78
+    hash: 896a4914bd91bc91039917d13c205a916c4b24362f6dcb13e9f79466e6f007a0
   state: {}
 thumbnail:WC5PRboDfJ0:
   spec:
     videoId: WC5PRboDfJ0
     filePath: data/videos/bkkjs20/astro.jpg
-    hash: 48fc7551e946557448ae061f2b35fe49d0f0b618c5ef9775a94a3969716e5440
+    hash: 957b23a2c847315fae5bfd34aa3c0ed90e1cfed1092d3ebe8464862459ba9f52
   state: {}
 thumbnail:qUbnQCHcZLU:
   spec:
     videoId: qUbnQCHcZLU
     filePath: data/videos/bkkjs20/elysia.jpg
-    hash: d6b1999e9fac90ec75407bde856c77114541ecd5f34834b268ae9ff08a182421
+    hash: 40b7a11c1077a53dbe507e93402830fbe2d77c263620843fff5845062c4bb980
   state: {}
 video:N05h_-aDtC0:
   spec:
@@ -10426,43 +10426,43 @@ thumbnail:3dA1P7V1w3o:
   spec:
     videoId: 3dA1P7V1w3o
     filePath: data/videos/wind2/q4.jpg
-    hash: 9b402fb589d051aacca9b22d4e9fd01c73afde92c929f5704a2eaba70868a8c6
+    hash: 5cadb6e6f239c2d91c7db85ba838fc5c7e14f0a919cf8b678de9b56e431d3cd5
   state: {}
 thumbnail:9ftrgC60pPk:
   spec:
     videoId: 9ftrgC60pPk
     filePath: data/videos/wind2/testing.jpg
-    hash: 0322dc25376b36e8b711b7def7bb72039bb9068ecfdb9cd1326b83017d7485fa
+    hash: 2ca959eb727ee5e04305ff1b26360dba53a372d2ba7375bdcd9a64ebf6eefc45
   state: {}
 thumbnail:IPV1zeCPh3c:
   spec:
     videoId: IPV1zeCPh3c
     filePath: data/videos/wind2/quiz.jpg
-    hash: 9dec0699872e364a6b8f7dfa4461e33025bd8e74231d7177c4c197036fbb32a8
+    hash: 24802b5f1dd3978a12545591af2df9d8ea516263945fb6352e9dac52fbd00a88
   state: {}
 thumbnail:c7bV1rxXkXw:
   spec:
     videoId: c7bV1rxXkXw
     filePath: data/videos/wind2/q3.jpg
-    hash: 10154f3c45f23eb9e8e0a51f93e0d55ae683b34c51a5567c2a300059e874e931
+    hash: ac966d3942421fe797ccd636c6608ff53582deaea9d6c545b4b96220cde2bea2
   state: {}
 thumbnail:kWSnkcSAljQ:
   spec:
     videoId: kWSnkcSAljQ
     filePath: data/videos/wind2/f1.jpg
-    hash: bf5c8994d1f48f894ab49bf10ebae707dd5972b5e2d0ec1948aebdeb1d7ba282
+    hash: 5d557442ff373f67166fc288015bda9dc0311fb7faf2eea43f0bde2a426d1760
   state: {}
 thumbnail:tbTZb-BQFJA:
   spec:
     videoId: tbTZb-BQFJA
     filePath: data/videos/wind2/q2.jpg
-    hash: 05ef434ddb3edf48a93736411fc0e3010b161ec97e251fe7a08f8fa355464329
+    hash: e321834e14dbe8edab942d0e42b546a700140cd9c31672153774d6be84caabaf
   state: {}
 thumbnail:tzJcJPNvi9o:
   spec:
     videoId: tzJcJPNvi9o
     filePath: data/videos/wind2/f2.jpg
-    hash: b639d8bb68ad901ab345a8ec2db97ca86ddbdd1e0866919558a0fceb69f10f12
+    hash: 65bbd6ab3bf39a3c5bc1af0a57155f31b31e59f53721510ddc6e457aa43d7375
   state: {}
 video:-fAvIByango:
   spec:
@@ -11470,31 +11470,31 @@ thumbnail:KhB3mGFd2p0:
   spec:
     videoId: KhB3mGFd2p0
     filePath: data/videos/worldwithoutwork/s5.jpg
-    hash: aada9972fafc171e3e44dd1aa5d5b5353afacc553a402b00b74a2dd53bfeb0d3
+    hash: fb392f1bd1644f948a504141a8b3864835ad50cacad67dd6b1177b9e7a93779b
   state: {}
 thumbnail:QHZBtd2Bt6U:
   spec:
     videoId: QHZBtd2Bt6U
     filePath: data/videos/worldwithoutwork/s1.jpg
-    hash: ce72bb5fd415be31b64bbfd90fc9b0285f2934fd2af213c7ca454d189bbc113c
+    hash: 2ed69089a447ccb5c3da4c895926f4aa7bdfa0424ae09b74c8691f2ed1345c4d
   state: {}
 thumbnail:mVv6kDiTxgM:
   spec:
     videoId: mVv6kDiTxgM
     filePath: data/videos/worldwithoutwork/s2.jpg
-    hash: f1f7b235f6f9e40d32b252a530b4afd046029f6708291f4ceac0cd278e76380b
+    hash: 8295fe4b74dba74248b3810d968d9d8fca9972caf77c05cf404eac966c236217
   state: {}
 thumbnail:p29iaNqVze4:
   spec:
     videoId: p29iaNqVze4
     filePath: data/videos/worldwithoutwork/s4.jpg
-    hash: 51de8ac63547c6d83d520059ebb37f56360dd06d7f30bd391f4c55b390596197
+    hash: 0d0f946814254a2598efc7bc2cfd96bdc7aaf8c6edd6cb2fd8038a25a732367f
   state: {}
 thumbnail:uTfenmoi26k:
   spec:
     videoId: uTfenmoi26k
     filePath: data/videos/worldwithoutwork/s3.jpg
-    hash: c6f615dede66f7f59a53ed60e783008b6b3333e48cd108a7d771428d7db7d0ab
+    hash: 7fff4fd2ae78b22a24f5ad6cf4987205b3ce274869fd973a04b78fd3d81e8870
   state: {}
 video:KhB3mGFd2p0:
   spec:
@@ -13068,25 +13068,25 @@ thumbnail:Tra9NbAwSEY:
   spec:
     videoId: Tra9NbAwSEY
     filePath: data/videos/supabase/realprod.jpg
-    hash: 5a14e80f1eb02d5923d82d88d8f4f5dc127be43a6d044f047d25740ac8db419a
+    hash: ce142466388fd5cb7096a550175ceb7d531c06ec4ac43d5e515416b030f9e42c
   state: {}
 thumbnail:opObOSfrDVk:
   spec:
     videoId: opObOSfrDVk
     filePath: data/videos/supabase/selfhost.jpg
-    hash: 22217b8b01f30ad732292ebcae75da755d0da11865832433508ea4201bcff5ae
+    hash: 1bbe83a5ea5aa52b36d5c1e34a22d84230ca289ffa200afc6f1a5bb1fd70cc0c
   state: {}
 thumbnail:uIBSyw8CD0s:
   spec:
     videoId: uIBSyw8CD0s
     filePath: data/videos/supabase/supavfire.jpg
-    hash: 482a7d7612c708ed1661d983e3cc612d1452151fbaf279ad75263d6063199c81
+    hash: 5d28c9f46f21cfd3d40f4f6c280f89d10280fd5719ecc749c6ffec19441a35cd
   state: {}
 thumbnail:xC2QoV9TBW8:
   spec:
     videoId: xC2QoV9TBW8
     filePath: data/videos/supabase/postgres.jpg
-    hash: 89edaa0375c72dc743163aec98731156ad5511cb5b4ba6e9e212b3ebdc6b10b9
+    hash: ebf360cae511a164f82d78a6313eb3df7b4f6f9005b4b937b7a0c34fe5203f8c
   state: {}
 video:Tra9NbAwSEY:
   spec:
@@ -13637,25 +13637,25 @@ thumbnail:4VI-CW-3STs:
   spec:
     videoId: 4VI-CW-3STs
     filePath: data/videos/bkkjs21/mui.jpg
-    hash: 9e3106f8f491efb61913baff82487adba63f6735ba6a82de0216b998bc5edd81
+    hash: 227511ff058a5d504c907ac16cd4377cc2624de9b11aa9c732c9988ab6d0d9f2
   state: {}
 thumbnail:MA8Y0GIV0Yw:
   spec:
     videoId: MA8Y0GIV0Yw
     filePath: data/videos/bkkjs21/ai.jpg
-    hash: f533a104af5eee68892c61e56a64c709678c40c8ecdd61652980ca55a7b0c8dd
+    hash: 3be0eaf004504100e8211253e8aaefc369b36f0cebdfde56128dce853fc57a28
   state: {}
 thumbnail:gtB7nzeKT-8:
   spec:
     videoId: gtB7nzeKT-8
     filePath: data/videos/bkkjs21/tdd.jpg
-    hash: 41e47b8a80f384a4d0e3db7626713065f26191f0930e2b70add2107295d2da53
+    hash: 8ff8c27f34182b11abbc9d7beb77d4d62b4e0a9de7e1425a2c53c1c313a3f0db
   state: {}
 thumbnail:qGOoDFdgXFM:
   spec:
     videoId: qGOoDFdgXFM
     filePath: data/videos/bkkjs21/opensource.jpg
-    hash: 75746949e755445ca217827527d499efdcb3cca76bdbd37c2d55510e3f0529f4
+    hash: 0621482e76097096df9a8b140797d97429a404ff3b927540577d93744b6b59ef
   state: {}
 video:4VI-CW-3STs:
   spec:
@@ -14218,19 +14218,19 @@ thumbnail:ct2RhcBDeyE:
   spec:
     videoId: ct2RhcBDeyE
     filePath: data/videos/mongo0924/rag.jpg
-    hash: c64b40e15f45937a287e0d60eaa424e8aa4911077cc39e6a47bee8568b7a81ed
+    hash: fb893a21192321a9bb0990f90efb4f5f9bce8a99b2bab47c1f0a629423d56132
   state: {}
 thumbnail:sWEy_OTijqA:
   spec:
     videoId: sWEy_OTijqA
     filePath: data/videos/mongo0924/multimodal.jpg
-    hash: f9475f65f9958cbef532db28d7323cb7a10670c70bd0cf0aacfe5082303b467f
+    hash: 90fdd5f44f65b2d6e4ff37fbb52648e3e325d92d8df9228b0559a913024eb069
   state: {}
 thumbnail:wqedcVO_HKw:
   spec:
     videoId: wqedcVO_HKw
     filePath: data/videos/mongo0924/mongo8.jpg
-    hash: 88c01f39c19ed596c2191a2e49925732e381d4b564dd18e3067a376b115f7426
+    hash: 823ce4fc5f585cc775a76daa9c0bfd519ec6a038c377ccc06159b358ebd1aafc
   state: {}
 video:ct2RhcBDeyE:
   spec:
@@ -14607,31 +14607,31 @@ thumbnail:3uwtEk_ouhM:
   spec:
     videoId: 3uwtEk_ouhM
     filePath: data/videos/vueconf/ai.jpg
-    hash: 018d092baab55d3db232809d94a69899b93c7364571053f94fc3882034cba192
+    hash: 83e0267097b2248bf2f206dda8720aae726ab011b3f50a823a311548f0431806
   state: {}
 thumbnail:SMqJJ7o_Mi4:
   spec:
     videoId: SMqJJ7o_Mi4
     filePath: data/videos/vueconf/gamify.jpg
-    hash: e3732a9696a32dbebe2ca4270d41fd2b2f58d657f703fb5edb564aa323521b2b
+    hash: f433916f69827035cdba890015c017d32b95e27f4c78060c190c2c48d7914ca1
   state: {}
 thumbnail:TJ54j3Dk5WA:
   spec:
     videoId: TJ54j3Dk5WA
     filePath: data/videos/vueconf/better-testing.jpg
-    hash: 33f9c9ffddda44c96e9ebe17a1e42d4ee565676e5f615b43a300f7a75adca7e9
+    hash: ff9ba674a0f2627eaedef0c3ed6df7859f9218715970cb90820c304c333847f1
   state: {}
 thumbnail:lP7Op-K6ajk:
   spec:
     videoId: lP7Op-K6ajk
     filePath: data/videos/vueconf/visual-testing.jpg
-    hash: 853de5bc990fcd9f114062864902fbe251f427a4accf9d19751c6a946d65f6c7
+    hash: 68eb56404fcfc8e851037f5e2bcad6c9f69f3ef181aaf9d6736fd2b8d9fd7469
   state: {}
 thumbnail:sMms4lFxfV8:
   spec:
     videoId: sMms4lFxfV8
     filePath: data/videos/vueconf/composition-api.jpg
-    hash: bead261774c3fe3c9eca83a6942b0400da3166bc938d0458693853f54a733416
+    hash: 65b74a08a1b167b76c5d5e5e39f0f744d972fb4ed908e3bcb9da615c96c83ace
   state: {}
 video:3uwtEk_ouhM:
   spec:
@@ -15179,7 +15179,7 @@ thumbnail:2kFpxnaycyg:
   spec:
     videoId: 2kFpxnaycyg
     filePath: data/videos/jsbkk1/reusable-web-components.jpg
-    hash: 5bc4635835904ddebe0741abe0ddc3e8c80de9f551bd0adf195fc0fa3f96d354
+    hash: 2303404d870e87f44b0b29ec85eb5d77a93e5ba00395326d33d66c979016f929
   state: {}
 thumbnail:3YTZbSMpDMY:
   spec:
@@ -15191,7 +15191,7 @@ thumbnail:99l1LwRDBFM:
   spec:
     videoId: 99l1LwRDBFM
     filePath: data/videos/jsbkk1/poor-man-patcher.jpg
-    hash: 6f70e4f1972e095ef39adebe8bd18d97792215391450497cc13a2c012edb2b3f
+    hash: f632fbbdd7af38b0cb28a5168ad59983173c04d4566a3329e53cd8924a79757d
   state: {}
 thumbnail:AspoYb2mvsQ:
   spec:
@@ -15203,85 +15203,85 @@ thumbnail:CXN88bHT9RU:
   spec:
     videoId: CXN88bHT9RU
     filePath: data/videos/jsbkk1/spon-exxon.jpg
-    hash: f19738ba7b1bff7a4dc705516cf1ab8116fd8d5b9f1fc3dba6c83e6be2c724cf
+    hash: d17e3cef7a8a4c56a77549bdaf11ff6e753a6fef505c749010b8f930b7d670ce
   state: {}
 thumbnail:F1yy1cD_QfE:
   spec:
     videoId: F1yy1cD_QfE
     filePath: data/videos/jsbkk1/dance-mat.jpg
-    hash: 649dd348ba526128fe613952892a9b0c66b1f53ece90f7b2263c4b9523eb0d8d
+    hash: 69c84aa310405d6ed0b0cadc4a0c04d821c994be0430334865a2045bbdf8d3ea
   state: {}
 thumbnail:Ib0Dhf-ebiI:
   spec:
     videoId: Ib0Dhf-ebiI
     filePath: data/videos/jsbkk1/spon-odds.jpg
-    hash: 450aef10decc92552bdf9148df289a986df8dc6351bf34d8b5ba1016ca7e035d
+    hash: 5fc0d0046837a2537c174163098ae15e6dbc4a4c6fed128968026ed4a67086b6
   state: {}
 thumbnail:LqtRpIwriDk:
   spec:
     videoId: LqtRpIwriDk
     filePath: data/videos/jsbkk1/gojek-universe.jpg
-    hash: 03ca115cf4372624a06ded00ae65fa008d98ea18db6b2f311ef48c79f79949fa
+    hash: da4336d6302390ebcfccbe165843d67327488e6570aa957dd15de710cedf89df
   state: {}
 thumbnail:PBnDTeiB_Gw:
   spec:
     videoId: PBnDTeiB_Gw
     filePath: data/videos/jsbkk1/spon-kbtg.jpg
-    hash: 4ea567dcb5217cd7f64b85a6af2d77f21ddd440f2bddee401c736ae0a6fc08d7
+    hash: 5d0b68057a62e40344126ab916fb1b8af291835b0d40970d7653e952ea3d396b
   state: {}
 thumbnail:QX4WbDuOXE8:
   spec:
     videoId: QX4WbDuOXE8
     filePath: data/videos/jsbkk1/love-story.jpg
-    hash: 5f3b6d9b50eb1fb04cd8518c856b24806030a0d2ff841f2f59e3e3b38b918030
+    hash: a0ae5fe616931c7326ff9e735b65ad974cb8eb33fc56d985b457d6ec09acb1f6
   state: {}
 thumbnail:R1VjfP7Mx-g:
   spec:
     videoId: R1VjfP7Mx-g
     filePath: data/videos/jsbkk1/design-patterns.jpg
-    hash: 3511fad07adf8cffee8b0425fbe0e160817826b40dd980203e5e1c29266d565a
+    hash: cc6b6d16a8516290801b4711e5266abbff9b3eee8b35883d05a31fee9a65b397
   state: {}
 thumbnail:SRn-4hygxe4:
   spec:
     videoId: SRn-4hygxe4
     filePath: data/videos/jsbkk1/spon-oozou.jpg
-    hash: 37e4cdf0f50ddeaa3a5b346eef1ba0605ce406c1d1c18a8b73ae7166a678e1d0
+    hash: a6cbfa7fb08352b4ddbece881b99404dae74d210df4ac95a3abc9486455e1453
   state: {}
 thumbnail:dFE5V87GiEs:
   spec:
     videoId: dFE5V87GiEs
     filePath: data/videos/jsbkk1/heavy-data-visualization.jpg
-    hash: 7e9b92d995a0643c536972bb550eb099d9428e088adb01dfb2c7a01f38ece583
+    hash: 1a593c5d621cd68ee1850f49db7f3172ae53d0a4dbfaa6151fa630668ff77752
   state: {}
 thumbnail:f2dgDT8CFSI:
   spec:
     videoId: f2dgDT8CFSI
     filePath: data/videos/jsbkk1/solid-principles.jpg
-    hash: 37cf9ca851bac1f1c5f84c8b5805789bc48a79095737d8527d4b4b8fda0a0f98
+    hash: dad8984e5bc95c8de524d5cafdf29d40ccb7ff3a1dd66f0512a83aab22ad9863
   state: {}
 thumbnail:hEKCJ4cckZE:
   spec:
     videoId: hEKCJ4cckZE
     filePath: data/videos/jsbkk1/event-loop.jpg
-    hash: 0e8e0ca1652adb30600a98bfda5bf507d6ae3d9af7e30c851a3ebc125389eb3a
+    hash: 644c923b8eb5471f06a0aef782a4d4c631c5addbc1554beecaab8fcafa121b78
   state: {}
 thumbnail:j4GmcSTwyiQ:
   spec:
     videoId: j4GmcSTwyiQ
     filePath: data/videos/jsbkk1/typesafe-graphql.jpg
-    hash: 2e060fa41d600d8f2ef58b1c63c540315ac8dc0b6d0c11fa35b5817759747b57
+    hash: 61b638353a7dcb1859fbc9328a90b36ae3a9d3fa228c88be3919dd1b8f0cc8a0
   state: {}
 thumbnail:lhIwKox9EnQ:
   spec:
     videoId: lhIwKox9EnQ
     filePath: data/videos/jsbkk1/devtools.jpg
-    hash: 5c7ed4153a8dba3df097773c8af75faeb2b8256d207e1db1247e0e63e6f8306b
+    hash: d9bddbf43be6936e02e3693966734110eb2cad13b51a34034fdf33ccfe36a466
   state: {}
 thumbnail:nxjUN4nxNkw:
   spec:
     videoId: nxjUN4nxNkw
     filePath: data/videos/jsbkk1/codemods.jpg
-    hash: 56b2463c2fa07a22af7966ffc8b44a94cfdbb3ade5f11839d031ec1abc45be3e
+    hash: 1ff09be01511e0359a710a76450467d90cbe2c5df81f25a102dd95c7e7c6f780
   state: {}
 video:-FQ05VqBmdc:
   spec:
@@ -17411,7 +17411,7 @@ thumbnail:fQo9j648l5s:
   spec:
     videoId: fQo9j648l5s
     filePath: data/videos/bac/automate.jpg
-    hash: 656197ae76d0ff6aef451a41c07435ffdd701bc81e2aca9c074d7ca2367194c7
+    hash: 8ac2f7318d11122bfd17f00971b43ce7b7dbea5e99b5588f96ca3579c2b3ad07
   state: {}
 video:fQo9j648l5s:
   spec:
@@ -17517,115 +17517,115 @@ thumbnail:4MgfRPkJMJk:
   spec:
     videoId: 4MgfRPkJMJk
     filePath: data/videos/jsbkk2/svelte-5.jpg
-    hash: 23a954276624bc396ffe216a8e13ac3b13560b637ffece3027db86e61e7fb6d2
+    hash: 41da104f256b03e66c1c95f9d1552e228ae1af9df21c02b4d162d525336765b0
   state: {}
 thumbnail:DZDr1LiDTrI:
   spec:
     videoId: DZDr1LiDTrI
     filePath: data/videos/jsbkk2/life.jpg
-    hash: 2905130de53bc92bfd382f0b8a8e450f81bed8e4445cd62e157cab12310a0b5a
+    hash: 6a9540b64c54755124f6447280b9128c4ff34e4f57bf8757eca14dcd93784696
   state: {}
 thumbnail:EXCf79UOpKo:
   spec:
     videoId: EXCf79UOpKo
     filePath: data/videos/jsbkk2/webar.jpg
-    hash: 69cfafe72614d4622cc7976b5caca03406a95efc7ac16da03d52ca75815e88bf
+    hash: 85a7ca446123f85dc7a7c335fee58c0e5b78b7b67fc6d943f95b64f29bd3856c
   state: {}
 thumbnail:J10gI6G6-Zw:
   spec:
     videoId: J10gI6G6-Zw
     filePath: data/videos/jsbkk2/redis.jpg
-    hash: 712a3c383bf3810235622cfaf86299a73e92d70a27fddbee4b8b98e785b32ec3
+    hash: ed53ead46448a4b37a220b486c1a3b789804c666c7b63497b08c4abae0411dff
   state: {}
 thumbnail:KYqDXrMPKqk:
   spec:
     videoId: KYqDXrMPKqk
     filePath: data/videos/jsbkk2/ai-ethics.jpg
-    hash: 509b12c421615c633447c2722381dcfd4316170c1e9b384bc14c6e0be43e0e62
+    hash: affb6d864364d4ee654091a794abdc42efe54da162e949650eef5312073eff2e
   state: {}
 thumbnail:M1yyHqozv9w:
   spec:
     videoId: M1yyHqozv9w
     filePath: data/videos/jsbkk2/web-components.jpg
-    hash: ce4f4df238a07224a53c7c5ecf595376c17ac5bcb73f51ee6e8eace1d212a65c
+    hash: 96de47982e75c07a384502ccd823e28adcbd9ba23ba134a544cc1ce2645fb079
   state: {}
 thumbnail:Q3dgS5KFfHk:
   spec:
     videoId: Q3dgS5KFfHk
     filePath: data/videos/jsbkk2/creative-coding.jpg
-    hash: 15291f2985a0c8232e370722322ddcde5d3ccfd2018ed04444bdb85506844968
+    hash: 830e032676fbeee5357109a7aae74fb451c27461aa387946bb205177abf836e3
   state: {}
 thumbnail:TUL3ePI_tJY:
   spec:
     videoId: TUL3ePI_tJY
     filePath: data/videos/jsbkk2/quality-of-code.jpg
-    hash: 7c69bea9e16385b4b87372123b5e04d4d545614bd8c92d08e1aefee1effbf09d
+    hash: 80b89e2188b2c67a93ea26a629cfa982aff0f0108332fcead997b87086100dc0
   state: {}
 thumbnail:WqUe7q-NJ8s:
   spec:
     videoId: WqUe7q-NJ8s
     filePath: data/videos/jsbkk2/art-performance.jpg
-    hash: daa0c913222ca9d13157d4b06b756279d0985340cef1c11258ced6a5dd41119c
+    hash: 31dcf8daa6fcf22b7e55c545ba976f405bcf12dc47f34fe15d97a668cd053300
   state: {}
 thumbnail:YLQKuGnKmAs:
   spec:
     videoId: YLQKuGnKmAs
     filePath: data/videos/jsbkk2/semantic-web.jpg
-    hash: a66ba62b0e8f5fbede6204608c6e19bc49c9d056ca98db981489183f6dbcf7ef
+    hash: c1394a1715c1d57d7a6395f9bdb18943317da4f1dbae6f7e29e6eaa874b093da
   state: {}
 thumbnail:Z_Mtat8Fzm4:
   spec:
     videoId: Z_Mtat8Fzm4
     filePath: data/videos/jsbkk2/monads.jpg
-    hash: 28b3a356b56cc39c65d5a4020c5a6cba717b514360b73ec914a1f2bf4d6ba1bc
+    hash: eab8cdeadf5b5a8e3e85af6c1fb077e9dce59a367e8d1469ab4c6181a8db471a
   state: {}
 thumbnail:_wJ7wonSA4g:
   spec:
     videoId: _wJ7wonSA4g
     filePath: data/videos/jsbkk2/schrodinger.jpg
-    hash: e4cc1ea8551cceb1092f341b8e6968ed8eef2afcf4b62df0565d55c3a2c768e1
+    hash: 21f9a701db1a5ed35d8fa81ea4285bfe54f93f0beb118ca2b6476f313bea0d1d
   state: {}
 thumbnail:fe-vb_TbXpo:
   spec:
     videoId: fe-vb_TbXpo
     filePath: data/videos/jsbkk2/ai-agent.jpg
-    hash: 06861fa016baf1a357cdd1b30c2ef7a2f71dda6943c3f01dce8abeb4317eb032
+    hash: e1e449d38feec3672e7ad534ef8bf8200be795ae5bb9f797204893231f3260ed
   state: {}
 thumbnail:gJqvzfRhzNc:
   spec:
     videoId: gJqvzfRhzNc
     filePath: data/videos/jsbkk2/mastering-phi3.jpg
-    hash: 237b202e476edd34497faa884f3213fb980c2ef0395bec2b30676bdb62039e04
+    hash: d061fddc7d550dd36dddc7f60760f7816d3b48d9b013ce60b1a876748a2ffcaa
   state: {}
 thumbnail:gMU237Vyees:
   spec:
     videoId: gMU237Vyees
     filePath: data/videos/jsbkk2/css.jpg
-    hash: 2f1d0ad168aa833b3574d90a7c2fe3c509e44af4506364009d909386d50b68a8
+    hash: f51aa09cf4c5a917d51894f9575238773dcdef4812e52e53f43cc98ec4a7366d
   state: {}
 thumbnail:ngqXFVgN0rk:
   spec:
     videoId: ngqXFVgN0rk
     filePath: data/videos/jsbkk2/first-static-web.jpg
-    hash: 85845d681581534e003884979efc646e582c83b6114db83c85b8e99aca91f575
+    hash: 03cea0543b2051a40e6576b719a6222309a5948a74acf69a3d431da00968d969
   state: {}
 thumbnail:oJYVLqxTv_Y:
   spec:
     videoId: oJYVLqxTv_Y
     filePath: data/videos/jsbkk2/browser-automation.jpg
-    hash: e36230c45067709ba2dc61a856f186c17aa88e939a3996e6106bc5f6a2c3b377
+    hash: f1a8676e5cfa326f07555cece3a71007bc07103548fff000678d3e22d3daa086
   state: {}
 thumbnail:tAGt9lksC9E:
   spec:
     videoId: tAGt9lksC9E
     filePath: data/videos/jsbkk2/ai-edge.jpg
-    hash: b10f610c86089b09519c70239603bd858ed799eade41a96838164404d072cd3b
+    hash: d265329a3286d2642cb06e1fe7fc11c30111f90e36af345fe62796d6f25e0518
   state: {}
 thumbnail:uMMIRpR00es:
   spec:
     videoId: uMMIRpR00es
     filePath: data/videos/jsbkk2/devtools.jpg
-    hash: 513c26934ec2e6f863dd32701b944465809f0c522180d97f33c319d41b74ba31
+    hash: 2e44c1d4371e7509d2ff949ac9bcd044063828a3a011eb8f7d34b43eab09e2c4
   state: {}
 thumbnail:ytCsiusPR0g:
   spec:
@@ -20271,7 +20271,7 @@ thumbnail:jjxu614FG80:
   spec:
     videoId: jjxu614FG80
     filePath: data/videos/jsbkk2/type-integrity.jpg
-    hash: 3c8b20b3d824d2abb876760e29018a5395811bd6042ab255dbd9e33cf5ea9290
+    hash: ebe1cb5f7e64be4caede57c4ac52b339f5a10c0cc3877235c7bec350ebfa6909
   state: {}
 video:4MgfRPkJMJk:caption:en:
   spec:
