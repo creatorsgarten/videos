@@ -4625,6 +4625,86 @@
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
     },
     {
+      "event": "market",
+      "slug": "hydra",
+      "data": {
+        "title": "hydra.js: playing visual with code",
+        "speaker": "Wasawat Samno",
+        "type": "talk",
+        "youtube": "iRqY5QoBoS0",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/market/hydra.md",
+      "imageFilePath": "data/videos/market/hydra.jpg"
+    },
+    {
+      "event": "market",
+      "slug": "p5js-ollama",
+      "data": {
+        "title": "AI Guessing Image Game by using p5.js and Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/market/p5js-ollama.md",
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg"
+    },
+    {
+      "event": "market",
+      "slug": "proxenorobotics",
+      "data": {
+        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
+        "speaker": "Perawit Boonsomchua",
+        "type": "talk",
+        "youtube": "CaQ9fO1xto8",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/market/proxenorobotics.md",
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg"
+    },
+    {
+      "event": "market",
+      "slug": "three-scene-studio",
+      "data": {
+        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
+        "speaker": "Wachirawit Wacharak",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/market/three-scene-studio.md",
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg"
+    },
+    {
+      "event": "market",
+      "slug": "yes",
+      "data": {
+        "title": "If your answer is yes,",
+        "speaker": "Nuntinee Tan",
+        "type": "talk",
+        "youtube": "4ePm0u8Z5H0",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/market/yes.md",
+      "imageFilePath": "data/videos/market/yes.jpg"
+    },
+    {
       "event": "mathsatsundown",
       "slug": "history",
       "data": {
