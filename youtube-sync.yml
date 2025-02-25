@@ -20697,3 +20697,49 @@ video:iRqY5QoBoS0:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:ZLOFY67jCuw:
+  spec:
+    videoId: ZLOFY67jCuw
+    filePath: data/videos/market/p5js-ollama.jpg
+    hash: 70e507f1e70f1aaa13fd3206e0f55347eb3a76ec0d9a8e3d17f08c0760317f7c
+  state: {}
+video:ZLOFY67jCuw:
+  spec:
+    id: ZLOFY67jCuw
+    snippet:
+      title: AI Guessing Image Game by using p5.js and Ollama by Charunthon Limseelo
+      description: >-
+        Event: Creative Coding Meetup #3
+
+        https://grtn.org/e/market
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/market/v/p5js-ollama/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
