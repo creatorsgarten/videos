@@ -171,4 +171,5 @@ const events = [
     },
     recordedBy: 'livetubex',
   }),
+  new Event('market', 'Creative Coding Meetup #3'),
 ]
