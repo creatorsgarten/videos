@@ -20513,3 +20513,187 @@ video:oJYVLqxTv_Y:caption:en:
     isDraft: false
   state:
     id: AUieDaYWkdx8WHC6gj-oNyn3GNvH6OAk80B3MFNvDjOFM5vEurUPGX8z
+thumbnail:4ePm0u8Z5H0:
+  spec:
+    videoId: 4ePm0u8Z5H0
+    filePath: data/videos/market/yes.jpg
+    hash: 1fe8e4c902b4a33bddc38342cd8070c99eca314d14cc53508ed7d88f2a1321b6
+  state: {}
+thumbnail:CaQ9fO1xto8:
+  spec:
+    videoId: CaQ9fO1xto8
+    filePath: data/videos/market/proxenorobotics.jpg
+    hash: 6860592f2f051b2c0ece9ee1ececb283b2e4d6aa92646caf01e91da01197c2e4
+  state: {}
+thumbnail:JjZCkvTN0-Q:
+  spec:
+    videoId: JjZCkvTN0-Q
+    filePath: data/videos/market/three-scene-studio.jpg
+    hash: 70e507f1e70f1aaa13fd3206e0f55347eb3a76ec0d9a8e3d17f08c0760317f7c
+  state: {}
+thumbnail:iRqY5QoBoS0:
+  spec:
+    videoId: iRqY5QoBoS0
+    filePath: data/videos/market/hydra.jpg
+    hash: 36d680851efc8af28c68489cda96a1d69d55815b11756cec3a2db64b4d008cc1
+  state: {}
+video:4ePm0u8Z5H0:
+  spec:
+    id: 4ePm0u8Z5H0
+    snippet:
+      title: If your answer is yes, by Nuntinee Tan
+      description: >-
+        Event: Creative Coding Meetup #3
+
+        https://grtn.org/e/market
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/market/v/yes/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:CaQ9fO1xto8:
+  spec:
+    id: CaQ9fO1xto8
+    snippet:
+      title: Human-AI Interactive Dancing · PROXENOROBOTICS by Perawit Boonsomchua
+      description: >-
+        Event: Creative Coding Meetup #3
+
+        https://grtn.org/e/market
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/market/v/proxenorobotics/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:JjZCkvTN0-Q:
+  spec:
+    id: JjZCkvTN0-Q
+    snippet:
+      title: ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio by Wachirawit Wacharak
+      description: >-
+        Event: Creative Coding Meetup #3
+
+        https://grtn.org/e/market
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/market/v/three-scene-studio/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:iRqY5QoBoS0:
+  spec:
+    id: iRqY5QoBoS0
+    snippet:
+      title: 'hydra.js: playing visual with code by Wasawat Samno'
+      description: >-
+        Event: Creative Coding Meetup #3
+
+        https://grtn.org/e/market
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        To edit the video metadata (title, description, timestamps, thumbnail,
+        etc.), please visit:
+
+        https://grtn.org/e/market/v/hydra/edit
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
