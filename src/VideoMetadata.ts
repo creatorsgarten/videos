@@ -134,8 +134,17 @@ export async function getVideoDescription(
     'For reuse of this video under a more permissive license please get in touch with us. The speakers retain the copyright for their performances.',
     'mail@creatorsgarten.org',
     '',
-    'To edit the video metadata (title, description, timestamps, thumbnail, etc.), please visit:',
-    `https://grtn.org/e/${video.event}/v/${video.slug}/edit`,
+    ...(event.descriptionMode === 'classic'
+      ? [
+          'To edit the video metadata (title, description, timestamps, thumbnail, etc.), please visit:',
+          `https://grtn.org/e/${video.event}/v/${video.slug}/edit`,
+        ]
+      : [
+          video.englishSubtitlePath || video.thaiSubtitlePath
+            ? 'Want to read the full transcript or spotted an error? Visit our site where you can report inaccuracies in subtitles or help improve video metadata.'
+            : 'Want to learn more about this talk or spotted an error in the metadata? Visit our site where you can help improve video information and details.',
+          `https://grtn.org/v/${video.event}/${video.slug}`,
+        ]),
     ...(video.data.tags
       ? ['', video.data.tags.map((tag) => `#${tag}`).join(' ')]
       : []),

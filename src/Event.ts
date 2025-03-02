@@ -27,6 +27,7 @@ export class Event {
     public name: string,
     private options: EventOptions = {},
   ) {}
+  public descriptionMode: 'modern' | 'classic' = 'modern'
   static async findAll() {
     return events
   }
@@ -173,3 +174,11 @@ const events = [
   }),
   new Event('market', 'Creative Coding Meetup #3'),
 ]
+
+// To prevent YouTube API running out of quota,
+// we will gradually update the description mode
+// from 'classic' to 'modern' for all events.
+for (const event of events) {
+  if (event.id === 'bac') break
+  event.descriptionMode = 'classic'
+}
