@@ -20572,6 +20572,7 @@ video:4ePm0u8Z5H0:
         etc.), please visit:
 
         https://grtn.org/e/market/v/yes/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -20612,6 +20613,7 @@ video:CaQ9fO1xto8:
         etc.), please visit:
 
         https://grtn.org/e/market/v/proxenorobotics/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -20652,6 +20654,7 @@ video:JjZCkvTN0-Q:
         etc.), please visit:
 
         https://grtn.org/e/market/v/three-scene-studio/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -20692,6 +20695,7 @@ video:iRqY5QoBoS0:
         etc.), please visit:
 
         https://grtn.org/e/market/v/hydra/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -20738,8 +20742,59 @@ video:ZLOFY67jCuw:
         etc.), please visit:
 
         https://grtn.org/e/market/v/p5js-ollama/edit
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:4ePm0u8Z5H0:caption:th:
+  spec:
+    videoId: 4ePm0u8Z5H0
+    filePath: data/videos/market/yes_th.vtt
+    language: th
+    name: Thai
+    hash: 0c08bb90314659fa652888a49d828376ac36e96abafc77fc932e8073b788a0f0
+    isDraft: false
+  state:
+    id: AUieDabls9Nd6EootP6BbWtlq_Dc3PPh4yyzaN8Bntjn-kkPi_Dz
+video:CaQ9fO1xto8:caption:th:
+  spec:
+    videoId: CaQ9fO1xto8
+    filePath: data/videos/market/proxenorobotics_th.vtt
+    language: th
+    name: Thai
+    hash: de19d735ebe5981b03d421a5336f9fea7ae69e2029b5f7ef53184a624439ae81
+    isDraft: false
+  state:
+    id: AUieDaY1bJMGwKqj2V0gIMN7_MTKbMH9RjQL_hsKpLKyKOCJUEln
+video:JjZCkvTN0-Q:caption:th:
+  spec:
+    videoId: JjZCkvTN0-Q
+    filePath: data/videos/market/three-scene-studio_th.vtt
+    language: th
+    name: Thai
+    hash: 908e74dcd9a283bdd7bf12eda3339f0f2fc6179887233f669fe51ec4837ee05b
+    isDraft: false
+  state:
+    id: AUieDaZG5Qec6i207mt7EQtcC2mWwHrYzEWhvQOfTur-QuSIyd-Q
+video:ZLOFY67jCuw:caption:th:
+  spec:
+    videoId: ZLOFY67jCuw
+    filePath: data/videos/market/p5js-ollama_th.vtt
+    language: th
+    name: Thai
+    hash: e788bfaa590aaf5cd525971efb469a05e8a645fd4d2a5f1baee51ad64214f99d
+    isDraft: false
+  state:
+    id: AUieDaYmBFVvnFoOZwUMFuP7IqX8yG2YcIoua43ssKdpaAWZ_DEs
+video:iRqY5QoBoS0:caption:th:
+  spec:
+    videoId: iRqY5QoBoS0
+    filePath: data/videos/market/hydra_th.vtt
+    language: th
+    name: Thai
+    hash: 0a4e96e76e134062d9978847984292b02e75a49a69e75f75ea0880a43a19a6da
+    isDraft: false
+  state:
+    id: AUieDaY18rbBM2dMG14Hg3C9S79luDYzenj4qtKOL8IeDY4ehNOH
