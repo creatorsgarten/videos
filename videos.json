@@ -4634,11 +4634,15 @@
         "youtube": "iRqY5QoBoS0",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/market/hydra.md",
-      "imageFilePath": "data/videos/market/hydra.jpg"
+      "imageFilePath": "data/videos/market/hydra.jpg",
+      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
     },
     {
       "event": "market",
@@ -4650,11 +4654,15 @@
         "youtube": "ZLOFY67jCuw",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/market/p5js-ollama.md",
-      "imageFilePath": "data/videos/market/p5js-ollama.jpg"
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
+      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
     },
     {
       "event": "market",
@@ -4666,11 +4674,15 @@
         "youtube": "CaQ9fO1xto8",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/market/proxenorobotics.md",
-      "imageFilePath": "data/videos/market/proxenorobotics.jpg"
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
+      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
     },
     {
       "event": "market",
@@ -4682,11 +4694,15 @@
         "youtube": "JjZCkvTN0-Q",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/market/three-scene-studio.md",
-      "imageFilePath": "data/videos/market/three-scene-studio.jpg"
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
+      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
     },
     {
       "event": "market",
@@ -4698,11 +4714,15 @@
         "youtube": "4ePm0u8Z5H0",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/market/yes.md",
-      "imageFilePath": "data/videos/market/yes.jpg"
+      "imageFilePath": "data/videos/market/yes.jpg",
+      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
     },
     {
       "event": "mathsatsundown",
