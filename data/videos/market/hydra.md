@@ -4,4 +4,5 @@ speaker: Wasawat Samno
 youtube: iRqY5QoBoS0
 managed: true
 published: false
+subtitles: [th]
 ---

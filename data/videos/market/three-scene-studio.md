@@ -4,4 +4,5 @@ speaker: Wachirawit Wacharak
 youtube: JjZCkvTN0-Q
 managed: true
 published: false
+subtitles: [th]
 ---

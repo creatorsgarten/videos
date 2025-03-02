@@ -4,4 +4,5 @@ speaker: Charunthon Limseelo
 youtube: ZLOFY67jCuw
 managed: true
 published: false
+subtitles: [th]
 ---
