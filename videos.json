@@ -159,43 +159,6 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": true,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
-    },
-    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -878,6 +841,43 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
+    },
+    {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -3700,6 +3700,106 @@
       "englishSubtitlePath": "data/videos/jsbkk1/typesafe-graphql_en.vtt"
     },
     {
+      "event": "market",
+      "slug": "hydra",
+      "data": {
+        "title": "hydra.js: playing visual with code",
+        "speaker": "Wasawat Samno",
+        "type": "talk",
+        "youtube": "iRqY5QoBoS0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/hydra.md",
+      "imageFilePath": "data/videos/market/hydra.jpg",
+      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "p5js-ollama",
+      "data": {
+        "title": "AI Guessing Image Game by using p5.js and Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "ZLOFY67jCuw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/p5js-ollama.md",
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
+      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "proxenorobotics",
+      "data": {
+        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
+        "speaker": "Perawit Boonsomchua",
+        "type": "talk",
+        "youtube": "CaQ9fO1xto8",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/proxenorobotics.md",
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
+      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "three-scene-studio",
+      "data": {
+        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
+        "speaker": "Wachirawit Wacharak",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/three-scene-studio.md",
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
+      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "yes",
+      "data": {
+        "title": "If your answer is yes,",
+        "speaker": "Nuntinee Tan",
+        "type": "talk",
+        "youtube": "4ePm0u8Z5H0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/yes.md",
+      "imageFilePath": "data/videos/market/yes.jpg",
+      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
+    },
+    {
       "event": "jsbkk2",
       "slug": "ai-agent",
       "data": {
@@ -4682,106 +4782,6 @@
       "filePath": "data/videos/jsbkk2/webar.md",
       "imageFilePath": "data/videos/jsbkk2/webar.jpg",
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "hydra",
-      "data": {
-        "title": "hydra.js: playing visual with code",
-        "speaker": "Wasawat Samno",
-        "type": "talk",
-        "youtube": "iRqY5QoBoS0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/hydra.md",
-      "imageFilePath": "data/videos/market/hydra.jpg",
-      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "p5js-ollama",
-      "data": {
-        "title": "AI Guessing Image Game by using p5.js and Ollama",
-        "speaker": "Charunthon Limseelo",
-        "type": "talk",
-        "youtube": "ZLOFY67jCuw",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/p5js-ollama.md",
-      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
-      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "proxenorobotics",
-      "data": {
-        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
-        "speaker": "Perawit Boonsomchua",
-        "type": "talk",
-        "youtube": "CaQ9fO1xto8",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/proxenorobotics.md",
-      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
-      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "three-scene-studio",
-      "data": {
-        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
-        "speaker": "Wachirawit Wacharak",
-        "type": "talk",
-        "youtube": "JjZCkvTN0-Q",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/three-scene-studio.md",
-      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
-      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "yes",
-      "data": {
-        "title": "If your answer is yes,",
-        "speaker": "Nuntinee Tan",
-        "type": "talk",
-        "youtube": "4ePm0u8Z5H0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/yes.md",
-      "imageFilePath": "data/videos/market/yes.jpg",
-      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
     },
     {
       "event": "mathsatsundown",
