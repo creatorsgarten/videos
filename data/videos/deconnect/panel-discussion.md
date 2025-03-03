@@ -4,4 +4,5 @@ speaker: Direk Yimlamai; Karnsiree Wongkolkitsilp; Manussanun Buranachokphaisan
 youtube: 5CMuXc2lsWU
 managed: true
 published: false
+subtitles: [th]
 ---

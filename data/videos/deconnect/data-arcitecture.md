@@ -4,4 +4,5 @@ speaker: Kan Ouivirach
 youtube: zQmIul9Vs1o
 managed: true
 published: false
+subtitles: [th]
 ---
