@@ -173,6 +173,13 @@ const events = [
     recordedBy: 'livetubex',
   }),
   new Event('market', 'Creative Coding Meetup #3'),
+  new Event('deconnect', 'DE Connect: Bridge Data Minds', {
+    urlOverride: 'https://www.facebook.com/share/p/1BCKRCfJz8/',
+    externalOrganizer: {
+      name: 'Data Engineer Connect',
+      url: 'https://www.facebook.com/dataengineerconnect',
+    },
+  }),
 ]
 
 // To prevent YouTube API running out of quota,
