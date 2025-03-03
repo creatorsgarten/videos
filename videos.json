@@ -159,6 +159,43 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+    },
+    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -841,43 +878,6 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
-    },
-    {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": true,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -2599,6 +2599,65 @@
       "content": "",
       "filePath": "data/videos/cssmeetup0823/thai-ui.md",
       "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
+    },
+    {
+      "event": "deconnect",
+      "slug": "data-arcitecture",
+      "data": {
+        "title": "Data Architecture ในงาน Data Engineer ใครก็เริ่มได้ ไม่ต้องเป็น Senior",
+        "speaker": "Kan Ouivirach",
+        "type": "talk",
+        "youtube": "zQmIul9Vs1o",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/data-arcitecture.md",
+      "imageFilePath": "data/videos/deconnect/data-arcitecture.jpg"
+    },
+    {
+      "event": "deconnect",
+      "slug": "data-catalog",
+      "data": {
+        "title": "Demystifying Data Catalog",
+        "speaker": "Yothin Muangsommuk",
+        "type": "talk",
+        "youtube": "M8Qd3WFNlDQ",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/data-catalog.md",
+      "imageFilePath": "data/videos/deconnect/data-catalog.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/data-catalog_th.vtt"
+    },
+    {
+      "event": "deconnect",
+      "slug": "panel-discussion",
+      "data": {
+        "title": "Decoding Data Engineering — Myth vs Reality & What are Here to Stay",
+        "speaker": "Direk Yimlamai; Karnsiree Wongkolkitsilp; Manussanun Buranachokphaisan",
+        "type": "talk",
+        "youtube": "5CMuXc2lsWU",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/panel-discussion.md",
+      "imageFilePath": "data/videos/deconnect/panel-discussion.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/panel-discussion_th.vtt"
     },
     {
       "event": "functional",
@@ -7002,6 +7061,15 @@
       "id": "market",
       "name": "Creative Coding Meetup #3",
       "url": "https://grtn.org/e/market"
+    },
+    {
+      "id": "deconnect",
+      "name": "DE Connect: Bridge Data Minds",
+      "url": "https://www.facebook.com/share/p/1BCKRCfJz8/",
+      "externalOrganizer": {
+        "name": "Data Engineer Connect",
+        "url": "https://www.facebook.com/dataengineerconnect"
+      }
     }
   ]
 }
