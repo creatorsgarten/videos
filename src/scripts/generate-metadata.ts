@@ -4,6 +4,7 @@ import {
   HarmCategory,
 } from '@google/generative-ai'
 import * as csv from 'csv/sync'
+import 'dotenv/config'
 import fs from 'fs'
 import path from 'path'
 import subtitle from 'subtitle'
