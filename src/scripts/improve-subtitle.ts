@@ -18,6 +18,12 @@ const argv = await yargs(process.argv.slice(2))
     type: 'string',
     demandOption: true,
   })
+  .option('model', {
+    describe: 'Model to use for improving subtitles (gemini, claude)',
+    type: 'string',
+    choices: ['gemini', 'claude'],
+    default: 'gemini',
+  })
   .option('skip', {
     describe: 'Skip first N segments',
     type: 'number',
@@ -81,14 +87,8 @@ function vttToJsonObject(vtt: string) {
   return { segments, cueToIds, parsed }
 }
 
-// Initialize Anthropic client
-if (!process.env.ANTHROPIC_API_KEY) {
-  throw new Error('ANTHROPIC_API_KEY environment variable is required')
-}
-
-const modelProvider: string = 'google'
 const model =
-  modelProvider === 'google'
+  argv.model === 'gemini'
     ? google('gemini-2.0-flash-exp')
     : anthropic('claude-3-7-sonnet-20250219')
 
