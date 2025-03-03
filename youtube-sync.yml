@@ -20827,3 +20827,196 @@ video:iRqY5QoBoS0:caption:th:
     isDraft: false
   state:
     id: AUieDaY18rbBM2dMG14Hg3C9S79luDYzenj4qtKOL8IeDY4ehNOH
+thumbnail:5CMuXc2lsWU:
+  spec:
+    videoId: 5CMuXc2lsWU
+    filePath: data/videos/deconnect/panel-discussion.jpg
+    hash: 9a32062ebe5d22c60de9f2e4344ff54c82c1242fbb35c1946caf96425136b5da
+  state: {}
+thumbnail:M8Qd3WFNlDQ:
+  spec:
+    videoId: M8Qd3WFNlDQ
+    filePath: data/videos/deconnect/data-catalog.jpg
+    hash: fa44ffe5d6f3529245ae1cdb07a68867b6cb7ec4a2267490badbf62c1c453c8e
+  state: {}
+thumbnail:zQmIul9Vs1o:
+  spec:
+    videoId: zQmIul9Vs1o
+    filePath: data/videos/deconnect/data-arcitecture.jpg
+    hash: b8a3e082a94042cf9a02968e7bcce21b4357c322d9c3178e41ad129ef7b992a6
+  state: {}
+video:5CMuXc2lsWU:
+  spec:
+    id: 5CMuXc2lsWU
+    snippet:
+      title: >-
+        Decoding Data Engineering — Myth vs Reality & What are Here to Stay by
+        Direk, Karnsiree, Manussanun
+      description: >-
+        Event: DE Connect: Bridge Data Minds
+
+        https://www.facebook.com/share/p/1BCKRCfJz8/
+
+
+        Organized by: Data Engineer Connect
+
+        https://www.facebook.com/dataengineerconnect
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/deconnect/panel-discussion
+      defaultAudioLanguage: th
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:5CMuXc2lsWU:caption:th:
+  spec:
+    videoId: 5CMuXc2lsWU
+    filePath: data/videos/deconnect/panel-discussion_th.vtt
+    language: th
+    name: Thai
+    hash: 54d24f8acf5dc998107ef6898dd2c8f31fa5e30d4251fe022817447d167e947b
+    isDraft: false
+  state:
+    id: AUieDabDPM2orKR9J5N62OORK9l9LAxWyBUWYX3iHhMADV_Xnz8F
+video:M8Qd3WFNlDQ:
+  spec:
+    id: M8Qd3WFNlDQ
+    snippet:
+      title: Demystifying Data Catalog by Yothin Muangsommuk
+      description: >-
+        Event: DE Connect: Bridge Data Minds
+
+        https://www.facebook.com/share/p/1BCKRCfJz8/
+
+
+        Organized by: Data Engineer Connect
+
+        https://www.facebook.com/dataengineerconnect
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/deconnect/data-catalog
+      defaultAudioLanguage: th
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:M8Qd3WFNlDQ:caption:th:
+  spec:
+    videoId: M8Qd3WFNlDQ
+    filePath: data/videos/deconnect/data-catalog_th.vtt
+    language: th
+    name: Thai
+    hash: c385761c5d47423dd0e116bd0783d2598214b1dc857c7810368a7cce8456c323
+    isDraft: false
+  state:
+    id: AUieDabc3TJigrLJyUbsZlhrH_WiG3HewbmFvOUEQz_m3RBXDa-f
+video:zQmIul9Vs1o:
+  spec:
+    id: zQmIul9Vs1o
+    snippet:
+      title: >-
+        Data Architecture ในงาน Data Engineer ใครก็เริ่มได้ ไม่ต้องเป็น Senior
+        by Kan Ouivirach
+      description: >-
+        Event: DE Connect: Bridge Data Minds
+
+        https://www.facebook.com/share/p/1BCKRCfJz8/
+
+
+        Organized by: Data Engineer Connect
+
+        https://www.facebook.com/dataengineerconnect
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/deconnect/data-arcitecture
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
