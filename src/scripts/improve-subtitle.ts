@@ -129,7 +129,8 @@ ${JSON.stringify({
   'gpt four o': 'GPT-4o',
   'แอล แอล เอ็ม': 'LLM',
   สองจุดห้า: '2.5',
-  เพอร์ฟอร์แมนซ์: 'Perfomance',
+  เพอร์ฟอร์แมนซ์: 'performance',
+  สต็อปแชร์ริ่ง: 'stop sharing',
 })}
 
 Words that are transliterated from English should be corrected to the original English word and NOT translated to Thai. For example, "ฟรีดอม" should be "freedom" and NOT "เสรีภาพ".
