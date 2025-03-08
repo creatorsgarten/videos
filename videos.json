@@ -159,43 +159,6 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": true,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
-    },
-    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -878,6 +841,43 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
+    },
+    {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -3700,106 +3700,6 @@
       "englishSubtitlePath": "data/videos/jsbkk1/typesafe-graphql_en.vtt"
     },
     {
-      "event": "market",
-      "slug": "hydra",
-      "data": {
-        "title": "hydra.js: playing visual with code",
-        "speaker": "Wasawat Samno",
-        "type": "talk",
-        "youtube": "iRqY5QoBoS0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/hydra.md",
-      "imageFilePath": "data/videos/market/hydra.jpg",
-      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "p5js-ollama",
-      "data": {
-        "title": "AI Guessing Image Game by using p5.js and Ollama",
-        "speaker": "Charunthon Limseelo",
-        "type": "talk",
-        "youtube": "ZLOFY67jCuw",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/p5js-ollama.md",
-      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
-      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "proxenorobotics",
-      "data": {
-        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
-        "speaker": "Perawit Boonsomchua",
-        "type": "talk",
-        "youtube": "CaQ9fO1xto8",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/proxenorobotics.md",
-      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
-      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "three-scene-studio",
-      "data": {
-        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
-        "speaker": "Wachirawit Wacharak",
-        "type": "talk",
-        "youtube": "JjZCkvTN0-Q",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/three-scene-studio.md",
-      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
-      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "yes",
-      "data": {
-        "title": "If your answer is yes,",
-        "speaker": "Nuntinee Tan",
-        "type": "talk",
-        "youtube": "4ePm0u8Z5H0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/yes.md",
-      "imageFilePath": "data/videos/market/yes.jpg",
-      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
-    },
-    {
       "event": "jsbkk2",
       "slug": "ai-agent",
       "data": {
@@ -4784,6 +4684,106 @@
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
     },
     {
+      "event": "market",
+      "slug": "hydra",
+      "data": {
+        "title": "hydra.js: playing visual with code",
+        "speaker": "Wasawat Samno",
+        "type": "talk",
+        "youtube": "iRqY5QoBoS0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/hydra.md",
+      "imageFilePath": "data/videos/market/hydra.jpg",
+      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "p5js-ollama",
+      "data": {
+        "title": "AI Guessing Image Game by using p5.js and Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "ZLOFY67jCuw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/p5js-ollama.md",
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
+      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "proxenorobotics",
+      "data": {
+        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
+        "speaker": "Perawit Boonsomchua",
+        "type": "talk",
+        "youtube": "CaQ9fO1xto8",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/proxenorobotics.md",
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
+      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "three-scene-studio",
+      "data": {
+        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
+        "speaker": "Wachirawit Wacharak",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/three-scene-studio.md",
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
+      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "yes",
+      "data": {
+        "title": "If your answer is yes,",
+        "speaker": "Nuntinee Tan",
+        "type": "talk",
+        "youtube": "4ePm0u8Z5H0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/yes.md",
+      "imageFilePath": "data/videos/market/yes.jpg",
+      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
+    },
+    {
       "event": "mathsatsundown",
       "slug": "history",
       "data": {
@@ -5327,277 +5327,6 @@
       "imageFilePath": "data/videos/scisart/digitizing-ghost.jpg"
     },
     {
-      "event": "sideproject",
-      "slug": "cosnatsu",
-      "data": {
-        "title": "CosNatsu Image Generator",
-        "type": "pitch",
-        "youtube": "rvoQ1rZF2LE",
-        "managed": true,
-        "description": "เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2\n\nCode: https://github.com/exzenous/cosnatsu-imgcampaign\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "fabricjs",
-          "vue",
-          "vuejs",
-          "azure"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/cosnatsu.md",
-      "imageFilePath": "data/videos/sideproject/cosnatsu.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "dtinth",
-      "data": {
-        "title": "ansr",
-        "tagline": "Kahoot alternative",
-        "type": "pitch",
-        "youtube": "fJHgUd1QINQ",
-        "managed": true,
-        "description": "Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~\n\nCode: https://github.com/wonderfulsoftware/ansr\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "js",
-          "javascript",
-          "line",
-          "kahoot"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/dtinth.md",
-      "imageFilePath": "data/videos/sideproject/dtinth.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "eeg",
-      "data": {
-        "title": "EEG Brain interface",
-        "tagline": "สร้างดนตรีจากคลื่นสมอง",
-        "type": "pitch",
-        "youtube": "b_4u0YcM3ao",
-        "managed": true,
-        "description": "Slides: https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "eeg",
-          "music",
-          "creative"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/eeg.md",
-      "imageFilePath": "data/videos/sideproject/eeg.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "elysia",
-      "data": {
-        "title": "Elysia",
-        "tagline": "TypeScript framework that is (almost) as fast as Rust with e2e Type Safety",
-        "type": "pitch",
-        "youtube": "7V7h0idgP7o",
-        "managed": true,
-        "description": "17x faster than Express\nTypeScript that is as fast as Rust.\nEnd-to-end type safety like tRPC.\nAs easy as Express, and Fastify.\nWith automated tools like Ruby on Rails\n\nFeatured in BETH stack here: https://youtu.be/cpzowDDJj24\n\nDocs: https://elysiajs.com/\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "subtitles": [
-          "th",
-          "en"
-        ],
-        "tags": [
-          "typescript",
-          "webframeworks"
-        ],
-        "chapters": {
-          "0:00": "แนะนำ BETH Stack และ Elysia Framework",
-          "0:24": "Elysia: TypeScript Web Framework ที่เร็วกว่า Express 17 เท่า",
-          "1:14": "ความลับของความเร็ว: Bun Runtime และ Static Code Analysis",
-          "1:46": "Developer Experience กับ Elysia: ง่ายต่อการใช้งาน",
-          "1:56": "Setup Authentication ง่ายๆ ด้วย Elysia Elf",
-          "2:21": "Demo: สร้าง Project Elysia ด้วย Bun CLI",
-          "3:14": "เพิ่ม GraphQL Plugin ด้วย Elysia Elf",
-          "4:28": "สร้าง Authentication ด้วย Elysia Elf และ Prisma ORM",
-          "5:44": "Demo: Sign Up และ Sign In ผ่าน Swagger UI",
-          "6:06": "End-to-End Type Safety ด้วย Elysia และ Eden Treaty",
-          "7:11": "Demo: Type Safety ระหว่าง Server (Elysia) และ Client (Next.js)",
-          "8:11": "Demo: สร้าง API Endpoint ใหม่และ Type Safety บน Client",
-          "8:50": "เพิ่ม Static Plugin สำหรับการ Serve ไฟล์ Static",
-          "9:51": "สรุป Elysia: ง่าย เร็ว และ Type Safe"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/elysia.md",
-      "imageFilePath": "data/videos/sideproject/elysia.jpg",
-      "englishSubtitlePath": "data/videos/sideproject/elysia_en.vtt",
-      "thaiSubtitlePath": "data/videos/sideproject/elysia_th.vtt"
-    },
-    {
-      "event": "sideproject",
-      "slug": "ham",
-      "data": {
-        "title": "Dev with $15 Built a Personal Playground of 10+ Side Projects with Cutting edge technology",
-        "type": "pitch",
-        "youtube": "Vxmb6xTMulE",
-        "managed": true,
-        "description": "Talk about:\n  1. Blazing fast homepage https://ham-san.net/\n  2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/\n  3. Running SQLite in a browser https://aibou.ham-san.net/\n  4. All-Platform Chatbot https://hambot.ham-san.net/\n  5. Self-deployed Notion https://notes.ham-san.net/\n+ What i learn doing side projects\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "typescript",
-          "svelte",
-          "nextjs",
-          "webassemly",
-          "ffmpeg",
-          "graphql",
-          "line",
-          "discord",
-          "indexeddb"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/ham.md",
-      "imageFilePath": "data/videos/sideproject/ham.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "laser-tag",
-      "data": {
-        "title": "LaserTag Library",
-        "tagline": "สำหรับทำ laser tag อย่างง่าย",
-        "type": "pitch",
-        "youtube": "jcfyL8dceGo",
-        "managed": true,
-        "description": "เป็น library สำหรับทำ laser tag อย่างง่าย เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม\n\nCode: https://github.com/vixtory09678/laser-tag-library\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "lasertag",
-          "arduino",
-          "microcontroller"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/laser-tag.md",
-      "imageFilePath": "data/videos/sideproject/laser-tag.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "mangaweb",
-      "data": {
-        "title": "MangaWeb: เว็บอ่านการ์ตูนส่วนตัว",
-        "type": "pitch",
-        "youtube": "mByVF0ZhqfM",
-        "managed": true,
-        "description": "Code: https://github.com/wutipong/mangaweb\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "go",
-          "golang",
-          "svelte"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/mangaweb.md",
-      "imageFilePath": "data/videos/sideproject/mangaweb.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "narze",
-      "data": {
-        "title": "ChatOS + Garden-Astro",
-        "type": "pitch",
-        "youtube": "aZkXvmro_uo",
-        "managed": true,
-        "description": "ChatOS: https://chat.narze.live/\nDigital Garden: https://garden.narze.live/\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "js",
-          "javascript",
-          "astrom",
-          "digitalgarden",
-          "chatbot"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/narze.md",
-      "imageFilePath": "data/videos/sideproject/narze.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "pixiv",
-      "data": {
-        "title": "Pixiv bookmarks manager",
-        "tagline": "Search your own pixiv bookmarks with filters",
-        "type": "pitch",
-        "youtube": "vn433iUZQSU",
-        "managed": true,
-        "description": "เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????\n\nCode: https://github.com/rayriffy/pixiv-bookmarks-visualizer\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "pixiv",
-          "js",
-          "javascript",
-          "nextjs"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/pixiv.md",
-      "imageFilePath": "data/videos/sideproject/pixiv.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "ts-patterns",
-      "data": {
-        "title": "Piko Monster",
-        "type": "pitch",
-        "youtube": "jcjyVy23pS8",
-        "managed": true,
-        "description": "จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate data ด้วย Notion ครับ\n\nSlide: https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "unity",
-          "firebase",
-          "notion",
-          "googlesheets",
-          "typescript"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/ts-patterns.md",
-      "imageFilePath": "data/videos/sideproject/ts-patterns.jpg"
-    },
-    {
-      "event": "sideproject",
-      "slug": "zero-share",
-      "data": {
-        "title": "ZeroShare",
-        "tagline": "A client-side secure P2P file sharing using WebRTC",
-        "type": "pitch",
-        "youtube": "R7pHSGT9VVc",
-        "managed": true,
-        "description": "A client-side secure P2P file sharing using WebRTC\n\nCode: https://github.com/ntsd/zero-share\n",
-        "published": "2023-09-22",
-        "language": "th",
-        "tags": [
-          "webrtc",
-          "typescript",
-          "svelte"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/sideproject/zero-share.md",
-      "imageFilePath": "data/videos/sideproject/zero-share.jpg"
-    },
-    {
       "event": "supabase",
       "slug": "postgres",
       "data": {
@@ -5998,6 +5727,277 @@
       "imageFilePath": "data/videos/typescript1/npm.jpg"
     },
     {
+      "event": "sideproject",
+      "slug": "cosnatsu",
+      "data": {
+        "title": "CosNatsu Image Generator",
+        "type": "pitch",
+        "youtube": "rvoQ1rZF2LE",
+        "managed": true,
+        "description": "เป็นตัว Generate ภาพไว้บอกว่าจะไปคอสงานไหน ใน CosNatsu #2\n\nCode: https://github.com/exzenous/cosnatsu-imgcampaign\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "fabricjs",
+          "vue",
+          "vuejs",
+          "azure"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/cosnatsu.md",
+      "imageFilePath": "data/videos/sideproject/cosnatsu.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "dtinth",
+      "data": {
+        "title": "ansr",
+        "tagline": "Kahoot alternative",
+        "type": "pitch",
+        "youtube": "fJHgUd1QINQ",
+        "managed": true,
+        "description": "Kahoot เวอร์ชั่นฟรีมันรับได้แค่ 50 คน เลยลองทำระบบรับคำตอบ+ให้คะแนนด้วย Firebase + LINE API อยากลอง Load test ที่งานนี้ดู~\n\nCode: https://github.com/wonderfulsoftware/ansr\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "js",
+          "javascript",
+          "line",
+          "kahoot"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/dtinth.md",
+      "imageFilePath": "data/videos/sideproject/dtinth.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "eeg",
+      "data": {
+        "title": "EEG Brain interface",
+        "tagline": "สร้างดนตรีจากคลื่นสมอง",
+        "type": "pitch",
+        "youtube": "b_4u0YcM3ao",
+        "managed": true,
+        "description": "Slides: https://www.canva.com/design/DAFpLj205Ac/tYe-wrSPNQBCkkVwpnF2Mg/view\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "eeg",
+          "music",
+          "creative"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/eeg.md",
+      "imageFilePath": "data/videos/sideproject/eeg.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "elysia",
+      "data": {
+        "title": "Elysia",
+        "tagline": "TypeScript framework that is (almost) as fast as Rust with e2e Type Safety",
+        "type": "pitch",
+        "youtube": "7V7h0idgP7o",
+        "managed": true,
+        "description": "17x faster than Express\nTypeScript that is as fast as Rust.\nEnd-to-end type safety like tRPC.\nAs easy as Express, and Fastify.\nWith automated tools like Ruby on Rails\n\nFeatured in BETH stack here: https://youtu.be/cpzowDDJj24\n\nDocs: https://elysiajs.com/\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "subtitles": [
+          "th",
+          "en"
+        ],
+        "tags": [
+          "typescript",
+          "webframeworks"
+        ],
+        "chapters": {
+          "0:00": "แนะนำ BETH Stack และ Elysia Framework",
+          "0:24": "Elysia: TypeScript Web Framework ที่เร็วกว่า Express 17 เท่า",
+          "1:14": "ความลับของความเร็ว: Bun Runtime และ Static Code Analysis",
+          "1:46": "Developer Experience กับ Elysia: ง่ายต่อการใช้งาน",
+          "1:56": "Setup Authentication ง่ายๆ ด้วย Elysia Elf",
+          "2:21": "Demo: สร้าง Project Elysia ด้วย Bun CLI",
+          "3:14": "เพิ่ม GraphQL Plugin ด้วย Elysia Elf",
+          "4:28": "สร้าง Authentication ด้วย Elysia Elf และ Prisma ORM",
+          "5:44": "Demo: Sign Up และ Sign In ผ่าน Swagger UI",
+          "6:06": "End-to-End Type Safety ด้วย Elysia และ Eden Treaty",
+          "7:11": "Demo: Type Safety ระหว่าง Server (Elysia) และ Client (Next.js)",
+          "8:11": "Demo: สร้าง API Endpoint ใหม่และ Type Safety บน Client",
+          "8:50": "เพิ่ม Static Plugin สำหรับการ Serve ไฟล์ Static",
+          "9:51": "สรุป Elysia: ง่าย เร็ว และ Type Safe"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/elysia.md",
+      "imageFilePath": "data/videos/sideproject/elysia.jpg",
+      "englishSubtitlePath": "data/videos/sideproject/elysia_en.vtt",
+      "thaiSubtitlePath": "data/videos/sideproject/elysia_th.vtt"
+    },
+    {
+      "event": "sideproject",
+      "slug": "ham",
+      "data": {
+        "title": "Dev with $15 Built a Personal Playground of 10+ Side Projects with Cutting edge technology",
+        "type": "pitch",
+        "youtube": "Vxmb6xTMulE",
+        "managed": true,
+        "description": "Talk about:\n  1. Blazing fast homepage https://ham-san.net/\n  2. Running FFmpeg in a browser https://video-clipper-coral.vercel.app/\n  3. Running SQLite in a browser https://aibou.ham-san.net/\n  4. All-Platform Chatbot https://hambot.ham-san.net/\n  5. Self-deployed Notion https://notes.ham-san.net/\n+ What i learn doing side projects\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "typescript",
+          "svelte",
+          "nextjs",
+          "webassemly",
+          "ffmpeg",
+          "graphql",
+          "line",
+          "discord",
+          "indexeddb"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/ham.md",
+      "imageFilePath": "data/videos/sideproject/ham.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "laser-tag",
+      "data": {
+        "title": "LaserTag Library",
+        "tagline": "สำหรับทำ laser tag อย่างง่าย",
+        "type": "pitch",
+        "youtube": "jcfyL8dceGo",
+        "managed": true,
+        "description": "เป็น library สำหรับทำ laser tag อย่างง่าย เพราะตอนนั้นทำขึ้นมาเพราะเอาไปใช้สอนเด็กมัธยม\n\nCode: https://github.com/vixtory09678/laser-tag-library\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "lasertag",
+          "arduino",
+          "microcontroller"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/laser-tag.md",
+      "imageFilePath": "data/videos/sideproject/laser-tag.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "mangaweb",
+      "data": {
+        "title": "MangaWeb: เว็บอ่านการ์ตูนส่วนตัว",
+        "type": "pitch",
+        "youtube": "mByVF0ZhqfM",
+        "managed": true,
+        "description": "Code: https://github.com/wutipong/mangaweb\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "go",
+          "golang",
+          "svelte"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/mangaweb.md",
+      "imageFilePath": "data/videos/sideproject/mangaweb.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "narze",
+      "data": {
+        "title": "ChatOS + Garden-Astro",
+        "type": "pitch",
+        "youtube": "aZkXvmro_uo",
+        "managed": true,
+        "description": "ChatOS: https://chat.narze.live/\nDigital Garden: https://garden.narze.live/\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "js",
+          "javascript",
+          "astrom",
+          "digitalgarden",
+          "chatbot"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/narze.md",
+      "imageFilePath": "data/videos/sideproject/narze.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "pixiv",
+      "data": {
+        "title": "Pixiv bookmarks manager",
+        "tagline": "Search your own pixiv bookmarks with filters",
+        "type": "pitch",
+        "youtube": "vn433iUZQSU",
+        "managed": true,
+        "description": "เวลาเรา bookmarks รูปบน Pixiv มาแล้วกว่า 40,000 ภาพเราจะกลับไปค้นหาภาพยังไงดี!????\n\nCode: https://github.com/rayriffy/pixiv-bookmarks-visualizer\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "pixiv",
+          "js",
+          "javascript",
+          "nextjs"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/pixiv.md",
+      "imageFilePath": "data/videos/sideproject/pixiv.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "ts-patterns",
+      "data": {
+        "title": "Piko Monster",
+        "type": "pitch",
+        "youtube": "jcjyVy23pS8",
+        "managed": true,
+        "description": "จะพูดถึง Pattern matching ด้วย ts-pattern ใน TypeScript และ Validate data ด้วย Notion ครับ\n\nSlide: https://www.canva.com/design/DAFpNNWRXPw/swRQE1a7iY60VBjlcEqlOA/view\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "unity",
+          "firebase",
+          "notion",
+          "googlesheets",
+          "typescript"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/ts-patterns.md",
+      "imageFilePath": "data/videos/sideproject/ts-patterns.jpg"
+    },
+    {
+      "event": "sideproject",
+      "slug": "zero-share",
+      "data": {
+        "title": "ZeroShare",
+        "tagline": "A client-side secure P2P file sharing using WebRTC",
+        "type": "pitch",
+        "youtube": "R7pHSGT9VVc",
+        "managed": true,
+        "description": "A client-side secure P2P file sharing using WebRTC\n\nCode: https://github.com/ntsd/zero-share\n",
+        "published": "2023-09-22",
+        "language": "th",
+        "tags": [
+          "webrtc",
+          "typescript",
+          "svelte"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/sideproject/zero-share.md",
+      "imageFilePath": "data/videos/sideproject/zero-share.jpg"
+    },
+    {
       "event": "universe2023",
       "slug": "best",
       "data": {
@@ -6131,134 +6131,6 @@
       "content": "",
       "filePath": "data/videos/universe2023/trends.md",
       "imageFilePath": "data/videos/universe2023/trends.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "build-extension",
-      "data": {
-        "title": "Building your first VS Code extension",
-        "speaker": "Kittikorn Prasertsak",
-        "type": "talk",
-        "youtube": "eRZgg0vD0WE",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/build-extension.md",
-      "imageFilePath": "data/videos/vscodeday2023/build-extension.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "codespaces",
-      "data": {
-        "title": "Introduction to GitHub Codespaces",
-        "speaker": "Piti Champeethong",
-        "type": "talk",
-        "youtube": "RVMlHxYldfk",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/codespaces.md",
-      "imageFilePath": "data/videos/vscodeday2023/codespaces.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "contribute",
-      "data": {
-        "title": "Contributing to VS Code",
-        "speaker": "Phantip Kokilanon; Sirasit Boonklang",
-        "type": "talk",
-        "youtube": "1EI-YdsPM3E",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/contribute.md",
-      "imageFilePath": "data/videos/vscodeday2023/contribute.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "copilot",
-      "data": {
-        "title": "TypeScript in VS Code and GitHub Copilot",
-        "speaker": "Thada Wangthammang",
-        "type": "talk",
-        "youtube": "ccImhwmp0Ak",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/copilot.md",
-      "imageFilePath": "data/videos/vscodeday2023/copilot.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "python",
-      "data": {
-        "title": "Python in VS Code",
-        "speaker": "Kanin Kearpimy",
-        "type": "talk",
-        "youtube": "aeTydSml28M",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/python.md",
-      "imageFilePath": "data/videos/vscodeday2023/python.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "quantum",
-      "data": {
-        "title": "Quantum in VS Code and Microsoft Azure",
-        "speaker": "Supasate Vorathammathorn",
-        "type": "talk",
-        "youtube": "ApIarHh3u14",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/quantum.md",
-      "imageFilePath": "data/videos/vscodeday2023/quantum.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "shortcuts",
-      "data": {
-        "title": "VS Code keyboard shortcuts in 15 minutes",
-        "speaker": "Manassarn Manoonchai",
-        "type": "talk",
-        "youtube": "kx9_RDsAKRY",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/shortcuts.md",
-      "imageFilePath": "data/videos/vscodeday2023/shortcuts.jpg"
-    },
-    {
-      "event": "vscodeday2023",
-      "slug": "vscode-dev",
-      "data": {
-        "title": "vscode.dev",
-        "speaker": "Jirachai Chansivanon",
-        "type": "talk",
-        "youtube": "ezsjCVXlOW0",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/vscodeday2023/vscode-dev.md",
-      "imageFilePath": "data/videos/vscodeday2023/vscode-dev.jpg"
     },
     {
       "event": "vueconf",
@@ -6479,6 +6351,134 @@
       "filePath": "data/videos/vueconf/visual-testing.md",
       "imageFilePath": "data/videos/vueconf/visual-testing.jpg",
       "englishSubtitlePath": "data/videos/vueconf/visual-testing_en.vtt"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "build-extension",
+      "data": {
+        "title": "Building your first VS Code extension",
+        "speaker": "Kittikorn Prasertsak",
+        "type": "talk",
+        "youtube": "eRZgg0vD0WE",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/build-extension.md",
+      "imageFilePath": "data/videos/vscodeday2023/build-extension.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "codespaces",
+      "data": {
+        "title": "Introduction to GitHub Codespaces",
+        "speaker": "Piti Champeethong",
+        "type": "talk",
+        "youtube": "RVMlHxYldfk",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/codespaces.md",
+      "imageFilePath": "data/videos/vscodeday2023/codespaces.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "contribute",
+      "data": {
+        "title": "Contributing to VS Code",
+        "speaker": "Phantip Kokilanon; Sirasit Boonklang",
+        "type": "talk",
+        "youtube": "1EI-YdsPM3E",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/contribute.md",
+      "imageFilePath": "data/videos/vscodeday2023/contribute.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "copilot",
+      "data": {
+        "title": "TypeScript in VS Code and GitHub Copilot",
+        "speaker": "Thada Wangthammang",
+        "type": "talk",
+        "youtube": "ccImhwmp0Ak",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/copilot.md",
+      "imageFilePath": "data/videos/vscodeday2023/copilot.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "python",
+      "data": {
+        "title": "Python in VS Code",
+        "speaker": "Kanin Kearpimy",
+        "type": "talk",
+        "youtube": "aeTydSml28M",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/python.md",
+      "imageFilePath": "data/videos/vscodeday2023/python.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "quantum",
+      "data": {
+        "title": "Quantum in VS Code and Microsoft Azure",
+        "speaker": "Supasate Vorathammathorn",
+        "type": "talk",
+        "youtube": "ApIarHh3u14",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/quantum.md",
+      "imageFilePath": "data/videos/vscodeday2023/quantum.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "shortcuts",
+      "data": {
+        "title": "VS Code keyboard shortcuts in 15 minutes",
+        "speaker": "Manassarn Manoonchai",
+        "type": "talk",
+        "youtube": "kx9_RDsAKRY",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/shortcuts.md",
+      "imageFilePath": "data/videos/vscodeday2023/shortcuts.jpg"
+    },
+    {
+      "event": "vscodeday2023",
+      "slug": "vscode-dev",
+      "data": {
+        "title": "vscode.dev",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "ezsjCVXlOW0",
+        "managed": true,
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/vscodeday2023/vscode-dev.md",
+      "imageFilePath": "data/videos/vscodeday2023/vscode-dev.jpg"
     },
     {
       "event": "wind2",
