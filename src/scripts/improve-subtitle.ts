@@ -131,6 +131,7 @@ ${JSON.stringify({
   สองจุดห้า: '2.5',
   เพอร์ฟอร์แมนซ์: 'performance',
   สต็อปแชร์ริ่ง: 'stop sharing',
+  มิลลิเซคคั่น: 'millisecond',
 })}
 
 Words that are transliterated from English should be corrected to the original English word and NOT translated to Thai. For example, "ฟรีดอม" should be "freedom" and NOT "เสรีภาพ".
