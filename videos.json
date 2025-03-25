@@ -2217,6 +2217,86 @@
       "englishSubtitlePath": "data/videos/bkkjs21/tdd_en.vtt"
     },
     {
+      "event": "cssmeetup0823",
+      "slug": "css-container-query",
+      "data": {
+        "title": "CSS Container Query",
+        "speaker": "Poowanart Korbkum",
+        "type": "talk",
+        "youtube": "WpCR96qzCUo",
+        "managed": true,
+        "published": "2023-10-20",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-container-query.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-container-query.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-in-2023",
+      "data": {
+        "title": "CSS 2023 What you need to know?",
+        "speaker": "อธิวัฒน์ สีนาค",
+        "type": "talk",
+        "youtube": "xWSyWOdDlY4",
+        "managed": true,
+        "published": "2023-10-20",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-in-2023.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "css-variables",
+      "data": {
+        "title": "Unleash the true power of CSS Variables",
+        "speaker": "ศิริวัชร์ คุณาพร",
+        "type": "talk",
+        "youtube": "GkVQ_GW6gFI",
+        "managed": true,
+        "published": "2023-10-20",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/css-variables.md",
+      "imageFilePath": "data/videos/cssmeetup0823/css-variables.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "flexbox",
+      "data": {
+        "title": "Reading CSS Flexbox specs",
+        "speaker": "วสวัตติ์ สมโน",
+        "type": "talk",
+        "youtube": "GgwnfjGbKpk",
+        "managed": true,
+        "published": "2023-10-20",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/flexbox.md",
+      "imageFilePath": "data/videos/cssmeetup0823/flexbox.jpg"
+    },
+    {
+      "event": "cssmeetup0823",
+      "slug": "thai-ui",
+      "data": {
+        "title": "Thai UI: Towards building a design system for all Thais",
+        "speaker": "Chayapatr Archiwaranguprok; Phoomparin Mano",
+        "type": "talk",
+        "youtube": "jV_bIbtKY-I",
+        "managed": true,
+        "published": "2023-10-20",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/cssmeetup0823/thai-ui.md",
+      "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
@@ -2521,86 +2601,6 @@
       "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
     },
     {
-      "event": "cssmeetup0823",
-      "slug": "css-container-query",
-      "data": {
-        "title": "CSS Container Query",
-        "speaker": "Poowanart Korbkum",
-        "type": "talk",
-        "youtube": "WpCR96qzCUo",
-        "managed": true,
-        "published": "2023-10-20",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-container-query.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-container-query.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "css-in-2023",
-      "data": {
-        "title": "CSS 2023 What you need to know?",
-        "speaker": "อธิวัฒน์ สีนาค",
-        "type": "talk",
-        "youtube": "xWSyWOdDlY4",
-        "managed": true,
-        "published": "2023-10-20",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-in-2023.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-in-2023.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "css-variables",
-      "data": {
-        "title": "Unleash the true power of CSS Variables",
-        "speaker": "ศิริวัชร์ คุณาพร",
-        "type": "talk",
-        "youtube": "GkVQ_GW6gFI",
-        "managed": true,
-        "published": "2023-10-20",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/css-variables.md",
-      "imageFilePath": "data/videos/cssmeetup0823/css-variables.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "flexbox",
-      "data": {
-        "title": "Reading CSS Flexbox specs",
-        "speaker": "วสวัตติ์ สมโน",
-        "type": "talk",
-        "youtube": "GgwnfjGbKpk",
-        "managed": true,
-        "published": "2023-10-20",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/flexbox.md",
-      "imageFilePath": "data/videos/cssmeetup0823/flexbox.jpg"
-    },
-    {
-      "event": "cssmeetup0823",
-      "slug": "thai-ui",
-      "data": {
-        "title": "Thai UI: Towards building a design system for all Thais",
-        "speaker": "Chayapatr Archiwaranguprok; Phoomparin Mano",
-        "type": "talk",
-        "youtube": "jV_bIbtKY-I",
-        "managed": true,
-        "published": "2023-10-20",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/cssmeetup0823/thai-ui.md",
-      "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
-    },
-    {
       "event": "deconnect",
       "slug": "data-arcitecture",
       "data": {
@@ -2638,6 +2638,26 @@
       "filePath": "data/videos/deconnect/data-catalog.md",
       "imageFilePath": "data/videos/deconnect/data-catalog.jpg",
       "thaiSubtitlePath": "data/videos/deconnect/data-catalog_th.vtt"
+    },
+    {
+      "event": "deconnect",
+      "slug": "oltp-vs-olap",
+      "data": {
+        "title": "OLTP vs OLAP: Why Choose? Modern Database Evolution Through Web3 Lens",
+        "speaker": "Jakpat Mingmongkolmitr",
+        "type": "talk",
+        "youtube": "_rYY22cDhbw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/oltp-vs-olap.md",
+      "imageFilePath": "data/videos/deconnect/oltp-vs-olap.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/oltp-vs-olap_th.vtt"
     },
     {
       "event": "deconnect",
@@ -3700,6 +3720,106 @@
       "englishSubtitlePath": "data/videos/jsbkk1/typesafe-graphql_en.vtt"
     },
     {
+      "event": "market",
+      "slug": "hydra",
+      "data": {
+        "title": "hydra.js: playing visual with code",
+        "speaker": "Wasawat Samno",
+        "type": "talk",
+        "youtube": "iRqY5QoBoS0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/hydra.md",
+      "imageFilePath": "data/videos/market/hydra.jpg",
+      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "p5js-ollama",
+      "data": {
+        "title": "AI Guessing Image Game by using p5.js and Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "ZLOFY67jCuw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/p5js-ollama.md",
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
+      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "proxenorobotics",
+      "data": {
+        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
+        "speaker": "Perawit Boonsomchua",
+        "type": "talk",
+        "youtube": "CaQ9fO1xto8",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/proxenorobotics.md",
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
+      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "three-scene-studio",
+      "data": {
+        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
+        "speaker": "Wachirawit Wacharak",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/three-scene-studio.md",
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
+      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "yes",
+      "data": {
+        "title": "If your answer is yes,",
+        "speaker": "Nuntinee Tan",
+        "type": "talk",
+        "youtube": "4ePm0u8Z5H0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/yes.md",
+      "imageFilePath": "data/videos/market/yes.jpg",
+      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
+    },
+    {
       "event": "jsbkk2",
       "slug": "ai-agent",
       "data": {
@@ -4682,106 +4802,6 @@
       "filePath": "data/videos/jsbkk2/webar.md",
       "imageFilePath": "data/videos/jsbkk2/webar.jpg",
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "hydra",
-      "data": {
-        "title": "hydra.js: playing visual with code",
-        "speaker": "Wasawat Samno",
-        "type": "talk",
-        "youtube": "iRqY5QoBoS0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/hydra.md",
-      "imageFilePath": "data/videos/market/hydra.jpg",
-      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "p5js-ollama",
-      "data": {
-        "title": "AI Guessing Image Game by using p5.js and Ollama",
-        "speaker": "Charunthon Limseelo",
-        "type": "talk",
-        "youtube": "ZLOFY67jCuw",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/p5js-ollama.md",
-      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
-      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "proxenorobotics",
-      "data": {
-        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
-        "speaker": "Perawit Boonsomchua",
-        "type": "talk",
-        "youtube": "CaQ9fO1xto8",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/proxenorobotics.md",
-      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
-      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "three-scene-studio",
-      "data": {
-        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
-        "speaker": "Wachirawit Wacharak",
-        "type": "talk",
-        "youtube": "JjZCkvTN0-Q",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/three-scene-studio.md",
-      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
-      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "yes",
-      "data": {
-        "title": "If your answer is yes,",
-        "speaker": "Nuntinee Tan",
-        "type": "talk",
-        "youtube": "4ePm0u8Z5H0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/yes.md",
-      "imageFilePath": "data/videos/market/yes.jpg",
-      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
     },
     {
       "event": "mathsatsundown",
