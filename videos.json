@@ -2297,6 +2297,85 @@
       "imageFilePath": "data/videos/cssmeetup0823/thai-ui.jpg"
     },
     {
+      "event": "deconnect",
+      "slug": "data-arcitecture",
+      "data": {
+        "title": "Data Architecture ในงาน Data Engineer ใครก็เริ่มได้ ไม่ต้องเป็น Senior",
+        "speaker": "Kan Ouivirach",
+        "type": "talk",
+        "youtube": "zQmIul9Vs1o",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/data-arcitecture.md",
+      "imageFilePath": "data/videos/deconnect/data-arcitecture.jpg"
+    },
+    {
+      "event": "deconnect",
+      "slug": "data-catalog",
+      "data": {
+        "title": "Demystifying Data Catalog",
+        "speaker": "Yothin Muangsommuk",
+        "type": "talk",
+        "youtube": "M8Qd3WFNlDQ",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/data-catalog.md",
+      "imageFilePath": "data/videos/deconnect/data-catalog.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/data-catalog_th.vtt"
+    },
+    {
+      "event": "deconnect",
+      "slug": "oltp-vs-olap",
+      "data": {
+        "title": "OLTP vs OLAP: Why Choose? Modern Database Evolution Through Web3 Lens",
+        "speaker": "Jakpat Mingmongkolmitr",
+        "type": "talk",
+        "youtube": "_rYY22cDhbw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/oltp-vs-olap.md",
+      "imageFilePath": "data/videos/deconnect/oltp-vs-olap.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/oltp-vs-olap_th.vtt"
+    },
+    {
+      "event": "deconnect",
+      "slug": "panel-discussion",
+      "data": {
+        "title": "Decoding Data Engineering — Myth vs Reality & What are Here to Stay",
+        "speaker": "Direk Yimlamai; Karnsiree Wongkolkitsilp; Manussanun Buranachokphaisan",
+        "type": "talk",
+        "youtube": "5CMuXc2lsWU",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/deconnect/panel-discussion.md",
+      "imageFilePath": "data/videos/deconnect/panel-discussion.jpg",
+      "thaiSubtitlePath": "data/videos/deconnect/panel-discussion_th.vtt"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
@@ -2599,85 +2678,6 @@
       "content": "",
       "filePath": "data/videos/creativecodingmeetup/web-no-engine.md",
       "imageFilePath": "data/videos/creativecodingmeetup/web-no-engine.jpg"
-    },
-    {
-      "event": "deconnect",
-      "slug": "data-arcitecture",
-      "data": {
-        "title": "Data Architecture ในงาน Data Engineer ใครก็เริ่มได้ ไม่ต้องเป็น Senior",
-        "speaker": "Kan Ouivirach",
-        "type": "talk",
-        "youtube": "zQmIul9Vs1o",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/deconnect/data-arcitecture.md",
-      "imageFilePath": "data/videos/deconnect/data-arcitecture.jpg"
-    },
-    {
-      "event": "deconnect",
-      "slug": "data-catalog",
-      "data": {
-        "title": "Demystifying Data Catalog",
-        "speaker": "Yothin Muangsommuk",
-        "type": "talk",
-        "youtube": "M8Qd3WFNlDQ",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/deconnect/data-catalog.md",
-      "imageFilePath": "data/videos/deconnect/data-catalog.jpg",
-      "thaiSubtitlePath": "data/videos/deconnect/data-catalog_th.vtt"
-    },
-    {
-      "event": "deconnect",
-      "slug": "oltp-vs-olap",
-      "data": {
-        "title": "OLTP vs OLAP: Why Choose? Modern Database Evolution Through Web3 Lens",
-        "speaker": "Jakpat Mingmongkolmitr",
-        "type": "talk",
-        "youtube": "_rYY22cDhbw",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/deconnect/oltp-vs-olap.md",
-      "imageFilePath": "data/videos/deconnect/oltp-vs-olap.jpg",
-      "thaiSubtitlePath": "data/videos/deconnect/oltp-vs-olap_th.vtt"
-    },
-    {
-      "event": "deconnect",
-      "slug": "panel-discussion",
-      "data": {
-        "title": "Decoding Data Engineering — Myth vs Reality & What are Here to Stay",
-        "speaker": "Direk Yimlamai; Karnsiree Wongkolkitsilp; Manussanun Buranachokphaisan",
-        "type": "talk",
-        "youtube": "5CMuXc2lsWU",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/deconnect/panel-discussion.md",
-      "imageFilePath": "data/videos/deconnect/panel-discussion.jpg",
-      "thaiSubtitlePath": "data/videos/deconnect/panel-discussion_th.vtt"
     },
     {
       "event": "functional",
@@ -3720,106 +3720,6 @@
       "englishSubtitlePath": "data/videos/jsbkk1/typesafe-graphql_en.vtt"
     },
     {
-      "event": "market",
-      "slug": "hydra",
-      "data": {
-        "title": "hydra.js: playing visual with code",
-        "speaker": "Wasawat Samno",
-        "type": "talk",
-        "youtube": "iRqY5QoBoS0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/hydra.md",
-      "imageFilePath": "data/videos/market/hydra.jpg",
-      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "p5js-ollama",
-      "data": {
-        "title": "AI Guessing Image Game by using p5.js and Ollama",
-        "speaker": "Charunthon Limseelo",
-        "type": "talk",
-        "youtube": "ZLOFY67jCuw",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/p5js-ollama.md",
-      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
-      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "proxenorobotics",
-      "data": {
-        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
-        "speaker": "Perawit Boonsomchua",
-        "type": "talk",
-        "youtube": "CaQ9fO1xto8",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/proxenorobotics.md",
-      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
-      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "three-scene-studio",
-      "data": {
-        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
-        "speaker": "Wachirawit Wacharak",
-        "type": "talk",
-        "youtube": "JjZCkvTN0-Q",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/three-scene-studio.md",
-      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
-      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
-    },
-    {
-      "event": "market",
-      "slug": "yes",
-      "data": {
-        "title": "If your answer is yes,",
-        "speaker": "Nuntinee Tan",
-        "type": "talk",
-        "youtube": "4ePm0u8Z5H0",
-        "managed": true,
-        "published": false,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/market/yes.md",
-      "imageFilePath": "data/videos/market/yes.jpg",
-      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
-    },
-    {
       "event": "jsbkk2",
       "slug": "ai-agent",
       "data": {
@@ -4802,6 +4702,106 @@
       "filePath": "data/videos/jsbkk2/webar.md",
       "imageFilePath": "data/videos/jsbkk2/webar.jpg",
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "hydra",
+      "data": {
+        "title": "hydra.js: playing visual with code",
+        "speaker": "Wasawat Samno",
+        "type": "talk",
+        "youtube": "iRqY5QoBoS0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/hydra.md",
+      "imageFilePath": "data/videos/market/hydra.jpg",
+      "thaiSubtitlePath": "data/videos/market/hydra_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "p5js-ollama",
+      "data": {
+        "title": "AI Guessing Image Game by using p5.js and Ollama",
+        "speaker": "Charunthon Limseelo",
+        "type": "talk",
+        "youtube": "ZLOFY67jCuw",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/p5js-ollama.md",
+      "imageFilePath": "data/videos/market/p5js-ollama.jpg",
+      "thaiSubtitlePath": "data/videos/market/p5js-ollama_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "proxenorobotics",
+      "data": {
+        "title": "Human-AI Interactive Dancing · PROXENOROBOTICS",
+        "speaker": "Perawit Boonsomchua",
+        "type": "talk",
+        "youtube": "CaQ9fO1xto8",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/proxenorobotics.md",
+      "imageFilePath": "data/videos/market/proxenorobotics.jpg",
+      "thaiSubtitlePath": "data/videos/market/proxenorobotics_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "three-scene-studio",
+      "data": {
+        "title": "ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย ThreeSceneStudio",
+        "speaker": "Wachirawit Wacharak",
+        "type": "talk",
+        "youtube": "JjZCkvTN0-Q",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/three-scene-studio.md",
+      "imageFilePath": "data/videos/market/three-scene-studio.jpg",
+      "thaiSubtitlePath": "data/videos/market/three-scene-studio_th.vtt"
+    },
+    {
+      "event": "market",
+      "slug": "yes",
+      "data": {
+        "title": "If your answer is yes,",
+        "speaker": "Nuntinee Tan",
+        "type": "talk",
+        "youtube": "4ePm0u8Z5H0",
+        "managed": true,
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/market/yes.md",
+      "imageFilePath": "data/videos/market/yes.jpg",
+      "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
     },
     {
       "event": "mathsatsundown",
