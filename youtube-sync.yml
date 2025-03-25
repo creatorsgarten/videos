@@ -21020,3 +21020,72 @@ video:zQmIul9Vs1o:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:_rYY22cDhbw:
+  spec:
+    videoId: _rYY22cDhbw
+    filePath: data/videos/deconnect/oltp-vs-olap.jpg
+    hash: 524ead2132421d3a05894cda723137fa3659201b6ac078d7a5d63404c3475ef1
+  state: {}
+video:_rYY22cDhbw:
+  spec:
+    id: _rYY22cDhbw
+    snippet:
+      title: >-
+        OLTP vs OLAP: Why Choose? Modern Database Evolution Through Web3 Lens by
+        Jakpat Mingmongkolmitr
+      description: >-
+        Event: DE Connect: Bridge Data Minds
+
+        https://www.facebook.com/share/p/1BCKRCfJz8/
+
+
+        Organized by: Data Engineer Connect
+
+        https://www.facebook.com/dataengineerconnect
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/deconnect/oltp-vs-olap
+      defaultAudioLanguage: th
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:_rYY22cDhbw:caption:th:
+  spec:
+    videoId: _rYY22cDhbw
+    filePath: data/videos/deconnect/oltp-vs-olap_th.vtt
+    language: th
+    name: Thai
+    hash: 06d67542c161902812cf72e16be4be935e9466c121f80d9498120144c328c0a7
+    isDraft: false
+  state:
+    id: AUieDabDj1n98Qx1cW3nJ_DXpNGVWPAVP4wEvoUhCrOfm6Y1sBpD
