@@ -21525,7 +21525,7 @@ thumbnail:3buBvJwpw5k:
   spec:
     videoId: 3buBvJwpw5k
     filePath: data/videos/bkkjs22/rag-ai.jpg
-    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
+    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
   state: {}
 thumbnail:_MvyFM7ATUY:
   spec:
@@ -21537,7 +21537,7 @@ thumbnail:fIF3w66IroM:
   spec:
     videoId: fIF3w66IroM
     filePath: data/videos/bkkjs22/make-pull-requests-great-again.jpg
-    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
+    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
   state: {}
 video:3buBvJwpw5k:
   spec:
@@ -21570,10 +21570,12 @@ video:3buBvJwpw5k:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs22/rag-ai
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -21675,3 +21677,13 @@ video:_MvyFM7ATUY:caption:en:
     isDraft: false
   state:
     id: AUieDaYc2LaeF7F--LQp2owp0p4Wab4hNO6SRD0HfP4ssYGong6KgEFC
+video:3buBvJwpw5k:caption:en:
+  spec:
+    videoId: 3buBvJwpw5k
+    filePath: data/videos/bkkjs22/rag-ai_en.vtt
+    language: en
+    name: English
+    hash: 710799e0590eb3675978d9dbce6938a81be622f10e4f2d0c821fb4012779ebc1
+    isDraft: false
+  state:
+    id: AUieDaalEMC2jOofDj1KgXauAxYAQ7Mi-yXWaMkGCFBa5iQTm1EkZuFx
