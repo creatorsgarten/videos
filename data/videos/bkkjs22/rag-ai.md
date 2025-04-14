@@ -4,4 +4,6 @@ speaker: Jirachai Chansivanon
 youtube: 3buBvJwpw5k
 managed: true
 published: false
+subtitles: [en]
+language: en
 ---
