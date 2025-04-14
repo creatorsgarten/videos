@@ -21521,3 +21521,145 @@ video:zQmIul9Vs1o:caption:th:
     isDraft: false
   state:
     id: AUieDaY83hBkgWOpV4iJriakpMBLycVav871DUl6Uxzd2A65iSPE
+thumbnail:3buBvJwpw5k:
+  spec:
+    videoId: 3buBvJwpw5k
+    filePath: data/videos/bkkjs22/make-pull-requests-great-again.jpg
+    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
+  state: {}
+thumbnail:_MvyFM7ATUY:
+  spec:
+    videoId: _MvyFM7ATUY
+    filePath: data/videos/bkkjs22/write-less-achieve-more.jpg
+    hash: bc23ec5852247ee393f56d6ae109bede76b8eea1d8bcfd8dde16bb1fc7df5e82
+  state: {}
+thumbnail:fIF3w66IroM:
+  spec:
+    videoId: fIF3w66IroM
+    filePath: data/videos/bkkjs22/rag-ai.jpg
+    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
+  state: {}
+video:3buBvJwpw5k:
+  spec:
+    id: 3buBvJwpw5k
+    snippet:
+      title: >-
+        Make Pull Requests Great Again with Background Jobs using Trigger.dev
+        NodeJS SDK by Tobias Meixner
+      description: >-
+        Event: BKK.JS #22
+
+        https://grtn.org/e/bkkjs22
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs22/make-pull-requests-great-again
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:_MvyFM7ATUY:
+  spec:
+    id: _MvyFM7ATUY
+    snippet:
+      title: >-
+        Write Less, Achieve More: How to build a living document with Cucumber
+        JS and PACT by Supat
+      description: >-
+        Event: BKK.JS #22
+
+        https://grtn.org/e/bkkjs22
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs22/write-less-achieve-more
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:fIF3w66IroM:
+  spec:
+    id: fIF3w66IroM
+    snippet:
+      title: My RAG AI Isn’t That Hard to Build! by Jirachai Chansivanon
+      description: >-
+        Event: BKK.JS #22
+
+        https://grtn.org/e/bkkjs22
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs22/rag-ai
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
