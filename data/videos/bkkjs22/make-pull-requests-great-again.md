@@ -4,4 +4,6 @@ speaker: Tobias Meixner
 youtube: fIF3w66IroM
 managed: true
 published: false
+subtitles: [en]
+language: en
 ---
