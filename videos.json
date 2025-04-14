@@ -2226,11 +2226,15 @@
         "youtube": "fIF3w66IroM",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs22/make-pull-requests-great-again.md",
-      "imageFilePath": "data/videos/bkkjs22/make-pull-requests-great-again.jpg"
+      "imageFilePath": "data/videos/bkkjs22/make-pull-requests-great-again.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs22/make-pull-requests-great-again_en.vtt"
     },
     {
       "event": "bkkjs22",
