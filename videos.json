@@ -2217,6 +2217,54 @@
       "englishSubtitlePath": "data/videos/bkkjs21/tdd_en.vtt"
     },
     {
+      "event": "bkkjs22",
+      "slug": "make-pull-requests-great-again",
+      "data": {
+        "title": "Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK",
+        "speaker": "Tobias Meixner",
+        "type": "talk",
+        "youtube": "3buBvJwpw5k",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/make-pull-requests-great-again.md",
+      "imageFilePath": "data/videos/bkkjs22/make-pull-requests-great-again.jpg"
+    },
+    {
+      "event": "bkkjs22",
+      "slug": "rag-ai",
+      "data": {
+        "title": "My RAG AI Isn’t That Hard to Build!",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "fIF3w66IroM",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/rag-ai.md",
+      "imageFilePath": "data/videos/bkkjs22/rag-ai.jpg"
+    },
+    {
+      "event": "bkkjs22",
+      "slug": "write-less-achieve-more",
+      "data": {
+        "title": "Write Less, Achieve More: How to build a living document with Cucumber JS and PACT",
+        "speaker": "Supat Lertsirigorn",
+        "type": "talk",
+        "youtube": "_MvyFM7ATUY",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/write-less-achieve-more.md",
+      "imageFilePath": "data/videos/bkkjs22/write-less-achieve-more.jpg"
+    },
+    {
       "event": "creativecodingmeetup",
       "slug": "ai",
       "data": {
