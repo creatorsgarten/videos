@@ -21524,8 +21524,8 @@ video:zQmIul9Vs1o:caption:th:
 thumbnail:3buBvJwpw5k:
   spec:
     videoId: 3buBvJwpw5k
-    filePath: data/videos/bkkjs22/make-pull-requests-great-again.jpg
-    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
+    filePath: data/videos/bkkjs22/rag-ai.jpg
+    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
   state: {}
 thumbnail:_MvyFM7ATUY:
   spec:
@@ -21536,16 +21536,14 @@ thumbnail:_MvyFM7ATUY:
 thumbnail:fIF3w66IroM:
   spec:
     videoId: fIF3w66IroM
-    filePath: data/videos/bkkjs22/rag-ai.jpg
-    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
+    filePath: data/videos/bkkjs22/make-pull-requests-great-again.jpg
+    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
   state: {}
 video:3buBvJwpw5k:
   spec:
     id: 3buBvJwpw5k
     snippet:
-      title: >-
-        Make Pull Requests Great Again with Background Jobs using Trigger.dev
-        NodeJS SDK by Tobias Meixner
+      title: My RAG AI Isn’t That Hard to Build! by Jirachai Chansivanon
       description: >-
         Event: BKK.JS #22
 
@@ -21575,7 +21573,7 @@ video:3buBvJwpw5k:
         Want to learn more about this talk or spotted an error in the metadata?
         Visit our site where you can help improve video information and details.
 
-        https://grtn.org/v/bkkjs22/make-pull-requests-great-again
+        https://grtn.org/v/bkkjs22/rag-ai
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -21629,7 +21627,9 @@ video:fIF3w66IroM:
   spec:
     id: fIF3w66IroM
     snippet:
-      title: My RAG AI Isn’t That Hard to Build! by Jirachai Chansivanon
+      title: >-
+        Make Pull Requests Great Again with Background Jobs using Trigger.dev
+        NodeJS SDK by Tobias Meixner
       description: >-
         Event: BKK.JS #22
 
@@ -21659,7 +21659,7 @@ video:fIF3w66IroM:
         Want to learn more about this talk or spotted an error in the metadata?
         Visit our site where you can help improve video information and details.
 
-        https://grtn.org/v/bkkjs22/rag-ai
+        https://grtn.org/v/bkkjs22/make-pull-requests-great-again
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
