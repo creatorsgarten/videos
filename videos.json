@@ -2242,11 +2242,15 @@
         "youtube": "3buBvJwpw5k",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ]
       },
       "content": "",
       "filePath": "data/videos/bkkjs22/rag-ai.md",
-      "imageFilePath": "data/videos/bkkjs22/rag-ai.jpg"
+      "imageFilePath": "data/videos/bkkjs22/rag-ai.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs22/rag-ai_en.vtt"
     },
     {
       "event": "bkkjs22",
