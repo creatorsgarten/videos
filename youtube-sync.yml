@@ -21614,10 +21614,12 @@ video:_MvyFM7ATUY:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs22/write-less-achieve-more
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -21663,3 +21665,13 @@ video:fIF3w66IroM:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:_MvyFM7ATUY:caption:en:
+  spec:
+    videoId: _MvyFM7ATUY
+    filePath: data/videos/bkkjs22/write-less-achieve-more_en.vtt
+    language: en
+    name: English
+    hash: 91a43f04abef5318ecc9036b5c5c73298065630ade302686dc45b94eab1d53ac
+    isDraft: false
+  state:
+    id: AUieDaYc2LaeF7F--LQp2owp0p4Wab4hNO6SRD0HfP4ssYGong6KgEFC
