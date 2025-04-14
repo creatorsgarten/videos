@@ -180,6 +180,7 @@ const events = [
       url: 'https://www.facebook.com/dataengineerconnect',
     },
   }),
+  new Event('bkkjs22', 'BKK.JS #22'),
 ]
 
 // To prevent YouTube API running out of quota,
