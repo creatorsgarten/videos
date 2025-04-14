@@ -21658,10 +21658,12 @@ video:fIF3w66IroM:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs22/make-pull-requests-great-again
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -21687,3 +21689,13 @@ video:3buBvJwpw5k:caption:en:
     isDraft: false
   state:
     id: AUieDaalEMC2jOofDj1KgXauAxYAQ7Mi-yXWaMkGCFBa5iQTm1EkZuFx
+video:fIF3w66IroM:caption:en:
+  spec:
+    videoId: fIF3w66IroM
+    filePath: data/videos/bkkjs22/make-pull-requests-great-again_en.vtt
+    language: en
+    name: English
+    hash: c698ef6a224c0a480cd7b6b5587c3b9b33887aaa9f4b0fed01be9dc1d07beac2
+    isDraft: false
+  state:
+    id: AUieDabZKiR2NDaCS3UKrE2s3XZFBvqqg7t5tb4vwL_y4V0wDMO9mFLY
