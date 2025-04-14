@@ -159,6 +159,43 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+    },
+    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -843,43 +880,6 @@
       "imageFilePath": "data/videos/archive/vueconf.jpg"
     },
     {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": true,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
-    },
-    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
@@ -1463,224 +1463,6 @@
       "imageFilePath": "data/videos/bkkjs18/nanostores.jpg"
     },
     {
-      "event": "bkkjs20",
-      "slug": "astro",
-      "data": {
-        "title": "Astro JS - เฟรมเวิร์กน้องใหม่ เขียนง่าย โหลดไวมาก!",
-        "speaker": "Chakkrisn Talawat",
-        "type": "talk",
-        "youtube": "WC5PRboDfJ0",
-        "managed": true,
-        "description": "แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework อื่นมาก่อน\n",
-        "published": "2024-06-09",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและทักทาย",
-          "2:02": "แนะนำ Astro Framework",
-          "3:01": "เปรียบเทียบ Astro กับ WordPress และ Static Site Generators",
-          "4:39": "อธิบายคำศัพท์ SSG และ SSR",
-          "5:26": "ข้อดีของ Astro ในด้านความเร็วและประสิทธิภาพ",
-          "6:08": "การติดตั้งและเริ่มต้นใช้งาน Astro",
-          "7:02": "โครงสร้างไฟล์และโฟลเดอร์ของ Astro",
-          "9:14": "การเขียนโค้ดและการใช้งาน Components ใน Astro",
-          "11:28": "การใช้งาน Layouts ใน Astro",
-          "14:58": "แหล่งข้อมูลและการดึงข้อมูลใน Astro",
-          "16:41": "การใช้งาน CMS และฐานข้อมูลกับ Astro",
-          "19:55": "การ Deploy เว็บไซต์ Astro",
-          "21:11": "แนะนำ ThaiUI และการสร้าง UI Components สำหรับภาษาไทย",
-          "24:25": "สรุปข้อดีของ Astro และแหล่งข้อมูลเพิ่มเติม"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/astro.md",
-      "imageFilePath": "data/videos/bkkjs20/astro.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/astro_th.vtt"
-    },
-    {
-      "event": "bkkjs20",
-      "slug": "elysia",
-      "data": {
-        "title": "Social Engineering of making a framework",
-        "speaker": "Kongkeit Khunpanitchote",
-        "type": "talk",
-        "youtube": "qUbnQCHcZLU",
-        "managed": true,
-        "published": "2024-06-13",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและหัวข้อการพูด",
-          "0:30": "แนะนำ Framework Elysia",
-          "0:55": "อธิบายฟีเจอร์ End-to-End Type Safety",
-          "1:56": "สาธิตการใช้งาน Elysia",
-          "3:00": "การเพิ่ม Swagger UI",
-          "4:24": "ปัญหาการ Sync Type ระหว่าง Frontend และ Backend",
-          "4:43": "การใช้งาน End-to-End Type Safety",
-          "6:36": "อธิบายการทำงานเบื้องหลังของ End-to-End Type Safety",
-          "8:20": "การใช้ JavaScript Proxy ในการทำ End-to-End Type Safety",
-          "10:09": "เทคนิคการ 'แก๊สไลท์' ผู้ใช้ในการเขียน API",
-          "11:27": "ข้อจำกัดทางวิศวกรรมและวิธีการแก้ปัญหา",
-          "12:16": "สรุปแนวคิดในการพัฒนา Framework"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/elysia.md",
-      "imageFilePath": "data/videos/bkkjs20/elysia.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/elysia_th.vtt"
-    },
-    {
-      "event": "bkkjs20",
-      "slug": "jsmodel",
-      "data": {
-        "title": "Rebuild your mental model of JavaScript",
-        "speaker": "Watee Kamrungsee",
-        "type": "talk",
-        "youtube": "N05h_-aDtC0",
-        "managed": true,
-        "description": "Revisit the fundamental concepts of JavaScript \"Primitive and reference types\"\n",
-        "published": "2024-06-12",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและเกริ่นนำเรื่อง JavaScript",
-          "1:28": "ความสำคัญของพื้นฐาน JavaScript สำหรับนักพัฒนาหน้าใหม่",
-          "2:11": "ตัวอย่างโค้ด: การกำหนดค่าตัวแปร",
-          "3:42": "แนะนำแนวคิด Mental Model ใน JavaScript",
-          "4:47": "อธิบายความแตกต่างระหว่างตัวแปรและกล่อง",
-          "5:52": "ตัวอย่างโค้ด: ฟังก์ชัน duplicate spreadsheet",
-          "7:05": "การอธิบายบัคในโค้ดตัวอย่าง",
-          "9:45": "แนะนำ Primitive และ Non-primitive types",
-          "14:14": "อธิบายว่าทำไมตัวแปรไม่ใช่กล่อง แต่เป็นเส้นเชื่อม",
-          "15:53": "การอ่านค่าตัวแปรและการส่งค่าเข้าฟังก์ชัน",
-          "17:01": "อธิบาย Reference Types และ Object ใน JavaScript",
-          "25:27": "ตัวอย่างการเปรียบเทียบค่าใน JavaScript",
-          "27:34": "แนะนำหนังสือและแหล่งเรียนรู้ JavaScript",
-          "28:41": "ช่วงถาม-ตอบ: ประสบการณ์การเปลี่ยนจาก UX เป็น JavaScript Developer"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/jsmodel.md",
-      "imageFilePath": "data/videos/bkkjs20/jsmodel.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/jsmodel_th.vtt"
-    },
-    {
-      "event": "bkkjs20",
-      "slug": "open",
-      "data": {
-        "title": "Open-source in a nutshell",
-        "speaker": "Runyasak Chaengnaimuang",
-        "type": "talk",
-        "youtube": "PCSdvZEJnmg",
-        "managed": true,
-        "published": "2024-06-14",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำและทักทาย",
-          "0:20": "การมีส่วนร่วมใน Open Source",
-          "2:24": "การแก้ไขเอกสารเป็นจุดเริ่มต้นที่ดี",
-          "3:10": "ประสบการณ์การมีส่วนร่วมใน Elysia",
-          "4:20": "การเรียนรู้จากการอ่าน Pull Requests และ Issues",
-          "5:11": "ประสบการณ์กับ Vue Storefront และ Storefront UI",
-          "6:33": "การมีส่วนร่วมในโปรเจค GraphQL และ ElysiaJS",
-          "7:36": "การช่วยแก้ไข Type ใน Elysia",
-          "8:01": "ข้อควรระวังเกี่ยวกับโครงสร้างโปรเจค Open Source",
-          "8:59": "ความกังวลเกี่ยวกับการเปิดเผยโค้ด",
-          "10:29": "ประโยชน์ของ Open Source สำหรับการเติบโตของไลบรารี",
-          "11:03": "การเรียนรู้จากสไตล์การตอบของ Contributor",
-          "12:07": "Evan You และสไตล์การตอบของเขา",
-          "12:44": "แนะนำเพจ Vue News Thailand",
-          "13:29": "แนะนำโปรเจค Frontend News Thailand",
-          "14:37": "สรุปและขอบคุณผู้ฟัง"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/open.md",
-      "imageFilePath": "data/videos/bkkjs20/open.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/open_th.vtt"
-    },
-    {
-      "event": "bkkjs20",
-      "slug": "optimize",
-      "data": {
-        "title": "Web App Optimization at EarnIn",
-        "speaker": "Siwat Kaolueng; Kijpokin Ngamsomsakskul",
-        "type": "talk",
-        "youtube": "PNind_xIlxc",
-        "managed": true,
-        "description": "เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ\n",
-        "published": "2024-06-11",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและหัวข้อการบรรยาย",
-          "1:25": "ความเป็นมาและความสำคัญของการ Optimize Web App",
-          "2:36": "เมตริกซ์ Web Vitals และ LCP",
-          "3:21": "เครื่องมือในการวัดผลและตรวจสอบประสิทธิภาพ",
-          "5:05": "วิธีการปรับปรุง FCP และ LCP",
-          "8:46": "การใช้ Lazy Loading ใน React",
-          "13:13": "การจัดการกับ Third-party Scripts",
-          "15:18": "การใช้ Partytown เพื่อ Optimize Third-party Scripts",
-          "17:50": "ผลลัพธ์จากการ Optimize และปัญหาที่พบ",
-          "20:58": "แผนการพัฒนาในอนาคตและข้อจำกัด",
-          "22:33": "คำถาม-ตอบเกี่ยวกับการ Optimize และการจัดการ Dependencies",
-          "24:38": "การทำ Regression Testing และ CI/CD Pipeline",
-          "27:05": "การใช้ Lighthouse และ Real User Monitoring"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/optimize.md",
-      "imageFilePath": "data/videos/bkkjs20/optimize.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/optimize_th.vtt"
-    },
-    {
-      "event": "bkkjs20",
-      "slug": "subin",
-      "data": {
-        "title": "Dance with Three.js! สร้างท่ารำไทยใหม่ๆ ด้วย JavaScript",
-        "speaker": "Phoomparin Mano",
-        "type": "talk",
-        "youtube": "R9ww5Qh13MM",
-        "managed": true,
-        "description": "ทำไมท่ารำไทยต้องจำกัดแค่ 59 แม่บทด้วย เราสามารถใช้คณิตศาสตร์และ Three.js มาสร้างการแสดงที่ให้ผู้ชมร่วมสร้างท่ารำใหม่ๆ กับนักเต้นได้ไหมนะ ทอล์คนี้จะเล่าการเดินทาง 1 ปี กับการเขียน JavaScript ที่ใช้ในการแสดงนาฎศิลป์ไทยที่ต่างแดนกัน\n",
-        "published": "2024-06-10",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและเกริ่นนำเรื่องโปรเจค Cyber Subin",
-          "1:18": "คำถามทำไมชอบเขียนโค้ด",
-          "2:42": "อ้างอิงคำพูดของ Richard Feynman",
-          "3:02": "คำถามเกี่ยวกับการเรียนนาฏศิลป์",
-          "4:11": "การ Fork และการพัฒนาซอฟต์แวร์",
-          "4:52": "ประวัติท่ารำแม่บท 59 ท่า",
-          "7:14": "แนะนำทีมงานและแนวคิดการ Fork นาฏศิลป์",
-          "9:26": "อธิบายแนวคิด Six Elements ในการแยกองค์ประกอบของท่ารำ",
-          "11:06": "เริ่มการสาธิตโปรแกรม Cyber Subin",
-          "19:21": "อธิบายการทำงานของโปรแกรมและ Cybernetics",
-          "23:31": "สาธิตการใช้งานโปรแกรมแบบ Interactive",
-          "27:33": "อธิบายเบื้องหลังการพัฒนาโปรแกรม",
-          "30:07": "สรุปแนวคิดและประโยชน์ของโปรเจค Cyber Subin"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs20/subin.md",
-      "imageFilePath": "data/videos/bkkjs20/subin.jpg",
-      "thaiSubtitlePath": "data/videos/bkkjs20/subin_th.vtt"
-    },
-    {
       "event": "bkkjs19",
       "slug": "css-in-js",
       "data": {
@@ -2011,56 +1793,222 @@
       "thaiSubtitlePath": "data/videos/bkkjs19/web-landscape_th.vtt"
     },
     {
-      "event": "bkkjs22",
-      "slug": "make-pull-requests-great-again",
+      "event": "bkkjs20",
+      "slug": "astro",
       "data": {
-        "title": "Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK",
-        "speaker": "Tobias Meixner",
+        "title": "Astro JS - เฟรมเวิร์กน้องใหม่ เขียนง่าย โหลดไวมาก!",
+        "speaker": "Chakkrisn Talawat",
         "type": "talk",
-        "youtube": "3buBvJwpw5k",
+        "youtube": "WC5PRboDfJ0",
         "managed": true,
-        "published": false,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs22/make-pull-requests-great-again.md",
-      "imageFilePath": "data/videos/bkkjs22/make-pull-requests-great-again.jpg"
-    },
-    {
-      "event": "bkkjs22",
-      "slug": "rag-ai",
-      "data": {
-        "title": "My RAG AI Isn’t That Hard to Build!",
-        "speaker": "Jirachai Chansivanon",
-        "type": "talk",
-        "youtube": "fIF3w66IroM",
-        "managed": true,
-        "published": false,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs22/rag-ai.md",
-      "imageFilePath": "data/videos/bkkjs22/rag-ai.jpg"
-    },
-    {
-      "event": "bkkjs22",
-      "slug": "write-less-achieve-more",
-      "data": {
-        "title": "Write Less, Achieve More: How to build a living document with Cucumber JS and PACT",
-        "speaker": "Supat Lertsirigorn",
-        "type": "talk",
-        "youtube": "_MvyFM7ATUY",
-        "managed": true,
-        "published": false,
-        "language": "en",
+        "description": "แนะนำ Astro สำหรับผู้เริ่มต้น หัดง่าย แม้ไม่เคยเขียน JS Framework อื่นมาก่อน\n",
+        "published": "2024-06-09",
+        "language": "th",
         "subtitles": [
-          "en"
-        ]
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและทักทาย",
+          "2:02": "แนะนำ Astro Framework",
+          "3:01": "เปรียบเทียบ Astro กับ WordPress และ Static Site Generators",
+          "4:39": "อธิบายคำศัพท์ SSG และ SSR",
+          "5:26": "ข้อดีของ Astro ในด้านความเร็วและประสิทธิภาพ",
+          "6:08": "การติดตั้งและเริ่มต้นใช้งาน Astro",
+          "7:02": "โครงสร้างไฟล์และโฟลเดอร์ของ Astro",
+          "9:14": "การเขียนโค้ดและการใช้งาน Components ใน Astro",
+          "11:28": "การใช้งาน Layouts ใน Astro",
+          "14:58": "แหล่งข้อมูลและการดึงข้อมูลใน Astro",
+          "16:41": "การใช้งาน CMS และฐานข้อมูลกับ Astro",
+          "19:55": "การ Deploy เว็บไซต์ Astro",
+          "21:11": "แนะนำ ThaiUI และการสร้าง UI Components สำหรับภาษาไทย",
+          "24:25": "สรุปข้อดีของ Astro และแหล่งข้อมูลเพิ่มเติม"
+        }
       },
       "content": "",
-      "filePath": "data/videos/bkkjs22/write-less-achieve-more.md",
-      "imageFilePath": "data/videos/bkkjs22/write-less-achieve-more.jpg",
-      "englishSubtitlePath": "data/videos/bkkjs22/write-less-achieve-more_en.vtt"
+      "filePath": "data/videos/bkkjs20/astro.md",
+      "imageFilePath": "data/videos/bkkjs20/astro.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/astro_th.vtt"
+    },
+    {
+      "event": "bkkjs20",
+      "slug": "elysia",
+      "data": {
+        "title": "Social Engineering of making a framework",
+        "speaker": "Kongkeit Khunpanitchote",
+        "type": "talk",
+        "youtube": "qUbnQCHcZLU",
+        "managed": true,
+        "published": "2024-06-13",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและหัวข้อการพูด",
+          "0:30": "แนะนำ Framework Elysia",
+          "0:55": "อธิบายฟีเจอร์ End-to-End Type Safety",
+          "1:56": "สาธิตการใช้งาน Elysia",
+          "3:00": "การเพิ่ม Swagger UI",
+          "4:24": "ปัญหาการ Sync Type ระหว่าง Frontend และ Backend",
+          "4:43": "การใช้งาน End-to-End Type Safety",
+          "6:36": "อธิบายการทำงานเบื้องหลังของ End-to-End Type Safety",
+          "8:20": "การใช้ JavaScript Proxy ในการทำ End-to-End Type Safety",
+          "10:09": "เทคนิคการ 'แก๊สไลท์' ผู้ใช้ในการเขียน API",
+          "11:27": "ข้อจำกัดทางวิศวกรรมและวิธีการแก้ปัญหา",
+          "12:16": "สรุปแนวคิดในการพัฒนา Framework"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs20/elysia.md",
+      "imageFilePath": "data/videos/bkkjs20/elysia.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/elysia_th.vtt"
+    },
+    {
+      "event": "bkkjs20",
+      "slug": "jsmodel",
+      "data": {
+        "title": "Rebuild your mental model of JavaScript",
+        "speaker": "Watee Kamrungsee",
+        "type": "talk",
+        "youtube": "N05h_-aDtC0",
+        "managed": true,
+        "description": "Revisit the fundamental concepts of JavaScript \"Primitive and reference types\"\n",
+        "published": "2024-06-12",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและเกริ่นนำเรื่อง JavaScript",
+          "1:28": "ความสำคัญของพื้นฐาน JavaScript สำหรับนักพัฒนาหน้าใหม่",
+          "2:11": "ตัวอย่างโค้ด: การกำหนดค่าตัวแปร",
+          "3:42": "แนะนำแนวคิด Mental Model ใน JavaScript",
+          "4:47": "อธิบายความแตกต่างระหว่างตัวแปรและกล่อง",
+          "5:52": "ตัวอย่างโค้ด: ฟังก์ชัน duplicate spreadsheet",
+          "7:05": "การอธิบายบัคในโค้ดตัวอย่าง",
+          "9:45": "แนะนำ Primitive และ Non-primitive types",
+          "14:14": "อธิบายว่าทำไมตัวแปรไม่ใช่กล่อง แต่เป็นเส้นเชื่อม",
+          "15:53": "การอ่านค่าตัวแปรและการส่งค่าเข้าฟังก์ชัน",
+          "17:01": "อธิบาย Reference Types และ Object ใน JavaScript",
+          "25:27": "ตัวอย่างการเปรียบเทียบค่าใน JavaScript",
+          "27:34": "แนะนำหนังสือและแหล่งเรียนรู้ JavaScript",
+          "28:41": "ช่วงถาม-ตอบ: ประสบการณ์การเปลี่ยนจาก UX เป็น JavaScript Developer"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs20/jsmodel.md",
+      "imageFilePath": "data/videos/bkkjs20/jsmodel.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/jsmodel_th.vtt"
+    },
+    {
+      "event": "bkkjs20",
+      "slug": "open",
+      "data": {
+        "title": "Open-source in a nutshell",
+        "speaker": "Runyasak Chaengnaimuang",
+        "type": "talk",
+        "youtube": "PCSdvZEJnmg",
+        "managed": true,
+        "published": "2024-06-14",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำและทักทาย",
+          "0:20": "การมีส่วนร่วมใน Open Source",
+          "2:24": "การแก้ไขเอกสารเป็นจุดเริ่มต้นที่ดี",
+          "3:10": "ประสบการณ์การมีส่วนร่วมใน Elysia",
+          "4:20": "การเรียนรู้จากการอ่าน Pull Requests และ Issues",
+          "5:11": "ประสบการณ์กับ Vue Storefront และ Storefront UI",
+          "6:33": "การมีส่วนร่วมในโปรเจค GraphQL และ ElysiaJS",
+          "7:36": "การช่วยแก้ไข Type ใน Elysia",
+          "8:01": "ข้อควรระวังเกี่ยวกับโครงสร้างโปรเจค Open Source",
+          "8:59": "ความกังวลเกี่ยวกับการเปิดเผยโค้ด",
+          "10:29": "ประโยชน์ของ Open Source สำหรับการเติบโตของไลบรารี",
+          "11:03": "การเรียนรู้จากสไตล์การตอบของ Contributor",
+          "12:07": "Evan You และสไตล์การตอบของเขา",
+          "12:44": "แนะนำเพจ Vue News Thailand",
+          "13:29": "แนะนำโปรเจค Frontend News Thailand",
+          "14:37": "สรุปและขอบคุณผู้ฟัง"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs20/open.md",
+      "imageFilePath": "data/videos/bkkjs20/open.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/open_th.vtt"
+    },
+    {
+      "event": "bkkjs20",
+      "slug": "optimize",
+      "data": {
+        "title": "Web App Optimization at EarnIn",
+        "speaker": "Siwat Kaolueng; Kijpokin Ngamsomsakskul",
+        "type": "talk",
+        "youtube": "PNind_xIlxc",
+        "managed": true,
+        "description": "เล่าประสบการณ์จริงในการ Optimize EarnIn Web App ด้วยเทคนิคต่างๆ\n",
+        "published": "2024-06-11",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและหัวข้อการบรรยาย",
+          "1:25": "ความเป็นมาและความสำคัญของการ Optimize Web App",
+          "2:36": "เมตริกซ์ Web Vitals และ LCP",
+          "3:21": "เครื่องมือในการวัดผลและตรวจสอบประสิทธิภาพ",
+          "5:05": "วิธีการปรับปรุง FCP และ LCP",
+          "8:46": "การใช้ Lazy Loading ใน React",
+          "13:13": "การจัดการกับ Third-party Scripts",
+          "15:18": "การใช้ Partytown เพื่อ Optimize Third-party Scripts",
+          "17:50": "ผลลัพธ์จากการ Optimize และปัญหาที่พบ",
+          "20:58": "แผนการพัฒนาในอนาคตและข้อจำกัด",
+          "22:33": "คำถาม-ตอบเกี่ยวกับการ Optimize และการจัดการ Dependencies",
+          "24:38": "การทำ Regression Testing และ CI/CD Pipeline",
+          "27:05": "การใช้ Lighthouse และ Real User Monitoring"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs20/optimize.md",
+      "imageFilePath": "data/videos/bkkjs20/optimize.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/optimize_th.vtt"
+    },
+    {
+      "event": "bkkjs20",
+      "slug": "subin",
+      "data": {
+        "title": "Dance with Three.js! สร้างท่ารำไทยใหม่ๆ ด้วย JavaScript",
+        "speaker": "Phoomparin Mano",
+        "type": "talk",
+        "youtube": "R9ww5Qh13MM",
+        "managed": true,
+        "description": "ทำไมท่ารำไทยต้องจำกัดแค่ 59 แม่บทด้วย เราสามารถใช้คณิตศาสตร์และ Three.js มาสร้างการแสดงที่ให้ผู้ชมร่วมสร้างท่ารำใหม่ๆ กับนักเต้นได้ไหมนะ ทอล์คนี้จะเล่าการเดินทาง 1 ปี กับการเขียน JavaScript ที่ใช้ในการแสดงนาฎศิลป์ไทยที่ต่างแดนกัน\n",
+        "published": "2024-06-10",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและเกริ่นนำเรื่องโปรเจค Cyber Subin",
+          "1:18": "คำถามทำไมชอบเขียนโค้ด",
+          "2:42": "อ้างอิงคำพูดของ Richard Feynman",
+          "3:02": "คำถามเกี่ยวกับการเรียนนาฏศิลป์",
+          "4:11": "การ Fork และการพัฒนาซอฟต์แวร์",
+          "4:52": "ประวัติท่ารำแม่บท 59 ท่า",
+          "7:14": "แนะนำทีมงานและแนวคิดการ Fork นาฏศิลป์",
+          "9:26": "อธิบายแนวคิด Six Elements ในการแยกองค์ประกอบของท่ารำ",
+          "11:06": "เริ่มการสาธิตโปรแกรม Cyber Subin",
+          "19:21": "อธิบายการทำงานของโปรแกรมและ Cybernetics",
+          "23:31": "สาธิตการใช้งานโปรแกรมแบบ Interactive",
+          "27:33": "อธิบายเบื้องหลังการพัฒนาโปรแกรม",
+          "30:07": "สรุปแนวคิดและประโยชน์ของโปรเจค Cyber Subin"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs20/subin.md",
+      "imageFilePath": "data/videos/bkkjs20/subin.jpg",
+      "thaiSubtitlePath": "data/videos/bkkjs20/subin_th.vtt"
     },
     {
       "event": "bkkjs21",
@@ -2267,6 +2215,58 @@
       "filePath": "data/videos/bkkjs21/tdd.md",
       "imageFilePath": "data/videos/bkkjs21/tdd.jpg",
       "englishSubtitlePath": "data/videos/bkkjs21/tdd_en.vtt"
+    },
+    {
+      "event": "bkkjs22",
+      "slug": "make-pull-requests-great-again",
+      "data": {
+        "title": "Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK",
+        "speaker": "Tobias Meixner",
+        "type": "talk",
+        "youtube": "fIF3w66IroM",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/make-pull-requests-great-again.md",
+      "imageFilePath": "data/videos/bkkjs22/make-pull-requests-great-again.jpg"
+    },
+    {
+      "event": "bkkjs22",
+      "slug": "rag-ai",
+      "data": {
+        "title": "My RAG AI Isn’t That Hard to Build!",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "3buBvJwpw5k",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/rag-ai.md",
+      "imageFilePath": "data/videos/bkkjs22/rag-ai.jpg"
+    },
+    {
+      "event": "bkkjs22",
+      "slug": "write-less-achieve-more",
+      "data": {
+        "title": "Write Less, Achieve More: How to build a living document with Cucumber JS and PACT",
+        "speaker": "Supat Lertsirigorn",
+        "type": "talk",
+        "youtube": "_MvyFM7ATUY",
+        "managed": true,
+        "published": false,
+        "language": "en",
+        "subtitles": [
+          "en"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs22/write-less-achieve-more.md",
+      "imageFilePath": "data/videos/bkkjs22/write-less-achieve-more.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs22/write-less-achieve-more_en.vtt"
     },
     {
       "event": "creativecodingmeetup",
