@@ -20541,25 +20541,25 @@ thumbnail:4ePm0u8Z5H0:
   spec:
     videoId: 4ePm0u8Z5H0
     filePath: data/videos/market/yes.jpg
-    hash: 1fe8e4c902b4a33bddc38342cd8070c99eca314d14cc53508ed7d88f2a1321b6
+    hash: 351160b6fd66b86998f3b03777e81b2c775993b0916c1965b5d96e8a451f1a54
   state: {}
 thumbnail:CaQ9fO1xto8:
   spec:
     videoId: CaQ9fO1xto8
     filePath: data/videos/market/proxenorobotics.jpg
-    hash: 6860592f2f051b2c0ece9ee1ececb283b2e4d6aa92646caf01e91da01197c2e4
+    hash: 6aa875b8c04bc5cb2a6f7a087d066b49e5a67f85f6ed4e360c344be5c77a60eb
   state: {}
 thumbnail:JjZCkvTN0-Q:
   spec:
     videoId: JjZCkvTN0-Q
     filePath: data/videos/market/three-scene-studio.jpg
-    hash: 70e507f1e70f1aaa13fd3206e0f55347eb3a76ec0d9a8e3d17f08c0760317f7c
+    hash: 0d73b767f7ee5075b94ec60c6642a4fceb0f9bf1c3c8cab1ce6b4dc52205a93d
   state: {}
 thumbnail:iRqY5QoBoS0:
   spec:
     videoId: iRqY5QoBoS0
     filePath: data/videos/market/hydra.jpg
-    hash: 36d680851efc8af28c68489cda96a1d69d55815b11756cec3a2db64b4d008cc1
+    hash: d223262d80f69053769cecde73754b1cee37cb42fefb61a551a452e7f08fa59f
   state: {}
 video:4ePm0u8Z5H0:
   spec:
@@ -20925,7 +20925,7 @@ thumbnail:ZLOFY67jCuw:
   spec:
     videoId: ZLOFY67jCuw
     filePath: data/videos/market/p5js-ollama.jpg
-    hash: 70e507f1e70f1aaa13fd3206e0f55347eb3a76ec0d9a8e3d17f08c0760317f7c
+    hash: 7490ae66495deb36c8a4dec15425dac6c339b3911dab877f05250a9e509054a4
   state: {}
 video:ZLOFY67jCuw:
   spec:
@@ -21074,19 +21074,19 @@ thumbnail:5CMuXc2lsWU:
   spec:
     videoId: 5CMuXc2lsWU
     filePath: data/videos/deconnect/panel-discussion.jpg
-    hash: 9a32062ebe5d22c60de9f2e4344ff54c82c1242fbb35c1946caf96425136b5da
+    hash: f1ec53b9189d5ee994f8d639041a11b7990dbdb6bdd94352e42f2fbb96805ba0
   state: {}
 thumbnail:M8Qd3WFNlDQ:
   spec:
     videoId: M8Qd3WFNlDQ
     filePath: data/videos/deconnect/data-catalog.jpg
-    hash: fa44ffe5d6f3529245ae1cdb07a68867b6cb7ec4a2267490badbf62c1c453c8e
+    hash: dc9bb9402140cb0fdfb36333b2c2ff63408f15b868532ce28458fdd9f8eeeffb
   state: {}
 thumbnail:zQmIul9Vs1o:
   spec:
     videoId: zQmIul9Vs1o
     filePath: data/videos/deconnect/data-architecture.jpg
-    hash: b8a3e082a94042cf9a02968e7bcce21b4357c322d9c3178e41ad129ef7b992a6
+    hash: 492c9ec8a8ae841b4ee63a553504729f42067f8ed1edf282e026cc39d79c35a9
   state: {}
 video:5CMuXc2lsWU:
   spec:
@@ -21395,7 +21395,7 @@ thumbnail:_rYY22cDhbw:
   spec:
     videoId: _rYY22cDhbw
     filePath: data/videos/deconnect/oltp-vs-olap.jpg
-    hash: 524ead2132421d3a05894cda723137fa3659201b6ac078d7a5d63404c3475ef1
+    hash: dcdf439c9068912de41ba84dbe95df55818274d8a264350922420a47663f76c0
   state: {}
 video:_rYY22cDhbw:
   spec:
@@ -21525,19 +21525,19 @@ thumbnail:3buBvJwpw5k:
   spec:
     videoId: 3buBvJwpw5k
     filePath: data/videos/bkkjs22/rag-ai.jpg
-    hash: edf5efcbb4c77ccddfbe62974f6211b94568a2966a702b9ed91bee0980f08f56
+    hash: 505731d9ca65f8b40bad6ee19e7077507e973e37cae81a059d4c64710c265de5
   state: {}
 thumbnail:_MvyFM7ATUY:
   spec:
     videoId: _MvyFM7ATUY
     filePath: data/videos/bkkjs22/write-less-achieve-more.jpg
-    hash: bc23ec5852247ee393f56d6ae109bede76b8eea1d8bcfd8dde16bb1fc7df5e82
+    hash: 16fee7eef24b29f19701315dd6623045c492bcd86e54efd67501f21e6c7c7acb
   state: {}
 thumbnail:fIF3w66IroM:
   spec:
     videoId: fIF3w66IroM
     filePath: data/videos/bkkjs22/make-pull-requests-great-again.jpg
-    hash: b59175f2a3f75732dd14b2780de1ae03718e5e899312e613cabb5c74a2684d21
+    hash: 31358ed1db227a267e9605b00209e6ad5e46d4ef1c8f253754abdd73db68886a
   state: {}
 video:3buBvJwpw5k:
   spec:
