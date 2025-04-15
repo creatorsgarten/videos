@@ -37,7 +37,7 @@ const argv = await yargs(process.argv.slice(2))
   .option('batchSize', {
     describe: 'Number of segments to process in each batch',
     type: 'number',
-    default: 100,
+    default: 25,
   })
   .option('concurrency', {
     describe: 'Number of batches to process concurrently',
