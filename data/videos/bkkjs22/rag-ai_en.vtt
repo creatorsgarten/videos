@@ -10,19 +10,10 @@ Ah, can I?
 Okay.
 
 00:00:12.192 --> 00:00:13.376
-Much. Just a minute.
+Ah, chotto matte.
 
 00:00:15.680 --> 00:00:16.800
 I'm so excited.
-
-00:00:17.536 --> 00:00:18.624
-Huh. ไม่มีสไลด์
-
-00:00:19.232 --> 00:00:22.272
-No. Help. มีครับ มีครับ เป็นสีขาว ขึ้นไหมครับ
-
-00:00:22.624 --> 00:00:24.160
-ขึ้นแล้ว อ๋อ ขึ้นแล้ว โอเค
 
 00:00:24.992 --> 00:00:25.888
 Alright.
@@ -67,13 +58,13 @@ they said, "I don't know this one. What is it?"
 So actually these cartoons are named
 
 00:01:04.288 --> 00:01:09.824
-In Thai it's น้องสาวผมไม่ได้น่ารักขนาดนั้นหรอก In Japanese it's Ore no Imōto ga Konnani Kawaii Wake ga Nai. So you maybe like
+In Thai it's น้องสาวผมไม่ได้น่ารักขนาดนั้นหรอก In Japanese it's Ore no Imōto ga
 
 00:01:10.112 --> 00:01:13.664
-เอ่อ คนนี้ก็ คน คน คนหน้านี้ เขา อี ว่า แก
+Konnani Kawaii
 
 00:01:13.920 --> 00:01:16.320
-Oregairu eyes. So you maybe like
+Wake ga Nai. So you maybe like
 
 00:01:16.736 --> 00:01:20.000
 Why is it related to something that we're going to say today?
@@ -88,7 +79,7 @@ to any things because
 I'm going to talk about how we create the
 
 00:01:31.520 --> 00:01:34.400
-Ragi AI or Lac AI.
+RAG AI or RagAI.
 
 00:01:34.560 --> 00:01:36.640
 So what do you like, by the way?
@@ -105,9 +96,6 @@ the main characters,
 00:01:47.680 --> 00:01:50.688
 the middle one, the girl, she is like
 
-00:01:51.104 --> 00:01:54.368
-model things and
-
 00:01:54.976 --> 00:01:56.768
 very good girl, good student,
 
@@ -115,7 +103,7 @@ very good girl, good student,
 and really high class, something like that. But actually, behind the scene,
 
 00:02:00.576 --> 00:02:05.984
-in her secret life, she loves anime, playing R18 games, yep,
+in her secret life, she loves anime, playing eroge games, yep,
 
 00:02:06.176 --> 00:02:10.431
 some 18 plus game, something like that. And I think
@@ -127,7 +115,7 @@ what I could help her
 to achieve something better or
 
 00:02:14.272 --> 00:02:20.032
-So today, I'm going to create the Ragi AI
+So today, I'm going to create the RAG AI
 
 00:02:20.352 --> 00:02:22.016
 that will help Kirino
@@ -142,7 +130,7 @@ So, but before we go do that,
 I would like to talk about
 
 00:02:29.728 --> 00:02:32.672
-Ragi AI first. What's it?
+RAG AI first. What's it?
 
 00:02:33.440 --> 00:02:34.368
 So...
@@ -190,10 +178,10 @@ So actually it's normally about
 being specialized in some Microsoft technology areas. Previously I was
 
 00:03:18.912 --> 00:03:21.088
-working as a specialist for Asia,
+working as a specialist for Azure,
 
 00:03:21.504 --> 00:03:26.880
-about application things in Asia. How are we going to install it? How to build it? Something like that.
+about application things in Azure. How are we going to install it? How to build it? Something like that.
 
 00:03:27.136 --> 00:03:31.872
 But yeah, just the past. So, now today I'm at MongoDB and
@@ -226,7 +214,7 @@ So, it's going to be one technique to build your applications and connect to LLM
 Large Language Model, like GPT, Gemini,
 
 00:04:05.024 --> 00:04:07.840
-or DeepC or something else, and let them
+or DeepSeek or something else, and let them
 
 00:04:08.256 --> 00:04:10.720
 find or search something for you, but
@@ -274,7 +262,7 @@ And then your application just searches right away from the database and returns
 That's what a normal application does, right?
 
 00:04:59.392 --> 00:05:03.008
-But for the RAG or AI agent,
+But for RAG,
 
 00:05:03.360 --> 00:05:05.088
 normally, it will retrieve
@@ -391,7 +379,7 @@ LLM doesn't just go and grab some data and come back.
 But it needs to search for something that is similar to something that you search, right?
 
 00:07:08.160 --> 00:07:11.872
-So for example, PA3, you need to be looking for some sweaters
+So for example you need to be looking for some sweaters
 
 00:07:12.000 --> 00:07:14.208
 or something to make you feel warmer, right?
@@ -811,10 +799,10 @@ Yep, yeah.
 So to do so, in MongoDB Atlas, after you create MongoDB Atlas, and it's free,
 
 00:15:24.064 --> 00:15:25.728
-you just create your set index.
+you just create your search index.
 
 00:15:26.176 --> 00:15:28.416
-and set the vector set like this.
+and set the vector search like this.
 
 00:15:29.344 --> 00:15:32.960
 just choose the path to be the path that you store the vectors at.
@@ -862,7 +850,7 @@ models, they have
 768
 
 00:16:09.632 --> 00:16:12.576
-eight dimensions. So here, I just put
+dimensions. So here, I just put
 
 00:16:12.864 --> 00:16:16.064
 this one to be 768 dimensions.
@@ -922,10 +910,10 @@ change the index name to be something different,
 like this. And now it's
 
 00:17:24.960 --> 00:17:27.232
-So now you already have this view of block
+So now, your database
 
 00:17:27.584 --> 00:17:29.792
-will available for you to set at a vector search.
+will be available for you to set as a vector search.
 
 00:17:30.912 --> 00:17:31.904
 and text search.
@@ -964,7 +952,7 @@ Hello.
 Hey.
 
 00:18:04.512 --> 00:18:06.656
-Anyone here? Luffy?
+Anyone here? Riffy?
 
 00:18:07.168 --> 00:18:07.872
 Is that back?
@@ -1096,13 +1084,13 @@ And it will return the
 results of searching. I will show you.
 
 00:20:30.336 --> 00:20:32.160
-Anyone here would like to search something?
+Anyone here would like to search some
 
 00:20:32.576 --> 00:20:34.112
-Can you help me?
+cartoon? You have some
 
 00:20:34.464 --> 00:20:36.288
-Can you tell me what you are searching for?
+cartoom that you'd like to search?
 
 00:20:36.960 --> 00:20:40.320
 Dragon Ball. Dragon Ball, right? Okay. Let me try to search.
@@ -1134,12 +1122,6 @@ I need to search for. I will search for like story about
 00:21:16.768 --> 00:21:20.864
 How do you, how do we call Goku?
 
-00:21:22.048 --> 00:21:22.336
-Saiyan.
-
-00:21:23.328 --> 00:21:24.640
-Super Saiyan.
-
 00:21:25.952 --> 00:21:29.888
 I mean like, the type of the super human, how do we say,
 
@@ -1165,7 +1147,7 @@ A N Y A, right?
 Y A N. Y A N.
 
 00:21:47.360 --> 00:21:50.880
-Saiyans. To correct
+Saiyans. To collect
 
 00:21:52.576 --> 00:21:53.216
 seven
@@ -1237,7 +1219,7 @@ One Piece, right?
 Oh, I think Luffy is maybe quite too straightforward, so I'm gonna try like
 
 00:23:02.112 --> 00:23:04.064
-Pirate, like power pirates.
+Pirate.
 
 00:23:06.624 --> 00:23:08.736
 I will accidentally
@@ -1291,7 +1273,7 @@ ingest like a thousand of
 anime into my computer directly.
 
 00:24:09.344 --> 00:24:13.440
-So instead of just using a folder, I use the graph path instead.
+So instead of just using a for loop, I use Kafka instead.
 
 00:24:13.600 --> 00:24:17.024
 So from here, I'm just pulling the data
@@ -1342,10 +1324,10 @@ I just insert it directly into my database.
 And so that, it's done.
 
 00:25:07.296 --> 00:25:09.856
-So, in this process, you may not be able to see the search UI at all because this will be on the back end part.
+So, in this process, you may not be able to see the search UI at all
 
 00:25:09.888 --> 00:25:13.696
-the search UI at all because this one it will be on the back end part.
+because this one it will be on the back end part.
 
 00:25:13.760 --> 00:25:16.832
 So, it's going to be about how we are going to
@@ -1384,7 +1366,7 @@ But
 I hope you can understand and get some idea about
 
 00:25:53.312 --> 00:25:55.200
-how director set work here.
+how the vector search works here.
 
 00:25:56.032 --> 00:25:59.200
 Well, I will open the floor for you to ask me about
@@ -1396,7 +1378,7 @@ the process or need me to clarify something here.
 Anyone that would like to ask me about this one?
 
 00:26:07.392 --> 00:26:07.936
-Plus
+Yes
 
 00:26:12.480 --> 00:26:17.760
 Okay, let me ขอบคุณค่ะ Yes ครับ เอ่อ แบบว่า for
@@ -1558,7 +1540,7 @@ MongoDB Atlas.
 Oops. Yep. My webpage is not finished yet.
 
 00:28:55.200 --> 00:28:58.176
-So, first of all, just go to your MongoDB online.
+So, first of all, just go to your MongoDB Atlas.
 
 00:29:00.736 --> 00:29:01.824
 Give me a second.
@@ -1621,97 +1603,88 @@ my connection is valid.
 So just connect to your database.
 
 00:30:17.824 --> 00:30:18.592
-and it's in, like, P
+and it's in, like…
 
 00:30:19.136 --> 00:30:21.984
-It's not work. Oh, it worked. Awesome. So, that means, P
+It's not work. Oh, it worked. Awesome. So, that means,
 
 00:30:22.208 --> 00:30:24.448
-Right now, we already got our, P
+Right now, we already got our,
 
 00:30:25.120 --> 00:30:26.144
-first class day. P
+first cluster.
 
 00:30:26.720 --> 00:30:29.088
-Next step, you need to ingest your data. P
+Next step, you need to ingest your data.
 
 00:30:29.312 --> 00:30:31.968
-So, to ingest your data, you need to get ingest P
+So, to ingest your data, you need to get ingest
 
 00:30:32.352 --> 00:30:36.768
-As director, right? So, I will try to P
+as a vector search, right? So, I will try to
 
 00:30:37.120 --> 00:30:39.360
-insert some random data. P
+insert some random data.
 
 00:30:39.424 --> 00:30:42.464
-I will try to create a new file here. P
+I will try to create a new file here.
 
 00:30:43.104 --> 00:30:44.480
-Let me create this one. P
+Let me create
 
 00:30:45.088 --> 00:30:47.168
-demo.ts, like this. P
+demo.ts, like this.
 
 00:30:48.224 --> 00:30:48.672
-content. P
+And then
 
 00:30:49.408 --> 00:30:51.808
-I will try to insert the story of P
+I will try to insert the story of
 
 00:30:51.872 --> 00:30:53.728
-myself and my friends. P
-
-00:30:57.632 --> 00:30:58.048
-P
+myself and my friends.
 
 00:30:58.176 --> 00:31:03.840
-So, I will talk and insert my names and about myself P
+So, I will talk and insert my names and about myself
 
 00:31:04.096 --> 00:31:06.784
-into the data. P
+into the data.
 
 00:31:06.912 --> 00:31:08.480
-So, I will start from me. P
+So, I will start from me.
 
 00:31:10.496 --> 00:31:12.576
-names, like, Shop. P
+names, like, Job.
 
 00:31:14.176 --> 00:31:16.160
-And I will put my description here. P
+And I will put my description here.
 
 00:31:22.080 --> 00:31:23.296
-So, P
+So,
 
 00:31:23.872 --> 00:31:24.512
-or is P
-
-00:31:26.016 --> 00:31:26.048
-P
+or is…
 
 00:31:26.592 --> 00:31:28.064
-But that, this is not the name. P
+But that, this is not the name.
 
 00:31:29.088 --> 00:31:31.904
-So, I will use making instead. P
+So, I will use nickname instead.
 
 00:31:33.664 --> 00:31:38.080
-So, description will be the man P
+So, description will be the man
 
 00:31:39.616 --> 00:31:40.352
-who P
-
-00:31:41.280 --> 00:31:41.728
-work P
+who
 
 00:31:44.160 --> 00:31:44.960
-working at P
+working at
 
 00:31:47.264 --> 00:31:48.096
-MongoDB, P
+MongoDB,
 
 00:31:50.624 --> 00:31:51.712
-lonely in Singapore. P
+lonely in Singapore.
 
 00:31:53.632 --> 00:31:54.048
 Yeah.
@@ -1729,7 +1702,7 @@ And my friend is him, actually.
 visit me.
 
 00:32:11.744 --> 00:32:11.968
-Up
+At
 
 00:32:12.672 --> 00:32:14.656
 2:00 a.m. randomly.
@@ -1786,13 +1759,13 @@ who was, who was a student
 in Japan.
 
 00:33:02.752 --> 00:33:03.136
-limited data.
+Something like that.
 
 00:33:05.472 --> 00:33:08.288
 So, actually, it's quite small data, actually. So,
 
 00:33:08.800 --> 00:33:11.744
-But I will try to show you how retrieval search works here.
+But I will try to show you how vector search works here.
 
 00:33:11.808 --> 00:33:14.048
 So, after you already got your data,
@@ -1828,7 +1801,7 @@ So, I will create other functions.
 Oh.
 
 00:33:46.816 --> 00:33:48.672
-มีที่วางไมค์ไหม
+มีที่วางไมค์ไหม?
 
 00:33:52.928 --> 00:33:55.680
 Okay. I will create one function here,
@@ -1849,112 +1822,94 @@ To convert the data is very simple. You just loop it.
 And then, just send it directly.
 
 00:34:10.431 --> 00:34:11.007
-Pictures. P
-
-00:34:13.888 --> 00:34:14.208
-A width. P
+vector.
 
 00:34:16.416 --> 00:34:18.080
-And I will call this one. P
-
-00:34:19.840 --> 00:34:21.376
-And alt text. P
-
-00:34:21.920 --> 00:34:22.880
-And like the. P
+And I will call this one. 
 
 00:34:23.456 --> 00:34:26.592
-The co-pilot generated for me. So, we need to. P
+The co-pilot generated for me. So, we need to.
 
 00:34:26.911 --> 00:34:28.928
-JSON stringified first. P
+JSON stringified first.
 
 00:34:29.376 --> 00:34:33.600
-And send it just only like the descriptions, I guess. P
+And send it just only like the descriptions, I guess.
 
 00:34:35.487 --> 00:34:37.184
-And then, you just put. P
+And then, you just put.
 
 00:34:37.568 --> 00:34:39.424
-The data structure here. P
+The data structure here.
 
 00:34:39.967 --> 00:34:41.568
-Give me a moment. P
+Give me a moment.
 
 00:34:43.360 --> 00:34:45.216
-Next step, you just insert your data. P
+Next step, you just insert your data.
 
 00:34:46.176 --> 00:34:48.512
-So, you need to connect to MongoDB first. P
+So, you need to connect to MongoDB first.
 
 00:34:49.024 --> 00:34:51.168
-So, I will use my function that I already created. P
+So, I will use my function that I already created.
 
 00:34:52.608 --> 00:34:53.376
-Connect DB. P
+Connect DB.
 
 00:34:54.176 --> 00:34:55.712
-And it wants to need to be a width. P
+And it needs to be awaited.
 
 00:34:56.447 --> 00:34:56.831
-And then. P
+And then.
 
 00:34:58.080 --> 00:34:59.136
-I will insert it. P
-
-00:34:59.936 --> 00:35:00.448
-Like a width. P
+I will insert it.
 
 00:35:02.848 --> 00:35:05.312
-Collection. Thank you, co-pilot. P
+Collection. Thank you, co-pilot.
 
 00:35:05.888 --> 00:35:08.032
-And I just insert one. P
+And I just insert one. 
 
 00:35:09.888 --> 00:35:10.304
-Like this. P
+Like this.
 
 00:35:12.000 --> 00:35:16.928
-And of course, we need to include the full document or original document as well. P
+And of course, we need to include the full document or original document as well.
 
 00:35:17.472 --> 00:35:19.904
-So, we can use the object spread to. P
+So, we can use the object spread to.
 
 00:35:20.416 --> 00:35:22.944
-Include all original data. P
+Include all original data.
 
 00:35:23.200 --> 00:35:24.960
-And then include the embedding here. P
+And then include the embedding here.
 
 00:35:25.920 --> 00:35:26.208
-Right? P
+Right?
 
 00:35:27.584 --> 00:35:31.392
-And done. This is the first part of inserting the data. P
+And done. This is the first part of inserting the data.
 
 00:35:31.712 --> 00:35:33.376
-So, let's see what it can look like. P
-
-00:35:35.488 --> 00:35:38.048
-P
+So, let's see what it can look like.
 
 00:35:38.368 --> 00:35:40.576
-I need to run the demo file. P
+I need to run the demo file.
 
 00:35:42.240 --> 00:35:42.592
-Oh. P
+Oh.
 
 00:35:43.872 --> 00:35:44.864
-Main functions. P
+Main functions.
 
 00:35:45.600 --> 00:35:46.624
-Mhm. P
-
-00:35:48.320 --> 00:35:48.416
-P
+Mhm.
 
 00:35:49.920 --> 00:35:51.936
-Oh, yeah, that's right. Thank you so much. P
+Oh, yeah, that's right. Thank you so much.
 
 00:35:52.448 --> 00:35:55.808
 Yep, it should be on this name. Yeah, nickname. All right.
@@ -2041,7 +1996,7 @@ Async functions search
 And I will push
 
 00:37:14.272 --> 00:37:15.648
-Q S Q T
+q?: string
 
 00:37:16.480 --> 00:37:16.832
 Here
@@ -2080,7 +2035,7 @@ I think I can copy and paste.
 Okay. So, we just
 
 00:37:53.056 --> 00:37:55.296
-We just use the AU
+We just use
 
 00:37:56.992 --> 00:38:00.416
 the aggregation function to people collection.
@@ -2185,7 +2140,7 @@ What am I missing here?
 What am I missing here?
 
 00:39:27.936 --> 00:39:29.504
-to a layoff. I am missing
+I am missing
 
 00:39:30.112 --> 00:39:30.784
 parentheses here.
@@ -2218,7 +2173,7 @@ Yay! Okay. Yay!
 Time is running out. Sorry. Thank you so much. That's all.
 
 00:40:05.216 --> 00:40:06.976
-It's a free idea, not mine.
+It's Riffy's idea, not mine.
 
 00:40:08.064 --> 00:40:12.000
 Okay. Say bye to Singapore. Bye bye. Thank you.
