@@ -3,7 +3,7 @@ title: 'My RAG AI Isn’t That Hard to Build!'
 speaker: Jirachai Chansivanon
 youtube: 3buBvJwpw5k
 managed: true
-published: false
+published: '2025-04-24'
 subtitles: [en]
 language: en
 chapters:

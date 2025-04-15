@@ -3,7 +3,7 @@ title: 'Write Less, Achieve More: How to build a living document with Cucumber J
 speaker: Supat Lertsirigorn
 youtube: _MvyFM7ATUY
 managed: true
-published: false
+published: '2025-04-16'
 subtitles: [en]
 language: en
 chapters:

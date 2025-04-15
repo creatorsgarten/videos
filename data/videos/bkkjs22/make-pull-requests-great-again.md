@@ -3,7 +3,7 @@ title: Make Pull Requests Great Again with Background Jobs using Trigger.dev Nod
 speaker: Tobias Meixner
 youtube: fIF3w66IroM
 managed: true
-published: false
+published: '2025-04-20'
 subtitles: [en]
 language: en
 chapters:

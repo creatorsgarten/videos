@@ -3,7 +3,7 @@ title: 'Decoding Data Engineering — Myth vs Reality & What are Here to Stay'
 speaker: Direk Yimlamai; Karnsiree Wongkolkitsilp; Manussanun Buranachokphaisan
 youtube: 5CMuXc2lsWU
 managed: true
-published: false
+published: '2025-05-26'
 subtitles: [th]
 description: |
   มาไขความลับเบื้องหลังวงการ data engineering กับคุณตั้ว Cloud Director และคุณกานต์ Cloud Optimization and Automation Consultant จาก MFEC  ทั้งสองท่านจะมาเล่าประสบการณ์ตรงเกี่ยวกับความเชื่อและความจริงในการทำงาน data engineering พร้อมเผยปัญหาที่มักพบเจอ ตั้งแต่การออกแบบ data pipeline การรับมือกับ pipeline ที่พัง ไปจนถึงการทำงานร่วมกันข้ามทีม  ไม่ว่าคุณจะเป็น data engineer, system admin, network admin หรือ data owner  วิดีโอนี้จะช่วยให้คุณเห็นภาพรวมของงาน data engineering และความสำคัญของการสื่อสาร  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์ เพื่อพัฒนาวงการ data engineering ไปด้วยกัน

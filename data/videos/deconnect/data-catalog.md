@@ -3,7 +3,7 @@ title: Demystifying Data Catalog
 speaker: Yothin Muangsommuk
 youtube: M8Qd3WFNlDQ
 managed: true
-published: false
+published: '2025-05-13'
 subtitles: [th]
 description: |
   คุณโยธิน Data Engineer จาก LINE Thailand จะพาคุณสำรวจโลกของ Data Catalog ส่วนประกอบสำคัญแต่กลับไม่ค่อยถูกพูดถึงในการสร้าง Data Platform  การบรรยายนี้จะพาคุณย้อนรอยวิวัฒนาการของ Data Catalog ตั้งแต่ยุคห้องสมุดจนถึงยุคคลาวด์  เรียนรู้ถึงความสำคัญของ Data Catalog ในการจัดการข้อมูลมหาศาลใน Data Lake และวิธีที่มันช่วยหลีกเลี่ยงปัญหา Data Swamp  พบกับการเปรียบเทียบ Hive Metastore และ Iceberg Catalog พร้อมเจาะลึกกลไกการทำงานเบื้องหลัง  และมองไปยังอนาคตของ Data Catalog กับเทรนด์ต่างๆ เช่น Format Agnostic Catalog ไม่ว่าคุณจะเป็น Data Engineer มือใหม่หรือผู้มีประสบการณ์  วิดีโอนี้จะช่วยให้คุณเข้าใจบทบาทและความสำคัญของ Data Catalog ในการสร้าง Data Platform ที่มีประสิทธิภาพมากยิ่งขึ้น

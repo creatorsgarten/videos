@@ -3,7 +3,7 @@ title: 'hydra.js: playing visual with code'
 speaker: Wasawat Samno
 youtube: iRqY5QoBoS0
 managed: true
-published: false
+published: '2025-04-28'
 subtitles: [th]
 description: |
   มาทำความรู้จักกับ Hydra.js เครื่องมือบนเว็บสำหรับสร้าง Visual แบบ Live coding  ไม่ว่าคุณจะเป็นโปรแกรมเมอร์หรือนักสร้างสรรค์งานกราฟิก  วิดีโอนี้จะพาคุณไปสำรวจความสามารถของ Hydra.js ตั้งแต่ประวัติศาสตร์ความเป็นมาที่เชื่อมโยงกับ Sandin image processor และ Demo scene  ไปจนถึงการสาธิตการใช้งานฟังก์ชันต่างๆ  เช่น  oscillator, noise,  และ  kaleid  พร้อมตัวอย่างการปรับแต่งสี  รูปทรง  และเอฟเฟกต์ต่างๆ  เรียนรู้เทคนิคการใช้  arrow function  และตัวแปร  time  เพื่อสร้าง animation  รวมถึงการ modulate  สัญญาณเพื่อสร้าง Visual ที่ซับซ้อนและน่าสนใจยิ่งขึ้น  ไม่ว่าคุณจะมีพื้นฐานการเขียนโค้ดหรือไม่  วิดีโอนี้จะเปิดโลกการสร้างสรรค์ Visual ด้วยวิธีที่ง่ายและสนุก  พร้อมตัวอย่างการเชื่อมต่อกับกล้อง  เสียง  และ  screen capture  เพื่อต่อยอดไอเดียของคุณ

@@ -3,7 +3,7 @@ title: AI Guessing Image Game by using p5.js and Ollama
 speaker: Charunthon Limseelo
 youtube: ZLOFY67jCuw
 managed: true
-published: false
+published: '2025-05-14'
 subtitles: [th]
 description: |
   มาทำความรู้จักกับการสร้าง AI Guessing Image Game ง่ายๆ ด้วย p5.js และ Ollama ในเซสชันนี้ โบ๊ท ชรันธร ลิ้มสีโล Microsoft Learn Student Ambassador และ student tech lead ประเทศไทย จะมาแบ่งปันแรงบันดาลใจจากเกม Quick, Draw! ของ Google พร้อมอธิบายกลไกการทำงานของโปรเจกต์ที่ผสานความสามารถของ p5.js ในการวาดภาพ และ Ollama ซึ่งเปรียบเหมือนเป็น docker สำหรับรันโมเดล LLaVA (Large Language Vision Assistant) แบบ local  โดยไม่ต้องใช้อินเทอร์เน็ต  ตัวอย่างการใช้งานจริงจะแสดงให้เห็นถึงวิธีการวาดภาพ อัปโหลด และให้ LLaVA วิเคราะห์ภาพที่วาด  มาร่วมเรียนรู้และค้นพบความเป็นไปได้ใหม่ๆ ของ small language model ในการสร้างสรรค์แอปพลิเคชันแบบ multimodal ที่น่าสนใจ

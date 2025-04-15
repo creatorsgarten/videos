@@ -3,7 +3,7 @@ title: ทำ Graphic 3D บนเว็บง่ายขึ้นด้วย 
 speaker: Wachirawit Wacharak
 youtube: JjZCkvTN0-Q
 managed: true
-published: false
+published: '2025-05-10'
 subtitles: [th]
 description: |
   พบกับเรื่องราวการพัฒนา Three Scene Studio โปรเจกต์ที่ช่วยลดความยุ่งยากในการสร้าง 3D กราฟิกบนเว็บ  ผู้บรรยายซึ่งเป็น software engineer ผู้หลงใหลในคอมพิวเตอร์กราฟิก จะมาแชร์ปัญหาและความท้าทายที่พบเจอในการพัฒนา 3D กราฟิกบนเว็บ เช่น การตั้งค่า Renderer, Scene, Pixel Ratio และการจัดการ Offscreen Event  รวมถึงปัญหา Compatibility ระหว่าง Blender และ Three.js  พร้อมสาธิตการใช้งาน Three Scene Studio ตั้งแต่การ export โมเดลจาก Blender การปรับแต่งค่าต่างๆ ในโปรแกรมแบบ real-time โดยไม่ต้องเขียนโค้ด ไปจนถึงการนำไฟล์ .tss ที่ export ออกมาไปใช้ในโปรเจกต์ React  มาร่วมเรียนรู้วิธีสร้าง 3D กราฟิกบนเว็บให้ง่ายขึ้นด้วย Three Scene Studio

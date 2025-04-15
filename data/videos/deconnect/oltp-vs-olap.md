@@ -3,7 +3,7 @@ title: 'OLTP vs OLAP: Why Choose? Modern Database Evolution Through Web3 Lens'
 speaker: Jakpat Mingmongkolmitr
 youtube: _rYY22cDhbw
 managed: true
-published: false
+published: '2025-05-22'
 subtitles: [th]
 description: |
   คุณฟา software engineer จาก Cleverse Venture Builder ผู้พัฒนาโปรเจกต์บน Blockchain และ Web3 มาเล่าถึงความท้าทายในการจัดการข้อมูลบน Blockchain ซึ่งเปรียบเสมือน data warehouse ขนาดใหญ่  การนำเสนอจะกล่าวถึงปัญหาการใช้งาน analysis แบบ real-time ใน Web3 และวิธีการเชื่อมต่อ OLTP และ OLAP  โดยยกตัวอย่าง use case และ product ต่างๆ ที่ใช้  รวมถึงเทคโนโลยีอย่าง GoLang, Postgres, Parquet และ database ยุคใหม่เช่น ClickHouse ที่ถูกออกแบบมาเพื่อตอบโจทย์ real-time OLTP  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์เกี่ยวกับการจัดการข้อมูลขนาดใหญ่บน Blockchain และเทคนิคต่างๆ ในการพัฒนา Web3 application ได้ในวิดีโอนี้
