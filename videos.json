@@ -2226,7 +2226,7 @@
         "youtube": "fIF3w66IroM",
         "managed": true,
         "description": "Tired of endless pull request reviews and the challenges they bring?  This talk explores common pull request problems and introduces a practical approach to streamlining the process. Tobias, co-founder of Hubql and a dev tooling enthusiast, demonstrates building a GitHub app using JavaScript, Trigger.dev, and E2B.  Learn how this app automates tasks, handles webhooks and background jobs, and even integrates with AI agents to provide feedback and automate code changes.  The talk also covers alternative solutions like Ingest, Temporal, and GitHub Actions, offering a broader perspective on optimizing your pull request workflow. Discover how to leverage these tools and techniques to make your pull requests more efficient and less daunting, allowing you to focus on what matters most: writing great code.\n",
-        "published": false,
+        "published": "2025-04-20",
         "language": "en",
         "subtitles": [
           "en"
@@ -2269,7 +2269,7 @@
         "youtube": "3buBvJwpw5k",
         "managed": true,
         "description": "Explore the world of Retrieval Augmented Generation (RAG) AI and its application in building smarter search systems.  Jirachai Chansivanon, a Consulting Engineer at MongoDB, demonstrates how to create a RAG AI system using MongoDB and vector search to enable natural language queries.  Using the example of searching an anime database, he guides you through the process of data ingestion, embedding creation, and search implementation.  Learn how MongoDB Atlas's vector search capabilities simplify the development of applications that understand and respond to complex human language, making information retrieval more intuitive and efficient.  Discover how to leverage these techniques to build your own RAG AI applications.\n",
-        "published": false,
+        "published": "2025-04-24",
         "language": "en",
         "subtitles": [
           "en"
@@ -2309,7 +2309,7 @@
         "youtube": "_MvyFM7ATUY",
         "managed": true,
         "description": "This session explores strategies for writing robust and efficient end-to-end tests, focusing on stability and speed.  The speaker delves into the challenges of traditional unit testing and proposes an alternative approach using Cucumber and Gherkin to define system environments and preconditions.  The talk demonstrates how to leverage Pact to mock entire servers, ensuring reliable and predictable test outcomes, even with dynamic backend behavior.  Using a practical example of building a rock-paper-scissors game, the speaker illustrates how this method allows for comprehensive UI testing within a minute per test case, while maintaining high reliability.  The session also touches upon the importance of documenting business rules and functionalities through tests, reducing reliance on individual team members and mitigating the risks associated with legacy code.  Learn how to create more effective and maintainable tests that contribute to overall software quality and team collaboration.\n",
-        "published": false,
+        "published": "2025-04-16",
         "language": "en",
         "subtitles": [
           "en"
@@ -2747,7 +2747,7 @@
         "youtube": "zQmIul9Vs1o",
         "managed": true,
         "description": "พบกับคุณกานต์จาก ODDS-TEAM หรือ ODT ในหัวข้อ \"Data Architecture ในงานของ Data Engineer\" ไม่ว่าคุณจะเป็น data engineer มือใหม่หรือรุ่นพี่ เซสชั่นนี้จะพาคุณไปสำรวจปัญหาและความท้าทายในการออกแบบ data architecture พร้อมเจาะลึกแนวคิดและเทคนิคที่สามารถนำไปประยุกต์ใช้ได้จริง โดยคุณกานต์จะแชร์ประสบการณ์และวิธีการทำงาน เช่น Residuality Theory, C4 model และ ADR เพื่อช่วยให้คุณเข้าใจและออกแบบ data architecture ได้อย่างมีประสิทธิภาพมากขึ้น มาร่วมเรียนรู้และพัฒนาทักษะ data architecture ไปพร้อมๆ กัน\n",
-        "published": false,
+        "published": "2025-05-18",
         "language": "th",
         "subtitles": [
           "th"
@@ -2779,7 +2779,7 @@
         "youtube": "M8Qd3WFNlDQ",
         "managed": true,
         "description": "คุณโยธิน Data Engineer จาก LINE Thailand จะพาคุณสำรวจโลกของ Data Catalog ส่วนประกอบสำคัญแต่กลับไม่ค่อยถูกพูดถึงในการสร้าง Data Platform  การบรรยายนี้จะพาคุณย้อนรอยวิวัฒนาการของ Data Catalog ตั้งแต่ยุคห้องสมุดจนถึงยุคคลาวด์  เรียนรู้ถึงความสำคัญของ Data Catalog ในการจัดการข้อมูลมหาศาลใน Data Lake และวิธีที่มันช่วยหลีกเลี่ยงปัญหา Data Swamp  พบกับการเปรียบเทียบ Hive Metastore และ Iceberg Catalog พร้อมเจาะลึกกลไกการทำงานเบื้องหลัง  และมองไปยังอนาคตของ Data Catalog กับเทรนด์ต่างๆ เช่น Format Agnostic Catalog ไม่ว่าคุณจะเป็น Data Engineer มือใหม่หรือผู้มีประสบการณ์  วิดีโอนี้จะช่วยให้คุณเข้าใจบทบาทและความสำคัญของ Data Catalog ในการสร้าง Data Platform ที่มีประสิทธิภาพมากยิ่งขึ้น\n",
-        "published": false,
+        "published": "2025-05-13",
         "language": "th",
         "subtitles": [
           "th"
@@ -2820,7 +2820,7 @@
         "youtube": "_rYY22cDhbw",
         "managed": true,
         "description": "คุณฟา software engineer จาก Cleverse Venture Builder ผู้พัฒนาโปรเจกต์บน Blockchain และ Web3 มาเล่าถึงความท้าทายในการจัดการข้อมูลบน Blockchain ซึ่งเปรียบเสมือน data warehouse ขนาดใหญ่  การนำเสนอจะกล่าวถึงปัญหาการใช้งาน analysis แบบ real-time ใน Web3 และวิธีการเชื่อมต่อ OLTP และ OLAP  โดยยกตัวอย่าง use case และ product ต่างๆ ที่ใช้  รวมถึงเทคโนโลยีอย่าง GoLang, Postgres, Parquet และ database ยุคใหม่เช่น ClickHouse ที่ถูกออกแบบมาเพื่อตอบโจทย์ real-time OLTP  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์เกี่ยวกับการจัดการข้อมูลขนาดใหญ่บน Blockchain และเทคนิคต่างๆ ในการพัฒนา Web3 application ได้ในวิดีโอนี้\n",
-        "published": false,
+        "published": "2025-05-22",
         "language": "th",
         "subtitles": [
           "th"
@@ -2861,7 +2861,7 @@
         "youtube": "5CMuXc2lsWU",
         "managed": true,
         "description": "มาไขความลับเบื้องหลังวงการ data engineering กับคุณตั้ว Cloud Director และคุณกานต์ Cloud Optimization and Automation Consultant จาก MFEC  ทั้งสองท่านจะมาเล่าประสบการณ์ตรงเกี่ยวกับความเชื่อและความจริงในการทำงาน data engineering พร้อมเผยปัญหาที่มักพบเจอ ตั้งแต่การออกแบบ data pipeline การรับมือกับ pipeline ที่พัง ไปจนถึงการทำงานร่วมกันข้ามทีม  ไม่ว่าคุณจะเป็น data engineer, system admin, network admin หรือ data owner  วิดีโอนี้จะช่วยให้คุณเห็นภาพรวมของงาน data engineering และความสำคัญของการสื่อสาร  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์ เพื่อพัฒนาวงการ data engineering ไปด้วยกัน\n",
-        "published": false,
+        "published": "2025-05-26",
         "language": "th",
         "subtitles": [
           "th"
@@ -4921,7 +4921,7 @@
         "youtube": "iRqY5QoBoS0",
         "managed": true,
         "description": "มาทำความรู้จักกับ Hydra.js เครื่องมือบนเว็บสำหรับสร้าง Visual แบบ Live coding  ไม่ว่าคุณจะเป็นโปรแกรมเมอร์หรือนักสร้างสรรค์งานกราฟิก  วิดีโอนี้จะพาคุณไปสำรวจความสามารถของ Hydra.js ตั้งแต่ประวัติศาสตร์ความเป็นมาที่เชื่อมโยงกับ Sandin image processor และ Demo scene  ไปจนถึงการสาธิตการใช้งานฟังก์ชันต่างๆ  เช่น  oscillator, noise,  และ  kaleid  พร้อมตัวอย่างการปรับแต่งสี  รูปทรง  และเอฟเฟกต์ต่างๆ  เรียนรู้เทคนิคการใช้  arrow function  และตัวแปร  time  เพื่อสร้าง animation  รวมถึงการ modulate  สัญญาณเพื่อสร้าง Visual ที่ซับซ้อนและน่าสนใจยิ่งขึ้น  ไม่ว่าคุณจะมีพื้นฐานการเขียนโค้ดหรือไม่  วิดีโอนี้จะเปิดโลกการสร้างสรรค์ Visual ด้วยวิธีที่ง่ายและสนุก  พร้อมตัวอย่างการเชื่อมต่อกับกล้อง  เสียง  และ  screen capture  เพื่อต่อยอดไอเดียของคุณ\n",
-        "published": false,
+        "published": "2025-04-28",
         "language": "th",
         "subtitles": [
           "th"
@@ -4958,7 +4958,7 @@
         "youtube": "ZLOFY67jCuw",
         "managed": true,
         "description": "มาทำความรู้จักกับการสร้าง AI Guessing Image Game ง่ายๆ ด้วย p5.js และ Ollama ในเซสชันนี้ โบ๊ท ชรันธร ลิ้มสีโล Microsoft Learn Student Ambassador และ student tech lead ประเทศไทย จะมาแบ่งปันแรงบันดาลใจจากเกม Quick, Draw! ของ Google พร้อมอธิบายกลไกการทำงานของโปรเจกต์ที่ผสานความสามารถของ p5.js ในการวาดภาพ และ Ollama ซึ่งเปรียบเหมือนเป็น docker สำหรับรันโมเดล LLaVA (Large Language Vision Assistant) แบบ local  โดยไม่ต้องใช้อินเทอร์เน็ต  ตัวอย่างการใช้งานจริงจะแสดงให้เห็นถึงวิธีการวาดภาพ อัปโหลด และให้ LLaVA วิเคราะห์ภาพที่วาด  มาร่วมเรียนรู้และค้นพบความเป็นไปได้ใหม่ๆ ของ small language model ในการสร้างสรรค์แอปพลิเคชันแบบ multimodal ที่น่าสนใจ\n",
-        "published": false,
+        "published": "2025-05-14",
         "language": "th",
         "subtitles": [
           "th"
@@ -4999,7 +4999,7 @@
         "youtube": "CaQ9fO1xto8",
         "managed": true,
         "description": "ฟิล์ม อดีตเด็ก JSTP พาสำรวจจุดเริ่มต้นของ Proxenorobotics โปรเจกต์สร้างหุ่นยนต์จากปฏิสัมพันธ์ของโปรตีน  โดยเชื่อมโยงความสัมพันธ์ระหว่างวิทยาศาสตร์ ศิลปะ และปรัชญา ผ่านมุมมองที่ไม่เหมือนใคร  ฟิล์มจะพาคุณไปพบกับแรงบันดาลใจจากค่าย JSTP ที่จุดประกายความคิดสร้างสรรค์  รวมถึงการนำ concept ทางชีววิทยาและคณิตศาสตร์มาผสมผสานกันอย่างลงตัว  และการใช้ AI ในการถอดรหัสประวัติศาสตร์เบื้องหลังหุ่นยนต์  มาร่วมค้นหาความเชื่อมโยงอันน่าสนใจระหว่างศาสตร์ต่างๆ และความเป็นไปได้ใหม่ๆ ในโลกของวิทยาศาสตร์และเทคโนโลยีไปพร้อมกัน\n",
-        "published": false,
+        "published": "2025-05-06",
         "language": "th",
         "subtitles": [
           "th"
@@ -5035,7 +5035,7 @@
         "youtube": "JjZCkvTN0-Q",
         "managed": true,
         "description": "พบกับเรื่องราวการพัฒนา Three Scene Studio โปรเจกต์ที่ช่วยลดความยุ่งยากในการสร้าง 3D กราฟิกบนเว็บ  ผู้บรรยายซึ่งเป็น software engineer ผู้หลงใหลในคอมพิวเตอร์กราฟิก จะมาแชร์ปัญหาและความท้าทายที่พบเจอในการพัฒนา 3D กราฟิกบนเว็บ เช่น การตั้งค่า Renderer, Scene, Pixel Ratio และการจัดการ Offscreen Event  รวมถึงปัญหา Compatibility ระหว่าง Blender และ Three.js  พร้อมสาธิตการใช้งาน Three Scene Studio ตั้งแต่การ export โมเดลจาก Blender การปรับแต่งค่าต่างๆ ในโปรแกรมแบบ real-time โดยไม่ต้องเขียนโค้ด ไปจนถึงการนำไฟล์ .tss ที่ export ออกมาไปใช้ในโปรเจกต์ React  มาร่วมเรียนรู้วิธีสร้าง 3D กราฟิกบนเว็บให้ง่ายขึ้นด้วย Three Scene Studio\n",
-        "published": false,
+        "published": "2025-05-10",
         "language": "th",
         "subtitles": [
           "th"
@@ -5072,7 +5072,7 @@
         "youtube": "4ePm0u8Z5H0",
         "managed": true,
         "description": "Description: A participatory performance in which each participant is a single data point, physically embodying their values.\n",
-        "published": false,
+        "published": "2025-05-02",
         "language": "th",
         "subtitles": [
           "th"
