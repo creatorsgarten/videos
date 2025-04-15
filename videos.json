@@ -2779,7 +2779,7 @@
         "youtube": "M8Qd3WFNlDQ",
         "managed": true,
         "description": "คุณโยธิน Data Engineer จาก LINE Thailand จะพาคุณสำรวจโลกของ Data Catalog ส่วนประกอบสำคัญแต่กลับไม่ค่อยถูกพูดถึงในการสร้าง Data Platform  การบรรยายนี้จะพาคุณย้อนรอยวิวัฒนาการของ Data Catalog ตั้งแต่ยุคห้องสมุดจนถึงยุคคลาวด์  เรียนรู้ถึงความสำคัญของ Data Catalog ในการจัดการข้อมูลมหาศาลใน Data Lake และวิธีที่มันช่วยหลีกเลี่ยงปัญหา Data Swamp  พบกับการเปรียบเทียบ Hive Metastore และ Iceberg Catalog พร้อมเจาะลึกกลไกการทำงานเบื้องหลัง  และมองไปยังอนาคตของ Data Catalog กับเทรนด์ต่างๆ เช่น Format Agnostic Catalog ไม่ว่าคุณจะเป็น Data Engineer มือใหม่หรือผู้มีประสบการณ์  วิดีโอนี้จะช่วยให้คุณเข้าใจบทบาทและความสำคัญของ Data Catalog ในการสร้าง Data Platform ที่มีประสิทธิภาพมากยิ่งขึ้น\n",
-        "published": "2025-05-13",
+        "published": "2025-05-22",
         "language": "th",
         "subtitles": [
           "th"
@@ -2861,7 +2861,7 @@
         "youtube": "5CMuXc2lsWU",
         "managed": true,
         "description": "มาไขความลับเบื้องหลังวงการ data engineering กับคุณตั้ว Cloud Director และคุณกานต์ Cloud Optimization and Automation Consultant จาก MFEC  ทั้งสองท่านจะมาเล่าประสบการณ์ตรงเกี่ยวกับความเชื่อและความจริงในการทำงาน data engineering พร้อมเผยปัญหาที่มักพบเจอ ตั้งแต่การออกแบบ data pipeline การรับมือกับ pipeline ที่พัง ไปจนถึงการทำงานร่วมกันข้ามทีม  ไม่ว่าคุณจะเป็น data engineer, system admin, network admin หรือ data owner  วิดีโอนี้จะช่วยให้คุณเห็นภาพรวมของงาน data engineering และความสำคัญของการสื่อสาร  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์ เพื่อพัฒนาวงการ data engineering ไปด้วยกัน\n",
-        "published": "2025-05-26",
+        "published": "2025-05-30",
         "language": "th",
         "subtitles": [
           "th"
