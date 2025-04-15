@@ -130,7 +130,7 @@ and E2B, okay? That's the goal.
 And quick introduction, my name is Tobias.
 
 00:02:17.280 --> 00:02:18.624
-I'm co-founder at HubQL.
+I'm co-founder at Hubql.
 
 00:02:19.232 --> 00:02:21.568
 And we experiment with dev tooling,
@@ -379,7 +379,7 @@ I hope you can see this.
 So,
 
 00:06:48.160 --> 00:06:50.848
-basic Elixir app, a post endpoint.
+basic Elysia app, a POST endpoint.
 
 00:06:51.232 --> 00:06:54.752
 And then what we can do, I skipped the part of validating
@@ -619,10 +619,10 @@ So what you do is Git config, Git clone
 and then you can run it. So maybe have something like pnpm dev, for example.
 
 00:11:09.696 --> 00:11:13.280
-You can run it and then interact with this sandbox to make changes to your cloned repository.
+You can run it and then interact with this sandbox to make changes to
 
 00:11:13.984 --> 00:11:15.296
-Your cloned repository.
+your cloned repository.
 
 00:11:16.512 --> 00:11:18.688
 And of course, you can use anything else to do this,
@@ -643,10 +643,10 @@ right? You have to do some instructions. So if you've worked with AI before,
 you have a prompt. This is one example.
 
 00:11:37.696 --> 00:11:40.544
-I used the example from, it's called Make.
+I used the example from, it's called Maige.
 
 00:11:41.376 --> 00:11:42.336
-Make is
+Maige is
 
 00:11:43.040 --> 00:11:45.728
 I would say a copy of Devin, maybe.
@@ -850,16 +850,16 @@ Maybe you want to build something on top of this. I already gave you the framewo
 So feel free to
 
 00:15:27.168 --> 00:15:29.856
-scan this. Again, this is not payment.
+scan this. Again, this is not a payment
 
 00:15:30.304 --> 00:15:33.152
-Quote, this goes to the repository.
+code, this goes to the repository.
 
 00:15:33.888 --> 00:15:36.064
 I'll share the link later as well.
 
 00:15:37.120 --> 00:15:41.504
-And also, if you do one of those, we might have a job for you at Hasura.
+And also, if you do one of those, we might have a job for you at Hubql.
 
 00:15:41.536 --> 00:15:43.776
 So that might be some motivation for you
@@ -898,7 +898,7 @@ Yeah, it's actually quite simple.
 There are only two files, one of which we saw before.
 
 00:16:36.064 --> 00:16:39.968
-One of them is the Elijah app. So this is receiving our webhook.
+One of them is the Elysia app. So this is receiving our webhook.
 
 00:16:41.120 --> 00:16:44.416
 And then what we do is task trigger. So task trigger
