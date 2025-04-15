@@ -157,7 +157,7 @@ start to be conduct with, right?
 So we have the easy way that we try to
 
 00:03:26.496 --> 00:03:28.608
-do and everyone prob
+do and everyone
 
 00:03:28.672 --> 00:03:32.032
 probably familiar with it, which is the unit testing, right?
@@ -406,10 +406,10 @@ software
 functionality rule
 
 00:07:58.240 --> 00:08:00.928
-and use it as our testing
+and use it as our testing?
 
 00:08:01.888 --> 00:08:03.008
-way?
+Why?
 
 00:08:05.216 --> 00:08:05.472
 It
@@ -517,7 +517,7 @@ and then Cucumber is with the
 more like the name of the platform, right?
 
 00:09:42.176 --> 00:09:46.336
-Right. I think you probably know the term called given when then.
+Right. I think you probably know the term called Given-When-Then.
 
 00:09:47.488 --> 00:09:47.776
 Right.
@@ -637,7 +637,7 @@ So, in this
 Indeed, on this, the
 
 00:11:47.776 --> 00:11:52.000
-On this session, I will use just Elixir
+On this session, I will use just Elysia
 
 00:11:52.192 --> 00:11:54.304
 I think I heard a good name here.
@@ -796,7 +796,7 @@ put my credit card on the system,
 then my credit card
 
 00:14:33.472 --> 00:14:37.888
-will be served on the system, right? So, just simple,
+will be saved on the system, right? So, just simple,
 
 00:14:38.368 --> 00:14:42.624
 precondition and then action and then
@@ -1063,10 +1063,10 @@ about being agile is working software is the measure of progress.
 So, yeah.
 
 00:19:15.008 --> 00:19:16.608
-So, we want to build something
+So, we want to build something.
 
 00:19:17.440 --> 00:19:19.552
-was so small. We want to build a basic
+Oops, so small. We want to build a basic
 
 00:19:20.032 --> 00:19:25.920
 online rock-paper-scissors game using server-client, right? So, the mechanic
@@ -1114,7 +1114,7 @@ I put the QR code here. You can scan. It's not the prompt pay, it's the link to 
 which is like later, sure.
 
 00:20:21.632 --> 00:20:27.008
-Right. So, yeah, the text stack is simple. We have Pact.
+Right. So, yeah, the tech stack is simple. We have Pact.
 
 00:20:27.168 --> 00:20:27.680
 We have
@@ -1162,7 +1162,7 @@ Yeah, just a small thing.
 Kubernetes also does the same thing as the
 
 00:21:13.216 --> 00:21:16.288
-test container, but with last, larger scale, right?
+test container, but with larger scale, right?
 
 00:21:17.056 --> 00:21:21.280
 So, another thing we're going to do is the CucumberJS.
@@ -1195,7 +1195,7 @@ Yeah. And we use another
 framework, a popular framework from Thai
 
 00:21:51.520 --> 00:21:54.624
-engineer, right? I don't remember who built it. It's called Alicia.
+engineer, right? I don't remember who built it. It's called Elysia.
 
 00:21:55.264 --> 00:21:56.192
 Nice name, I like it.
@@ -1207,7 +1207,7 @@ Yeah.
 Cool. So let's see how we can build this software
 
 00:22:03.488 --> 00:22:05.472
-and paste the information together, right?
+and piece the information together, right?
 
 00:22:05.984 --> 00:22:06.336
 So,
@@ -1246,10 +1246,10 @@ to
 predict the server outcome, right?
 
 00:22:35.840 --> 00:22:36.192
-We
+Which,
 
 00:22:36.832 --> 00:22:37.472
-Luckily,
+luckily,
 
 00:22:38.144 --> 00:22:40.384
 is the same way as the software
@@ -1273,7 +1273,7 @@ the way that we can ensure that
 the server knows what they are doing.
 
 00:23:03.296 --> 00:23:03.488
-And then everything beside the server side where client will be served under
+Alright
 
 00:23:04.064 --> 00:23:08.160
 And then everything besides the server side where the client will be served under
@@ -1465,7 +1465,7 @@ VS Code. Okay.
 ใช่ครับ ขอบคุณครับ
 
 00:26:37.920 --> 00:26:42.112
-Okay. Yeah, it's a little bit of the technical hustle.
+Okay. Yeah, it's a little bit of the technical hassle.
 
 00:26:42.336 --> 00:26:45.984
 So, yeah, going back to our beloved
@@ -1498,7 +1498,7 @@ will be called contract and it's going to get used
 by the
 
 00:27:19.904 --> 00:27:23.584
-server side to validate that to validate dashing against us.
+server side to validate that to validate that change against us.
 
 00:27:26.112 --> 00:27:29.696
 So the concept is pretty simple. It's just
@@ -1653,12 +1653,6 @@ the document on. And you need And you This document
 00:30:10.336 --> 00:30:12.160
 will serve as your
 
-00:30:16.768 --> 00:30:17.280
-Bye bye.
-
-00:30:20.192 --> 00:30:22.784
-Everything working. Yeah. Success.
-
 00:30:25.760 --> 00:30:31.392
 Yeah, we have We have We have other sessions before this, so they are They might already drain all batteries.
 
@@ -1690,7 +1684,7 @@ since it's tangible and we can like touch it and feel it. We build the UI first.
 So we start build a UI, we
 
 00:31:00.224 --> 00:31:02.368
-Bootstrap. This one we are bun
+bootstrap. This one we are bun
 
 00:31:02.848 --> 00:31:04.992
 in its command and then boom!
@@ -1729,7 +1723,7 @@ on each button that we create below.
 Right, we create three buttons, rock paper scissor.
 
 00:31:37.440 --> 00:31:40.512
-We put data tested ID, so it is easier for like
+We put data-testid, so it is easier for like
 
 00:31:40.544 --> 00:31:42.208
 automation test.
@@ -1759,7 +1753,7 @@ But since I want to demonstrate to you fast, so like
 The API itself has one function, extra function, so
 
 00:32:07.680 --> 00:32:09.184
-we can overlay
+we can override
 
 00:32:10.080 --> 00:32:14.560
 the target API on each, each time you start the,
@@ -1771,16 +1765,16 @@ server, right? Or start the UI.
 Now the UI is done, you just send the API, and the API is
 
 00:32:21.248 --> 00:32:23.168
-API mesh action.
+API match action.
 
 00:32:23.648 --> 00:32:27.488
-Like, just, we send the action to API on the mesh, right?
+Like, just, we send the action to API on the match, right?
 
 00:32:28.192 --> 00:32:31.392
-So then, respond nothing.
+So then, respond. Nothing
 
 00:32:31.712 --> 00:32:35.488
-Fancy, unless it's error, we don't, we do not, we just
+fancy, unless it's error, we don't, we do not, we just
 
 00:32:36.096 --> 00:32:38.880
 set the, like, the data that
@@ -1801,7 +1795,7 @@ Then, the API
 we do it. So let's say we are on different teams, we build this API.
 
 00:32:53.344 --> 00:32:56.608
-Then we start it on the ECS server, right?
+Then we start it on the Elysia server, right?
 
 00:32:57.024 --> 00:33:01.472
 So we create one action here, one post action here.
@@ -1857,23 +1851,17 @@ this package.
 00:33:50.752 --> 00:33:52.896
 So at first, what we do is by
 
-00:33:56.544 --> 00:33:57.536
-อันนี้เปลี่ยนให้แล้ว
-
-00:33:58.080 --> 00:33:58.432
-อ่า โอเค
-
 00:34:01.024 --> 00:34:04.320
-So we use yarn add Cucumber add
+So we use bun add cucumber,
 
 00:34:05.024 --> 00:34:05.760
-Expect foundation
+@pact-foundation
 
 00:34:06.464 --> 00:34:09.056
 for our consumer driven contract testing.
 
 00:34:09.632 --> 00:34:14.431
-And test library, this one is not neat, it just use it for boilerplate code.
+And test library, this one is not needed, it just use it for boilerplate code.
 
 00:34:14.623 --> 00:34:18.368
 And then yeah, this one is as IO, we need it.
@@ -2110,7 +2098,7 @@ we want to build
 the
 
 00:38:10.336 --> 00:38:10.624
-provider, right?
+Pact
 
 00:38:11.168 --> 00:38:11.392
 contract.
@@ -2185,7 +2173,7 @@ that we create the
 container, Docker container,
 
 00:39:28.384 --> 00:39:33.856
-and from PACT foundation, and then mount the contract part
+and from PACT foundation, and then mount the contract path
 
 00:39:34.816 --> 00:39:39.584
 to the container and start it on the random port, right? We start a random port.
@@ -2197,7 +2185,7 @@ And then
 we
 
 00:39:44.032 --> 00:39:46.656
-create the we start the game client.
+start the game client.
 
 00:39:47.264 --> 00:39:48.864
 Since it's like
@@ -2209,7 +2197,7 @@ the most dirtiest way to start the game client because we want to start the brow
 We don't want to render our test.
 
 00:39:56.096 --> 00:40:01.184
-We start the browser, we execute a thing, we create the command line, we override the server here.
+We start the browser, we execSync, we create the command line, we override the server here.
 
 00:40:01.632 --> 00:40:06.592
 And then, boom, the magic happened. Below, we launched the
@@ -2221,7 +2209,7 @@ browser.
 that talk to the client side.
 
 00:40:11.264 --> 00:40:13.088
-or webpack the server here.
+or webpack-dev-server here.
 
 00:40:13.792 --> 00:40:16.032
 Then, it's not webpack, it's bundle server.
@@ -2323,10 +2311,10 @@ Nah.
 Uh
 
 00:42:06.016 --> 00:42:08.224
-I wonder how many test kits
+I wonder how many test cases
 
 00:42:08.288 --> 00:42:11.776
-Can it be? It depends on how we write the Cucumber file.
+can it be? It depends on how we write the Cucumber file.
 
 00:42:12.544 --> 00:42:17.824
 Yeah, it depends on how many Cucumber or how many
@@ -2356,7 +2344,7 @@ But it's kind of like we don't need to
 specify all
 
 00:42:39.424 --> 00:42:40.960
-the test kit by ourselves.
+the test cases by ourselves.
 
 00:42:41.248 --> 00:42:44.640
 But like give it some example and Yeah. Oh.
