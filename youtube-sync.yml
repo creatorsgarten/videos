@@ -21293,7 +21293,7 @@ video:M8Qd3WFNlDQ:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:M8Qd3WFNlDQ:caption:th:
   spec:
@@ -21499,7 +21499,7 @@ video:_rYY22cDhbw:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:_rYY22cDhbw:caption:th:
   spec:
