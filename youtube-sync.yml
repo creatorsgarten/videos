@@ -21953,10 +21953,12 @@ video:LOorcSZtpQs:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs23/safety
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -21993,10 +21995,12 @@ video:QC532-L-6k4:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs23/webassembly
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -22033,10 +22037,12 @@ video:ZhkdwuPHId4:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs23/lmwn
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -22075,10 +22081,12 @@ video:skHc2eJvHyk:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs23/thunder
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -22115,12 +22123,64 @@ video:zd2R3V4RvOI:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs23/promises
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:LOorcSZtpQs:caption:en:
+  spec:
+    videoId: LOorcSZtpQs
+    filePath: data/videos/bkkjs23/safety_en.vtt
+    language: en
+    name: English
+    hash: b3ac971fef1a29bd6c3c7bb05213fe78257c9c1b2ae5c30a28ac5ad9e3f861d3
+    isDraft: false
+  state:
+    id: AUieDaZZHK7YRC1DbxJKm2_s4_04sMNE0EqZo4Kd4nlMMIm52pRHWRB8
+video:QC532-L-6k4:caption:th:
+  spec:
+    videoId: QC532-L-6k4
+    filePath: data/videos/bkkjs23/webassembly_th.vtt
+    language: th
+    name: Thai
+    hash: 6c9e9651ade773dc7d52e5639e76f87ad7b5cbe344cbec14fc0124962713e604
+    isDraft: false
+  state:
+    id: AUieDaalRtfalXL0egSwm0WOZRnkq3eOr_oQrUIE62Mx6pFlGPkm
+video:ZhkdwuPHId4:caption:th:
+  spec:
+    videoId: ZhkdwuPHId4
+    filePath: data/videos/bkkjs23/lmwn_th.vtt
+    language: th
+    name: Thai
+    hash: 011d36f4fbe884025e42063f1a19a78be2e5a5c706702c684fbfd87cac74d0ae
+    isDraft: false
+  state:
+    id: AUieDaYvUErEM-DHecxBBYcZDzf42nohR9OzfuQ1CWV4ix2CRztf
+video:skHc2eJvHyk:caption:th:
+  spec:
+    videoId: skHc2eJvHyk
+    filePath: data/videos/bkkjs23/thunder_th.vtt
+    language: th
+    name: Thai
+    hash: 0de920b4cb97d0566c4a9a6ab6f850051d6951642b4b3b9051529b738aab759e
+    isDraft: false
+  state:
+    id: AUieDaYQcop-nChFPx_MuiXn8q4WOCrY1BXOLsVWZD-na5fZcpoE
+video:zd2R3V4RvOI:caption:th:
+  spec:
+    videoId: zd2R3V4RvOI
+    filePath: data/videos/bkkjs23/promises_th.vtt
+    language: th
+    name: Thai
+    hash: 1b46a664a54a8de7db15734eaed092c2548abd7d4c4f95395475bf8b5249d218
+    isDraft: false
+  state:
+    id: AUieDaYvv9W1ZoQwkplS9_IiHdWGVMQxelWThnjwoTb1JoTWFcMK
