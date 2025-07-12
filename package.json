@@ -1,5 +1,8 @@
 {
 	"type": "module",
+	"scripts": {
+		"add-video": "tsx src/scripts/prompt-add-video.ts"
+	},
 	"dependencies": {
 		"@ai-sdk/anthropic": "^1.1.13",
 		"@ai-sdk/google": "^1.1.17",
