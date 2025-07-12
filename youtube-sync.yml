@@ -21890,3 +21890,237 @@ video:fIF3w66IroM:caption:en:
     isDraft: false
   state:
     id: AUieDabZKiR2NDaCS3UKrE2s3XZFBvqqg7t5tb4vwL_y4V0wDMO9mFLY
+thumbnail:LOorcSZtpQs:
+  spec:
+    videoId: LOorcSZtpQs
+    filePath: data/videos/bkkjs23/safety.jpg
+    hash: 7d76b9183a7b4e8e779f6f30565632da996967e49e9d5d2fd60f318e7db07e61
+  state: {}
+thumbnail:QC532-L-6k4:
+  spec:
+    videoId: QC532-L-6k4
+    filePath: data/videos/bkkjs23/webassembly.jpg
+    hash: f0679928263015b024f72276015a3aca4daf6c592ead5fff1a37147884d4e796
+  state: {}
+thumbnail:ZhkdwuPHId4:
+  spec:
+    videoId: ZhkdwuPHId4
+    filePath: data/videos/bkkjs23/lmwn.jpg
+    hash: ace666e8bc864e9cbcbe75b936f4675c6422e03ffa9d57c121698c29ded0fa30
+  state: {}
+thumbnail:skHc2eJvHyk:
+  spec:
+    videoId: skHc2eJvHyk
+    filePath: data/videos/bkkjs23/thunder.jpg
+    hash: e047578ceed3aa083d29554fd0af713aaf7343044139faf232059a5080fbe05f
+  state: {}
+thumbnail:zd2R3V4RvOI:
+  spec:
+    videoId: zd2R3V4RvOI
+    filePath: data/videos/bkkjs23/promises.jpg
+    hash: 7eeefb33129c33ba396453748407c3c3eae2ac4d74a0f5349cb416ed00e08a2a
+  state: {}
+video:LOorcSZtpQs:
+  spec:
+    id: LOorcSZtpQs
+    snippet:
+      title: >-
+        Engineering Without a Safety Net: Where It Works and Where It Hurts by
+        Faris Aziz
+      description: >-
+        Event: BKK.JS #23
+
+        https://grtn.org/e/bkkjs23
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs23/safety
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:QC532-L-6k4:
+  spec:
+    id: QC532-L-6k4
+    snippet:
+      title: Intro to Web Assembly by Karn Wong
+      description: >-
+        Event: BKK.JS #23
+
+        https://grtn.org/e/bkkjs23
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs23/webassembly
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ZhkdwuPHId4:
+  spec:
+    id: ZhkdwuPHId4
+    snippet:
+      title: Building Library Ecosystem in LMWN by Voraton Lertrattanapaisal
+      description: >-
+        Event: BKK.JS #23
+
+        https://grtn.org/e/bkkjs23
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs23/lmwn
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:skHc2eJvHyk:
+  spec:
+    id: skHc2eJvHyk
+    snippet:
+      title: >-
+        Tech Behind the Scene: NETFLIX'S Mad Unicorn ⚡ by Chayapatr
+        Archiwaranguprok
+      description: >-
+        Event: BKK.JS #23
+
+        https://grtn.org/e/bkkjs23
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs23/thunder
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:zd2R3V4RvOI:
+  spec:
+    id: zd2R3V4RvOI
+    snippet:
+      title: Supercharge Your JavaScript Promises by Pornpat Paethong
+      description: >-
+        Event: BKK.JS #23
+
+        https://grtn.org/e/bkkjs23
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs23/promises
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
