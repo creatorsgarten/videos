@@ -4,4 +4,6 @@ speaker: Voraton Lertrattanapaisal
 youtube: ZhkdwuPHId4
 managed: true
 published: false
+subtitles: [th]
+language: th
 ---

@@ -4,4 +4,6 @@ speaker: Karn Wong
 youtube: QC532-L-6k4
 managed: true
 published: false
+subtitles: [th]
+language: th
 ---

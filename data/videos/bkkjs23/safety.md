@@ -4,4 +4,6 @@ speaker: Faris Aziz
 youtube: LOorcSZtpQs
 managed: true
 published: false
+subtitles: [en]
+language: en
 ---

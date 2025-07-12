@@ -4,4 +4,6 @@ speaker: Chayapatr Archiwaranguprok
 youtube: skHc2eJvHyk
 managed: true
 published: false
+subtitles: [th]
+language: th
 ---
