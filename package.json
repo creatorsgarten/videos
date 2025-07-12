@@ -1,7 +1,8 @@
 {
 	"type": "module",
 	"scripts": {
-		"add-video": "tsx src/scripts/prompt-add-video.ts"
+		"video:add": "tsx src/scripts/prompt-add-video.ts",
+		"video:generate-metadata": "tsx src/scripts/generate-metadata.ts"
 	},
 	"dependencies": {
 		"@ai-sdk/anthropic": "^1.1.13",
