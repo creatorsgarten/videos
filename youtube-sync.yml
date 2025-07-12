@@ -21928,6 +21928,64 @@ video:LOorcSZtpQs:
         Engineering Without a Safety Net: Where It Works and Where It Hurts by
         Faris Aziz
       description: >-
+        Ever wondered when it's okay to bypass those safety nets in
+        engineering?  This talk explores the delicate balance between shipping
+        fast and building reliable software.  Faris Aziz, a Staff Software
+        Engineer at Smallpdf with experience across various industries, shares
+        insights from his journey working with different companies and their
+        unique approaches to safety nets, from manual QA to rigorous test
+        coverage.  He delves into the real-world costs of cutting corners,
+        highlighting the importance of metrics, observability, and resilience. 
+        Join us to learn how to build confidence in your deployments, identify
+        areas where risks are acceptable, and understand the long-term
+        implications of your engineering choices.  Discover how to navigate the
+        trade-offs and deliver value sustainably without sacrificing stability.
+
+
+        0:00 | Introduction and Icebreaker: The Rubber Ducky Method
+
+        0:51 | Engineering Without a Safety Net: Finding the Balance
+
+        2:09 | Speaker's Journey: Safety Nets in Different Companies
+
+        7:54 | When Bypassing Safety Nets is Acceptable (and When It's Not)
+
+        8:47 | Speaker Introduction: Faris Aziz, Staff Software Engineer
+
+        10:12 | Defining Safety Nets: Testing, Metrics, Observability,
+        Resilience
+
+        12:30 | Manual Testing and QA Terminology
+
+        13:35 | The Importance of Metrics and Trend Analysis
+
+        15:54 | Resilience Patterns: Beyond Basic Retries
+
+        17:30 | Building Complete Confidence: Combining Testing, Metrics, and
+        Resilience
+
+        18:00 | Introducing DORA Metrics: Focusing on Outcomes
+
+        19:36 | The High Cost of Flying Blind: Downtime and Failures
+
+        20:36 | The Language of Confidence: Identifying Smells of Low Confidence
+
+        22:00 | Where to Cut Corners (and Where Not To)
+
+        22:29 | Deployment Strategies for Reducing Blast Radius
+
+        23:00 | Feature Flags: Duplicate Code for Guaranteed Rollbacks
+
+        24:16 | Finding the Right Balance: Context and Business Needs
+
+        25:17 | Q&A: Feature Flags, Front-End Observability, Balancing Cost and
+        Safety
+
+        33:09 | Giving Away JetBrains Licenses and Closing Remarks
+
+
+        --------------------------------------------
+
         Event: BKK.JS #23
 
         https://grtn.org/e/bkkjs23
@@ -21970,6 +22028,64 @@ video:QC532-L-6k4:
     snippet:
       title: Intro to Web Assembly by Karn Wong
       description: >-
+        มาทำความรู้จักกับ WebAssembly (Wasm)
+        เทคโนโลยีใหม่ที่น่าสนใจสำหรับนักพัฒนา  คุณการ independent consultant
+        จะมาแชร์ความรู้เกี่ยวกับ Wasm ตั้งแต่พื้นฐานว่ามันคืออะไร ทำงานอย่างไร
+        และข้อดีข้อเสียเป็นอย่างไร  รวมถึงวิธีการนำ Wasm
+        มาประยุกต์ใช้กับงานที่เราทำอยู่ทุกวันนี้  โดยเน้นที่ความสามารถในการ
+        portability ข้ามแพลตฟอร์ม  ลดขนาดของ binary และ container 
+        และการใช้งานจริงในผลิตภัณฑ์อย่าง Google Earth 
+        วิดีโอนี้เหมาะสำหรับนักพัฒนาที่ต้องการเรียนรู้เทคโนโลยีใหม่ๆ
+        เพื่อเพิ่มประสิทธิภาพในการทำงานและลดต้นทุน  มาร่วมสำรวจศักยภาพของ Wasm
+        และวิธีที่มันอาจจะเปลี่ยนแปลงวงการพัฒนาซอฟต์แวร์ไปพร้อมๆ กัน
+
+
+        00:00 | เริ่มต้นการพูดคุยและแนะนำตัว (Intro & Technical Difficulties)
+
+        00:58 | WebAssembly คืออะไร? (What is WebAssembly?)
+
+        02:41 | ปัญหาโลกแตกของการ Deploy workloads แบบเดิมๆ (Deployment
+        Problems)
+
+        05:05 | ข้อดีของ WebAssembly: เบาและรันได้ทุกที่ (Advantages:
+        Lightweight & Portable)
+
+        07:51 | WebAssembly vs. Rust/Go: ขนาดไฟล์และประสิทธิภาพ (File Size &
+        Performance Comparison)
+
+        09:09 | ข้อดีเพิ่มเติม: Client-side execution และลดค่าใช้จ่าย
+        (Client-side & Cost Reduction)
+
+        10:52 | การใช้งาน WebAssembly นอก Browser (WASM Outside Browsers)
+
+        12:53 | WebAssembly กับ IoT (WASM and IoT)
+
+        13:56 | WebAssembly กับ CDN (WASM and CDN)
+
+        15:19 | ตัวอย่างการใช้งานจริงจาก Google Earth (Google Earth Use Case)
+
+        15:58 | WebAssembly กับ Containers (WASM and Containers)
+
+        16:46 | Benchmark: เปรียบเทียบประสิทธิภาพ (Performance Benchmark)
+
+        17:27 | เปรียบเทียบขนาดไฟล์ Binary และ Container (File Size Comparison)
+
+        17:55 | การเรียก WebAssembly จากภาษาอื่นๆ (Calling WASM from Other
+        Languages)
+
+        18:34 | ช่วงถาม-ตอบ (Q&A)
+
+        19:30 | คำถามที่ 1: WebAssembly กับ Front-end และ SEO (WASM, Front-end &
+        SEO)
+
+        23:01 | คำถามที่ 2: Use Cases และการเลือกใช้ WebAssembly (Use Cases &
+        Selection Criteria)
+
+        26:03 | ประกาศผู้โชคดีและปิดท้าย (Winner Announcement & Closing)
+
+
+        --------------------------------------------
+
         Event: BKK.JS #23
 
         https://grtn.org/e/bkkjs23
@@ -22012,6 +22128,67 @@ video:ZhkdwuPHId4:
     snippet:
       title: Building Library Ecosystem in LMWN by Voraton Lertrattanapaisal
       description: >-
+        คุณโอ๊ต Staff Software Engineer จาก LINE MAN Wongnai
+        จะมาแชร์ประสบการณ์การสร้าง library ecosystem ภายในองค์กร 
+        ฟังเรื่องราวเบื้องหลังการพัฒนา library ต่างๆ ตั้งแต่จุดเริ่มต้นเล็กๆ
+        จนเติบโตเป็นระบบนิเวศที่ซับซ้อน  เรียนรู้ถึงปัญหาที่พบเจอจากการสร้าง
+        library ขนาดใหญ่ที่ทำหน้าที่มากเกินไป และวิธีการแก้ไขด้วยการแตก library
+        ออกเป็นส่วนย่อยๆ ที่ทำงานร่วมกัน  รวมถึงการใช้เครื่องมืออย่าง kleros และ
+        Worachak Classic ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web
+        application  มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library
+        อย่างไรให้มีประสิทธิภาพและสามารถนำกลับมาใช้ซ้ำได้ในหลายๆ โปรเจกต์ 
+        พร้อมรับฟังเคล็ดลับการตั้งชื่อ library และแผนการพัฒนาในอนาคต
+
+
+        0:00 | แนะนำตัวและหัวข้อ: สร้าง Library Ecosystem ใน LINE MAN Wongnai
+
+        0:40 | Library Ecosystem คืออะไร? ทำไมต้องสร้าง Library?
+
+        1:11 | ปัญหาของ Library ที่ใหญ่เกินไป และทางแก้: แตก Library ออกเป็น
+        Ecosystem
+
+        3:05 | ตัวอย่าง Library Ecosystem ที่คุ้นเคย: React, TanStack, Material
+        UI
+
+        4:08 | LINE MAN Wongnai มีอะไรบ้าง? ทำไมต้องมี Library Ecosystem?
+
+        5:44 | ปัญหาโค้ดซ้ำซ้อนใน Web Application และทางแก้: สร้าง Library
+
+        7:00 | kleros: Library สำหรับสร้าง Library
+
+        7:42 | สร้าง Web App ง่ายๆ ด้วย Worachak Classic
+
+        8:45 | Worachak Classic: เปรียบเสมือนการทำอาหารจานนึง
+
+        9:23 | Design System UI: LINE MAN UI, LINE Pay UI, วงใน UI และ Core UI
+
+        10:09 | Repeat Feature/Logic: SDKs, Utils, และ Hooks
+
+        11:11 | ปัญหา Library ภายนอก และทางแก้: Library Wrapper
+
+        12:33 | Library Ecosystem ใน LINE MAN Wongnai ที่สมบูรณ์
+
+        13:00 | Library อยู่รวมกันเราแข็งแกร่ง
+
+        13:27 | สร้าง Library Ecosystem ของตัวเองต้องมีอะไรบ้าง?
+
+        13:51 | Monorepo: ทางเลือกสำหรับการจัดการ Library หลายๆ ตัว
+
+        14:26 | Package Versioning: Semantic Release และ Changesets
+
+        15:13 | Q&A: การ Test Library, การตั้งชื่อ Library, Waraji Katsu จะ Open
+        Source ไหม?
+
+        17:39 | Q&A: เมื่อไหร่ควรสร้าง Library เพิ่ม? การ Maintain Library
+        ของคนที่ออกไปแล้ว?
+
+        20:37 | Q&A: Monorepo ใน LINE MAN Wongnai และ Pain Point
+
+        22:16 | แจก License JetBrains
+
+
+        --------------------------------------------
+
         Event: BKK.JS #23
 
         https://grtn.org/e/bkkjs23
@@ -22056,6 +22233,89 @@ video:skHc2eJvHyk:
         Tech Behind the Scene: NETFLIX'S Mad Unicorn ⚡ by Chayapatr
         Archiwaranguprok
       description: >-
+        คุณปั๊บ Tech Advisor ของซีรีส์ดังเรื่อง ส่งคำส่งด่วน (Mad Unicorn)
+        มาเล่าประสบการณ์เบื้องหลังสุดฮาในการทำงานร่วมกับทีมผู้สร้าง 
+        ฟังเรื่องราวการเข้าไปเป็นที่ปรึกษาทางเทคนิคให้กับซีรีส์ 
+        ตั้งแต่การสร้างโลกของทีม dev  การออกแบบหน้าจอและโค้ดที่ปรากฏในเรื่อง 
+        ไปจนถึงการ workshop ให้นักแสดงที่ไม่มีพื้นฐานด้านเทคมาก่อน 
+        รวมถึงเรื่องราวสนุกๆ ในกองถ่าย  และ easter egg
+        ที่ซ่อนอยู่ในซีรีส์ที่คุณอาจไม่เคยสังเกต 
+        มาร่วมฟังเรื่องราวการทำงานสุดบันเทิงที่ผสมผสานระหว่างโลกของเทคโนโลยีและวงการบันเทิงได้ในวิดีโอนี้
+
+
+        00:00 | เกริ่นนำและเปิด Q&A ช่วงสุดท้าย
+
+        00:07 | พูดคุยเกี่ยวกับซีรีส์ Mad Unicorn และนักแสดง
+
+        00:38 | แนะนำซีรีส์ Mad Unicorn (ส่งคำส่งด่วน) บน Netflix
+
+        01:02 | เชิญคุณปั๊บมาเล่าประสบการณ์
+
+        01:43 | คุณปั๊บแนะนำตัวและเกริ่นนำ
+
+        02:30 | อยากฟังแบบจริงจังหรืออยากฟังเม้าท์?
+
+        02:43 | แนะนำตัวคุณปั๊บอย่างเป็นทางการและบทบาทในซีรีส์
+
+        03:23 | เข้าเรื่อง! เบื้องหลังการทำซีรีส์และ tech ที่ใช้
+
+        03:50 | จุดเริ่มต้นการเข้าไปเกี่ยวข้องกับซีรีส์
+
+        05:58 | พัฒนาบทและการสร้าง World Building
+
+        07:07 | ออกแบบตัวละครทีม Tech และตำแหน่ง
+
+        09:04 | Workshop ให้นักแสดงทีม Tech (อย่าพิมพ์มั่ว!)
+
+        11:10 | เริ่มถ่ายทำ! ประสบการณ์ในกองถ่ายครั้งแรก
+
+        12:26 | ควบตำแหน่งนักแสดงและทีม Art
+
+        14:11 | ความประทับใจในการทำงานของกองถ่าย
+
+        15:19 | เบื้องหลัง tech ในซีรีส์ (MVP และ stack)
+
+        16:01 | ถ่ายทำฉากโกดังและความท้าทายใหม่
+
+        17:44 | ทีม Art สุดยอด! Setup ฉากโกดัง
+
+        18:02 | จัดการจอทีม Tech 20 คน และวิธี Capture
+
+        19:16 | โค้ดในซีรีส์มาจากไหน? (Creator Garden)
+
+        20:01 | เบื้องหลังการออกแบบแอปในซีรีส์
+
+        21:08 | Easter Egg ในฉาก Error และ Tech ที่ใช้จริง
+
+        22:26 | ออกแบบ Native App และ PWA
+
+        23:08 | เปิดให้เล่นแอป PWA และย้ายไป Cloudflare
+
+        24:00 | Fun fact: ทำไมรุ่ยเจี๋ยหัวร้อน?
+
+        25:15 | Easter Egg เพิ่มเติมและทฤษฎีเกี่ยวกับรุ่ยเจี๋ย
+
+        25:48 | สรุปและ Q&A
+
+        26:17 | ช่วง Q&A อย่างเป็นทางการ
+
+        26:39 | Q&A: ทำไมรุ่ยเจี๋ยใช้ vim แต่กด arrow?
+
+        27:15 | Q&A: กลิ่นห้องที่สร้างใหม่เป็นยังไง?
+
+        28:05 | เรื่องเล่าเกี่ยวกับทีม Art และหมูกระทะ
+
+        29:14 | Q&A: Issue ใน repo resolve หรือยัง?
+
+        30:07 | ความประทับใจจากผู้ชมและ issue ใน repo
+
+        31:17 | คำถามสุดท้ายและแจกของรางวัล
+
+        32:29 | ปิดท้ายและขอบคุณ
+
+
+        --------------------------------------------
+
         Event: BKK.JS #23
 
         https://grtn.org/e/bkkjs23
@@ -22098,6 +22358,56 @@ video:zd2R3V4RvOI:
     snippet:
       title: Supercharge Your JavaScript Promises by Pornpat Paethong
       description: >-
+        มาทำความเข้าใจเกี่ยวกับ promise ใน JavaScript
+        ให้กระจ่างยิ่งขึ้นกับเซสชั่นนี้ 
+        ผู้บรรยายจะพาคุณสำรวจตั้งแต่พื้นฐานการทำงานของ promise, then, catch, และ
+        finally  พร้อมเจาะลึกปัญหาที่พบบ่อยในการใช้งานจริง  เช่น การลืม return
+        ใน then, การจัดการ promise หลายตัวด้วย Promise.all และ
+        Promise.allSettled รวมถึงการ debug โค้ดที่มักเกิดขึ้นกับ junior และ
+        senior developer  นอกจากนี้ยังแนะนำ library ที่เป็นประโยชน์อย่าง
+        promise-retry และ promise-pool สำหรับการจัดการสถานการณ์เฉพาะ เช่น การ
+        retry API request และการควบคุม rate limit 
+        มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์การใช้ promise ใน JavaScript
+        เพื่อเขียนโค้ดได้อย่างมีประสิทธิภาพมากขึ้น
+
+
+        00:00 | เกริ่นนำและแนะนำตัว: สัญญาใน JavaScript
+
+        00:31 | ทำความเข้าใจ Promise: สัญญาของ JavaScript
+
+        01:08 | ปัญหาโลกแตก: การใช้ Promise ในโปรเจคใหญ่
+
+        01:29 | ตัวอย่างโค้ดเบสิกของ Promise
+
+        02:50 | Resolve, Reject, Then, Catch, Finally: เส้นทางของ Promise
+
+        04:26 | Promise Chaining และปัญหาการ Return ค่า
+
+        06:01 | ความสำคัญของ Return ใน Promise Chaining
+
+        07:01 | Await: การรอ Promise ให้ทำงานเสร็จ
+
+        09:54 | ปัญหาของ Then ที่มากเกินไปและการแก้ไขด้วย Return
+
+        11:01 | Promise หลายตัว: Promise.all และ Promise.allSettled
+
+        14:03 | Promise.any: ตัวไหนเร็วสุด ตัวนั้นได้ไป
+
+        15:04 | Error Handling ใน Promise: Retry และ Pool
+
+        17:50 | RxJS และ Promise Retry: ตัวช่วยสำหรับ Retry
+
+        18:38 | สรุปและ Q&A
+
+        19:50 | Q&A: Async Await ใน MVC Architecture
+
+        24:10 | Q&A: Readability และ Error Tracing ใน Async Await
+
+        25:41 | แจกตั๋ว JetBrains และขอบคุณผู้บรรยาย
+
+
+        --------------------------------------------
+
         Event: BKK.JS #23
 
         https://grtn.org/e/bkkjs23
@@ -22160,7 +22470,7 @@ video:ZhkdwuPHId4:caption:th:
     filePath: data/videos/bkkjs23/lmwn_th.vtt
     language: th
     name: Thai
-    hash: 011d36f4fbe884025e42063f1a19a78be2e5a5c706702c684fbfd87cac74d0ae
+    hash: cadd3b4b4e23bef9cb11c94d98d559ed52a889ff12696af21afca976775cebbc
     isDraft: false
   state:
     id: AUieDaYvUErEM-DHecxBBYcZDzf42nohR9OzfuQ1CWV4ix2CRztf
@@ -22170,7 +22480,7 @@ video:skHc2eJvHyk:caption:th:
     filePath: data/videos/bkkjs23/thunder_th.vtt
     language: th
     name: Thai
-    hash: 0de920b4cb97d0566c4a9a6ab6f850051d6951642b4b3b9051529b738aab759e
+    hash: 2fe070cdd6ac953bd087e84de2168a2dd4d16871e1189777052dece786c761fd
     isDraft: false
   state:
     id: AUieDaYQcop-nChFPx_MuiXn8q4WOCrY1BXOLsVWZD-na5fZcpoE
