@@ -20541,25 +20541,25 @@ thumbnail:4ePm0u8Z5H0:
   spec:
     videoId: 4ePm0u8Z5H0
     filePath: data/videos/market/yes.jpg
-    hash: 351160b6fd66b86998f3b03777e81b2c775993b0916c1965b5d96e8a451f1a54
+    hash: e45e29587bfe71819220d7dfe388d8c128e53adbfe3c33edf08b1961eec2f89a
   state: {}
 thumbnail:CaQ9fO1xto8:
   spec:
     videoId: CaQ9fO1xto8
     filePath: data/videos/market/proxenorobotics.jpg
-    hash: 6aa875b8c04bc5cb2a6f7a087d066b49e5a67f85f6ed4e360c344be5c77a60eb
+    hash: 0e9f307bbe3c589d286b84af74ae4b5b11bcc491be8b493b651ed217c1bf6b46
   state: {}
 thumbnail:JjZCkvTN0-Q:
   spec:
     videoId: JjZCkvTN0-Q
     filePath: data/videos/market/three-scene-studio.jpg
-    hash: 0d73b767f7ee5075b94ec60c6642a4fceb0f9bf1c3c8cab1ce6b4dc52205a93d
+    hash: df0ae009d5020b5e102d0626efa65dcbf665a30c3beb4f30207846799e9b5f7d
   state: {}
 thumbnail:iRqY5QoBoS0:
   spec:
     videoId: iRqY5QoBoS0
     filePath: data/videos/market/hydra.jpg
-    hash: d223262d80f69053769cecde73754b1cee37cb42fefb61a551a452e7f08fa59f
+    hash: e280e2b0491ccceafb18e297d5e18e5c87c259efbd90a07020d0e1a8691f0408
   state: {}
 video:4ePm0u8Z5H0:
   spec:
@@ -20925,7 +20925,7 @@ thumbnail:ZLOFY67jCuw:
   spec:
     videoId: ZLOFY67jCuw
     filePath: data/videos/market/p5js-ollama.jpg
-    hash: 7490ae66495deb36c8a4dec15425dac6c339b3911dab877f05250a9e509054a4
+    hash: d2af14930619a9dcc6dd6b029e237c2731d9f834815dbb73ed80b3b74efd299a
   state: {}
 video:ZLOFY67jCuw:
   spec:
@@ -21074,19 +21074,19 @@ thumbnail:5CMuXc2lsWU:
   spec:
     videoId: 5CMuXc2lsWU
     filePath: data/videos/deconnect/panel-discussion.jpg
-    hash: f1ec53b9189d5ee994f8d639041a11b7990dbdb6bdd94352e42f2fbb96805ba0
+    hash: 0add509b555be406a8d9b6aa64f2bfcc5a209325ef64c58fd8f6e52167f599a9
   state: {}
 thumbnail:M8Qd3WFNlDQ:
   spec:
     videoId: M8Qd3WFNlDQ
     filePath: data/videos/deconnect/data-catalog.jpg
-    hash: dc9bb9402140cb0fdfb36333b2c2ff63408f15b868532ce28458fdd9f8eeeffb
+    hash: aa9f824910be4dbbe564ad4c770df1c84a5d8f5dcb54d86637e13a6c491b22f7
   state: {}
 thumbnail:zQmIul9Vs1o:
   spec:
     videoId: zQmIul9Vs1o
     filePath: data/videos/deconnect/data-architecture.jpg
-    hash: 492c9ec8a8ae841b4ee63a553504729f42067f8ed1edf282e026cc39d79c35a9
+    hash: 801f02a5cf3845e43ff851a74ecd39f3719130d68ed37e1543977bbfd78ea76c
   state: {}
 video:5CMuXc2lsWU:
   spec:
@@ -21395,7 +21395,7 @@ thumbnail:_rYY22cDhbw:
   spec:
     videoId: _rYY22cDhbw
     filePath: data/videos/deconnect/oltp-vs-olap.jpg
-    hash: dcdf439c9068912de41ba84dbe95df55818274d8a264350922420a47663f76c0
+    hash: 0f446dbbc1a68e4a1ca4acf0d8a2971de021a6c198833e0545759506129546ea
   state: {}
 video:_rYY22cDhbw:
   spec:
