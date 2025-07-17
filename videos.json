@@ -1,164 +1,6 @@
 {
   "videos": [
     {
-      "event": "algorave",
-      "slug": "d1s1",
-      "data": {
-        "title": "Kamin x REx",
-        "type": "pitch",
-        "youtube": "kppkEaMjCTE",
-        "managed": true,
-        "published": "2024-06-28",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s1.md",
-      "imageFilePath": "data/videos/algorave/d1s1.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s2",
-      "data": {
-        "title": "Michel Honeycomb x Footprints on Mars",
-        "type": "pitch",
-        "youtube": "dtvAFindVK4",
-        "managed": true,
-        "published": "2024-06-29",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s2.md",
-      "imageFilePath": "data/videos/algorave/d1s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s3",
-      "data": {
-        "title": "Toxicfication x ZIN",
-        "type": "pitch",
-        "youtube": "aZroGYIpDSU",
-        "managed": true,
-        "published": "2024-06-30",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s3.md",
-      "imageFilePath": "data/videos/algorave/d1s3.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s4",
-      "data": {
-        "title": "WrappedByte x TropicalBoi",
-        "type": "pitch",
-        "youtube": "XBhzfByZplE",
-        "managed": true,
-        "published": "2024-07-01",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s4.md",
-      "imageFilePath": "data/videos/algorave/d1s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s5",
-      "data": {
-        "title": "Varut_O x 130",
-        "type": "pitch",
-        "youtube": "Kn345YKezDY",
-        "managed": true,
-        "published": "2024-07-02",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s5.md",
-      "imageFilePath": "data/videos/algorave/d1s5.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s1",
-      "data": {
-        "title": "Cache Collective",
-        "type": "pitch",
-        "youtube": "Hh-_uUb2bis",
-        "managed": true,
-        "published": "2024-07-03",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s1.md",
-      "imageFilePath": "data/videos/algorave/d2s1.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s2",
-      "data": {
-        "title": "Kittiphan Janbuala",
-        "type": "pitch",
-        "youtube": "zej4pK6Kq0Y",
-        "managed": true,
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s2.md",
-      "imageFilePath": "data/videos/algorave/d2s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s3",
-      "data": {
-        "title": "Kijjaz x punpitan",
-        "type": "pitch",
-        "youtube": "xKBzefz-x6o",
-        "managed": true,
-        "published": "2024-07-07",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s3.md",
-      "imageFilePath": "data/videos/algorave/d2s3.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s4",
-      "data": {
-        "title": "inmintcondition x Panlert",
-        "type": "pitch",
-        "youtube": "TivEsZtlpwM",
-        "managed": true,
-        "published": "2024-07-08",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s4.md",
-      "imageFilePath": "data/videos/algorave/d2s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s5",
-      "data": {
-        "title": "CRSRCRSRRR",
-        "type": "pitch",
-        "youtube": "OSdE7p_woTU",
-        "managed": true,
-        "published": "2024-07-09",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s5.md",
-      "imageFilePath": "data/videos/algorave/d2s5.jpg"
-    },
-    {
       "event": "bac",
       "slug": "automate",
       "data": {
@@ -194,6 +36,301 @@
       "filePath": "data/videos/bac/automate.md",
       "imageFilePath": "data/videos/bac/automate.jpg",
       "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bank-for-all",
+      "data": {
+        "title": "Bank For All",
+        "tagline": "Peer Share and Microfinance Platform for All",
+        "type": "pitch",
+        "youtube": "su14UUhSVrM",
+        "managed": true,
+        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bank-for-all.md",
+      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkk-reward-hunter",
+      "data": {
+        "title": "BKK Reward Hunter",
+        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
+        "type": "pitch",
+        "youtube": "yd3uA1XOtww",
+        "managed": true,
+        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
+      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "bkkchangelog",
+      "data": {
+        "title": "BKK Changelog",
+        "type": "pitch",
+        "youtube": "inkQI5yRd_Y",
+        "managed": true,
+        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/bkkchangelog.md",
+      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "code-and-the-city",
+      "data": {
+        "title": "Code and the City: Bettering society with code",
+        "speaker": "Lookkid Withee Poositasai",
+        "type": "talk",
+        "youtube": "Wfu_DL29FL0",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "แนะนำตัว",
+          "01:38": "แนะนำ Punch Up และ WeVis",
+          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
+          "03:43": "ทีมงาน",
+          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
+          "04:52": "โปรเจคแบบ Purpose-driven",
+          "08:10": "โปรเจคแบบ Data-driven",
+          "11:27": "แบบไหนดีกว่ากัน",
+          "12:29": "Part 1 Key challenges",
+          "13:28": "Part 1 Key takeaway",
+          "15:16": "Part 2 - Work with Open (?) Collaborator",
+          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
+          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
+          "20:17": "Part 2 Key takeaway",
+          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
+          "21:14": "Taiwan’s g0v",
+          "22:49": "Estonia’s Rahvaalgatus",
+          "24:48": "Part 3 Key takeaway",
+          "25:30": "Wrap up",
+          "26:50": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/code-and-the-city.md",
+      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "fill-you-in-the-blank",
+      "data": {
+        "title": "Fill You in the Blank",
+        "tagline": "เติมคุณในช่องว่าง",
+        "type": "pitch",
+        "youtube": "on25fTHEtus",
+        "managed": true,
+        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
+      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "muse",
+      "data": {
+        "title": "muse foundation: for-social profit impact",
+        "speaker": "Sira Sujjinanont",
+        "type": "talk",
+        "youtube": "ztHxfz7nGVE",
+        "managed": true,
+        "description": "muse foundation\nhttps://muse.as/\n",
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "แนะนำ muse foundation",
+          "00:30": "แนะนำตัว",
+          "00:46": "ย้ายถิ่นฐาน",
+          "01:25": "ปาย แม่ฮ่องสอน",
+          "02:48": "Co-living space",
+          "04:00": "Education",
+          "06:30": "codeforpublic/SQUID",
+          "07:37": "หมอชนะ",
+          "08:19": "โมเดล Open source",
+          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
+          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
+          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
+          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
+          "19:03": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/muse.md",
+      "imageFilePath": "data/videos/bangkok/muse.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "policytracka",
+      "data": {
+        "title": "PolicyTracka",
+        "tagline": "Creativity from Policy",
+        "type": "pitch",
+        "youtube": "JhhmE1chbWQ",
+        "managed": true,
+        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/policytracka.md",
+      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "ratchagitja",
+      "data": {
+        "title": "Ratchagitja",
+        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
+        "type": "pitch",
+        "youtube": "8EC1OLZOZyo",
+        "managed": true,
+        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/ratchagitja.md",
+      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "special-interview-session",
+      "data": {
+        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
+        "speaker": "Whee Pongpiphat; Nattanon",
+        "type": "talk",
+        "youtube": "3HGzSV3fRGQ",
+        "managed": true,
+        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/special-interview-session.md",
+      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "techthaiban",
+      "data": {
+        "title": "Tech Thaiban Model: Empower Local",
+        "speaker": "Kulachat Kena",
+        "type": "talk",
+        "youtube": "hbVoyXLWD98",
+        "managed": true,
+        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
+          "00:42": "ภูผาม่าน",
+          "01:07": "แนะนำตัว",
+          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
+          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
+          "03:17": "ฟาร์มคิด - ภูผาม่าน",
+          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
+          "04:37": "UX Meetup ณ ภูผาม่าน",
+          "06:27": "มหา'ลัย ไทบ้าน",
+          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
+          "09:00": "กระจายอำนาจ",
+          "09:38": "Next model",
+          "10:10": "โมเดลการศึกษา",
+          "12:22": "โมเดลการบริจาค",
+          "14:40": "Conclusion"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/techthaiban.md",
+      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
+      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
+    },
+    {
+      "event": "bangkok",
+      "slug": "thailand-area-ranking",
+      "data": {
+        "title": "Thailand Area Ranking",
+        "team": {
+          "name": "TensorMiK"
+        },
+        "type": "pitch",
+        "youtube": "TTU2oSlbT_w",
+        "managed": true,
+        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
+      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "traffy",
+      "data": {
+        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
+        "speaker": "Wasan Pattara-atikom",
+        "type": "talk",
+        "youtube": "N8eBpiCXgNE",
+        "managed": true,
+        "published": true,
+        "language": "th",
+        "chapters": {
+          "00:00": "Introduction",
+          "01:17": "แนะนำ Traffy Fondue",
+          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
+          "05:07": "LINE @traffyfondue",
+          "07:02": "ตัวอย่าง",
+          "09:00": "Dashboard",
+          "09:46": "สถิติ",
+          "10:43": "ต่างจังหวัด",
+          "11:44": "สำรวจการใช้งาน",
+          "12:55": "การใช้งานในกรุงเทพฯ",
+          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
+          "27:22": "Open Data + API",
+          "29:40": "รับสมัครผู้ร่วมทีม",
+          "30:55": "Q&A"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/traffy.md",
+      "imageFilePath": "data/videos/bangkok/traffy.jpg"
+    },
+    {
+      "event": "bangkok",
+      "slug": "we-space",
+      "data": {
+        "title": "WeSpace",
+        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
+        "type": "pitch",
+        "youtube": "ErotrrAm0eU",
+        "managed": true,
+        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": true,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bangkok/we-space.md",
+      "imageFilePath": "data/videos/bangkok/we-space.jpg"
     },
     {
       "event": "archive",
@@ -880,299 +1017,162 @@
       "imageFilePath": "data/videos/archive/vueconf.jpg"
     },
     {
-      "event": "bangkok",
-      "slug": "bank-for-all",
+      "event": "algorave",
+      "slug": "d1s1",
       "data": {
-        "title": "Bank For All",
-        "tagline": "Peer Share and Microfinance Platform for All",
+        "title": "Kamin x REx",
         "type": "pitch",
-        "youtube": "su14UUhSVrM",
+        "youtube": "kppkEaMjCTE",
         "managed": true,
-        "description": "This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.\n\nGitHub\nhttps://github.com/bankforall/bank4all\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bank-for-all.md",
-      "imageFilePath": "data/videos/bangkok/bank-for-all.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkk-reward-hunter",
-      "data": {
-        "title": "BKK Reward Hunter",
-        "tagline": "ทำให้กรุงเทพฯน่าอยู่ขึ้นอีก แถมยังได้ตังอีกด้วย",
-        "type": "pitch",
-        "youtube": "yd3uA1XOtww",
-        "managed": true,
-        "description": "ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? \nคุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา\nแจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale\nใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง\nหวังว่าทำให้ทางเท้าปลอดภัยสำหรับทุกคนอีกครั้ง 😚 และรวยไปพร้อมๆกัน 🤑\n\n\nGitHub\nhttps://github.com/wasdee/bkk-reward-hunter\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkk-reward-hunter.md",
-      "imageFilePath": "data/videos/bangkok/bkk-reward-hunter.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "bkkchangelog",
-      "data": {
-        "title": "BKK Changelog",
-        "type": "pitch",
-        "youtube": "inkQI5yRd_Y",
-        "managed": true,
-        "description": "A project to archive and generate a change log based on Traffy Fondue data.\n\nGitHub\nhttps://github.com/creatorsgarten/bkkchangelog\n\nTwitter\nhttps://twitter.com/bkkchangelog\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/bkkchangelog.md",
-      "imageFilePath": "data/videos/bangkok/bkkchangelog.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "code-and-the-city",
-      "data": {
-        "title": "Code and the City: Bettering society with code",
-        "speaker": "Lookkid Withee Poositasai",
-        "type": "talk",
-        "youtube": "Wfu_DL29FL0",
-        "managed": true,
-        "published": true,
-        "language": "th",
-        "chapters": {
-          "00:00": "แนะนำตัว",
-          "01:38": "แนะนำ Punch Up และ WeVis",
-          "02:45": "ทำไมต้องทำ civic tech ที่โฟกัสเกี่ยวกับ data ด้วย",
-          "03:43": "ทีมงาน",
-          "04:40": "Part 1 - ทำการกับ Open Data อย่างไร",
-          "04:52": "โปรเจคแบบ Purpose-driven",
-          "08:10": "โปรเจคแบบ Data-driven",
-          "11:27": "แบบไหนดีกว่ากัน",
-          "12:29": "Part 1 Key challenges",
-          "13:28": "Part 1 Key takeaway",
-          "15:16": "Part 2 - Work with Open (?) Collaborator",
-          "16:22": "โอเพนซอร์ซเป็นมาตรฐาน",
-          "18:56": "Part 2 Key challenges ของการทำงานกับ contributor เยอะๆ",
-          "20:17": "Part 2 Key takeaway",
-          "20:58": "Part 3 - Look beyond Thailand ประเทศอื่นทำอะไรกันบ้างเรื่อง Civic tech",
-          "21:14": "Taiwan’s g0v",
-          "22:49": "Estonia’s Rahvaalgatus",
-          "24:48": "Part 3 Key takeaway",
-          "25:30": "Wrap up",
-          "26:50": "Q&A"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/code-and-the-city.md",
-      "imageFilePath": "data/videos/bangkok/code-and-the-city.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "fill-you-in-the-blank",
-      "data": {
-        "title": "Fill You in the Blank",
-        "tagline": "เติมคุณในช่องว่าง",
-        "type": "pitch",
-        "youtube": "on25fTHEtus",
-        "managed": true,
-        "description": "Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงการโอเพ่นซอร์สที่มุ่งเชื่อมโยงกิจกรรม CSR กับนโยบายนายกเทศมนตรีของกรุงเทพมหานครและเป้าหมายการพัฒนาที่ยั่งยืนขององค์การสหประชาชาติ\n\nhttps://fill-you-in-the-blank.vercel.app/\n\nGitHub\nhttps://github.com/nattaaek/fill-you-in-the-blank\n\nBetter Bangkok Power Discord\nhttps://discord.gg/EJkkPTSRYC\n\nWikiBangkok\nhttps://bangkok.source.in.th/\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/fill-you-in-the-blank.md",
-      "imageFilePath": "data/videos/bangkok/fill-you-in-the-blank.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "muse",
-      "data": {
-        "title": "muse foundation: for-social profit impact",
-        "speaker": "Sira Sujjinanont",
-        "type": "talk",
-        "youtube": "ztHxfz7nGVE",
-        "managed": true,
-        "description": "muse foundation\nhttps://muse.as/\n",
-        "published": true,
-        "language": "th",
-        "chapters": {
-          "00:00": "แนะนำ muse foundation",
-          "00:30": "แนะนำตัว",
-          "00:46": "ย้ายถิ่นฐาน",
-          "01:25": "ปาย แม่ฮ่องสอน",
-          "02:48": "Co-living space",
-          "04:00": "Education",
-          "06:30": "codeforpublic/SQUID",
-          "07:37": "หมอชนะ",
-          "08:19": "โมเดล Open source",
-          "11:50": "เรียนรู้อะไรมาบ้างจากโครงการนี้",
-          "13:30": "สร้างบ้านโอเพนซอร์ซ WikiHouse",
-          "17:40": "ที่ขององค์ความรู้โอเพนซอร์ซ",
-          "18:08": "กิน อยู่ อาศัย สุขภาพ และจิตวิญญาณ ไม่ควรเสียตังค์",
-          "19:03": "Conclusion"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/muse.md",
-      "imageFilePath": "data/videos/bangkok/muse.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "policytracka",
-      "data": {
-        "title": "PolicyTracka",
-        "tagline": "Creativity from Policy",
-        "type": "pitch",
-        "youtube": "JhhmE1chbWQ",
-        "managed": true,
-        "description": "ในปัจจุบันการนโยบายหาเสียงจากพรรคการเมืองใหม่ ๆ เกิดขึ้นมากมาย แต่ขาดซึ่งการรายงานความคืบหน้า ทำให้ประชาชนไม่สามารถติดตามความคืบหน้าในการดำเนินนโยบายนำร่องที่มีการหาเสียง และไม่มีข้อมูลที่เป็นกลางสำหรับการสืบค้น, ในทุกๆ ปี ป้ายโฆษณาและนโยบายหาเสียงเลือกตั้งที่ถูกผลิตออกมา ถูกประชาชนเห็น ได้รับการชื่นชม การติเตียน แต่ก็กลับถูกลืมไปในทุกๆ ปี นโยบายที่ใครทำได้ดี นโยบายที่ใครทำไม่ได้ตามที่สัญญา เหมือนกับว่าทุกอย่างกลับไปเริ่มใหม่ เริ่มต้นตั้งแต่ตอนที่เรา \"เพิ่งเริ่มเลือกตั้งครั้งแรก\" นโยบายที่ดูนำสมัย อาจจะเป็นแค่นโยบายที่ถูกพูดถึงมาแล้ว 10 ปีแต่ไม่เคยได้ทำ และนโยบายบางอันอาจจะเป็นเรื่องเดิมๆ ที่ถูกเลือกมาแล้วเป็น 10 ปี แต่ก็ไม่เคยได้เปลี่ยนอะไรไปเลย ส่งผลให้พลเมืองอาจตัดสินใจเลือกพรรคเหล่านั้นโดยไม่มีข้อมูลที่เพียงพอต่อการตัดสินใจ เพียงแต่เห็นชอบต่อนโยบาย โดยที่ไม่มีข้อมูลสนับสนุนถึงความเป็นไปได้ในการดำเนินการ ที่อาจจะเป็นแค่นโยบายที่ถูกเอามาขายในทุกๆ สมัยการเลือกตั้ง และไม่ได้รับการดำเนินการให้สำเร็จอย่างที่ควรจะเป็น\n\nรวบรวมนโยบายของแคนดิเดทนักการเมืองในกรุงเทพ ให้เราเลือกคนที่ใช่ได้ด้วยข้อมูลที่เพียงพอ\n\nhttps://policytracka.vercel.app/\n\nGitHub\nhttps://github.com/policytracka/policytracka\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/policytracka.md",
-      "imageFilePath": "data/videos/bangkok/policytracka.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "ratchagitja",
-      "data": {
-        "title": "Ratchagitja",
-        "tagline": "ช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown",
-        "type": "pitch",
-        "youtube": "8EC1OLZOZyo",
-        "managed": true,
-        "description": "แปลงราชกิจจานุเบกษา ให้เป็นรูปแบบที่คอมพิวเตอร์อ่านและประมวลผลต่อได้ง่ายขึ้น\n\nราชกิจจ้า ให้ทุกคนช่วยกันแปลงราชกิจจานุเบกษาเป็น Markdown จะได้เอาไป process ต่อได้\n\nGitHub\nhttps://github.com/narze/ratchagitja.md\n\nFacebook Page: ราชกิจจา มาแล้วจ้า\nhttps://www.facebook.com/ratchagitja\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/ratchagitja.md",
-      "imageFilePath": "data/videos/bangkok/ratchagitja.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "special-interview-session",
-      "data": {
-        "title": "Open Data อะไรคือความท้าทาย ? สัมภาษณ์ หวี พงศ์พิพัฒน์ แห่ง The MATTER",
-        "speaker": "Whee Pongpiphat; Nattanon",
-        "type": "talk",
-        "youtube": "3HGzSV3fRGQ",
-        "managed": true,
-        "description": "พูดคุยกับ หวี พงศ์พิพัฒน์ บรรณาธิการใหญ่แห่ง The MATTER ในหัวข้อเรื่อง Open Data กับการเปิดเผยข้อมูลจากฝั่งรัฐฯ ผ่านมุมมองของการทำข่าว",
-        "published": true,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bangkok/special-interview-session.md",
-      "imageFilePath": "data/videos/bangkok/special-interview-session.jpg"
-    },
-    {
-      "event": "bangkok",
-      "slug": "techthaiban",
-      "data": {
-        "title": "Tech Thaiban Model: Empower Local",
-        "speaker": "Kulachat Kena",
-        "type": "talk",
-        "youtube": "hbVoyXLWD98",
-        "managed": true,
-        "description": "Tech Thaiban - เทคไทบ้าน\nhttps://www.techthaiban.org/\n\nFacebook Page เทคไทบ้าน\nhttps://www.facebook.com/techthaiban.org\n",
-        "published": true,
+        "published": "2024-06-28",
         "language": "th",
         "subtitles": [
           "th"
-        ],
-        "chapters": {
-          "00:00": "ก่อนย้ายไปต่างประเทศ ลองซ้อมด้วยการย้ายไปต่างจังหวัดดู",
-          "00:42": "ภูผาม่าน",
-          "01:07": "แนะนำตัว",
-          "01:43": "จุดเริ่มต้นของเทคไทบ้าน",
-          "02:40": "Go Local - Go Meetup ณ ภูผาม่าน",
-          "03:17": "ฟาร์มคิด - ภูผาม่าน",
-          "04:00": "ทำไม Tech meetup ต้องจัดที่กรุงเทพอย่างเดียว",
-          "04:37": "UX Meetup ณ ภูผาม่าน",
-          "06:27": "มหา'ลัย ไทบ้าน",
-          "07:36": "บรรยากาศ Tech meetup ณ ภูผาม่าน",
-          "09:00": "กระจายอำนาจ",
-          "09:38": "Next model",
-          "10:10": "โมเดลการศึกษา",
-          "12:22": "โมเดลการบริจาค",
-          "14:40": "Conclusion"
-        }
+        ]
       },
       "content": "",
-      "filePath": "data/videos/bangkok/techthaiban.md",
-      "imageFilePath": "data/videos/bangkok/techthaiban.jpg",
-      "thaiSubtitlePath": "data/videos/bangkok/techthaiban_th.vtt"
+      "filePath": "data/videos/algorave/d1s1.md",
+      "imageFilePath": "data/videos/algorave/d1s1.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
     },
     {
-      "event": "bangkok",
-      "slug": "thailand-area-ranking",
+      "event": "algorave",
+      "slug": "d1s2",
       "data": {
-        "title": "Thailand Area Ranking",
-        "team": {
-          "name": "TensorMiK"
-        },
+        "title": "Michel Honeycomb x Footprints on Mars",
         "type": "pitch",
-        "youtube": "TTU2oSlbT_w",
+        "youtube": "dtvAFindVK4",
         "managed": true,
-        "description": "Thailand Area Ranking is an OpenSource project that helps users find suitable areas in Thailand by analyzing various factors, such as public transportation, schools, cost of living, employment rates, cleanliness and others. The results are displayed as Heatmaps, with redder areas indicating a better match to your needs. Additionally, developers can utilize our library in PIPY for real estate applications, such as searching for houses near water sources or incorporating local price data.\n\nhttps://tar.tensormik.com/\n\nGitHub\nhttps://github.com/kang49/thailand_area_ranking\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
-        "published": true,
+        "published": "2024-06-29",
         "language": "th"
       },
       "content": "",
-      "filePath": "data/videos/bangkok/thailand-area-ranking.md",
-      "imageFilePath": "data/videos/bangkok/thailand-area-ranking.jpg"
+      "filePath": "data/videos/algorave/d1s2.md",
+      "imageFilePath": "data/videos/algorave/d1s2.jpg"
     },
     {
-      "event": "bangkok",
-      "slug": "traffy",
+      "event": "algorave",
+      "slug": "d1s3",
       "data": {
-        "title": "ที่มา Traffy Fondue และโปรแกรมเมอร์สามารถ contribute อะไรได้บ้าง",
-        "speaker": "Wasan Pattara-atikom",
-        "type": "talk",
-        "youtube": "N8eBpiCXgNE",
+        "title": "Toxicfication x ZIN",
+        "type": "pitch",
+        "youtube": "aZroGYIpDSU",
         "managed": true,
-        "published": true,
+        "published": "2024-06-30",
         "language": "th",
-        "chapters": {
-          "00:00": "Introduction",
-          "01:17": "แนะนำ Traffy Fondue",
-          "01:33": "Platform Revolution - จาก Pipeline สู่ Platform",
-          "05:07": "LINE @traffyfondue",
-          "07:02": "ตัวอย่าง",
-          "09:00": "Dashboard",
-          "09:46": "สถิติ",
-          "10:43": "ต่างจังหวัด",
-          "11:44": "สำรวจการใช้งาน",
-          "12:55": "การใช้งานในกรุงเทพฯ",
-          "23:20": "ตัวอย่างโจทย์และความเป็นไปได้",
-          "27:22": "Open Data + API",
-          "29:40": "รับสมัครผู้ร่วมทีม",
-          "30:55": "Q&A"
-        }
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
-      "filePath": "data/videos/bangkok/traffy.md",
-      "imageFilePath": "data/videos/bangkok/traffy.jpg"
+      "filePath": "data/videos/algorave/d1s3.md",
+      "imageFilePath": "data/videos/algorave/d1s3.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
     },
     {
-      "event": "bangkok",
-      "slug": "we-space",
+      "event": "algorave",
+      "slug": "d1s4",
       "data": {
-        "title": "WeSpace",
-        "tagline": "Tech for urbanization เทคโนโลยีสีเขียวเพื่อคนกรุง",
+        "title": "WrappedByte x TropicalBoi",
         "type": "pitch",
-        "youtube": "ErotrrAm0eU",
+        "youtube": "XBhzfByZplE",
         "managed": true,
-        "description": "จำนวนต้นไม้ต่อประชากร 1 คน ควรอยู่ที่ 8 ต้นต่อ 1 คน ปัจจุบันไทยอยู่ที่ 3.3 ต้น/คน ขณะที่สิงคโปร์อยู่ราวๆ 40-50 ต้น/คน อาจกล่าวได้ว่าเมืองที่ประสบความสำเร็จในการพัฒนาเมืองสีเขียว ส่วนหนึ่งเป็นเพราะประสบความสำเร็จในเรื่องของการปลูกต้นไม้\n\nไอเดีย green population เกิดจากมุมมองที่เรามอง ต้นไม้ เป็นเหมือน ประชากร หนึ่งคน ทุกต้นมีชื่อ มีหมายเลขและถูกดูแลเหมือนกับชีวิตผู้คนหนึ่งชีวิต\n\nความท้าทายของไอเดียนี้คือทำอย่างไรให้คนเมืองมาช่วยกัน contribute ภาพถ่ายหรือช่วยกันทำ green mapping และเป็นประเด็นที่มีความจำเป็นเร่งด่วนมากๆ เพราะเกี่ยวข้องกับอากาศที่เราหายใจในปัจจุบัน\n\nณ ปัจจุบัน กทม.ได้มีโครงการปลูกต้นไม้ 1 ล้านต้น ซึ่งก็อาจจะยังไม่เพียงพอเมื่อเทียบกับผู้คนใช้พื้นที่ในกทม.ที่มีราวๆ 10 ล้านคน เราอาจหา solution ที่ทำให้เป้าหมายร่วมกับกทมยั่งยืน หรือมีผลลัพธ์มากกว่าที่เขาตั้งไว้ได้\n\nหากเราสามารถสร้างความใกล้ชิดของคนเมืองกับต้นไม้ได้ ในระยะยาวความตระหนักในเรื่องพื้นที่สีเขียวในภาคประชาชนจะมากขึ้น และส่งผลกระทบเชิงนโยบายอย่างยั่งยืนได้ (นักการเมืองก็ต้องตอบรับประชาชน ออกนโยบายที่สอดคล้อง) และเราก็จะมีเมืองที่ยั่งยืน (ใน 10-20 ปี)\n\nGitHub\nhttps://github.com/BKK-WeSpace/tree-population\n\nBangkok Open Source Discord\nhttps://grtn.org/bkkoss-discord\n",
+        "published": "2024-07-01",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s4.md",
+      "imageFilePath": "data/videos/algorave/d1s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s5",
+      "data": {
+        "title": "Varut_O x 130",
+        "type": "pitch",
+        "youtube": "Kn345YKezDY",
+        "managed": true,
+        "published": "2024-07-02",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s5.md",
+      "imageFilePath": "data/videos/algorave/d1s5.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s1",
+      "data": {
+        "title": "Cache Collective",
+        "type": "pitch",
+        "youtube": "Hh-_uUb2bis",
+        "managed": true,
+        "published": "2024-07-03",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s1.md",
+      "imageFilePath": "data/videos/algorave/d2s1.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s2",
+      "data": {
+        "title": "Kittiphan Janbuala",
+        "type": "pitch",
+        "youtube": "zej4pK6Kq0Y",
+        "managed": true,
         "published": true,
         "language": "th"
       },
       "content": "",
-      "filePath": "data/videos/bangkok/we-space.md",
-      "imageFilePath": "data/videos/bangkok/we-space.jpg"
+      "filePath": "data/videos/algorave/d2s2.md",
+      "imageFilePath": "data/videos/algorave/d2s2.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s3",
+      "data": {
+        "title": "Kijjaz x punpitan",
+        "type": "pitch",
+        "youtube": "xKBzefz-x6o",
+        "managed": true,
+        "published": "2024-07-07",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s3.md",
+      "imageFilePath": "data/videos/algorave/d2s3.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s4",
+      "data": {
+        "title": "inmintcondition x Panlert",
+        "type": "pitch",
+        "youtube": "TivEsZtlpwM",
+        "managed": true,
+        "published": "2024-07-08",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s4.md",
+      "imageFilePath": "data/videos/algorave/d2s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s5",
+      "data": {
+        "title": "CRSRCRSRRR",
+        "type": "pitch",
+        "youtube": "OSdE7p_woTU",
+        "managed": true,
+        "published": "2024-07-09",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s5.md",
+      "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
       "event": "bkkjs17",
@@ -2363,7 +2363,7 @@
         "youtube": "ZhkdwuPHId4",
         "managed": true,
         "description": "คุณโอ๊ต Staff Software Engineer จาก LINE MAN Wongnai จะมาแชร์ประสบการณ์การสร้าง library ecosystem ภายในองค์กร  ฟังเรื่องราวเบื้องหลังการพัฒนา library ต่างๆ ตั้งแต่จุดเริ่มต้นเล็กๆ จนเติบโตเป็นระบบนิเวศที่ซับซ้อน  เรียนรู้ถึงปัญหาที่พบเจอจากการสร้าง library ขนาดใหญ่ที่ทำหน้าที่มากเกินไป และวิธีการแก้ไขด้วยการแตก library ออกเป็นส่วนย่อยๆ ที่ทำงานร่วมกัน  รวมถึงการใช้เครื่องมืออย่าง kleros และ Worachak Classic ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web application  มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library อย่างไรให้มีประสิทธิภาพและสามารถนำกลับมาใช้ซ้ำได้ในหลายๆ โปรเจกต์  พร้อมรับฟังเคล็ดลับการตั้งชื่อ library และแผนการพัฒนาในอนาคต\n",
-        "published": false,
+        "published": "2025-07-21",
         "language": "th",
         "subtitles": [
           "th"
@@ -2407,7 +2407,7 @@
         "youtube": "zd2R3V4RvOI",
         "managed": true,
         "description": "มาทำความเข้าใจเกี่ยวกับ promise ใน JavaScript ให้กระจ่างยิ่งขึ้นกับเซสชั่นนี้  ผู้บรรยายจะพาคุณสำรวจตั้งแต่พื้นฐานการทำงานของ promise, then, catch, และ finally  พร้อมเจาะลึกปัญหาที่พบบ่อยในการใช้งานจริง  เช่น การลืม return ใน then, การจัดการ promise หลายตัวด้วย Promise.all และ Promise.allSettled รวมถึงการ debug โค้ดที่มักเกิดขึ้นกับ junior และ senior developer  นอกจากนี้ยังแนะนำ library ที่เป็นประโยชน์อย่าง promise-retry และ promise-pool สำหรับการจัดการสถานการณ์เฉพาะ เช่น การ retry API request และการควบคุม rate limit  มาร่วมเรียนรู้และแลกเปลี่ยนประสบการณ์การใช้ promise ใน JavaScript เพื่อเขียนโค้ดได้อย่างมีประสิทธิภาพมากขึ้น\n",
-        "published": false,
+        "published": "2025-07-18",
         "language": "th",
         "subtitles": [
           "th"
@@ -2447,7 +2447,7 @@
         "youtube": "LOorcSZtpQs",
         "managed": true,
         "description": "Ever wondered when it's okay to bypass those safety nets in engineering?  This talk explores the delicate balance between shipping fast and building reliable software.  Faris Aziz, a Staff Software Engineer at Smallpdf with experience across various industries, shares insights from his journey working with different companies and their unique approaches to safety nets, from manual QA to rigorous test coverage.  He delves into the real-world costs of cutting corners, highlighting the importance of metrics, observability, and resilience.  Join us to learn how to build confidence in your deployments, identify areas where risks are acceptable, and understand the long-term implications of your engineering choices.  Discover how to navigate the trade-offs and deliver value sustainably without sacrificing stability.\n",
-        "published": false,
+        "published": "2025-07-23",
         "language": "en",
         "subtitles": [
           "en"
@@ -2489,7 +2489,7 @@
         "youtube": "skHc2eJvHyk",
         "managed": true,
         "description": "คุณปั๊บ Tech Advisor ของซีรีส์ดังเรื่อง ส่งคำส่งด่วน (Mad Unicorn) มาเล่าประสบการณ์เบื้องหลังสุดฮาในการทำงานร่วมกับทีมผู้สร้าง  ฟังเรื่องราวการเข้าไปเป็นที่ปรึกษาทางเทคนิคให้กับซีรีส์  ตั้งแต่การสร้างโลกของทีม dev  การออกแบบหน้าจอและโค้ดที่ปรากฏในเรื่อง  ไปจนถึงการ workshop ให้นักแสดงที่ไม่มีพื้นฐานด้านเทคมาก่อน  รวมถึงเรื่องราวสนุกๆ ในกองถ่าย  และ easter egg ที่ซ่อนอยู่ในซีรีส์ที่คุณอาจไม่เคยสังเกต  มาร่วมฟังเรื่องราวการทำงานสุดบันเทิงที่ผสมผสานระหว่างโลกของเทคโนโลยีและวงการบันเทิงได้ในวิดีโอนี้\n",
-        "published": false,
+        "published": "2025-07-26",
         "language": "th",
         "subtitles": [
           "th"
@@ -2547,7 +2547,7 @@
         "youtube": "QC532-L-6k4",
         "managed": true,
         "description": "มาทำความรู้จักกับ WebAssembly (Wasm) เทคโนโลยีใหม่ที่น่าสนใจสำหรับนักพัฒนา  คุณการ independent consultant จะมาแชร์ความรู้เกี่ยวกับ Wasm ตั้งแต่พื้นฐานว่ามันคืออะไร ทำงานอย่างไร และข้อดีข้อเสียเป็นอย่างไร  รวมถึงวิธีการนำ Wasm มาประยุกต์ใช้กับงานที่เราทำอยู่ทุกวันนี้  โดยเน้นที่ความสามารถในการ portability ข้ามแพลตฟอร์ม  ลดขนาดของ binary และ container  และการใช้งานจริงในผลิตภัณฑ์อย่าง Google Earth  วิดีโอนี้เหมาะสำหรับนักพัฒนาที่ต้องการเรียนรู้เทคโนโลยีใหม่ๆ เพื่อเพิ่มประสิทธิภาพในการทำงานและลดต้นทุน  มาร่วมสำรวจศักยภาพของ Wasm และวิธีที่มันอาจจะเปลี่ยนแปลงวงการพัฒนาซอฟต์แวร์ไปพร้อมๆ กัน\n",
-        "published": false,
+        "published": "2025-07-24",
         "language": "th",
         "subtitles": [
           "th"
@@ -4350,6 +4350,178 @@
       "thaiSubtitlePath": "data/videos/market/yes_th.vtt"
     },
     {
+      "event": "mathsatsundown",
+      "slug": "history",
+      "data": {
+        "title": "History of Mathematics: คณิตศาสตร์ภาษามนุษย์",
+        "type": "talk",
+        "youtube": "sIDwvORIX1Q",
+        "managed": true,
+        "published": "2023-08-09",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/mathsatsundown/history.md",
+      "imageFilePath": "data/videos/mathsatsundown/history.jpg"
+    },
+    {
+      "event": "mathsatsundown",
+      "slug": "paradigms",
+      "data": {
+        "title": "Paradigms of Mathematics: คณิตศาสตร์อย่างที่ไม่ควรจะเป็น",
+        "type": "talk",
+        "youtube": "6s4A796J800",
+        "managed": true,
+        "published": "2023-08-09",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/mathsatsundown/paradigms.md",
+      "imageFilePath": "data/videos/mathsatsundown/paradigms.jpg"
+    },
+    {
+      "event": "mongo0924",
+      "slug": "mongo8",
+      "data": {
+        "title": "What's new in MongoDB 8.0",
+        "speaker": "Piti Champeethong",
+        "type": "talk",
+        "youtube": "wqedcVO_HKw",
+        "managed": true,
+        "description": "พบกับ คุณปิติ Senior Consulting Engineer จาก MongoDB สิงคโปร์ กับหัวข้อ What is new in MongoDB 8.0 เรียนรู้เกี่ยวกับฟีเจอร์ใหม่ๆ ที่น่าสนใจใน MongoDB เวอร์ชัน 8.0 ไม่ว่าจะเป็นเรื่องประสิทธิภาพการทำงานที่ดีขึ้น เครื่องมือ migration ที่ใช้งานง่ายขึ้น รวมถึงการปรับปรุงด้านความปลอดภัย  มาดูกันว่าฟีเจอร์เหล่านี้จะช่วยเพิ่มประสิทธิภาพและความสะดวกสบายในการทำงานกับ MongoDB ได้อย่างไรบ้าง\n",
+        "published": true,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำวิทยากรและหัวข้อ What's New in MongoDB 8.0",
+          "0:52": "MongoDB เวอร์ชั่นต่างๆ และ ความสำคัญของ Community Edition",
+          "2:51": "ฟีเจอร์ใหม่ใน MongoDB 8.0: Search และ Vector Search",
+          "6:19": "เครื่องมือ Migration: ย้ายข้อมูลจาก Relational Database สู่ MongoDB",
+          "10:56": "Modernization: อัพเกรดแอปพลิเคชั่นเก่าด้วย AI",
+          "12:41": "4 จุดเด่นของ MongoDB 8.0: Optimization, Workload, Scaling, Security",
+          "13:54": "Optimization: Performance เร็วขึ้น, ยกตัวอย่างคำสั่งที่ปรับปรุง",
+          "17:17": "การทำ Index ใน MongoDB:  ESR Rule และ Best Practice",
+          "19:18": "มาตรฐานใหม่ของ Performance: เปรียบเทียบ MongoDB 8.0 กับเวอร์ชั่น 7",
+          "22:11": "Time Series Collection: จัดเก็บข้อมูล Real-time ได้ดีขึ้น",
+          "24:50": "Machine Learning Model ใน MongoDB: ใช้สำหรับ Vector Search",
+          "25:28": "Query Execution: ลดความซับซ้อน เพิ่มประสิทธิภาพ",
+          "28:44": "Memory Management: การจัดการ RAM และ Data File",
+          "33:15": "การเพิ่ม RAM ช่วยแก้ปัญหาความเร็วได้จริงหรือ? + วิธีวิเคราะห์ปัญหา",
+          "37:28": "สาเหตุหลักของ Database ช้า + แนะนำเครื่องมือวิเคราะห์ Log",
+          "39:06": "Replica Set: ลด Lag Time เพิ่มประสิทธิภาพ HA",
+          "40:40": "Acknowledge (Write Concern):  การันตีความถูกต้องของข้อมูล",
+          "41:25": "Atlas Search:  เครื่องมือวิเคราะห์ Query บน Cloud",
+          "42:30": "Query Shape: บล็อค Query รูปแบบเฉพาะ ป้องกันปัญหา",
+          "43:36": "Timeout:  ตั้งค่า Max Time ป้องกัน Query ค้าง",
+          "44:06": "Force Index:  บังคับ Query ให้ใช้ Index ที่ต้องการ",
+          "44:48": "Scaling:  ย้าย Collection ใน Sharding ได้ง่ายขึ้น",
+          "46:41": "Faster Resharding:  ลดเวลา Reshard ลง 10 เท่า",
+          "47:00": "ลดค่าใช้จ่าย Server ด้วยการยุบ Config Server",
+          "47:59": "Security: เชื่อมต่อ OpenID,  Federation  ได้ง่ายขึ้น",
+          "49:01": "Queryable Encryption: ค้นหาข้อมูลที่เข้ารหัสแบบ Range ได้แล้ว",
+          "50:26": "Log Format: รองรับมาตรฐาน Open Cybersecurity",
+          "50:51": "สรุป What's New in MongoDB 8.0"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/mongo0924/mongo8.md",
+      "imageFilePath": "data/videos/mongo0924/mongo8.jpg",
+      "thaiSubtitlePath": "data/videos/mongo0924/mongo8_th.vtt"
+    },
+    {
+      "event": "mongo0924",
+      "slug": "multimodal",
+      "data": {
+        "title": "Multimodal RAG for Images and Text with MongoDB",
+        "speaker": "Witthawin Sripheanpol",
+        "type": "talk",
+        "youtube": "sWEy_OTijqA",
+        "managed": true,
+        "description": "มาร่วมสำรวจโลกของ Multimodal AI ใน session ที่จะพาไปรู้จักกับเทคโนโลยีที่ ChatGPT หรือ Gemini ใช้ ในการทำความเข้าใจทั้งรูปภาพและข้อความพร้อมๆ กัน บรรยายโดยโร่ AI engineer จาก Botnoi Group ที่จะอธิบายตั้งแต่พื้นฐานของ Multimodal  ไปจนถึงการประยุกต์ใช้กับงานอย่าง VQA (Visual Question Answering) ผ่านเทคนิคอย่าง Image Captioning และ RAG (Retrieval Augmented Generation)\n\nSession นี้เหมาะสำหรับผู้ที่สนใจ AI และต้องการต่อยอดความรู้ไปสู่ Multimodal  เพื่อสร้างแอปพลิเคชันที่สามารถเข้าใจข้อมูลได้หลากหลายรูปแบบมากขึ้น\n",
+        "published": "2024-10-30",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและเกริ่นนำ: Multimodal LLM",
+          "0:47": "Multimodal คืออะไร? แตกต่างจาก Unimodal อย่างไร?",
+          "3:02": "Multimodal ในอุดมคติ: เปลี่ยนทุกอย่างเป็น Text",
+          "6:45": "โฟกัส Image + Text: เปลี่ยนรูปเป็น Text ได้อย่างไร?",
+          "8:08": "Image Captioning & Visual Language Model: สอน AI ให้เข้าใจรูป",
+          "12:08": "Fine-tuned Model vs. RAG: เลือกแบบไหนดี?",
+          "13:38": "RAG คืออะไร? ทำงานอย่างไร?",
+          "15:13": "Image Collection: เปลี่ยนรูปเป็น Vector ทำไม?",
+          "19:50": "เตรียม Vector Database ให้พร้อม ก่อนทำ RAG",
+          "20:03": "Question Answering: ถาม-ตอบ ฉบับ Multimodal",
+          "21:45": "VQA with RAG: รวมรูปภาพในการถาม-ตอบ",
+          "23:13": "VQA แบบ Advance: ใช้ Model ที่เข้าใจทั้งรูปและข้อความ",
+          "24:11": "สรุป Multimodal & RAG: เปลี่ยนทุกอย่างเป็น Text แล้วค่อยถาม",
+          "26:12": "Workshop: ลองทำ Image Captioning & Vector Search",
+          "36:54": "สาธิตการใช้งาน: ค้นหารูปภาพด้วย Text",
+          "42:20": "ปัญหาและการปรับปรุง: Image Captioning สำคัญมากแค่ไหน?",
+          "43:20": "สรุปและคำขอบคุณ",
+          "43:45": "ประกาศกิจกรรมเล่นเกมและแจกของรางวัล"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/mongo0924/multimodal.md",
+      "imageFilePath": "data/videos/mongo0924/multimodal.jpg",
+      "thaiSubtitlePath": "data/videos/mongo0924/multimodal_th.vtt"
+    },
+    {
+      "event": "mongo0924",
+      "slug": "rag",
+      "data": {
+        "title": "How to perform RAG and Vector Search with MongoDB",
+        "speaker": "Kanin Kearpimy",
+        "type": "talk",
+        "youtube": "ct2RhcBDeyE",
+        "managed": true,
+        "description": "มาทำความรู้จักกับ RAG หรือ Retrieval Augmented Generation และการนำไปใช้กับ vector search ใน MongoDB ใน session นี้ คุณเจมส์จะพาไปสำรวจวิธีการดึงข้อมูลที่เกี่ยวข้องกับคำถามโดยใช้ความหมาย มากกว่าการจับคู่แบบตรงตัว เพื่อประสิทธิภาพในการทำงานร่วมกับ Large Language Model (LLM) และลดค่าใช้จ่ายในการใช้งาน พร้อมเจาะลึกการทำงานของ semantic search และการนำไปใช้ประโยชน์ในการทำ caching ข้อมูลอย่างชาญฉลาด เหมาะสำหรับนักพัฒนาที่สนใจเพิ่มประสิทธิภาพการทำงานของแอปพลิเคชันที่ใช้ LLM\n",
+        "published": "2024-10-27",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "LLM, Vector Search และ Semantic Search คืออะไร?",
+          "0:38": "ภาพรวม Workshop และแหล่งข้อมูลเพิ่มเติม",
+          "1:18": "RAG กับ Vector Search with MongoDB คืออะไร?",
+          "2:03": "ตัวอย่างการใช้งาน RAG กับ MongoDB",
+          "2:29": "วิธีการ Get Data จาก MongoDB",
+          "3:18": "LLM และ Model Knowledge",
+          "4:04": "ข้อจำกัดของ Model Knowledge และวิธีแก้ไข",
+          "5:31": "Retrieval Augmented Generation (RAG)",
+          "6:00": "ขั้นตอนการทำงานของ RAG",
+          "7:41": "Walkthrough โค้ด: การทำงานของ RAG",
+          "10:00": "การจัดการ Context Window และ Memory ของ LLM",
+          "12:00": "การดึงข้อมูลจาก MongoDB และปัญหาเรื่องต้นทุน LLM",
+          "13:23": "การเพิ่ม Cache เพื่อลดต้นทุน LLM",
+          "14:47": "ปัญหาการ Cache คำถามและคำตอบใน LLM",
+          "16:16": "Semantic Meaning และ Semantic Search",
+          "17:04": "Vector คืออะไร? และ Embedding Model ทำงานอย่างไร?",
+          "18:04": "Vector Search คืออะไร? และการหา Similarity",
+          "19:30": "MongoDB Vector Search",
+          "21:02": "วิธีการ Retrieve Cache ใน MongoDB",
+          "22:51": "การจัดการ Cache ที่กว้างเกินไปและการ Embed เวลา",
+          "24:43": "กรณีที่ไม่ทำ Cache และคำถามที่ไม่เกี่ยวข้อง",
+          "25:44": "การวัด Score และ Embedding Model",
+          "26:02": "Walkthrough โค้ด: การ Retrieve Cache ใน MongoDB",
+          "28:36": "การเซฟ Cache ใน MongoDB",
+          "30:28": "การกำหนด Semantic Rules และการควบคุม Cache",
+          "32:02": "สรุปขั้นตอนการเซฟ Cache และแหล่งข้อมูลเพิ่มเติม",
+          "32:33": "โปรโมทงาน Javascript Bangkok และแจกของรางวัล"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/mongo0924/rag.md",
+      "imageFilePath": "data/videos/mongo0924/rag.jpg",
+      "thaiSubtitlePath": "data/videos/mongo0924/rag_th.vtt"
+    },
+    {
       "event": "jsbkk2",
       "slug": "ai-agent",
       "data": {
@@ -5332,178 +5504,6 @@
       "filePath": "data/videos/jsbkk2/webar.md",
       "imageFilePath": "data/videos/jsbkk2/webar.jpg",
       "thaiSubtitlePath": "data/videos/jsbkk2/webar_th.vtt"
-    },
-    {
-      "event": "mathsatsundown",
-      "slug": "history",
-      "data": {
-        "title": "History of Mathematics: คณิตศาสตร์ภาษามนุษย์",
-        "type": "talk",
-        "youtube": "sIDwvORIX1Q",
-        "managed": true,
-        "published": "2023-08-09",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/mathsatsundown/history.md",
-      "imageFilePath": "data/videos/mathsatsundown/history.jpg"
-    },
-    {
-      "event": "mathsatsundown",
-      "slug": "paradigms",
-      "data": {
-        "title": "Paradigms of Mathematics: คณิตศาสตร์อย่างที่ไม่ควรจะเป็น",
-        "type": "talk",
-        "youtube": "6s4A796J800",
-        "managed": true,
-        "published": "2023-08-09",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/mathsatsundown/paradigms.md",
-      "imageFilePath": "data/videos/mathsatsundown/paradigms.jpg"
-    },
-    {
-      "event": "mongo0924",
-      "slug": "mongo8",
-      "data": {
-        "title": "What's new in MongoDB 8.0",
-        "speaker": "Piti Champeethong",
-        "type": "talk",
-        "youtube": "wqedcVO_HKw",
-        "managed": true,
-        "description": "พบกับ คุณปิติ Senior Consulting Engineer จาก MongoDB สิงคโปร์ กับหัวข้อ What is new in MongoDB 8.0 เรียนรู้เกี่ยวกับฟีเจอร์ใหม่ๆ ที่น่าสนใจใน MongoDB เวอร์ชัน 8.0 ไม่ว่าจะเป็นเรื่องประสิทธิภาพการทำงานที่ดีขึ้น เครื่องมือ migration ที่ใช้งานง่ายขึ้น รวมถึงการปรับปรุงด้านความปลอดภัย  มาดูกันว่าฟีเจอร์เหล่านี้จะช่วยเพิ่มประสิทธิภาพและความสะดวกสบายในการทำงานกับ MongoDB ได้อย่างไรบ้าง\n",
-        "published": true,
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำวิทยากรและหัวข้อ What's New in MongoDB 8.0",
-          "0:52": "MongoDB เวอร์ชั่นต่างๆ และ ความสำคัญของ Community Edition",
-          "2:51": "ฟีเจอร์ใหม่ใน MongoDB 8.0: Search และ Vector Search",
-          "6:19": "เครื่องมือ Migration: ย้ายข้อมูลจาก Relational Database สู่ MongoDB",
-          "10:56": "Modernization: อัพเกรดแอปพลิเคชั่นเก่าด้วย AI",
-          "12:41": "4 จุดเด่นของ MongoDB 8.0: Optimization, Workload, Scaling, Security",
-          "13:54": "Optimization: Performance เร็วขึ้น, ยกตัวอย่างคำสั่งที่ปรับปรุง",
-          "17:17": "การทำ Index ใน MongoDB:  ESR Rule และ Best Practice",
-          "19:18": "มาตรฐานใหม่ของ Performance: เปรียบเทียบ MongoDB 8.0 กับเวอร์ชั่น 7",
-          "22:11": "Time Series Collection: จัดเก็บข้อมูล Real-time ได้ดีขึ้น",
-          "24:50": "Machine Learning Model ใน MongoDB: ใช้สำหรับ Vector Search",
-          "25:28": "Query Execution: ลดความซับซ้อน เพิ่มประสิทธิภาพ",
-          "28:44": "Memory Management: การจัดการ RAM และ Data File",
-          "33:15": "การเพิ่ม RAM ช่วยแก้ปัญหาความเร็วได้จริงหรือ? + วิธีวิเคราะห์ปัญหา",
-          "37:28": "สาเหตุหลักของ Database ช้า + แนะนำเครื่องมือวิเคราะห์ Log",
-          "39:06": "Replica Set: ลด Lag Time เพิ่มประสิทธิภาพ HA",
-          "40:40": "Acknowledge (Write Concern):  การันตีความถูกต้องของข้อมูล",
-          "41:25": "Atlas Search:  เครื่องมือวิเคราะห์ Query บน Cloud",
-          "42:30": "Query Shape: บล็อค Query รูปแบบเฉพาะ ป้องกันปัญหา",
-          "43:36": "Timeout:  ตั้งค่า Max Time ป้องกัน Query ค้าง",
-          "44:06": "Force Index:  บังคับ Query ให้ใช้ Index ที่ต้องการ",
-          "44:48": "Scaling:  ย้าย Collection ใน Sharding ได้ง่ายขึ้น",
-          "46:41": "Faster Resharding:  ลดเวลา Reshard ลง 10 เท่า",
-          "47:00": "ลดค่าใช้จ่าย Server ด้วยการยุบ Config Server",
-          "47:59": "Security: เชื่อมต่อ OpenID,  Federation  ได้ง่ายขึ้น",
-          "49:01": "Queryable Encryption: ค้นหาข้อมูลที่เข้ารหัสแบบ Range ได้แล้ว",
-          "50:26": "Log Format: รองรับมาตรฐาน Open Cybersecurity",
-          "50:51": "สรุป What's New in MongoDB 8.0"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/mongo0924/mongo8.md",
-      "imageFilePath": "data/videos/mongo0924/mongo8.jpg",
-      "thaiSubtitlePath": "data/videos/mongo0924/mongo8_th.vtt"
-    },
-    {
-      "event": "mongo0924",
-      "slug": "multimodal",
-      "data": {
-        "title": "Multimodal RAG for Images and Text with MongoDB",
-        "speaker": "Witthawin Sripheanpol",
-        "type": "talk",
-        "youtube": "sWEy_OTijqA",
-        "managed": true,
-        "description": "มาร่วมสำรวจโลกของ Multimodal AI ใน session ที่จะพาไปรู้จักกับเทคโนโลยีที่ ChatGPT หรือ Gemini ใช้ ในการทำความเข้าใจทั้งรูปภาพและข้อความพร้อมๆ กัน บรรยายโดยโร่ AI engineer จาก Botnoi Group ที่จะอธิบายตั้งแต่พื้นฐานของ Multimodal  ไปจนถึงการประยุกต์ใช้กับงานอย่าง VQA (Visual Question Answering) ผ่านเทคนิคอย่าง Image Captioning และ RAG (Retrieval Augmented Generation)\n\nSession นี้เหมาะสำหรับผู้ที่สนใจ AI และต้องการต่อยอดความรู้ไปสู่ Multimodal  เพื่อสร้างแอปพลิเคชันที่สามารถเข้าใจข้อมูลได้หลากหลายรูปแบบมากขึ้น\n",
-        "published": "2024-10-30",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "แนะนำตัวและเกริ่นนำ: Multimodal LLM",
-          "0:47": "Multimodal คืออะไร? แตกต่างจาก Unimodal อย่างไร?",
-          "3:02": "Multimodal ในอุดมคติ: เปลี่ยนทุกอย่างเป็น Text",
-          "6:45": "โฟกัส Image + Text: เปลี่ยนรูปเป็น Text ได้อย่างไร?",
-          "8:08": "Image Captioning & Visual Language Model: สอน AI ให้เข้าใจรูป",
-          "12:08": "Fine-tuned Model vs. RAG: เลือกแบบไหนดี?",
-          "13:38": "RAG คืออะไร? ทำงานอย่างไร?",
-          "15:13": "Image Collection: เปลี่ยนรูปเป็น Vector ทำไม?",
-          "19:50": "เตรียม Vector Database ให้พร้อม ก่อนทำ RAG",
-          "20:03": "Question Answering: ถาม-ตอบ ฉบับ Multimodal",
-          "21:45": "VQA with RAG: รวมรูปภาพในการถาม-ตอบ",
-          "23:13": "VQA แบบ Advance: ใช้ Model ที่เข้าใจทั้งรูปและข้อความ",
-          "24:11": "สรุป Multimodal & RAG: เปลี่ยนทุกอย่างเป็น Text แล้วค่อยถาม",
-          "26:12": "Workshop: ลองทำ Image Captioning & Vector Search",
-          "36:54": "สาธิตการใช้งาน: ค้นหารูปภาพด้วย Text",
-          "42:20": "ปัญหาและการปรับปรุง: Image Captioning สำคัญมากแค่ไหน?",
-          "43:20": "สรุปและคำขอบคุณ",
-          "43:45": "ประกาศกิจกรรมเล่นเกมและแจกของรางวัล"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/mongo0924/multimodal.md",
-      "imageFilePath": "data/videos/mongo0924/multimodal.jpg",
-      "thaiSubtitlePath": "data/videos/mongo0924/multimodal_th.vtt"
-    },
-    {
-      "event": "mongo0924",
-      "slug": "rag",
-      "data": {
-        "title": "How to perform RAG and Vector Search with MongoDB",
-        "speaker": "Kanin Kearpimy",
-        "type": "talk",
-        "youtube": "ct2RhcBDeyE",
-        "managed": true,
-        "description": "มาทำความรู้จักกับ RAG หรือ Retrieval Augmented Generation และการนำไปใช้กับ vector search ใน MongoDB ใน session นี้ คุณเจมส์จะพาไปสำรวจวิธีการดึงข้อมูลที่เกี่ยวข้องกับคำถามโดยใช้ความหมาย มากกว่าการจับคู่แบบตรงตัว เพื่อประสิทธิภาพในการทำงานร่วมกับ Large Language Model (LLM) และลดค่าใช้จ่ายในการใช้งาน พร้อมเจาะลึกการทำงานของ semantic search และการนำไปใช้ประโยชน์ในการทำ caching ข้อมูลอย่างชาญฉลาด เหมาะสำหรับนักพัฒนาที่สนใจเพิ่มประสิทธิภาพการทำงานของแอปพลิเคชันที่ใช้ LLM\n",
-        "published": "2024-10-27",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "LLM, Vector Search และ Semantic Search คืออะไร?",
-          "0:38": "ภาพรวม Workshop และแหล่งข้อมูลเพิ่มเติม",
-          "1:18": "RAG กับ Vector Search with MongoDB คืออะไร?",
-          "2:03": "ตัวอย่างการใช้งาน RAG กับ MongoDB",
-          "2:29": "วิธีการ Get Data จาก MongoDB",
-          "3:18": "LLM และ Model Knowledge",
-          "4:04": "ข้อจำกัดของ Model Knowledge และวิธีแก้ไข",
-          "5:31": "Retrieval Augmented Generation (RAG)",
-          "6:00": "ขั้นตอนการทำงานของ RAG",
-          "7:41": "Walkthrough โค้ด: การทำงานของ RAG",
-          "10:00": "การจัดการ Context Window และ Memory ของ LLM",
-          "12:00": "การดึงข้อมูลจาก MongoDB และปัญหาเรื่องต้นทุน LLM",
-          "13:23": "การเพิ่ม Cache เพื่อลดต้นทุน LLM",
-          "14:47": "ปัญหาการ Cache คำถามและคำตอบใน LLM",
-          "16:16": "Semantic Meaning และ Semantic Search",
-          "17:04": "Vector คืออะไร? และ Embedding Model ทำงานอย่างไร?",
-          "18:04": "Vector Search คืออะไร? และการหา Similarity",
-          "19:30": "MongoDB Vector Search",
-          "21:02": "วิธีการ Retrieve Cache ใน MongoDB",
-          "22:51": "การจัดการ Cache ที่กว้างเกินไปและการ Embed เวลา",
-          "24:43": "กรณีที่ไม่ทำ Cache และคำถามที่ไม่เกี่ยวข้อง",
-          "25:44": "การวัด Score และ Embedding Model",
-          "26:02": "Walkthrough โค้ด: การ Retrieve Cache ใน MongoDB",
-          "28:36": "การเซฟ Cache ใน MongoDB",
-          "30:28": "การกำหนด Semantic Rules และการควบคุม Cache",
-          "32:02": "สรุปขั้นตอนการเซฟ Cache และแหล่งข้อมูลเพิ่มเติม",
-          "32:33": "โปรโมทงาน Javascript Bangkok และแจกของรางวัล"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/mongo0924/rag.md",
-      "imageFilePath": "data/videos/mongo0924/rag.jpg",
-      "thaiSubtitlePath": "data/videos/mongo0924/rag_th.vtt"
     },
     {
       "event": "msbuild2023",
