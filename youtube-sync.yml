@@ -22134,8 +22134,8 @@ video:ZhkdwuPHId4:
         จนเติบโตเป็นระบบนิเวศที่ซับซ้อน  เรียนรู้ถึงปัญหาที่พบเจอจากการสร้าง
         library ขนาดใหญ่ที่ทำหน้าที่มากเกินไป และวิธีการแก้ไขด้วยการแตก library
         ออกเป็นส่วนย่อยๆ ที่ทำงานร่วมกัน  รวมถึงการใช้เครื่องมืออย่าง kleros และ
-        Worachak Classic ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web
-        application  มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library
+        Waraji katsu ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web application 
+        มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library
         อย่างไรให้มีประสิทธิภาพและสามารถนำกลับมาใช้ซ้ำได้ในหลายๆ โปรเจกต์ 
         พร้อมรับฟังเคล็ดลับการตั้งชื่อ library และแผนการพัฒนาในอนาคต
 
@@ -22156,9 +22156,9 @@ video:ZhkdwuPHId4:
 
         7:00 | kleros: Library สำหรับสร้าง Library
 
-        7:42 | สร้าง Web App ง่ายๆ ด้วย Worachak Classic
+        7:42 | สร้าง Web App ง่ายๆ ด้วย Waraji katsu
 
-        8:45 | Worachak Classic: เปรียบเสมือนการทำอาหารจานนึง
+        8:45 | Waraji katsu: เปรียบเสมือนการทำอาหารจานนึง
 
         9:23 | Design System UI: LINE MAN UI, LINE Pay UI, วงใน UI และ Core UI
 
@@ -22470,7 +22470,7 @@ video:ZhkdwuPHId4:caption:th:
     filePath: data/videos/bkkjs23/lmwn_th.vtt
     language: th
     name: Thai
-    hash: cadd3b4b4e23bef9cb11c94d98d559ed52a889ff12696af21afca976775cebbc
+    hash: 1ea6b13f01bb46969e4e8933289b158f30ea436aac22cdc440980f5f4ca1608e
     isDraft: false
   state:
     id: AUieDaYvUErEM-DHecxBBYcZDzf42nohR9OzfuQ1CWV4ix2CRztf
