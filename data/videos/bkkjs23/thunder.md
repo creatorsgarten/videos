@@ -3,7 +3,7 @@ title: "Tech Behind the Scene: NETFLIX'S Mad Unicorn ⚡"
 speaker: Chayapatr Archiwaranguprok
 youtube: skHc2eJvHyk
 managed: true
-published: false
+published: '2025-07-26'
 subtitles: [th]
 language: th
 chapters:

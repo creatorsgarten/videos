@@ -3,7 +3,7 @@ title: Building Library Ecosystem in LMWN
 speaker: Voraton Lertrattanapaisal
 youtube: ZhkdwuPHId4
 managed: true
-published: false
+published: '2025-07-21'
 subtitles: [th]
 language: th
 chapters:

@@ -3,7 +3,7 @@ title: Supercharge Your JavaScript Promises
 speaker: Pornpat Paethong
 youtube: zd2R3V4RvOI
 managed: true
-published: false
+published: '2025-07-18'
 subtitles: [th]
 language: th
 chapters:
