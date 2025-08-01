@@ -19,7 +19,7 @@ chapters:
   "11:01": "Promise หลายตัว: Promise.all และ Promise.allSettled"
   "14:03": "Promise.any: ตัวไหนเร็วสุด ตัวนั้นได้ไป"
   "15:04": "Error Handling ใน Promise: Retry และ Pool"
-  "17:50": "RxJS และ Promise Retry: ตัวช่วยสำหรับ Retry"
+  "17:50": "axios และ Promise Retry: ตัวช่วยสำหรับ Retry"
   "18:38": "สรุปและ Q&A"
   "19:50": "Q&A: Async Await ใน MVC Architecture"
   "24:10": "Q&A: Readability และ Error Tracing ใน Async Await"
