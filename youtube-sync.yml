@@ -22133,9 +22133,9 @@ video:ZhkdwuPHId4:
         ฟังเรื่องราวเบื้องหลังการพัฒนา library ต่างๆ ตั้งแต่จุดเริ่มต้นเล็กๆ
         จนเติบโตเป็นระบบนิเวศที่ซับซ้อน  เรียนรู้ถึงปัญหาที่พบเจอจากการสร้าง
         library ขนาดใหญ่ที่ทำหน้าที่มากเกินไป และวิธีการแก้ไขด้วยการแตก library
-        ออกเป็นส่วนย่อยๆ ที่ทำงานร่วมกัน  รวมถึงการใช้เครื่องมืออย่าง kleros และ
-        Waraji katsu ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web application 
-        มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library
+        ออกเป็นส่วนย่อยๆ ที่ทำงานร่วมกัน  รวมถึงการใช้เครื่องมืออย่าง Kyo Roll
+        Up และ Waraji Katsu ที่ช่วยลดความยุ่งยากในการ setup และสร้าง web
+        application  มาดูกันว่า LINE MAN Wongnai บริหารจัดการ library
         อย่างไรให้มีประสิทธิภาพและสามารถนำกลับมาใช้ซ้ำได้ในหลายๆ โปรเจกต์ 
         พร้อมรับฟังเคล็ดลับการตั้งชื่อ library และแผนการพัฒนาในอนาคต
 
@@ -22154,13 +22154,14 @@ video:ZhkdwuPHId4:
 
         5:44 | ปัญหาโค้ดซ้ำซ้อนใน Web Application และทางแก้: สร้าง Library
 
-        7:00 | kleros: Library สำหรับสร้าง Library
+        7:00 | Kyo Roll Up: Library สำหรับสร้าง Library
 
         7:42 | สร้าง Web App ง่ายๆ ด้วย Waraji katsu
 
         8:45 | Waraji katsu: เปรียบเสมือนการทำอาหารจานนึง
 
-        9:23 | Design System UI: LINE MAN UI, LINE Pay UI, วงใน UI และ Core UI
+        9:23 | Design System UI: LINE MAN UI, LINE PAY UI, Wongnai UI และ Core
+        UI
 
         10:09 | Repeat Feature/Logic: SDKs, Utils, และ Hooks
 
@@ -22470,7 +22471,7 @@ video:ZhkdwuPHId4:caption:th:
     filePath: data/videos/bkkjs23/lmwn_th.vtt
     language: th
     name: Thai
-    hash: 1ea6b13f01bb46969e4e8933289b158f30ea436aac22cdc440980f5f4ca1608e
+    hash: 65abc507984b551fc8da659f38ce6ac588a424c8d4d60173483898dfbf3d22db
     isDraft: false
   state:
     id: AUieDaYvUErEM-DHecxBBYcZDzf42nohR9OzfuQ1CWV4ix2CRztf
