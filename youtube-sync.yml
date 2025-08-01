@@ -22029,7 +22029,7 @@ video:QC532-L-6k4:
       title: Intro to Web Assembly by Karn Wong
       description: >-
         มาทำความรู้จักกับ WebAssembly (Wasm)
-        เทคโนโลยีใหม่ที่น่าสนใจสำหรับนักพัฒนา  คุณการ independent consultant
+        เทคโนโลยีใหม่ที่น่าสนใจสำหรับนักพัฒนา  คุณกาน independent consultant
         จะมาแชร์ความรู้เกี่ยวกับ Wasm ตั้งแต่พื้นฐานว่ามันคืออะไร ทำงานอย่างไร
         และข้อดีข้อเสียเป็นอย่างไร  รวมถึงวิธีการนำ Wasm
         มาประยุกต์ใช้กับงานที่เราทำอยู่ทุกวันนี้  โดยเน้นที่ความสามารถในการ
@@ -22396,7 +22396,7 @@ video:zd2R3V4RvOI:
 
         15:04 | Error Handling ใน Promise: Retry และ Pool
 
-        17:50 | RxJS และ Promise Retry: ตัวช่วยสำหรับ Retry
+        17:50 | axios และ Promise Retry: ตัวช่วยสำหรับ Retry
 
         18:38 | สรุปและ Q&A
 
@@ -22451,7 +22451,7 @@ video:LOorcSZtpQs:caption:en:
     filePath: data/videos/bkkjs23/safety_en.vtt
     language: en
     name: English
-    hash: b3ac971fef1a29bd6c3c7bb05213fe78257c9c1b2ae5c30a28ac5ad9e3f861d3
+    hash: e3dd32bebc1808f1598143e6039594dc77fca8b182f569f3787288aee4f7323f
     isDraft: false
   state:
     id: AUieDaZZHK7YRC1DbxJKm2_s4_04sMNE0EqZo4Kd4nlMMIm52pRHWRB8
@@ -22461,7 +22461,7 @@ video:QC532-L-6k4:caption:th:
     filePath: data/videos/bkkjs23/webassembly_th.vtt
     language: th
     name: Thai
-    hash: 6c9e9651ade773dc7d52e5639e76f87ad7b5cbe344cbec14fc0124962713e604
+    hash: 517763e82f6031a3f95cfe708e5cf6034e9a052ec70346723d18698b90220293
     isDraft: false
   state:
     id: AUieDaalRtfalXL0egSwm0WOZRnkq3eOr_oQrUIE62Mx6pFlGPkm
@@ -22491,7 +22491,7 @@ video:zd2R3V4RvOI:caption:th:
     filePath: data/videos/bkkjs23/promises_th.vtt
     language: th
     name: Thai
-    hash: 1b46a664a54a8de7db15734eaed092c2548abd7d4c4f95395475bf8b5249d218
+    hash: 6173510f42bf105cd1099f47960d1891837d527d25c0d76854df0ae21062a1a1
     isDraft: false
   state:
     id: AUieDaYvv9W1ZoQwkplS9_IiHdWGVMQxelWThnjwoTb1JoTWFcMK
