@@ -2230,7 +2230,7 @@ Q&A ครับ question time มีคำถามไหมครับ
 ครับมีแจก JetBrains นะครับผม
 
 00:25:50.429 --> 00:25:52.557
-มีคำถามเรื่อง QA safeness ไหมครับ
+มีคำถามเรื่อง QA safety net ไหมครับ
 
 00:25:52.640 --> 00:25:55.676
 spreading of the engineering practice for the speed?
@@ -2263,10 +2263,7 @@ Yeah.
 So I just saw on your slide that you mentioned things about
 
 00:26:15.919 --> 00:26:24.076
-feature flags ที่ว่าถ้าเรา implement feature flags
-
-00:26:24.159 --> 00:26:26.076
-properly จะทำให้ rollback operation เร็วขึ้น
+feature flags a bit. If implement feature flags properly, faster rollback operation
 
 00:26:26.159 --> 00:26:29.280
 Is there any sign that we can tell like,
@@ -2377,7 +2374,7 @@ Yeah, thank you.
 All right, we do have another question right here.
 
 00:27:42.480 --> 00:27:44.237
-Hello, James from LINE.
+Hello, James from EarnIn.
 
 00:27:44.320 --> 00:27:48.239
 So I have question for the front-end observability.
