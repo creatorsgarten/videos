@@ -182,6 +182,7 @@ const events = [
   }),
   new Event('bkkjs22', 'BKK.JS #22'),
   new Event('bkkjs23', 'BKK.JS #23'),
+  new Event('sht9', 'Stupido Hackettino ๙'),
 ]
 
 // To prevent YouTube API running out of quota,
