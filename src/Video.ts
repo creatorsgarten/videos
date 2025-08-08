@@ -56,26 +56,32 @@ export class Video {
     const paths = await globby(['data/videos/**/*.md'])
     const videos: Video[] = []
     for (const filePath of paths) {
-      const slug = path.basename(filePath, '.md')
-      const event = path.basename(path.dirname(filePath))
-      const parsed = grayMatter.read(filePath)
-      const { data, content } = parsed
-      const imageFilePath = getDefaultImageFilePath({ filePath })
-      const englishSubtitlePath = filePath.replace(/\.md$/, '_en.vtt')
-      const thaiSubtitlePath = filePath.replace(/\.md$/, '_th.vtt')
-      videos.push(
-        new Video(
-          filePath,
-          event,
-          slug,
-          VideoFrontMatter.parse(data),
-          content,
-          fs.existsSync(imageFilePath) ? imageFilePath : undefined,
-          fs.existsSync(englishSubtitlePath) ? englishSubtitlePath : undefined,
-          fs.existsSync(thaiSubtitlePath) ? thaiSubtitlePath : undefined,
-          data.language,
-        ),
-      )
+      try {
+        const slug = path.basename(filePath, '.md')
+        const event = path.basename(path.dirname(filePath))
+        const parsed = grayMatter.read(filePath)
+        const { data, content } = parsed
+        const imageFilePath = getDefaultImageFilePath({ filePath })
+        const englishSubtitlePath = filePath.replace(/\.md$/, '_en.vtt')
+        const thaiSubtitlePath = filePath.replace(/\.md$/, '_th.vtt')
+        videos.push(
+          new Video(
+            filePath,
+            event,
+            slug,
+            VideoFrontMatter.parse(data),
+            content,
+            fs.existsSync(imageFilePath) ? imageFilePath : undefined,
+            fs.existsSync(englishSubtitlePath) ? englishSubtitlePath : undefined,
+            fs.existsSync(thaiSubtitlePath) ? thaiSubtitlePath : undefined,
+            data.language,
+          ),
+        )
+      }
+      catch (e) {
+        console.error('Unable to process video file', filePath)
+        throw e
+      }
     }
     return videos
   }
