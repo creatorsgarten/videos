@@ -22810,10 +22810,12 @@ video:BridfcJbBvA:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/sht9/09
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -23446,3 +23448,13 @@ video:vXW79ShkLDw:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:BridfcJbBvA:caption:th:
+  spec:
+    videoId: BridfcJbBvA
+    filePath: data/videos/sht9/09_th.vtt
+    language: th
+    name: Thai
+    hash: aa3edc5d1fc042c0e7e1bce40576be1b488abd42c7a51a340cd85dcdf19b199f
+    isDraft: false
+  state:
+    id: AUieDab24Gw-sLHDvlkaeOC-Y9t0vQpXHeiKN1HHjIAH_23Mg6Fy
