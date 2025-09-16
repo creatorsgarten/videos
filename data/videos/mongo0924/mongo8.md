@@ -3,7 +3,7 @@ title: What's new in MongoDB 8.0
 speaker: Piti Champeethong
 youtube: wqedcVO_HKw
 managed: true
-published: true
+published: '2024-10-24'
 subtitles: [th]
 chapters:
   '0:00': "แนะนำวิทยากรและหัวข้อ What's New in MongoDB 8.0"

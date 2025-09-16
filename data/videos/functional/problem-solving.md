@@ -4,5 +4,5 @@ speaker: Chakrit Riddghani
 youtube: xCyRAH2X9FQ
 tags: [softwaredevelopment, problemsolving]
 managed: true
-published: true
+published: '2023-06-01'
 ---

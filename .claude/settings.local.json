@@ -1,9 +1,10 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
-      "WebFetch(domain:creatorsgarten-video-captions-review.spacet.me)"
+      "WebFetch(domain:creatorsgarten-video-captions-review.spacet.me)",
+      "Bash(npx tsx src/scripts/check-video-published-date.ts:*)"
     ],
     "deny": []
-  },
-  "$schema": "https://json.schemastore.org/claude-code-settings.json"
+  }
 }

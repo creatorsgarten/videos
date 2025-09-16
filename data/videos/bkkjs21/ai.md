@@ -3,7 +3,7 @@ title: JavaScripts for Open-Source AI Developers in Nowadays
 speaker: Charunthon Limseelo
 youtube: MA8Y0GIV0Yw
 managed: true
-published: true
+published: '2024-10-04'
 subtitles: [th]
 chapters:
   '00:00': 'เปิดงาน bkk.js และแนะนำตัววิทยากร'

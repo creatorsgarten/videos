@@ -6,7 +6,7 @@ youtubeTitle:
 speaker: Thai Pangsakulyanont
 youtube: vbIWSwz8NxQ
 managed: true
-published: true
+published: '2022-11-11'
 subtitles: [en, th]
 tags: [softwaredevelopment, testing]
 description: |

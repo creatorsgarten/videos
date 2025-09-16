@@ -3,7 +3,7 @@ title: Building Manoonchai keyboard layout from scratch with JS/TS
 speaker: Manassarn Manoonchai
 youtube: ltIvGLzMwzo
 managed: true
-published: true
+published: '2022-11-11'
 description: |
   พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript
 

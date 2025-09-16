@@ -4,5 +4,5 @@ speaker: สมภพ กุละปาลานนท์
 youtube: g4zUmjKXqms
 tags: [redux, reactjs, js, javascript]
 managed: true
-published: true
+published: '2023-07-13'
 ---

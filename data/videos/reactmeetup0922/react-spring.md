@@ -4,5 +4,5 @@ speaker: Kanisorn Sutham
 youtube: iFBxlPXrZRo
 tags: [reactspring, react, js, javascript]
 managed: true
-published: true
+published: '2022-11-04'
 ---

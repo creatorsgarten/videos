@@ -3,7 +3,7 @@ title: You don’t need JavaScript
 speaker: Siriwat Kunaporn
 youtube: le5M-5mhPY0
 managed: true
-published: true
+published: '2022-11-11'
 tags: [javascript, js, css]
 description: |
   Mind blown CSS techniques that you might not have seen

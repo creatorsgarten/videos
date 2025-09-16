@@ -3,7 +3,7 @@ title: How web automation saved my friendship
 speaker: Wasin Silakong
 youtube: fQo9j648l5s
 managed: true
-published: true
+published: '2024-11-29'
 subtitles: [th]
 description: |
   ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้

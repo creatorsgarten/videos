@@ -4,7 +4,7 @@ tagline: Peer Share and Microfinance Platform for All
 type: pitch
 youtube: su14UUhSVrM
 managed: true
-published: true
+published: '2023-03-28'
 description: |
   This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.
 

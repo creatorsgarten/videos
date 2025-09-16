@@ -3,7 +3,7 @@ title: Thailand Developer Survey 2024
 speaker: Kamolphan Liwprasert
 youtube: MWllwllnEPc
 managed: true
-published: true
+published: '2024-01-31'
 subtitles: [th]
 description: |
   มาดูผลสำรวจ Thailand Web Developer 2024 กันว่า developer ไทยส่วนใหญ่ใช้เทคโนโลยีอะไรกันบ้าง พบกับฟนจาก Women Techmakers ที่จะมาเปิดเผยข้อมูลเชิงลึกจากผลตอบรับกว่า 274 คน ครอบคลุมตั้งแต่ข้อมูลประชากรศาสตร์ เพศ อายุ รายได้ ไปจนถึงเทคโนโลยี frontend และ backend ยอดนิยม ไม่ว่าจะเป็น React, TypeScript, Vite, PostgreSQL และอื่นๆ อีกมากมาย รวมถึงมุมมองเกี่ยวกับความพึงพอใจในอาชีพและปัจจัยในการเลือกงาน มาร่วมอัพเดทเทรนด์เทคโนโลยีและสำรวจข้อมูลที่น่าสนใจเกี่ยวกับวงการ web development ในไทยไปพร้อมๆ กัน

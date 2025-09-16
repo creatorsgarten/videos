@@ -3,7 +3,7 @@ title: 'Tech Thaiban Model: Empower Local'
 speaker: Kulachat Kena
 youtube: hbVoyXLWD98
 managed: true
-published: true
+published: '2023-02-22'
 subtitles: [th]
 description: |
   Tech Thaiban - เทคไทบ้าน

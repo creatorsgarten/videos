@@ -4,5 +4,5 @@ speaker: Phumrapee Limpianchop
 youtube: Mem2Lso1DQo
 managed: true
 tags: [solidjs, javascript, js, webdevelopment]
-published: true
+published: '2023-09-20'
 ---

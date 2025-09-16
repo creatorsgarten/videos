@@ -4,5 +4,5 @@ speaker: Kunanan Tassuwan
 youtube: '-lZ5ndZhu8c'
 tags: [react, typescript, js, javascript]
 managed: true
-published: true
+published: '2022-11-04'
 ---

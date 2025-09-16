@@ -4,5 +4,5 @@ speaker: Phumrapee Limpianchop
 youtube: jM0njSK-bPg
 tags: [astrojs, nextjs, react, vue, svelte, typescript, javascript, js]
 managed: true
-published: true
+published: '2023-07-13'
 ---

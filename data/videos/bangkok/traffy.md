@@ -3,7 +3,7 @@ title: ที่มา Traffy Fondue และโปรแกรมเมอร�
 speaker: Wasan Pattara-atikom
 youtube: N8eBpiCXgNE
 managed: true
-published: true
+published: '2023-02-22'
 chapters:
   '00:00': 'Introduction'
   '01:17': 'แนะนำ Traffy Fondue'

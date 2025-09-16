@@ -3,7 +3,7 @@ title: 'muse foundation: for-social profit impact'
 speaker: Sira Sujjinanont
 youtube: ztHxfz7nGVE
 managed: true
-published: true
+published: '2023-02-22'
 description: |
   muse foundation
   https://muse.as/

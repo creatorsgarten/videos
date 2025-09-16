@@ -3,7 +3,7 @@ title: Thailand Web Landscape 2024
 speaker: Warat Wongmaneekit
 youtube: ENPJ4_Kq-lY
 managed: true
-published: true
+published: '2024-01-31'
 subtitles: [th]
 chapters:
   '00:00': 'แนะนำ Thailand Web Landscape โปรเจคสำรวจเว็บไทย'

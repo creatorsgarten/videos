@@ -4,5 +4,5 @@ speaker: Komkanit Sujautra
 youtube: LY3e3IAezBQ
 tags: [react]
 managed: true
-published: true
+published: '2023-07-13'
 ---

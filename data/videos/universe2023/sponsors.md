@@ -3,7 +3,7 @@ title: Profit from Open Source with GitHub Sponsors
 speaker: Kongkeit Khunpanitchote
 youtube: 9HbM7D-J5xU
 managed: true
-published: true
+published: '2023-12-15'
 subtitles: [th]
 description: |
   คุณออม SaltyAom นักพัฒนา Open Source full-time ผู้สร้าง framework Elysia จะมาแบ่งปันประสบการณ์การทำงานในโลก Open Source ตั้งแต่จุดเริ่มต้นเล็กๆ จนถึงการสร้างผลงานที่ได้รับความนิยม ฟังเรื่องราวการพัฒนา Elysia พร้อมเรียนรู้ถึงบทบาทของ Open Source developer วิธีการหาเลี้ยงชีพ การสร้าง community และเคล็ดลับในการสร้างผลงานให้เป็นที่รู้จัก วิดีโอนี้เหมาะสำหรับนักพัฒนาที่สนใจ Open Source และอยากรู้ว่าการเป็น Open Source developer นั้นเป็นอย่างไร

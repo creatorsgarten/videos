@@ -12,5 +12,5 @@ chapters:
   '06:00': 'What is a monorepo?'
   '06:37': 'What are the differences?'
   '13:23': 'Questions'
-published: true
+published: '2022-10-31'
 ---

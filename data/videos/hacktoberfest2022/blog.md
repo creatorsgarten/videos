@@ -19,5 +19,5 @@ chapters:
   '17:17': 'Share to your friend and community'
   '18:58': 'Chance'
   '21:14': 'Questions'
-published: true
+published: '2022-10-31'
 ---

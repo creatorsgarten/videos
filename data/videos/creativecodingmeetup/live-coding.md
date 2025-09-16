@@ -3,7 +3,7 @@ title: Creative coding in live coding context (+ live coding session)
 speaker: Wasawat Somno
 youtube: kOJr_KzYg_Y
 managed: true
-published: true
+published: '2023-05-06'
 description: |
   Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons.
 

@@ -3,5 +3,5 @@ title: Shift left security in software delivery process with GitHub Advanced Sec
 speaker: Somkiat Puisungnoen
 youtube: xYxjbg2ANx8
 managed: true
-published: true
+published: '2023-12-15'
 ---

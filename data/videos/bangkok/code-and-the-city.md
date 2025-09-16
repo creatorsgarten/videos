@@ -3,7 +3,7 @@ title: 'Code and the City: Bettering society with code'
 speaker: Lookkid Withee Poositasai
 youtube: Wfu_DL29FL0
 managed: true
-published: true
+published: '2023-02-22'
 chapters:
   '00:00': 'แนะนำตัว'
   '01:38': 'แนะนำ Punch Up และ WeVis'

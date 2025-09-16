@@ -4,5 +4,5 @@ speaker: ธีรภัทร เมืองพูล
 youtube: MR7GaoZDABc
 tags: [react, reactjs, js, javascript]
 managed: true
-published: true
+published: '2023-07-13'
 ---

@@ -8,5 +8,5 @@ description: |
 
   The Data Engineering Book - หนังสือวิศวกรรมข้อมูล ของคนไทย เพื่อคนไทย
   https://url.odds.team/tdeb
-published: true
+published: '2022-10-31'
 ---

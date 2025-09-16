@@ -4,5 +4,5 @@ speaker: Chayatan Angsuwan
 youtube: B60nabM4hgk
 tags: [typescript]
 managed: true
-published: true
+published: '2023-06-01'
 ---

@@ -4,5 +4,5 @@ speaker: Sakchai Siripanyawuth
 youtube: 8A4IAK2Pedg
 tags: [devops, docker, pakman, alpine, elixir]
 managed: true
-published: true
+published: '2023-06-01'
 ---
