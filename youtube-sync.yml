@@ -23458,3 +23458,406 @@ video:BridfcJbBvA:caption:th:
     isDraft: false
   state:
     id: AUieDab24Gw-sLHDvlkaeOC-Y9t0vQpXHeiKN1HHjIAH_23Mg6Fy
+thumbnail:XWKCKylOSh4:
+  spec:
+    videoId: XWKCKylOSh4
+    filePath: data/videos/claude/hooks.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:YbfI2Nx2pYg:
+  spec:
+    videoId: YbfI2Nx2pYg
+    filePath: data/videos/claude/conversations.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:fSfP6biQbRs:
+  spec:
+    videoId: fSfP6biQbRs
+    filePath: data/videos/claude/discussions.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:hGsfEmc1-Bc:
+  spec:
+    videoId: hGsfEmc1-Bc
+    filePath: data/videos/claude/live-coding.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:i801jEbNmtk:
+  spec:
+    videoId: i801jEbNmtk
+    filePath: data/videos/claude/managing-context.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:ngJFbMEyKMo:
+  spec:
+    videoId: ngJFbMEyKMo
+    filePath: data/videos/claude/how-to-keep-up-with-ai.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+thumbnail:uvDDocui8nI:
+  spec:
+    videoId: uvDDocui8nI
+    filePath: data/videos/claude/agent.jpg
+    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+  state: {}
+video:XWKCKylOSh4:
+  spec:
+    id: XWKCKylOSh4
+    snippet:
+      title: Make Claude Code Meow with Hooks by Nuttakit Kundum
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/claude/hooks
+      defaultAudioLanguage: th
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:XWKCKylOSh4:caption:th:
+  spec:
+    videoId: XWKCKylOSh4
+    filePath: data/videos/claude/hooks_th.vtt
+    language: th
+    name: Thai
+    hash: 04107a2998885efd440f43271a85032e1010813436203264df028bd838b2f62e
+    isDraft: false
+  state:
+    id: AUieDaZKN6oc4Z_y5NrfLZVKVxWadXBycY0GdVkq1Dm4TEmDLZNx
+video:YbfI2Nx2pYg:
+  spec:
+    id: YbfI2Nx2pYg
+    snippet:
+      title: >-
+        Conversation(s) with Claude: ค้นพบฉันคนใหม่ในฉันคนเดิม by Thananon Korr
+        Ngoenthaworn
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/conversations
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:fSfP6biQbRs:
+  spec:
+    id: fSfP6biQbRs
+    snippet:
+      title: Claude Code Discussions
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/discussions
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:hGsfEmc1-Bc:
+  spec:
+    id: hGsfEmc1-Bc
+    snippet:
+      title: Live audiovisual coding by Wasawat Somno
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/live-coding
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:i801jEbNmtk:
+  spec:
+    id: i801jEbNmtk
+    snippet:
+      title: >-
+        Managing Context on Claude Code: These 5 mins will save you 5 hrs of
+        waiting by Peerasak Unsakon
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/managing-context
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:ngJFbMEyKMo:
+  spec:
+    id: ngJFbMEyKMo
+    snippet:
+      title: How to Keep Up with AI by Veha Suwatphisankij
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/how-to-keep-up-with-ai
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:uvDDocui8nI:
+  spec:
+    id: uvDDocui8nI
+    snippet:
+      title: >-
+        Claude Code as a General Agent: Automation, Creation, and the Full Power
+        of Opus 4.5 by Nutchanon
+      description: >-
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claude/agent
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
