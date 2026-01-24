@@ -1,164 +1,6 @@
 {
   "videos": [
     {
-      "event": "algorave",
-      "slug": "d1s1",
-      "data": {
-        "title": "Kamin x REx",
-        "type": "pitch",
-        "youtube": "kppkEaMjCTE",
-        "managed": true,
-        "published": "2024-06-28",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s1.md",
-      "imageFilePath": "data/videos/algorave/d1s1.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s2",
-      "data": {
-        "title": "Michel Honeycomb x Footprints on Mars",
-        "type": "pitch",
-        "youtube": "dtvAFindVK4",
-        "managed": true,
-        "published": "2024-06-29",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s2.md",
-      "imageFilePath": "data/videos/algorave/d1s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s3",
-      "data": {
-        "title": "Toxicfication x ZIN",
-        "type": "pitch",
-        "youtube": "aZroGYIpDSU",
-        "managed": true,
-        "published": "2024-06-30",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s3.md",
-      "imageFilePath": "data/videos/algorave/d1s3.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s4",
-      "data": {
-        "title": "WrappedByte x TropicalBoi",
-        "type": "pitch",
-        "youtube": "XBhzfByZplE",
-        "managed": true,
-        "published": "2024-07-01",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s4.md",
-      "imageFilePath": "data/videos/algorave/d1s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s5",
-      "data": {
-        "title": "Varut_O x 130",
-        "type": "pitch",
-        "youtube": "Kn345YKezDY",
-        "managed": true,
-        "published": "2024-07-02",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s5.md",
-      "imageFilePath": "data/videos/algorave/d1s5.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s1",
-      "data": {
-        "title": "Cache Collective",
-        "type": "pitch",
-        "youtube": "Hh-_uUb2bis",
-        "managed": true,
-        "published": "2024-07-03",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s1.md",
-      "imageFilePath": "data/videos/algorave/d2s1.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s2",
-      "data": {
-        "title": "Kittiphan Janbuala",
-        "type": "pitch",
-        "youtube": "zej4pK6Kq0Y",
-        "managed": true,
-        "published": "2024-07-06",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s2.md",
-      "imageFilePath": "data/videos/algorave/d2s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s3",
-      "data": {
-        "title": "Kijjaz x punpitan",
-        "type": "pitch",
-        "youtube": "xKBzefz-x6o",
-        "managed": true,
-        "published": "2024-07-07",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s3.md",
-      "imageFilePath": "data/videos/algorave/d2s3.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s4",
-      "data": {
-        "title": "inmintcondition x Panlert",
-        "type": "pitch",
-        "youtube": "TivEsZtlpwM",
-        "managed": true,
-        "published": "2024-07-08",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s4.md",
-      "imageFilePath": "data/videos/algorave/d2s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s5",
-      "data": {
-        "title": "CRSRCRSRRR",
-        "type": "pitch",
-        "youtube": "OSdE7p_woTU",
-        "managed": true,
-        "published": "2024-07-09",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s5.md",
-      "imageFilePath": "data/videos/algorave/d2s5.jpg"
-    },
-    {
       "event": "bac",
       "slug": "automate",
       "data": {
@@ -878,6 +720,164 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s1",
+      "data": {
+        "title": "Kamin x REx",
+        "type": "pitch",
+        "youtube": "kppkEaMjCTE",
+        "managed": true,
+        "published": "2024-06-28",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s1.md",
+      "imageFilePath": "data/videos/algorave/d1s1.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s2",
+      "data": {
+        "title": "Michel Honeycomb x Footprints on Mars",
+        "type": "pitch",
+        "youtube": "dtvAFindVK4",
+        "managed": true,
+        "published": "2024-06-29",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s2.md",
+      "imageFilePath": "data/videos/algorave/d1s2.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s3",
+      "data": {
+        "title": "Toxicfication x ZIN",
+        "type": "pitch",
+        "youtube": "aZroGYIpDSU",
+        "managed": true,
+        "published": "2024-06-30",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s3.md",
+      "imageFilePath": "data/videos/algorave/d1s3.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s4",
+      "data": {
+        "title": "WrappedByte x TropicalBoi",
+        "type": "pitch",
+        "youtube": "XBhzfByZplE",
+        "managed": true,
+        "published": "2024-07-01",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s4.md",
+      "imageFilePath": "data/videos/algorave/d1s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s5",
+      "data": {
+        "title": "Varut_O x 130",
+        "type": "pitch",
+        "youtube": "Kn345YKezDY",
+        "managed": true,
+        "published": "2024-07-02",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s5.md",
+      "imageFilePath": "data/videos/algorave/d1s5.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s1",
+      "data": {
+        "title": "Cache Collective",
+        "type": "pitch",
+        "youtube": "Hh-_uUb2bis",
+        "managed": true,
+        "published": "2024-07-03",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s1.md",
+      "imageFilePath": "data/videos/algorave/d2s1.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s2",
+      "data": {
+        "title": "Kittiphan Janbuala",
+        "type": "pitch",
+        "youtube": "zej4pK6Kq0Y",
+        "managed": true,
+        "published": "2024-07-06",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s2.md",
+      "imageFilePath": "data/videos/algorave/d2s2.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s3",
+      "data": {
+        "title": "Kijjaz x punpitan",
+        "type": "pitch",
+        "youtube": "xKBzefz-x6o",
+        "managed": true,
+        "published": "2024-07-07",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s3.md",
+      "imageFilePath": "data/videos/algorave/d2s3.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s4",
+      "data": {
+        "title": "inmintcondition x Panlert",
+        "type": "pitch",
+        "youtube": "TivEsZtlpwM",
+        "managed": true,
+        "published": "2024-07-08",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s4.md",
+      "imageFilePath": "data/videos/algorave/d2s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s5",
+      "data": {
+        "title": "CRSRCRSRRR",
+        "type": "pitch",
+        "youtube": "OSdE7p_woTU",
+        "managed": true,
+        "published": "2024-07-09",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s5.md",
+      "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
       "event": "bangkok",
