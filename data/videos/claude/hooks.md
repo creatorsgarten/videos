@@ -4,4 +4,5 @@ speaker: Nuttakit Kundum
 youtube: XWKCKylOSh4
 managed: true
 published: false
+subtitles: [th]
 ---
