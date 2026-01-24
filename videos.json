@@ -159,43 +159,6 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": "2024-11-29",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
-    },
-    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -878,6 +841,43 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
+    },
+    {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": "2024-11-29",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -2577,6 +2577,118 @@
       "filePath": "data/videos/bkkjs23/webassembly.md",
       "imageFilePath": "data/videos/bkkjs23/webassembly.jpg",
       "thaiSubtitlePath": "data/videos/bkkjs23/webassembly_th.vtt"
+    },
+    {
+      "event": "claude",
+      "slug": "agent",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "uvDDocui8nI",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/agent.md",
+      "imageFilePath": "data/videos/claude/agent.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "conversations",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "YbfI2Nx2pYg",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/conversations.md",
+      "imageFilePath": "data/videos/claude/conversations.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "discussions",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "fSfP6biQbRs",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/discussions.md",
+      "imageFilePath": "data/videos/claude/discussions.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "hooks",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "XWKCKylOSh4",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/hooks.md",
+      "imageFilePath": "data/videos/claude/hooks.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "how-to-keep-up-with-ai",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "ngJFbMEyKMo",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/how-to-keep-up-with-ai.md",
+      "imageFilePath": "data/videos/claude/how-to-keep-up-with-ai.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "live-coding",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "hGsfEmc1-Bc",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/live-coding.md",
+      "imageFilePath": "data/videos/claude/live-coding.jpg"
+    },
+    {
+      "event": "claude",
+      "slug": "managing-context",
+      "data": {
+        "title": "",
+        "speaker": "SPEAKER",
+        "type": "talk",
+        "youtube": "i801jEbNmtk",
+        "managed": true,
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/claude/managing-context.md",
+      "imageFilePath": "data/videos/claude/managing-context.jpg"
     },
     {
       "event": "creativecodingmeetup",
@@ -7864,6 +7976,15 @@
       "id": "sht9",
       "name": "Stupido Hackettino ๙",
       "url": "https://grtn.org/e/sht9"
+    },
+    {
+      "id": "claude",
+      "name": "Claude Code Meetup Bangkok",
+      "url": "https://luma.com/3idvg9yn",
+      "externalOrganizer": {
+        "name": "Claude Community Events",
+        "url": "https://luma.com/claudecommunity"
+      }
     }
   ]
 }
