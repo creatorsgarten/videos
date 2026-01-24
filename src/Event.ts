@@ -183,6 +183,13 @@ const events = [
   new Event('bkkjs22', 'BKK.JS #22'),
   new Event('bkkjs23', 'BKK.JS #23'),
   new Event('sht9', 'Stupido Hackettino ๙'),
+  new Event('claude', 'Claude Code Meetup Bangkok', {
+    urlOverride: 'https://luma.com/3idvg9yn',
+    externalOrganizer: {
+      name: 'Claude Community Events',
+      url: 'https://luma.com/claudecommunity',
+    },
+  }),
 ]
 
 // To prevent YouTube API running out of quota,
