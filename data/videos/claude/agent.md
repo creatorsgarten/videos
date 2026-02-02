@@ -3,5 +3,6 @@ title: 'Claude Code as a General Agent: Automation, Creation, and the Full Power
 speaker: Nutchanon Yongsatianchot
 youtube: uvDDocui8nI
 managed: true
+subtitles: [th]
 published: false
 ---
