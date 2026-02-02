@@ -23504,8 +23504,38 @@ video:XWKCKylOSh4:
   spec:
     id: XWKCKylOSh4
     snippet:
-      title: Make Claude Code Meow with Hooks by Nuttakit Kundum
+      title: Claude Code Hook by Nuttakit Kundum
       description: >-
+        พบกับคุณเอฟที่จะมาแบ่งปันประสบการณ์การใช้งาน Claude Hook
+        เพื่อแก้ปัญหาความไม่สะดวกในการต้องคอยเฝ้าหน้าจอขณะที่ AI
+        กำลังประมวลผลงานยาวๆ โดยคุณเอฟได้นำแนวคิดจากคุณ Greg Baugues
+        มาต่อยอดเพื่อสร้างระบบ sound notification
+        ที่จะคอยแจ้งเตือนสถานะการทำงานในขั้นตอนต่างๆ ผ่านเสียง
+        เนื้อหาในเซสชันนี้ครอบคลุมตั้งแต่การทำความเข้าใจ hook event ประเภทต่างๆ
+        เช่น PostToolUse หรือ UserPromptSubmit ไปจนถึงวิธีการตั้งค่าไฟล์ JSON
+        และการเขียนสคริปต์ python อย่างง่ายเพื่อเรียกใช้งานไฟล์เสียงจาก Epidemic
+        Sound นอกจากนี้ยังมีการสาธิตตัวอย่างการใช้งานจริงที่ Claude
+        สามารถทำงานตั้งแต่เขียนโค้ด ทดสอบ ไปจนถึงเปิด pull request
+        พร้อมส่งเสียงรายงานสถานะให้เราทราบในแต่ละขั้นตอน
+        ช่วยเปลี่ยนการนั่งเฝ้าหน้าจอให้เป็นการทำงานที่มีประสิทธิภาพและเพลิดเพลินยิ่งขึ้น
+
+
+        0:00 | ที่มาของ Hook: วิธีแก้ปัญหาคนขี้เกียจที่ไม่อยากเฝ้าหน้าจอตอน AI
+        ทำงาน
+
+        0:59 | Hook คืออะไร? และเราสามารถดักจับ Event อะไรมาเล่นได้บ้าง
+
+        1:43 | ขั้นตอนการตั้งค่าไฟล์ Setting JSON และโครงสร้างการรันสคริปต์
+        Python
+
+        3:11 | เทคนิคการสร้างเสียงพากย์แจ้งเตือนให้น่าสนใจด้วย Epidemic Sound
+
+        4:06 | Demo: เมื่อ Claude เขียนโค้ดและทำ PR
+        ให้เราแบบมีเสียงพากย์ประกอบทุก Step
+
+
+        --------------------------------------------
+
         Event: Claude Code Meetup Bangkok
 
         https://luma.com/3idvg9yn
@@ -23852,12 +23882,24 @@ video:uvDDocui8nI:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claude/agent
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:uvDDocui8nI:caption:th:
+  spec:
+    videoId: uvDDocui8nI
+    filePath: data/videos/claude/agent_th.vtt
+    language: th
+    name: Thai
+    hash: b0ddf7a0c6d9b0366d1ec3e3436f640b66f5aaaff8c6bb9905fb48e1d5ef0d2b
+    isDraft: false
+  state:
+    id: AUieDaaAITQhJZvKZGaEHF4ENuYb96YRl6k1c9551MYkcXI3OIPq
