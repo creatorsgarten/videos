@@ -4,4 +4,5 @@ speaker: Veha Suwatphisankij
 youtube: ngJFbMEyKMo
 managed: true
 published: false
+subtitles: [th]
 ---
