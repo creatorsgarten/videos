@@ -23831,10 +23831,12 @@ video:ngJFbMEyKMo:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claude/how-to-keep-up-with-ai
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -23899,7 +23901,17 @@ video:uvDDocui8nI:caption:th:
     filePath: data/videos/claude/agent_th.vtt
     language: th
     name: Thai
-    hash: b0ddf7a0c6d9b0366d1ec3e3436f640b66f5aaaff8c6bb9905fb48e1d5ef0d2b
+    hash: f0ca6195e2fa304fe7ed5c843232694f4f4488daba03221a4c2f3a5a64cf08fb
     isDraft: false
   state:
     id: AUieDaaAITQhJZvKZGaEHF4ENuYb96YRl6k1c9551MYkcXI3OIPq
+video:ngJFbMEyKMo:caption:th:
+  spec:
+    videoId: ngJFbMEyKMo
+    filePath: data/videos/claude/how-to-keep-up-with-ai_th.vtt
+    language: th
+    name: Thai
+    hash: 757ff8bcea0e05235003ca468bd25142efb23a70073dabbe0a05362f2b1f5351
+    isDraft: false
+  state:
+    id: AUieDab8w8bEXppNeaukuoxREg1d464ONvssDvUmoNlEmfRx440b
