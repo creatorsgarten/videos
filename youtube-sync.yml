@@ -23462,7 +23462,7 @@ thumbnail:XWKCKylOSh4:
   spec:
     videoId: XWKCKylOSh4
     filePath: data/videos/claude/hooks.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: 35ba386da1c63039d8fa63c06e4117d7c627c6cd2118dd4ab0cbd8480aa6466c
   state: {}
 thumbnail:YbfI2Nx2pYg:
   spec:
@@ -23492,13 +23492,13 @@ thumbnail:ngJFbMEyKMo:
   spec:
     videoId: ngJFbMEyKMo
     filePath: data/videos/claude/how-to-keep-up-with-ai.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: c80d4631ab9969555c91c68dee908188816e364c38949d516346692d576a680d
   state: {}
 thumbnail:uvDDocui8nI:
   spec:
     videoId: uvDDocui8nI
     filePath: data/videos/claude/agent.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: 645300354ba5e92f415fb18584012aaacda8a52276a7e9984c195227a5eaf16f
   state: {}
 video:XWKCKylOSh4:
   spec:
@@ -23797,6 +23797,44 @@ video:ngJFbMEyKMo:
     snippet:
       title: How to Keep Up with AI by Veha Suwatphisankij
       description: >-
+        คุณเวหา software engineer และผู้สอนที่มีประสบการณ์
+        แบ่งปันมุมมองเกี่ยวกับการติดตามความเคลื่อนไหวของ AI
+        ที่เปลี่ยนแปลงอย่างรวดเร็วในงาน Claude Code Meetup
+        โดยเริ่มต้นจากการทำความเข้าใจแนวคิดเรื่อง scaling law
+        ซึ่งส่งผลให้ความฉลาดของโมเดลเพิ่มขึ้นในขณะที่ราคาถูกลงอย่างต่อเนื่อง
+        เนื้อหาครอบคลุมถึงการเปรียบเทียบประสิทธิภาพของโมเดลรุ่นใหม่ๆ อย่าง
+        Gemini 3 Flash และ o3-preview ผ่านการใช้ evaluation
+        หรือเครื่องมือวัดผลรูปแบบต่างๆ
+        เพื่อช่วยในการตัดสินใจเลือกโมเดลให้เหมาะสมกับโจทย์การทำงานจริง
+        นอกจากนี้ยังมีการวิเคราะห์ถึงข้อจำกัดของระบบจัดอันดับยอดนิยมอย่าง LM
+        Arena
+        และความสำคัญของการสร้างชุดทดสอบส่วนตัวเพื่อประเมินผลลัพธ์ให้ตรงกับความต้องการของแต่ละโปรเจกต์
+
+
+        0:00 | แนะนำตัวและแนวทางการตามข่าว AI ในยุคที่โมเดลใหม่มาทุกสัปดาห์
+
+        1:08 | บทเรียนจากราคาอลูมิเนียม: เมื่อเทคโนโลยีทำให้ของแพงกลายเป็นของถูก
+
+        3:08 | Scaling Law: กฎที่ทำให้ AI ฉลาดขึ้น ถูกลง และมั่วน้อยลง
+
+        4:36 | Intelligence too cheap to meter: ความฉลาดที่ราคาถูกลงอย่างมหาศาล
+
+        7:40 | อย่าดูแค่ชื่อโมเดล แต่ให้ดู Evaluation ที่เหมาะสมกับงานเรา
+
+        9:42 | ข้อควรระวังของ LM Arena:
+        ความพึงพอใจของคนอาจไม่ใช่ความฉลาดที่แท้จริง
+
+        11:15 | ตัวอย่าง Eval เฉพาะทาง: ตั้งแต่การคุมหน้าจอ UI
+        ไปจนถึงข้อสอบภาษาไทย
+
+        13:50 | วิธีเลือกโมเดลและ Harness
+        ให้เหมาะกับงานโปรแกรมมิ่งและบริบทที่ยาวมาก
+
+        14:28 | บทสรุป: สร้าง Evaluation ของตัวเองเพื่อวัดผลปัญหาที่เราเจอจริงๆ
+
+
+        --------------------------------------------
+
         Event: Claude Code Meetup Bangkok
 
         https://luma.com/3idvg9yn
@@ -23840,7 +23878,7 @@ video:ngJFbMEyKMo:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:uvDDocui8nI:
   spec:
@@ -23850,6 +23888,73 @@ video:uvDDocui8nI:
         Claude Code as a General Agent: Automation, Creation, and the Full Power
         of Opus 4.5 by Nutchanon
       description: >-
+        ร่วมรับฟังการแชร์ประสบการณ์จากคุณนัท
+        อาจารย์ประจำภาควิชาวิศวกรรมไฟฟ้าและคอมพิวเตอร์
+        มหาวิทยาลัยธรรมศาสตร์รังสิต ในงาน Claude Code Meetup Bangkok ครั้งแรก
+        โดยอาจารย์นัทมาในฐานะผู้ใช้งาน Claude
+        ตัวจริงที่ติดตามพัฒนาการมาอย่างต่อเนื่อง
+        เซสชันนี้จะพาไปสำรวจความสามารถของโมเดล Opus 4.5
+        ที่มีการพัฒนาแบบก้าวกระโดด
+        ทั้งในแง่ของประสิทธิภาพที่โดดเด่นและการเพิ่มความสะดวกในการทำงานร่วมกันระหว่างมนุษย์และ
+        AI
+
+
+        นอกเหนือจากการพัฒนาซอฟต์แวร์ อาจารย์ยังนำเสนอ use case อื่นๆ
+        ที่ครอบคลุมการทำงานทั่วไปและการทำวิจัย เช่น การวิเคราะห์ข้อมูล
+        การจัดการไฟล์ log รวมถึงการประยุกต์ใช้เพื่อช่วยเขียนเอกสารวิชาการ
+        พร้อมเจาะลึกแนวคิดเรื่อง skill ซึ่งเป็นแนวทางการสร้าง agent เฉพาะทางผ่าน
+        prompt ที่เรียบง่ายแต่ทรงพลัง ปิดท้ายด้วยการสำรวจ Soul Document
+        หรือเอกสารที่เปรียบเสมือนหลักการพื้นฐานเบื้องหลังตัวตนของ Claude
+        ที่จะช่วยให้คุณเข้าใจถึงความแตกต่างและแนวคิดเรื่อง safety ของ Anthropic
+        มากยิ่งขึ้น
+
+
+        0:00 | แนะนำตัวและเส้นทางจากการเป็นอาจารย์สู่การเป็นติ่ง Claude
+
+        3:10 | หัวข้อบรรยาย: เจาะลึก Opus 4.5, Claude Code, Skills และ Soul
+        Document
+
+        4:07 | Claude Opus 4.5:
+        การอัปเดตครั้งใหญ่ที่ฉลาดขึ้นก้าวกระโดดและราคาถูกลง 3 เท่า
+
+        5:22 | เสียงตอบรับจากผู้ใช้งาน: Opus 4.5 คือเพื่อนร่วมงานระดับหัวกะทิ
+
+        8:12 | เจาะลึก System Card: ความซีเรียสเรื่อง Safety
+        และประสิทธิภาพที่เหนือกว่าในโหมดไม่ต้องคิด
+
+        12:04 | ก้าวข้ามขีดจำกัด: เมื่อ AI เริ่มช่วยงานวิจัยและพัฒนา AI
+        ได้ด้วยตัวเอง
+
+        14:42 | Claude Code:
+        เอเจนต์ที่เปลี่ยนทุกงานบนคอมพิวเตอร์ให้จัดการได้ง่ายผ่านการเขียนโค้ด
+
+        16:27 | ตัวอย่างการใช้งาน: วิเคราะห์ข้อมูลการใช้งาน API และจัดการไฟล์
+        Log ที่ซับซ้อนในเครื่อง
+
+        19:03 | เพิ่มประสิทธิภาพการทำงาน: พัฒนา RAG Pipeline
+        และช่วยเขียนงานวิจัยด้วย LaTeX
+
+        23:42 | Claude Skills: ปรับแต่งเอเจนต์ให้เชี่ยวชาญเฉพาะด้านด้วย Prompt
+        และเอกสารในเครื่อง
+
+        28:02 | เปรียบเทียบผลลัพธ์: การใช้ Frontend Skill
+        ช่วยยกระดับงานดีไซน์ให้สวยงามและมีลูกเล่น
+
+        30:34 | Soul Document: เอกสารเบื้องหลังจิตวิญญาณและแนวทางการวางตัวตนของ
+        Claude
+
+        35:17 | ทดสอบสดผ่าน API: พิสูจน์ว่ามีเพียง Opus 4.5 เท่านั้นที่จดจำ Soul
+        Document ได้
+
+        37:45 | ปรัชญาการสร้าง AI: เมื่อ Claude
+        มองว่าการถูกหล่อหลอมตัวตนเปรียบเสมือนเด็กที่ถูกเลี้ยงดู
+
+        42:55 | ช่วงถาม-ตอบ: เจาะลึกเรื่อง RAG, การใช้งานผ่าน Terminal
+        และอนาคตของ Multi-agent
+
+
+        --------------------------------------------
+
         Event: Claude Code Meetup Bangkok
 
         https://luma.com/3idvg9yn
@@ -23901,7 +24006,7 @@ video:uvDDocui8nI:caption:th:
     filePath: data/videos/claude/agent_th.vtt
     language: th
     name: Thai
-    hash: 09247aa23e8810b0e094bc0b647a1b3f06d05ba118184d832b9fe10b7491a43b
+    hash: 3cfafa371f48451beb471ebb5fa678c8a776daa5b61d026c9600617eb72c1d01
     isDraft: false
   state:
     id: AUieDaaAITQhJZvKZGaEHF4ENuYb96YRl6k1c9551MYkcXI3OIPq
@@ -23911,7 +24016,7 @@ video:ngJFbMEyKMo:caption:th:
     filePath: data/videos/claude/how-to-keep-up-with-ai_th.vtt
     language: th
     name: Thai
-    hash: 9910b7350c0f243a5088c1f5c1ad18062ce1af9eb5590bf0f0f2d98a1b3eada5
+    hash: d6c9746653c557e9430508bcaee9560227413c4b66ee86a21f2204353e420070
     isDraft: false
   state:
     id: AUieDab8w8bEXppNeaukuoxREg1d464ONvssDvUmoNlEmfRx440b
