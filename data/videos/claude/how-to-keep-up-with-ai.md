@@ -3,7 +3,7 @@ title: 'How to Keep Up with AI'
 speaker: Veha Suwatphisankij
 youtube: ngJFbMEyKMo
 managed: true
-published: false
+published: '2026-02-15'
 subtitles: [th]
 chapters:
   '0:00': 'แนะนำตัวและแนวทางการตามข่าว AI ในยุคที่โมเดลใหม่มาทุกสัปดาห์'

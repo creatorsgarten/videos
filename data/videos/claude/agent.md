@@ -4,7 +4,7 @@ speaker: Nutchanon Yongsatianchot
 youtube: uvDDocui8nI
 managed: true
 subtitles: [th]
-published: false
+published: '2026-02-19'
 chapters:
   '0:00': 'แนะนำตัวและเส้นทางจากการเป็นอาจารย์สู่การเป็นติ่ง Claude'
   '3:10': 'หัวข้อบรรยาย: เจาะลึก Opus 4.5, Claude Code, Skills และ Soul Document'

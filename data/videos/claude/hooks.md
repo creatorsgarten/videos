@@ -3,7 +3,7 @@ title: 'Claude Code Hook'
 speaker: Nuttakit Kundum
 youtube: XWKCKylOSh4
 managed: true
-published: false
+published: '2026-02-23'
 subtitles: [th]
 chapters:
   '0:00': 'ที่มาของ Hook: วิธีแก้ปัญหาคนขี้เกียจที่ไม่อยากเฝ้าหน้าจอตอน AI ทำงาน'
