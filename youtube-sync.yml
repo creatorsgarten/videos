@@ -23784,10 +23784,12 @@ video:i801jEbNmtk:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claude/managing-context
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -24022,3 +24024,13 @@ video:ngJFbMEyKMo:caption:th:
     isDraft: false
   state:
     id: AUieDab8w8bEXppNeaukuoxREg1d464ONvssDvUmoNlEmfRx440b
+video:i801jEbNmtk:caption:th:
+  spec:
+    videoId: i801jEbNmtk
+    filePath: data/videos/claude/managing-context_th.vtt
+    language: th
+    name: Thai
+    hash: f6f4995f5f91f8e2dfd6e0997ed65049af6ebc1d3e13591d7044403b9fe49ed6
+    isDraft: false
+  state:
+    id: AUieDaY8sQvJuHO-jJYLLzPnCGqdnAv6S4EkCUT_JrXA3fZiP2Pf
