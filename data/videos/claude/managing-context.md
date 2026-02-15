@@ -4,4 +4,5 @@ speaker: Peerasak Unsakon
 youtube: i801jEbNmtk
 managed: true
 published: false
+subtitles: [th]
 ---
