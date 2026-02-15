@@ -159,6 +159,43 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": "2024-11-29",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+    },
+    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -841,43 +878,6 @@
       "content": "",
       "filePath": "data/videos/archive/vueconf.md",
       "imageFilePath": "data/videos/archive/vueconf.jpg"
-    },
-    {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": "2024-11-29",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -2625,11 +2625,21 @@
         "type": "talk",
         "youtube": "YbfI2Nx2pYg",
         "managed": true,
+        "description": "คุณก่อ โปรแกรมเมอร์ที่มีประสบการณ์ในสายงานมานานกว่า 15 ปี มาบอกเล่าเทคนิคการใช้งาน AI ให้มีประสิทธิภาพสูงสุดในงบประมาณที่จำกัด โดยเริ่มจากการแบ่งปันประสบการณ์การเฟ้นหา AI ทางเลือกอย่าง GLM หรือ MiniMax เพื่อนำมาใช้งานทดแทนโมเดลหลักที่มีค่าใช้จ่ายสูง พร้อมแนะนำเครื่องมือเสริมที่น่าสนใจอย่าง claude-mem ซึ่งช่วยแก้ปัญหาเรื่องข้อจำกัดด้านความจำของ AI ในการจัดการกับโค้ดหรือไฟล์งานที่มีความยาวมาก ๆ นอกจากนี้เขายังนำเสนอแนวคิดการประยุกต์ใช้ AI ในด้านอื่น ๆ เช่น การสร้างโมเดล 3D สำหรับพัฒนาเกม และการนำข้อมูลทางโหราศาสตร์อย่าง birth chart มาช่วยปรับแต่ง system prompt เพื่อให้ AI เข้าใจบริบทและตัวตนของผู้ใช้งานได้ดียิ่งขึ้น พร้อมโชว์ผลลัพธ์จากโปรเจกต์จริงที่พัฒนาขึ้นด้วยเครื่องมือเหล่านี้ เพื่อเป็นแรงบันดาลใจให้นักพัฒนานำไปปรับใช้กับงานของตนเองอย่างสร้างสรรค์\n",
         "published": false,
         "language": "th",
         "subtitles": [
           "th"
-        ]
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและจุดเริ่มต้นของการเป็นโปรแกรมเมอร์ตลอด 15 ปี",
+          "1:17": "การตั้งคำถามถึงความคุ้มค่าของการจ่ายค่าบริการ Claude ในราคาสูง",
+          "2:11": "การใช้ GLM และ MiniMax เป็นทางเลือกเพื่อลดต้นทุนและเพิ่มประสิทธิภาพงาน",
+          "3:11": "เทคนิคการหลอก Claude CLI และการใช้ claude-mem เพื่อแก้ปัญหา AI ลืมบริบท",
+          "4:54": "การใช้ AI ช่วยสร้าง Model 3D สำหรับเกม ซึ่งช่วยลดเวลาการทำงานได้ถึง 80%",
+          "5:26": "แนวคิดการใช้ Birth Chart เป็น System Prompt เพื่อให้ AI เข้าใจตัวตนเราอย่างลึกซึ้ง",
+          "6:27": "โชว์ผลงานจริงที่สร้างด้วย AI: HyperJournal, Moro.exchange และแอปแปลง 2D เป็น 3D"
+        }
       },
       "content": "",
       "filePath": "data/videos/claude/conversations.md",
@@ -2736,11 +2746,25 @@
         "type": "talk",
         "youtube": "i801jEbNmtk",
         "managed": true,
+        "description": "พบกับคุณต้น Peerasak นักพัฒนา iOS และ indie dev เจ้าของแอป Pygmy กับเซสชันที่จะช่วยให้คุณใช้งาน Claude Code และ LLM ได้อย่างมีประสิทธิภาพผ่านการจัดการ context window อย่างเป็นระบบ คุณต้นจะพาไปทำความเข้าใจกลไกการทำงานของ AI ที่ไม่มีความจำในตัว และความสำคัญของการควบคุมจำนวน token ไม่ให้ชน limit จนเกินความจำเป็น\n",
         "published": false,
         "language": "th",
         "subtitles": [
           "th"
-        ]
+        ],
+        "chapters": {
+          "0:00": "แนะนำตัวและประสบการณ์ในฐานะ iOS Developer",
+          "1:08": "ทำไมเราต้องจัดการ Context และกลไกการนับ Token ของ LLM",
+          "2:15": "ภาพจำลองการสะสม Token ที่เพิ่มขึ้นเรื่อยๆ ในทุก Turn",
+          "3:50": "4 กลยุทธ์หลักในการประหยัดและจัดการ Context",
+          "4:36": "ตรวจสอบการใช้งานด้วย /context และระวังภาระจาก MCP Tools",
+          "5:35": "เขียน CLAUDE.md ให้สั้นและกระชับเพื่อประหยัดพื้นที่",
+          "6:37": "แบ่ง Task และใช้ Checklist เพื่อจัดการงานอย่างเป็นระบบ",
+          "7:29": "ลดภาระ Context หลักด้วยการใช้ Sub-agent ทำงานเฉพาะกิจ",
+          "9:18": "เคลียร์ Context ทุกครั้งที่จบงานด้วยคำสั่ง /clear",
+          "10:03": "ใช้ Skill แทน MCP เพื่อโหลดสคริปต์เฉพาะตอนที่จำเป็น",
+          "10:44": "บทสรุป: ทำงานให้คุ้มค่าที่สุดในแต่ละ Turn และการติดตามผลงาน"
+        }
       },
       "content": "",
       "filePath": "data/videos/claude/managing-context.md",
