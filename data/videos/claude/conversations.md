@@ -4,4 +4,5 @@ speaker: Thananon Korr Ngoenthaworn
 youtube: YbfI2Nx2pYg
 managed: true
 published: false
+subtitles: [th]
 ---
