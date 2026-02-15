@@ -2737,11 +2737,15 @@
         "youtube": "i801jEbNmtk",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/claude/managing-context.md",
-      "imageFilePath": "data/videos/claude/managing-context.jpg"
+      "imageFilePath": "data/videos/claude/managing-context.jpg",
+      "thaiSubtitlePath": "data/videos/claude/managing-context_th.vtt"
     },
     {
       "event": "creativecodingmeetup",
