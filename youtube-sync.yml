@@ -23468,25 +23468,25 @@ thumbnail:YbfI2Nx2pYg:
   spec:
     videoId: YbfI2Nx2pYg
     filePath: data/videos/claude/conversations.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: 98b056c5c517a961f0cdc363ec83a717fb9d4dd9d5020c5a6ebfb7612c69e501
   state: {}
 thumbnail:fSfP6biQbRs:
   spec:
     videoId: fSfP6biQbRs
     filePath: data/videos/claude/discussions.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: 14fdf718152c7920dd50a4dc0cb500d08c086e5d8ae2bba57b2b105c94b552da
   state: {}
 thumbnail:hGsfEmc1-Bc:
   spec:
     videoId: hGsfEmc1-Bc
     filePath: data/videos/claude/live-coding.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: 5a5991693959ac76c540c88852ebaf69f36607f7c2a5d05adca6d89f02c6e4ff
   state: {}
 thumbnail:i801jEbNmtk:
   spec:
     videoId: i801jEbNmtk
     filePath: data/videos/claude/managing-context.jpg
-    hash: 20e9aab22032d85684d7d916a1013f7c577a132a5b10ea3fd3578e8d0b28a711
+    hash: c051fdfb03b4e4c68de1d1165d498dddd425925c08c44a5a51cb23b9b293d975
   state: {}
 thumbnail:ngJFbMEyKMo:
   spec:
@@ -23687,6 +23687,63 @@ video:fSfP6biQbRs:
     snippet:
       title: Claude Code Discussions
       description: >-
+        ช่วงพูดคุยแลกเปลี่ยนประสบการณ์แบบล้อมวงหลังจบการบรรยาย
+        ที่รวบรวมเหล่าผู้ใช้งานมาแบ่งปันเทคนิคและมุมมองจากการใช้งานจริง
+        ตั้งแต่การตัดสินใจเลือกสมัครสมาชิกแพลนต่างๆ เพื่อความคุ้มค่าของเวลา
+        ไปจนถึงการประยุกต์ใช้งานในรูปแบบที่คาดไม่ถึงนอกเหนือจากการเขียนโค้ด เช่น
+        การช่วยเขียนนิยาย การจัดการโครงการ
+        และการใช้เป็นเครื่องมือช่วยเรียนรู้แบบ active recall
+        นอกจากนี้ยังมีการถกเถียงในประเด็นทางเทคนิคและสังคม
+        ทั้งเรื่องการบริหารจัดการ token ความโปร่งใสของกระบวนการคิดของ AI
+        ตลอดจนผลกระทบด้านพลังงานและสิ่งแวดล้อม
+        ปิดท้ายด้วยการวิเคราะห์อนาคตของตลาดแรงงานที่มนุษย์ยังคงต้องมีบทบาทสำคัญในการควบคุมและตรวจสอบความถูกต้องของเทคโนโลยี
+
+
+        0:00 | เตรียมความพร้อมและเริ่มล้อมวงคุยเรื่อง Claude Code
+
+        1:23 | ทำไมหลายคนถึงยอมจ่าย Claude รายเดือนแพงๆ เพื่อแลกกับเวลา
+
+        3:52 |
+        แก้ปัญหาโปรเจกต์งอกด้วยการอัปเกรดแผนการใช้งานเพื่อรองรับงานที่ซับซ้อน
+
+        5:02 | วิธีตรวจสอบจำนวน Token ที่ใช้และการจัดเก็บข้อมูลในเครื่อง
+
+        7:28 | ประเด็นเรื่องความเชื่อมั่นในการคำนวณ Token และแนวคิดตลาดซื้อขาย
+        Token มือสอง
+
+        9:03 | เทคนิคการควบคุม AI เพื่อประหยัด Token
+        และการใช้โมเดลทางเลือกที่ราคาถูกกว่า
+
+        10:26 |
+        ความกังวลเรื่องการใช้พลังงานและผลกระทบต่อสิ่งแวดล้อมจากการรันโมเดล AI
+
+        14:16 | การใช้ Claude ในงานบริหารจัดการโปรเจกต์ การสรุปประชุม
+        และงานเอกสาร
+
+        17:32 | ประสบการณ์แปลกใหม่: เมื่อ Claude
+        แอบเขียนนิยายผีกระสือให้ในระหว่างทดสอบระบบ
+
+        19:45 | การใช้ Claude เป็น Agent ช่วยประเมินผลและตรวจสอบคุณภาพของ Agent
+        ตัวอื่น
+
+        20:42 | เปรียบเทียบการใช้ภาษาไทยและอังกฤษในแง่ของวิธีคิดและค่าใช้จ่าย
+        Token
+
+        21:52 | การใช้ AI แก้ปัญหาชีวิตประจำวัน:
+        ตั้งแต่แปลตำราโบราณไปจนถึงงานออกแบบและแก้ฟอนต์
+
+        24:47 | ประยุกต์ใช้ AI สร้าง 'Second Brain' และฝึก Active Recall
+        จากการอ่านหนังสือ
+
+        26:57 | คำแนะนำสำหรับมือใหม่และการบริหารจัดการ Token ให้คุ้มค่าที่สุด
+
+        28:22 | มุมมองต่ออนาคตของการจ้างงานและบทบาทของมนุษย์ในการตรวจสอบ AI
+
+        30:53 | กล่าวปิดกิจกรรม ขอบคุณทีมงาน และถ่ายรูปร่วมกัน
+
+
+        --------------------------------------------
+
         Event: Claude Code Meetup Bangkok
 
         https://luma.com/3idvg9yn
@@ -23721,14 +23778,16 @@ video:fSfP6biQbRs:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claude/discussions
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:hGsfEmc1-Bc:
   spec:
@@ -24103,3 +24162,13 @@ video:i801jEbNmtk:caption:th:
     isDraft: false
   state:
     id: AUieDaY8sQvJuHO-jJYLLzPnCGqdnAv6S4EkCUT_JrXA3fZiP2Pf
+video:fSfP6biQbRs:caption:th:
+  spec:
+    videoId: fSfP6biQbRs
+    filePath: data/videos/claude/discussions_th.vtt
+    language: th
+    name: Thai
+    hash: fdea07b05fc084552019e446ae37ffd15722ffe8fb1da79e65a8090aa8ea02fa
+    isDraft: false
+  state:
+    id: AUieDaazkSSLXmY-K8bf5rM3hlkBJF7BmWBTZSsbcbp7ok0_Mk-b
