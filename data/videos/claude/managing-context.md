@@ -3,7 +3,7 @@ title: 'Managing Context on Claude Code: These 5 mins will save you 5 hrs of wai
 speaker: Peerasak Unsakon
 youtube: i801jEbNmtk
 managed: true
-published: false
+published: '2026-03-13'
 subtitles: [th]
 chapters:
   '0:00': 'แนะนำตัวและประสบการณ์ในฐานะ iOS Developer'

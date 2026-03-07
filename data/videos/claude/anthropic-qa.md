@@ -5,7 +5,7 @@ youtube: uB_zmx5_gt4
 language: en
 subtitles: [en]
 managed: true
-published: false
+published: '2026-03-10'
 chapters:
   '0:00': "JB's background and role on the Claude Code team at Anthropic"
   '0:46': "How Anthropic designs Claude Code's personality and safety guardrails"
