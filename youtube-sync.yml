@@ -24570,3 +24570,129 @@ video:qY4ivayRT5k:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+thumbnail:6G_ajEBUEZ8:
+  spec:
+    videoId: 6G_ajEBUEZ8
+    filePath: data/videos/openclaw/reversing.jpg
+    hash: 49bf95582943ebec38975d73f50c3efe3c6ca6b17ca819adebabe459767b8bee
+  state: {}
+thumbnail:V9jrUVvYpvg:
+  spec:
+    videoId: V9jrUVvYpvg
+    filePath: data/videos/openclaw/backup-migration.jpg
+    hash: 42f0576b1dcf67cb060e059381f0d9c8796c748f4d761c86ed5811bc125370f0
+  state: {}
+video:6G_ajEBUEZ8:
+  spec:
+    id: 6G_ajEBUEZ8
+    snippet:
+      title: Reversing the Claw by Dom Charoenyos
+      description: >-
+        ผ่าตัด แงะ แกะเกา! 🛠️ ชำแหละเบื้องหลังการทำงานของ OpenClaw
+        โดยลองนำมาเชื่อมต่อระบบ Payment เพื่อตัดเงินผ่าน wallet
+        ล้วงลึกเจาะกลไกการทำงานกับคุณโดม เจริญยศ (Dom Charoenyos) สาย Deep Tech,
+        Web3 และ Security เตรียมตัวให้พร้อม แล้วมาแกะรอยกรงเล็บนี้ไปด้วยกัน!
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/reversing
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:V9jrUVvYpvg:
+  spec:
+    id: V9jrUVvYpvg
+    snippet:
+      title: OpenClaw Data Backup & Migration Plan by Pumpith Ungsupanit
+      description: >-
+        ข้อมูลคือหัวใจสำคัญ! ถ้าระบบล่มต้องทำอย่างไรไม่ให้พัง? 💾
+        มาเรียนรู้วิธีการวางแผน Data Backup และ Migration สำหรับระบบ OpenClaw
+        โดยเฉพาะ กับคุณ Pumpith Ungsupanit เพื่อสร้างสถาปัตยกรรมที่เสถียร
+        ยืดหยุ่น และพร้อมลุยต่อในทุกสถานการณ์
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/backup-migration
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
