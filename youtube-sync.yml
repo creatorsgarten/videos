@@ -24284,3 +24284,108 @@ video:uB_zmx5_gt4:caption:en:
     isDraft: false
   state:
     id: AUieDaa3PV_gwQ9liB9Ce5gHZzURIBdeehNnUTCYvNzSjbXAaSiF-bjV
+thumbnail:ZuYHhWydI6M:
+  spec:
+    videoId: ZuYHhWydI6M
+    filePath: data/videos/openclaw/opentheclaw.jpg
+    hash: e8bfc7ab4af11eea6d7737ed77df609c525be39cb78395495d40512621a857fd
+  state: {}
+video:ZuYHhWydI6M:
+  spec:
+    id: ZuYHhWydI6M
+    snippet:
+      title: Open the Claw by Poramate Minsiri
+      description: >-
+        จุดเริ่มต้นของ OpenClaw คืออะไร? ทำไมทุกคนถึงต้องจับตามอง! 🚀
+        มาร่วมเปิดโลกทัศน์และเจาะลึกวิสัยทัศน์ของเทคโนโลยีที่จะเข้ามาเปลี่ยนอนาคต
+        กับคุณปรเมศวร์ มินศิริ (พี่เอ๋อ) คลิปนี้จะเป็นก้าวแรกที่พาคุณไปรู้จักกับ
+        "กรงเล็บ" ที่จะพลิกโฉมวงการ!
+
+
+        0:00 | บทนำและทำความรู้จักกับหัวข้อ 'แกะกุ้ง' (OpenClaw)
+
+        0:28 | OpenClaw คืออะไร: Gateway สำหรับเชื่อมต่อแอปแชทกับ AI Coding
+        Agent
+
+        1:06 | กลุ่มเป้าหมาย: เหมาะสำหรับ Developer และ Power User
+        ที่ดูแลระบบเองได้
+
+        1:57 | ไดอะแกรมการทำงาน: OpenClaw ทำหน้าที่เป็นศูนย์กลางเชื่อมต่อแชทและ
+        Agent
+
+        2:42 | เทคนิคการกู้คืนระบบ: ใช้ Rescue Bot หรือ CLI อื่นๆ
+        ช่วยซ่อมเมื่อระบบมีปัญหา
+
+        5:01 | โปรโตคอล ACP: แนวคิด Bring Your Own Agent (BYOA) เลือกใช้ AI
+        ค่ายไหนก็ได้
+
+        6:32 | การกำหนดพฤติกรรม Agent ผ่านไฟล์ AGENTS.md, IDENTITY.md และ
+        USER.md
+
+        8:22 | การจัดการความจำ (Memory) และเทคนิคการใช้ Obsidian เพื่อประหยัด
+        Token
+
+        10:32 | การเพิ่ม Skill เฉพาะทาง และการตั้งค่าทำงานอัตโนมัติด้วย
+        Heartbeat (Cron job)
+
+        11:54 | การทำ Multi-agent ด้วย OpenProse เพื่อสั่งงาน AI
+        หลายตัวให้ทำงานพร้อมกัน
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/openclaw/opentheclaw
+      defaultAudioLanguage: th
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
+  state: {}
+video:ZuYHhWydI6M:caption:th:
+  spec:
+    videoId: ZuYHhWydI6M
+    filePath: data/videos/openclaw/opentheclaw_th.vtt
+    language: th
+    name: Thai
+    hash: b314026fc497a11bbc6f7d28fe775e99743350d866c433e4ee48c26f16557e60
+    isDraft: false
+  state:
+    id: AUieDaZMnIZpfG23Sf8WdfPcDCuatoN2CQsoDdW2bRhelV-dtjrJ
