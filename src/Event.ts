@@ -190,6 +190,12 @@ const events = [
       url: 'https://luma.com/claudecommunity',
     },
   }),
+  new Event('openclaw', 'OpenClaw Meetup Bangkok', {
+    externalOrganizer: {
+      name: 'WARROOM',
+      url: 'https://luma.com/huxymark',
+    },
+  }),
 ]
 
 // To prevent YouTube API running out of quota,
