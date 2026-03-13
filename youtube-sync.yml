@@ -24389,3 +24389,184 @@ video:ZuYHhWydI6M:caption:th:
     isDraft: false
   state:
     id: AUieDaZMnIZpfG23Sf8WdfPcDCuatoN2CQsoDdW2bRhelV-dtjrJ
+thumbnail:ONOW9hFSFjo:
+  spec:
+    videoId: ONOW9hFSFjo
+    filePath: data/videos/openclaw/ippbx.jpg
+    hash: 6b45735c8176795e0630a9892e3d9dbca59694324845f230a1bba11e4c5192f1
+  state: {}
+thumbnail:mUTdlKHbc40:
+  spec:
+    videoId: mUTdlKHbc40
+    filePath: data/videos/openclaw/panel.jpg
+    hash: 0f6a35bc53694ef3cea46472912a7d3dfe4014008a19d6c8d3244e11cbff1d1f
+  state: {}
+thumbnail:qY4ivayRT5k:
+  spec:
+    videoId: qY4ivayRT5k
+    filePath: data/videos/openclaw/security.jpg
+    hash: 068d1b339de5ed2f300273df5e0780fdd4458cfaf427aea0fc7a42848dd1252d
+  state: {}
+video:ONOW9hFSFjo:
+  spec:
+    id: ONOW9hFSFjo
+    snippet:
+      title: OpenClaw VPS with Thailand Telephony by Wichaya Sropas
+      description: >-
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/ippbx
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:mUTdlKHbc40:
+  spec:
+    id: mUTdlKHbc40
+    snippet:
+      title: 'Engineering OpenClaw: Scalable, Safe, and Cost-Optimized Agents'
+      description: >-
+        เจาะลึกสถาปัตยกรรมระดับวิศวกรรมเบื้องหลัง OpenClaw! ⚙️
+        เรียนรู้วิธีการออกแบบ AI Agents จากทีม The AI Alliance
+        ให้พร้อมรับมือกับผู้ใช้งานทุกสเกล ปลอดภัยขั้นสุด และที่สำคัญคือ
+        "ประหยัดต้นทุน" แบบเห็นผล สาย Tech, Dev และ Data ห้ามพลาดคลิปนี้เด็ดขาด!
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/panel
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:qY4ivayRT5k:
+  spec:
+    id: qY4ivayRT5k
+    snippet:
+      title: Deploying OpenClaw Without Getting Fired by Pichaya Morimoto
+      description: >-
+        อยากเอา AI ไปใช้ในองค์กรแต่กลัวระบบพังจนโดนไล่ออก? 😅
+        ปัญหาปวดหัวนี้จะหมดไป! ฟังทางนี้ด่วน คุณพิชญะ โมริโมโตะ ตัวจริงวงการ
+        Security จะมาแชร์ทริคเด็ดในการ Deploy OpenClaw ให้ปลอดภัย ใช้งานได้จริง
+        และที่สำคัญ... เซฟเก้าอี้ทำงานของคุณไว้ได้ชัวร์! 🛡️
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/security
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
