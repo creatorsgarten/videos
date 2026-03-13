@@ -23921,7 +23921,7 @@ video:i801jEbNmtk:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:ngJFbMEyKMo:
   spec:
@@ -24172,3 +24172,115 @@ video:fSfP6biQbRs:caption:th:
     isDraft: false
   state:
     id: AUieDaazkSSLXmY-K8bf5rM3hlkBJF7BmWBTZSsbcbp7ok0_Mk-b
+thumbnail:uB_zmx5_gt4:
+  spec:
+    videoId: uB_zmx5_gt4
+    filePath: data/videos/claude/anthropic-qa.jpg
+    hash: 39f62f21986f30ae6144c1c5f094ed5c1fe46bb264169348fce2e4078383d84e
+  state: {}
+video:uB_zmx5_gt4:
+  spec:
+    id: uB_zmx5_gt4
+    snippet:
+      title: Q&A with Anthropic Team by JB (Don) Lau
+      description: >-
+        In this session, JB, an engineer from Anthropic’s Claude Code team,
+        provides an inside look at the development and practical application of
+        agentic coding tools. He discusses the design philosophy behind Claude
+        Code, including prompt engineering, safety protocols, and the evolving
+        role of "skills" as dynamic prompt libraries. JB addresses the technical
+        balance between the underlying model and the software harness, while
+        sharing how the team uses the tool to build itself. The discussion
+        covers practical strategies for managing large codebases, such as using
+        hierarchical context files and leveraging subagents to parallelize
+        complex tasks like debugging.
+
+
+        0:00 | JB's background and role on the Claude Code team at Anthropic
+
+        0:46 | How Anthropic designs Claude Code's personality and safety
+        guardrails
+
+        02:47 | Engineering vs. partnerships: directing community sponsorship
+        requests
+
+        04:43 | Agent skills: treating prompts like the programming libraries of
+        the future
+
+        07:24 | Model vs. Harness: how the AI and the application work together
+
+        09:29 | Recursive development: building Claude Code with Claude Code
+
+        10:52 | Tips for efficiency: using plugins and hierarchical claude.md
+        files
+
+        13:23 | Managing context by splitting tasks across multiple Claude
+        instances
+
+        15:43 | Planning locally and handing off to the web via the Teleport
+        feature
+
+        17:03 | Scaling context with subagents to parallelize large tasks like
+        debugging
+
+        20:24 | Closing thoughts: why AI-assisted coding is a vital skill for
+        the future
+
+
+        --------------------------------------------
+
+        Event: Claude Code Meetup Bangkok
+
+        https://luma.com/3idvg9yn
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
+
+        https://grtn.org/v/claude/anthropic-qa
+      defaultAudioLanguage: en
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: public
+  state: {}
+video:uB_zmx5_gt4:caption:en:
+  spec:
+    videoId: uB_zmx5_gt4
+    filePath: data/videos/claude/anthropic-qa_en.vtt
+    language: en
+    name: English
+    hash: 76eaeb24d43b198ea84da1007e337eb6b29ad115c3da7fb6ba5d305cfdb64fd1
+    isDraft: false
+  state:
+    id: AUieDaa3PV_gwQ9liB9Ce5gHZzURIBdeehNnUTCYvNzSjbXAaSiF-bjV
