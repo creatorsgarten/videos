@@ -5888,7 +5888,7 @@
         "type": "talk",
         "youtube": "ZuYHhWydI6M",
         "managed": true,
-        "description": "ในหัวข้อ \"แกะกุ้ง\" (Open the Claw) นี้ คุณปรเมศวร์จะพาไปทำความรู้จักกับ OpenClaw ซึ่งเป็น self-host gateway ที่ช่วยเชื่อมต่อแอปพลิเคชันแชทที่คุณใช้งานเป็นประจำเข้ากับ coding agent หลากหลายรูปแบบ เซสชันนี้จะอธิบายถึงแนวคิด Bring Your Own Agent (BYOA) ผ่านโปรโตคอลกลางอย่าง ACP ที่เปิดโอกาสให้เหล่านักพัฒนาสามารถเลือกใช้ agent จากค่ายใดก็ได้ตามความเหมาะสมของงานต่างๆ พร้อมเจาะลึกเทคนิคการตั้งค่าไฟล์ AGENTS.md เพื่อกำหนดบุคลิกและพฤติกรรมของ AI ให้ตรงใจผู้ใช้มากที่สุด นอกจากนี้ยังมีการแนะนำวิธีการจัดการความจำของระบบด้วย Obsidian เพื่อช่วยลดการใช้ token และการทำ multi-agent เพื่อสร้างกองทัพ AI มาช่วยทำงานในสเกลที่ใหญ่ขึ้น\n",
+        "description": "จุดเริ่มต้นของ OpenClaw คืออะไร? ทำไมทุกคนถึงต้องจับตามอง! 🚀 มาร่วมเปิดโลกทัศน์และเจาะลึกวิสัยทัศน์ของเทคโนโลยีที่จะเข้ามาเปลี่ยนอนาคต กับคุณปรเมศวร์ มินศิริ (พี่เอ๋อ) คลิปนี้จะเป็นก้าวแรกที่พาคุณไปรู้จักกับ \"กรงเล็บ\" ที่จะพลิกโฉมวงการ!\n",
         "published": "2026-03-13",
         "language": "th",
         "subtitles": [
@@ -8155,6 +8155,15 @@
       "externalOrganizer": {
         "name": "Claude Community Events",
         "url": "https://luma.com/claudecommunity"
+      }
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw Meetup Bangkok",
+      "url": "https://grtn.org/e/openclaw",
+      "externalOrganizer": {
+        "name": "WARROOM",
+        "url": "https://luma.com/huxymark"
       }
     }
   ]
