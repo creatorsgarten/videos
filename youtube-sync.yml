@@ -24546,6 +24546,7 @@ video:mUTdlKHbc40:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
   state: {}
 video:qY4ivayRT5k:
   spec:
@@ -24629,6 +24630,7 @@ video:qY4ivayRT5k:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
   state: {}
 thumbnail:6G_ajEBUEZ8:
   spec:
@@ -24786,3 +24788,63 @@ video:qY4ivayRT5k:caption:th:
     isDraft: false
   state:
     id: AUieDaYJ9GDCnTu_9sbyNpyup4eQr3X7WEqpiR0zc-ZTBTok3QBF
+video:4B4IxfqVXQo:
+  spec:
+    id: 4B4IxfqVXQo
+    snippet:
+      title: >-
+        ผ่าโครงสร้างสถาปัตยกรรม OpenClaw: เจาะลึก Architecture เบื้องหลัง AI
+        สุดล้ำ by Sathapon Patanakuha
+      description: >-
+        แกะกล่องโครงสร้างเบื้องหลัง OpenClaw! พาสำรวจสถาปัตยกรรม
+        ที่ขับเคลื่อนระบบทั้งหมดนี้ว่าถูกออกแบบมาอย่างไรให้ทรงพลัง สเกลได้
+        และยืดหยุ่น โดยคุณสถาพน พัฒนะคูหา
+        ใครอยากเห็นภาพรวมและโครงสร้างระบบระดับโครงกระดูก
+        เตรียมสมุดจดเลคเชอร์ให้พร้อม
+
+
+        --------------------------------------------
+
+        Event: OpenClaw Meetup Bangkok
+
+        https://grtn.org/e/openclaw
+
+
+        Organized by: WARROOM
+
+        https://luma.com/huxymark
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/openclaw/architecture
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
