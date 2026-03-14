@@ -5881,22 +5881,6 @@
     },
     {
       "event": "openclaw",
-      "slug": "architecture",
-      "data": {
-        "title": "ผ่าโครงสร้างสถาปัตยกรรม OpenClaw: เจาะลึก Architecture เบื้องหลัง AI สุดล้ำ",
-        "speaker": "Sathapon Patanakuha",
-        "type": "talk",
-        "youtube": "4B4IxfqVXQo",
-        "managed": true,
-        "description": "แกะกล่องโครงสร้างเบื้องหลัง OpenClaw! พาสำรวจสถาปัตยกรรม ที่ขับเคลื่อนระบบทั้งหมดนี้ว่าถูกออกแบบมาอย่างไรให้ทรงพลัง สเกลได้ และยืดหยุ่น โดยคุณสถาพน พัฒนะคูหา ใครอยากเห็นภาพรวมและโครงสร้างระบบระดับโครงกระดูก เตรียมสมุดจดเลคเชอร์ให้พร้อม",
-        "published": false,
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/openclaw/architecture.md"
-    },
-    {
-      "event": "openclaw",
       "slug": "backup-migration",
       "data": {
         "title": "OpenClaw Data Backup & Migration Plan",
@@ -5911,6 +5895,26 @@
       "content": "",
       "filePath": "data/videos/openclaw/backup-migration.md",
       "imageFilePath": "data/videos/openclaw/backup-migration.jpg"
+    },
+    {
+      "event": "openclaw",
+      "slug": "guardian",
+      "data": {
+        "title": "ผ่าโครงสร้างสถาปัตยกรรม OpenClaw: เจาะลึก Architecture เบื้องหลัง AI สุดล้ำ",
+        "speaker": "Sathapon Patanakuha",
+        "type": "talk",
+        "youtube": "4B4IxfqVXQo",
+        "managed": true,
+        "description": "แกะกล่องโครงสร้างเบื้องหลัง OpenClaw! พาสำรวจสถาปัตยกรรม ที่ขับเคลื่อนระบบทั้งหมดนี้ว่าถูกออกแบบมาอย่างไรให้ทรงพลัง สเกลได้ และยืดหยุ่น โดยคุณสถาพน พัฒนะคูหา ใครอยากเห็นภาพรวมและโครงสร้างระบบระดับโครงกระดูก เตรียมสมุดจดเลคเชอร์ให้พร้อม",
+        "published": false,
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/openclaw/guardian.md",
+      "thaiSubtitlePath": "data/videos/openclaw/guardian_th.vtt"
     },
     {
       "event": "openclaw",
