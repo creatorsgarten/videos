@@ -5890,11 +5890,15 @@
         "managed": true,
         "description": "ข้อมูลคือหัวใจสำคัญ! ถ้าระบบล่มต้องทำอย่างไรไม่ให้พัง? 💾 มาเรียนรู้วิธีการวางแผน Data Backup และ Migration สำหรับระบบ OpenClaw โดยเฉพาะ กับคุณ Pumpith Ungsupanit เพื่อสร้างสถาปัตยกรรมที่เสถียร ยืดหยุ่น และพร้อมลุยต่อในทุกสถานการณ์\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/openclaw/backup-migration.md",
-      "imageFilePath": "data/videos/openclaw/backup-migration.jpg"
+      "imageFilePath": "data/videos/openclaw/backup-migration.jpg",
+      "thaiSubtitlePath": "data/videos/openclaw/backup-migration_th.vtt"
     },
     {
       "event": "openclaw",
@@ -5947,10 +5951,14 @@
         "managed": true,
         "description": "จะเกิดอะไรขึ้นถ้า AI สามารถเข้าใจ \"ตัวตน\" ของเราได้ทะลุปรุโปร่ง? 🤖🧠 ร่วมสำรวจแนวคิดสุดล้ำในการสร้าง \"Digital Twin\" และการแปลงบริบทของมนุษย์ให้กลายเป็นข้อมูลที่ AI อ่านและเข้าใจได้ กับ John F.X. Berns สู่ก้าวใหม่ของการใช้ AI ให้ตอบโจทย์แบบ Personalized สุดๆ",
         "published": false,
-        "language": "th"
+        "language": "en",
+        "subtitles": [
+          "en"
+        ]
       },
       "content": "",
-      "filePath": "data/videos/openclaw/machine-readable-me.md"
+      "filePath": "data/videos/openclaw/machine-readable-me.md",
+      "englishSubtitlePath": "data/videos/openclaw/machine-readable-me_en.vtt"
     },
     {
       "event": "openclaw",
