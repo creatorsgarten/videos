@@ -24839,10 +24839,12 @@ video:4B4IxfqVXQo:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
-        https://grtn.org/v/openclaw/architecture
+        https://grtn.org/v/openclaw/guardian
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -24905,3 +24907,13 @@ video:yNP8NExFpJQ:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:4B4IxfqVXQo:caption:th:
+  spec:
+    videoId: 4B4IxfqVXQo
+    filePath: data/videos/openclaw/guardian_th.vtt
+    language: th
+    name: Thai
+    hash: 82375d1b3ced503dce4f856351526e753e0ff83bbc0e1f2ec2e5a02b636bda50
+    isDraft: false
+  state:
+    id: AUieDaa4azb2M76-0g7kTJO8gHI-s9r1cjiNKjjCvxXbPP_0eplD
