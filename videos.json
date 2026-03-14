@@ -1,41 +1,162 @@
 {
   "videos": [
     {
-      "event": "bac",
-      "slug": "automate",
+      "event": "algorave",
+      "slug": "d1s1",
       "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
+        "title": "Kamin x REx",
+        "type": "pitch",
+        "youtube": "kppkEaMjCTE",
         "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": "2024-11-29",
+        "published": "2024-06-28",
         "language": "th",
         "subtitles": [
           "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
+        ]
       },
       "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+      "filePath": "data/videos/algorave/d1s1.md",
+      "imageFilePath": "data/videos/algorave/d1s1.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s2",
+      "data": {
+        "title": "Michel Honeycomb x Footprints on Mars",
+        "type": "pitch",
+        "youtube": "dtvAFindVK4",
+        "managed": true,
+        "published": "2024-06-29",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s2.md",
+      "imageFilePath": "data/videos/algorave/d1s2.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s3",
+      "data": {
+        "title": "Toxicfication x ZIN",
+        "type": "pitch",
+        "youtube": "aZroGYIpDSU",
+        "managed": true,
+        "published": "2024-06-30",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s3.md",
+      "imageFilePath": "data/videos/algorave/d1s3.jpg",
+      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s4",
+      "data": {
+        "title": "WrappedByte x TropicalBoi",
+        "type": "pitch",
+        "youtube": "XBhzfByZplE",
+        "managed": true,
+        "published": "2024-07-01",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s4.md",
+      "imageFilePath": "data/videos/algorave/d1s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d1s5",
+      "data": {
+        "title": "Varut_O x 130",
+        "type": "pitch",
+        "youtube": "Kn345YKezDY",
+        "managed": true,
+        "published": "2024-07-02",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d1s5.md",
+      "imageFilePath": "data/videos/algorave/d1s5.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s1",
+      "data": {
+        "title": "Cache Collective",
+        "type": "pitch",
+        "youtube": "Hh-_uUb2bis",
+        "managed": true,
+        "published": "2024-07-03",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s1.md",
+      "imageFilePath": "data/videos/algorave/d2s1.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s2",
+      "data": {
+        "title": "Kittiphan Janbuala",
+        "type": "pitch",
+        "youtube": "zej4pK6Kq0Y",
+        "managed": true,
+        "published": "2024-07-06",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s2.md",
+      "imageFilePath": "data/videos/algorave/d2s2.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s3",
+      "data": {
+        "title": "Kijjaz x punpitan",
+        "type": "pitch",
+        "youtube": "xKBzefz-x6o",
+        "managed": true,
+        "published": "2024-07-07",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s3.md",
+      "imageFilePath": "data/videos/algorave/d2s3.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s4",
+      "data": {
+        "title": "inmintcondition x Panlert",
+        "type": "pitch",
+        "youtube": "TivEsZtlpwM",
+        "managed": true,
+        "published": "2024-07-08",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s4.md",
+      "imageFilePath": "data/videos/algorave/d2s4.jpg"
+    },
+    {
+      "event": "algorave",
+      "slug": "d2s5",
+      "data": {
+        "title": "CRSRCRSRRR",
+        "type": "pitch",
+        "youtube": "OSdE7p_woTU",
+        "managed": true,
+        "published": "2024-07-09",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/algorave/d2s5.md",
+      "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
       "event": "archive",
@@ -722,162 +843,41 @@
       "imageFilePath": "data/videos/archive/vueconf.jpg"
     },
     {
-      "event": "algorave",
-      "slug": "d1s1",
+      "event": "bac",
+      "slug": "automate",
       "data": {
-        "title": "Kamin x REx",
-        "type": "pitch",
-        "youtube": "kppkEaMjCTE",
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
         "managed": true,
-        "published": "2024-06-28",
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": "2024-11-29",
         "language": "th",
         "subtitles": [
           "th"
-        ]
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
       },
       "content": "",
-      "filePath": "data/videos/algorave/d1s1.md",
-      "imageFilePath": "data/videos/algorave/d1s1.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s1_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s2",
-      "data": {
-        "title": "Michel Honeycomb x Footprints on Mars",
-        "type": "pitch",
-        "youtube": "dtvAFindVK4",
-        "managed": true,
-        "published": "2024-06-29",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s2.md",
-      "imageFilePath": "data/videos/algorave/d1s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s3",
-      "data": {
-        "title": "Toxicfication x ZIN",
-        "type": "pitch",
-        "youtube": "aZroGYIpDSU",
-        "managed": true,
-        "published": "2024-06-30",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s3.md",
-      "imageFilePath": "data/videos/algorave/d1s3.jpg",
-      "thaiSubtitlePath": "data/videos/algorave/d1s3_th.vtt"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s4",
-      "data": {
-        "title": "WrappedByte x TropicalBoi",
-        "type": "pitch",
-        "youtube": "XBhzfByZplE",
-        "managed": true,
-        "published": "2024-07-01",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s4.md",
-      "imageFilePath": "data/videos/algorave/d1s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d1s5",
-      "data": {
-        "title": "Varut_O x 130",
-        "type": "pitch",
-        "youtube": "Kn345YKezDY",
-        "managed": true,
-        "published": "2024-07-02",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d1s5.md",
-      "imageFilePath": "data/videos/algorave/d1s5.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s1",
-      "data": {
-        "title": "Cache Collective",
-        "type": "pitch",
-        "youtube": "Hh-_uUb2bis",
-        "managed": true,
-        "published": "2024-07-03",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s1.md",
-      "imageFilePath": "data/videos/algorave/d2s1.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s2",
-      "data": {
-        "title": "Kittiphan Janbuala",
-        "type": "pitch",
-        "youtube": "zej4pK6Kq0Y",
-        "managed": true,
-        "published": "2024-07-06",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s2.md",
-      "imageFilePath": "data/videos/algorave/d2s2.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s3",
-      "data": {
-        "title": "Kijjaz x punpitan",
-        "type": "pitch",
-        "youtube": "xKBzefz-x6o",
-        "managed": true,
-        "published": "2024-07-07",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s3.md",
-      "imageFilePath": "data/videos/algorave/d2s3.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s4",
-      "data": {
-        "title": "inmintcondition x Panlert",
-        "type": "pitch",
-        "youtube": "TivEsZtlpwM",
-        "managed": true,
-        "published": "2024-07-08",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s4.md",
-      "imageFilePath": "data/videos/algorave/d2s4.jpg"
-    },
-    {
-      "event": "algorave",
-      "slug": "d2s5",
-      "data": {
-        "title": "CRSRCRSRRR",
-        "type": "pitch",
-        "youtube": "OSdE7p_woTU",
-        "managed": true,
-        "published": "2024-07-09",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/algorave/d2s5.md",
-      "imageFilePath": "data/videos/algorave/d2s5.jpg"
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
     },
     {
       "event": "bangkok",
@@ -5881,6 +5881,22 @@
     },
     {
       "event": "openclaw",
+      "slug": "architecture",
+      "data": {
+        "title": "ผ่าโครงสร้างสถาปัตยกรรม OpenClaw: เจาะลึก Architecture เบื้องหลัง AI สุดล้ำ",
+        "speaker": "Sathapon Patanakuha",
+        "type": "talk",
+        "youtube": "4B4IxfqVXQo",
+        "managed": true,
+        "description": "แกะกล่องโครงสร้างเบื้องหลัง OpenClaw! พาสำรวจสถาปัตยกรรม ที่ขับเคลื่อนระบบทั้งหมดนี้ว่าถูกออกแบบมาอย่างไรให้ทรงพลัง สเกลได้ และยืดหยุ่น โดยคุณสถาพน พัฒนะคูหา ใครอยากเห็นภาพรวมและโครงสร้างระบบระดับโครงกระดูก เตรียมสมุดจดเลคเชอร์ให้พร้อม",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/openclaw/architecture.md"
+    },
+    {
+      "event": "openclaw",
       "slug": "backup-migration",
       "data": {
         "title": "OpenClaw Data Backup & Migration Plan",
@@ -5915,6 +5931,22 @@
       "filePath": "data/videos/openclaw/ippbx.md",
       "imageFilePath": "data/videos/openclaw/ippbx.jpg",
       "thaiSubtitlePath": "data/videos/openclaw/ippbx_th.vtt"
+    },
+    {
+      "event": "openclaw",
+      "slug": "machine-readable-me",
+      "data": {
+        "title": "Making a Machine Readable Me",
+        "speaker": "John F.X. Berns",
+        "type": "talk",
+        "youtube": "ynp8nexfpjq",
+        "managed": true,
+        "description": "จะเกิดอะไรขึ้นถ้า AI สามารถเข้าใจ \"ตัวตน\" ของเราได้ทะลุปรุโปร่ง? 🤖🧠 ร่วมสำรวจแนวคิดสุดล้ำในการสร้าง \"Digital Twin\" และการแปลงบริบทของมนุษย์ให้กลายเป็นข้อมูลที่ AI อ่านและเข้าใจได้ กับ John F.X. Berns สู่ก้าวใหม่ของการใช้ AI ให้ตอบโจทย์แบบ Personalized สุดๆ",
+        "published": false,
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/openclaw/machine-readable-me.md"
     },
     {
       "event": "openclaw",
@@ -5959,6 +5991,7 @@
         "youtube": "mUTdlKHbc40",
         "managed": true,
         "description": "เจาะลึกสถาปัตยกรรมระดับวิศวกรรมเบื้องหลัง OpenClaw! ⚙️ เรียนรู้วิธีการออกแบบ AI Agents จากทีม The AI Alliance ให้พร้อมรับมือกับผู้ใช้งานทุกสเกล ปลอดภัยขั้นสุด และที่สำคัญคือ \"ประหยัดต้นทุน\" แบบเห็นผล สาย Tech, Dev และ Data ห้ามพลาดคลิปนี้เด็ดขาด!\n",
+        "published": false,
         "language": "th",
         "subtitles": [
           "th"
@@ -6008,6 +6041,7 @@
         "youtube": "qY4ivayRT5k",
         "managed": true,
         "description": "อยากเอา AI ไปใช้ในองค์กรแต่กลัวระบบพังจนโดนไล่ออก? 😅 ปัญหาปวดหัวนี้จะหมดไป! ฟังทางนี้ด่วน คุณพิชญะ โมริโมโตะ ตัวจริงวงการ Security จะมาแชร์ทริคเด็ดในการ Deploy OpenClaw ให้ปลอดภัย ใช้งานได้จริง และที่สำคัญ... เซฟเก้าอี้ทำงานของคุณไว้ได้ชัวร์! 🛡️\n",
+        "published": false,
         "language": "th",
         "subtitles": [
           "th"
