@@ -159,43 +159,6 @@
       "imageFilePath": "data/videos/algorave/d2s5.jpg"
     },
     {
-      "event": "bac",
-      "slug": "automate",
-      "data": {
-        "title": "How web automation saved my friendship",
-        "speaker": "Wasin Silakong",
-        "type": "talk",
-        "youtube": "fQo9j648l5s",
-        "managed": true,
-        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
-        "published": "2024-11-29",
-        "language": "th",
-        "subtitles": [
-          "th"
-        ],
-        "chapters": {
-          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
-          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
-          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
-          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
-          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
-          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
-          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
-          "5:47": "Montainer: โซลูชันใน Docker Container",
-          "6:19": "Web Automation: GitHub Actions และ Selenium",
-          "7:40": "Workflow การอัปเดตอัตโนมัติ",
-          "8:13": "Demo: Montainer ทำงานอย่างไร",
-          "9:03": "สาธิตการใช้งาน Montainer",
-          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
-          "11:03": "สรุปและขอบคุณ"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bac/automate.md",
-      "imageFilePath": "data/videos/bac/automate.jpg",
-      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
-    },
-    {
       "event": "archive",
       "slug": "bkkjs14-1",
       "data": {
@@ -880,6 +843,231 @@
       "imageFilePath": "data/videos/archive/vueconf.jpg"
     },
     {
+      "event": "bac",
+      "slug": "automate",
+      "data": {
+        "title": "How web automation saved my friendship",
+        "speaker": "Wasin Silakong",
+        "type": "talk",
+        "youtube": "fQo9j648l5s",
+        "managed": true,
+        "description": "ใครเป็นสายเกม Minecraft และสนใจเรื่อง automation บ้าง? มาฟังอุดดี้เล่าประสบการณ์สุดป่วนจากการเล่น Minecraft กับเพื่อนๆ ที่นำไปสู่การสร้าง project สนุกๆ อย่าง Montainer (Minecraft in a container) เพื่อแก้ปัญหาการอัปเดต server และ backup ข้อมูลเกม  อุดดี้จะพาไปดู workflow การใช้ Docker, web management API,  GitHub Actions และ Selenium เพื่อ automate กระบวนการต่างๆ ตั้งแต่การ fetch version ใหม่สุดจากเว็บ Mojang การดาวน์โหลด server binary ไปจนถึงการ build image และ deploy server  มาร่วมเรียนรู้วิธีจัดการ server Minecraft ให้มีประสิทธิภาพและไม่ต้องกังวลเรื่อง version mismatch อีกต่อไป พร้อมรับชม demo การใช้งานจริงของ Montainer ได้ในวิดีโอนี้\n",
+        "published": "2024-11-29",
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เปิดตัวและเกริ่นนำ: ปัญหาจาก Minecraft",
+          "0:42": "Backstory: ความพยายามสร้างสรรค์สูญสลาย",
+          "1:41": "Workflow การเล่น Minecraft และปัญหาการอัปเดต",
+          "2:41": "ปัญหาหลัก: การบังคับอัปเดตเวอร์ชันใหม่",
+          "3:02": "วิธีแก้เบื้องต้นแบบบ้านๆ: Ansible, systemd และ Web Interface",
+          "4:00": "ปัญหาค่าไฟและการพัฒนา Web Interface",
+          "5:14": "สาเหตุที่แท้จริงของปัญหา: Mojang ไม่ยอม Auto-Update",
+          "5:47": "Montainer: โซลูชันใน Docker Container",
+          "6:19": "Web Automation: GitHub Actions และ Selenium",
+          "7:40": "Workflow การอัปเดตอัตโนมัติ",
+          "8:13": "Demo: Montainer ทำงานอย่างไร",
+          "9:03": "สาธิตการใช้งาน Montainer",
+          "10:15": "วิธีการเล่น Minecraft ผ่าน Montainer",
+          "11:03": "สรุปและขอบคุณ"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bac/automate.md",
+      "imageFilePath": "data/videos/bac/automate.jpg",
+      "thaiSubtitlePath": "data/videos/bac/automate_th.vtt"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "ar",
+      "data": {
+        "title": "AR on Web",
+        "speaker": "Wasit Jingjit; Watid Jingjit",
+        "type": "talk",
+        "youtube": "JuWzquQwt4g",
+        "managed": true,
+        "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
+        "published": "2022-11-11",
+        "language": "th",
+        "tags": [
+          "js",
+          "ar",
+          "unity"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/ar.md",
+      "imageFilePath": "data/videos/bkkjs17/ar.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "blackbox",
+      "data": {
+        "title": "Move fast while maintaining quality with black box testing",
+        "youtubeTitle": {
+          "en": "Move fast while maintaining quality with black box testing by Thai Pangsakulyanont",
+          "th": "พัฒนาซอฟต์แวร์อย่างรวดเร็ว โดยยังคงคุณภาพ ด้วย Black Box Testing - Thai Pangsakulyanont"
+        },
+        "speaker": "Thai Pangsakulyanont",
+        "type": "talk",
+        "youtube": "vbIWSwz8NxQ",
+        "managed": true,
+        "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
+        "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
+        "published": "2022-11-11",
+        "language": "th",
+        "subtitles": [
+          "en",
+          "th"
+        ],
+        "tags": [
+          "softwaredevelopment",
+          "testing"
+        ],
+        "chapters": {
+          "0:00": {
+            "en": "Introduction",
+            "th": "แนะนำตัวและหัวข้อการพูด"
+          },
+          "0:54": {
+            "en": "Problems in software development and testing",
+            "th": "ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์"
+          },
+          "1:41": {
+            "en": "The importance of Automated Testing",
+            "th": "ความสำคัญของ Automated Testing"
+          },
+          "2:50": {
+            "en": "Challenges in doing TDD and unit testing",
+            "th": "ความท้าทายในการทำ TDD และ unit testing"
+          },
+          "5:57": {
+            "en": "The approach to software development and testing that I am using",
+            "th": "แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่"
+          },
+          "7:02": {
+            "en": "Doing black box testing instead of unit testing",
+            "th": "การทำ black box testing แทน unit testing"
+          },
+          "11:01": {
+            "en": "Adding testing tools to the application",
+            "th": "การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน"
+          },
+          "12:45": {
+            "en": "Example of fixing a bug and covering it with a Black Box Test",
+            "th": "ตัวอย่างการแก้ไข bug ด้วย black box testing"
+          },
+          "14:28": {
+            "en": "Benefits of designing a system in a multi-tenant way",
+            "th": "ประโยชน์ของการออกแบบระบบแบบ multi-tenant"
+          },
+          "15:35": {
+            "en": "Testing in production",
+            "th": "แนวคิดเรื่อง testing in production"
+          },
+          "16:20": {
+            "en": "Things to be careful about when writing black box tests",
+            "th": "ข้อควรระวังในการเขียน black box test"
+          },
+          "16:50": {
+            "en": "Conclusions",
+            "th": "สรุปและข้อแนะนำสุดท้าย"
+          }
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/blackbox.md",
+      "imageFilePath": "data/videos/bkkjs17/blackbox.jpg",
+      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt",
+      "thaiSubtitlePath": "data/videos/bkkjs17/blackbox_th.vtt"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "manoonchai",
+      "data": {
+        "title": "Building Manoonchai keyboard layout from scratch with JS/TS",
+        "speaker": "Manassarn Manoonchai",
+        "type": "talk",
+        "youtube": "ltIvGLzMwzo",
+        "managed": true,
+        "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
+        "published": "2022-11-11",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/manoonchai.md",
+      "imageFilePath": "data/videos/bkkjs17/manoonchai.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "nojs",
+      "data": {
+        "title": "You don’t need JavaScript",
+        "speaker": "Siriwat Kunaporn",
+        "type": "talk",
+        "youtube": "le5M-5mhPY0",
+        "managed": true,
+        "description": "Mind blown CSS techniques that you might not have seen\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
+        "published": "2022-11-11",
+        "language": "th",
+        "tags": [
+          "javascript",
+          "js",
+          "css"
+        ],
+        "chapters": {
+          "00:00": "Intro",
+          "03:28": "1. Viewport divider",
+          "10:16": "2. Flexbox albatross",
+          "20:48": "3. Shadow Scroll",
+          "23:49": "4. Perfect Radius"
+        }
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/nojs.md",
+      "imageFilePath": "data/videos/bkkjs17/nojs.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "postr",
+      "data": {
+        "title": "Behind the scene of Postr.me",
+        "speaker": "Warat Wongmaneekit",
+        "type": "talk",
+        "youtube": "J2THXXeQMxY",
+        "managed": true,
+        "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
+        "published": "2022-11-11",
+        "language": "th"
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/postr.md",
+      "imageFilePath": "data/videos/bkkjs17/postr.jpg"
+    },
+    {
+      "event": "bkkjs17",
+      "slug": "typescript",
+      "data": {
+        "title": "Ten Years of TypeScript",
+        "speaker": "Jirachai Chansivanon",
+        "type": "talk",
+        "youtube": "wrPz2Sp9EZU",
+        "managed": true,
+        "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
+        "published": "2022-11-11",
+        "language": "th",
+        "tags": [
+          "typescript",
+          "ts"
+        ]
+      },
+      "content": "",
+      "filePath": "data/videos/bkkjs17/typescript.md",
+      "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
+    },
+    {
       "event": "bangkok",
       "slug": "bank-for-all",
       "data": {
@@ -1173,194 +1361,6 @@
       "content": "",
       "filePath": "data/videos/bangkok/we-space.md",
       "imageFilePath": "data/videos/bangkok/we-space.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "ar",
-      "data": {
-        "title": "AR on Web",
-        "speaker": "Wasit Jingjit; Watid Jingjit",
-        "type": "talk",
-        "youtube": "JuWzquQwt4g",
-        "managed": true,
-        "description": "เสพผลงานศิลปะประยุกต์ใช้ กับเทคโนโลยี AR บนเว็บ ฟังเรื่องราว เบื้องหลังงานสร้าง พร้อมประกบคู่ฝาแฝด ที่จะมาตีกันบนเวที\n\nVIZ STUDIO\nhttps://viz.studio/\n",
-        "published": "2022-11-11",
-        "language": "th",
-        "tags": [
-          "js",
-          "ar",
-          "unity"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/ar.md",
-      "imageFilePath": "data/videos/bkkjs17/ar.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "blackbox",
-      "data": {
-        "title": "Move fast while maintaining quality with black box testing",
-        "youtubeTitle": {
-          "en": "Move fast while maintaining quality with black box testing by Thai Pangsakulyanont",
-          "th": "พัฒนาซอฟต์แวร์อย่างรวดเร็ว โดยยังคงคุณภาพ ด้วย Black Box Testing - Thai Pangsakulyanont"
-        },
-        "speaker": "Thai Pangsakulyanont",
-        "type": "talk",
-        "youtube": "vbIWSwz8NxQ",
-        "managed": true,
-        "description": "สร้างระบบแบบรีบๆ เลยไม่ได้เขียนเทส พอไม่มีเทสโค้ดก็พันกันไปหมด พอโค้ดพันกันก็เขียนยูนิตเทสต์ยาก พออยากจะปรับปรุงโค้ดก็ไม่กล้าเพราะกลัวพังเพราะไม่มีเทส ในหัวข้อนี้เลยอยากแชร์แนวคิดและวิธีที่ผมกำลังทดลองใช้อยู่ เพื่อพยายามออกจากลูปนี้ (ไม่รู้จะออกได้ไหมนะ)\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
-        "englishDescription": "Some systems are hastily built → No automated tests → Code became tightly coupled → Code became difficult to test → Want to improve the code → Afraid of improving due to fear that it might break because there are no automated tests. In this talk, I share some ideas on how I try to get out of this loop.\n\nNotes and references:\nhttps://dt.in.th/go/bbtt\n",
-        "published": "2022-11-11",
-        "language": "th",
-        "subtitles": [
-          "en",
-          "th"
-        ],
-        "tags": [
-          "softwaredevelopment",
-          "testing"
-        ],
-        "chapters": {
-          "0:00": {
-            "en": "Introduction",
-            "th": "แนะนำตัวและหัวข้อการพูด"
-          },
-          "0:54": {
-            "en": "Problems in software development and testing",
-            "th": "ปัญหาในการพัฒนาและทดสอบซอฟต์แวร์"
-          },
-          "1:41": {
-            "en": "The importance of Automated Testing",
-            "th": "ความสำคัญของ Automated Testing"
-          },
-          "2:50": {
-            "en": "Challenges in doing TDD and unit testing",
-            "th": "ความท้าทายในการทำ TDD และ unit testing"
-          },
-          "5:57": {
-            "en": "The approach to software development and testing that I am using",
-            "th": "แนวทางการพัฒนาและทดสอบซอฟต์แวร์ที่ใช้อยู่"
-          },
-          "7:02": {
-            "en": "Doing black box testing instead of unit testing",
-            "th": "การทำ black box testing แทน unit testing"
-          },
-          "11:01": {
-            "en": "Adding testing tools to the application",
-            "th": "การเพิ่ม testing tools เข้าไปในแอปพลิเคชัน"
-          },
-          "12:45": {
-            "en": "Example of fixing a bug and covering it with a Black Box Test",
-            "th": "ตัวอย่างการแก้ไข bug ด้วย black box testing"
-          },
-          "14:28": {
-            "en": "Benefits of designing a system in a multi-tenant way",
-            "th": "ประโยชน์ของการออกแบบระบบแบบ multi-tenant"
-          },
-          "15:35": {
-            "en": "Testing in production",
-            "th": "แนวคิดเรื่อง testing in production"
-          },
-          "16:20": {
-            "en": "Things to be careful about when writing black box tests",
-            "th": "ข้อควรระวังในการเขียน black box test"
-          },
-          "16:50": {
-            "en": "Conclusions",
-            "th": "สรุปและข้อแนะนำสุดท้าย"
-          }
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/blackbox.md",
-      "imageFilePath": "data/videos/bkkjs17/blackbox.jpg",
-      "englishSubtitlePath": "data/videos/bkkjs17/blackbox_en.vtt",
-      "thaiSubtitlePath": "data/videos/bkkjs17/blackbox_th.vtt"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "manoonchai",
-      "data": {
-        "title": "Building Manoonchai keyboard layout from scratch with JS/TS",
-        "speaker": "Manassarn Manoonchai",
-        "type": "talk",
-        "youtube": "ltIvGLzMwzo",
-        "managed": true,
-        "description": "พาไปดูโค้ดและวิธีการสร้าง Keyboard Layout ใช้เองด้วย JavaScript/TypeScript\n\nแป้นพิมพ์มนูญชัย\nhttps://manoonchai.com/\n\nManoonchai layout dev note 🧵\nhttps://twitter.com/narze/status/1387266301492568081\n\nทดลองพิมพ์ด้วยแป้นพิมพ์มนูญชัย\nhttps://manoontype.web.app/\n\nManoonchai Layout Discord\nhttps://discord.gg/aNbFWTmuHU\n",
-        "published": "2022-11-11",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/manoonchai.md",
-      "imageFilePath": "data/videos/bkkjs17/manoonchai.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "nojs",
-      "data": {
-        "title": "You don’t need JavaScript",
-        "speaker": "Siriwat Kunaporn",
-        "type": "talk",
-        "youtube": "le5M-5mhPY0",
-        "managed": true,
-        "description": "Mind blown CSS techniques that you might not have seen\n\nCode examples:\nhttps://codesandbox.io/s/bkk-js-17-you-dont-need-js-hyk5dd\n",
-        "published": "2022-11-11",
-        "language": "th",
-        "tags": [
-          "javascript",
-          "js",
-          "css"
-        ],
-        "chapters": {
-          "00:00": "Intro",
-          "03:28": "1. Viewport divider",
-          "10:16": "2. Flexbox albatross",
-          "20:48": "3. Shadow Scroll",
-          "23:49": "4. Perfect Radius"
-        }
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/nojs.md",
-      "imageFilePath": "data/videos/bkkjs17/nojs.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "postr",
-      "data": {
-        "title": "Behind the scene of Postr.me",
-        "speaker": "Warat Wongmaneekit",
-        "type": "talk",
-        "youtube": "J2THXXeQMxY",
-        "managed": true,
-        "description": "ทำ Postr.me ขึ้นมาเล่นๆ เหมือนจะทำง่าย เอาจริงโคตรยาก เลยจะมาเล่าให้ฟังว่า ทำไมมันยาก แล้ว ข้างหลังทำงานยังไง\n\nPostr.me - Capture social network post to nice image and video\nhttps://postr.me/\n",
-        "published": "2022-11-11",
-        "language": "th"
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/postr.md",
-      "imageFilePath": "data/videos/bkkjs17/postr.jpg"
-    },
-    {
-      "event": "bkkjs17",
-      "slug": "typescript",
-      "data": {
-        "title": "Ten Years of TypeScript",
-        "speaker": "Jirachai Chansivanon",
-        "type": "talk",
-        "youtube": "wrPz2Sp9EZU",
-        "managed": true,
-        "description": "เรื่องราว 10 ปีของ TypeScript ใน 10 นาที มาดูกันว่า Microsoft เริ่มต้นพัฒนาภาษาสคริปต์ซึ่งเป็น Typed Superset ของ JS ที่กำลังมาแรงในปัจจุบันได้อย่างไร พร้อมแนะนำฟีเจอร์ใหม่ที่น่าสนใจสำหรับคนทำเว็บ\n",
-        "published": "2022-11-11",
-        "language": "th",
-        "tags": [
-          "typescript",
-          "ts"
-        ]
-      },
-      "content": "",
-      "filePath": "data/videos/bkkjs17/typescript.md",
-      "imageFilePath": "data/videos/bkkjs17/typescript.jpg"
     },
     {
       "event": "bkkjs18",
@@ -6037,11 +6037,15 @@
         "managed": true,
         "description": "ผ่าตัด แงะ แกะเกา! 🛠️ ชำแหละเบื้องหลังการทำงานของ OpenClaw โดยลองนำมาเชื่อมต่อระบบ Payment เพื่อตัดเงินผ่าน wallet ล้วงลึกเจาะกลไกการทำงานกับคุณโดม เจริญยศ (Dom Charoenyos) สาย Deep Tech, Web3 และ Security เตรียมตัวให้พร้อม แล้วมาแกะรอยกรงเล็บนี้ไปด้วยกัน!\n",
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/openclaw/reversing.md",
-      "imageFilePath": "data/videos/openclaw/reversing.jpg"
+      "imageFilePath": "data/videos/openclaw/reversing.jpg",
+      "thaiSubtitlePath": "data/videos/openclaw/reversing_th.vtt"
     },
     {
       "event": "openclaw",
