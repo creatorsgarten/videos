@@ -24692,10 +24692,12 @@ video:6G_ajEBUEZ8:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/openclaw/reversing
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -24941,3 +24943,13 @@ video:yNP8NExFpJQ:caption:en:
     isDraft: false
   state:
     id: AUieDaYYKLz30jC8aZld-OY6ywGodLl3XtWcTOAN2I62SKIGYTxK4upk
+video:6G_ajEBUEZ8:caption:th:
+  spec:
+    videoId: 6G_ajEBUEZ8
+    filePath: data/videos/openclaw/reversing_th.vtt
+    language: th
+    name: Thai
+    hash: b9c50de82f98d09de0b8e81b059d65e1eaea7f002164f30a24a7223e95fd55d7
+    isDraft: false
+  state:
+    id: AUieDaYN1Sg4obZGV1RTbrruo4nRF5ABhQUu9QTyaF4laOvVaEjc
