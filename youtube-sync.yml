@@ -24749,10 +24749,12 @@ video:V9jrUVvYpvg:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/openclaw/backup-migration
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -24898,10 +24900,12 @@ video:yNP8NExFpJQ:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/openclaw/machine-readable-me
+      defaultAudioLanguage: en
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -24917,3 +24921,23 @@ video:4B4IxfqVXQo:caption:th:
     isDraft: false
   state:
     id: AUieDaa4azb2M76-0g7kTJO8gHI-s9r1cjiNKjjCvxXbPP_0eplD
+video:V9jrUVvYpvg:caption:th:
+  spec:
+    videoId: V9jrUVvYpvg
+    filePath: data/videos/openclaw/backup-migration_th.vtt
+    language: th
+    name: Thai
+    hash: 80297b1aca1d9edeb30cc82460d54214e03b5556e0148f5345f2ed8d54dcb5f4
+    isDraft: false
+  state:
+    id: AUieDab2CO2wUhIhmbSQL_CXIvh8k_lP8mw-qYEFdh864TY9Cjol
+video:yNP8NExFpJQ:caption:en:
+  spec:
+    videoId: yNP8NExFpJQ
+    filePath: data/videos/openclaw/machine-readable-me_en.vtt
+    language: en
+    name: English
+    hash: fe7345a0cf3605f0d836b8b6b18a703596c03e8b7b5a695003a6ba359dd25730
+    isDraft: false
+  state:
+    id: AUieDaYYKLz30jC8aZld-OY6ywGodLl3XtWcTOAN2I62SKIGYTxK4upk
