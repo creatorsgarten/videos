@@ -24406,7 +24406,7 @@ thumbnail:qY4ivayRT5k:
   spec:
     videoId: qY4ivayRT5k
     filePath: data/videos/openclaw/security.jpg
-    hash: 068d1b339de5ed2f300273df5e0780fdd4458cfaf427aea0fc7a42848dd1252d
+    hash: f972d56253dbe7885212ea9856a6335e1233cd5dcc44ea653ac3f869858028de
   state: {}
 video:ONOW9hFSFjo:
   spec:
@@ -24630,7 +24630,7 @@ video:qY4ivayRT5k:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 thumbnail:6G_ajEBUEZ8:
   spec:
