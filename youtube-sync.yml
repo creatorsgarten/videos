@@ -24394,13 +24394,13 @@ thumbnail:ONOW9hFSFjo:
   spec:
     videoId: ONOW9hFSFjo
     filePath: data/videos/openclaw/ippbx.jpg
-    hash: 6b45735c8176795e0630a9892e3d9dbca59694324845f230a1bba11e4c5192f1
+    hash: 01438a39146fdde812bd0d35353020d084e737b0500fe6dee9b49d63faec24fa
   state: {}
 thumbnail:mUTdlKHbc40:
   spec:
     videoId: mUTdlKHbc40
     filePath: data/videos/openclaw/panel.jpg
-    hash: 0f6a35bc53694ef3cea46472912a7d3dfe4014008a19d6c8d3244e11cbff1d1f
+    hash: bddcd445d3b3e3464b7626dc6b71c14182d468ce6a21c6f6b14a30b89535ec1b
   state: {}
 thumbnail:qY4ivayRT5k:
   spec:
@@ -24414,6 +24414,14 @@ video:ONOW9hFSFjo:
     snippet:
       title: OpenClaw VPS with Thailand Telephony by Wichaya Sropas
       description: >-
+        เมื่อเอา AI มาเชื่อมต่อกับระบบโทรศัพท์ตอบกลับอัตโนมัติในภาษาไทย! 🇹🇭📞
+        ดูวิธีการผสานพลังของ OpenClaw เข้ากับ VPS และระบบ Telephony
+        ในประเทศไทยโดยคุณ J Sropas ปลดล็อกข้อจำกัดเดิมๆ สู่การสร้าง Use Case
+        ที่ใช้งานได้จริงในบ้านเรา!
+
+
+        --------------------------------------------
+
         Event: OpenClaw Meetup Bangkok
 
         https://grtn.org/e/openclaw
@@ -24546,7 +24554,7 @@ video:mUTdlKHbc40:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:qY4ivayRT5k:
   spec:
@@ -24636,7 +24644,7 @@ thumbnail:6G_ajEBUEZ8:
   spec:
     videoId: 6G_ajEBUEZ8
     filePath: data/videos/openclaw/reversing.jpg
-    hash: 49bf95582943ebec38975d73f50c3efe3c6ca6b17ca819adebabe459767b8bee
+    hash: 0fa9812c2539098d11312fa8390b0b077a71fb3414fb86e75d7e28c630011c21
   state: {}
 thumbnail:V9jrUVvYpvg:
   spec:
@@ -24999,3 +25007,15 @@ video:6G_ajEBUEZ8:caption:th:
     isDraft: false
   state:
     id: AUieDaYN1Sg4obZGV1RTbrruo4nRF5ABhQUu9QTyaF4laOvVaEjc
+thumbnail:4B4IxfqVXQo:
+  spec:
+    videoId: 4B4IxfqVXQo
+    filePath: data/videos/openclaw/guardian.jpg
+    hash: a710c2a1795f8a48bbef528a7de6ca12420fa643efc7d3e94f753ca382796b1b
+  state: {}
+thumbnail:yNP8NExFpJQ:
+  spec:
+    videoId: yNP8NExFpJQ
+    filePath: data/videos/openclaw/machine-readable-me.jpg
+    hash: b55e2f8fad3f00702115e55bde6613dc2b31208697d005c5d04de66f102aa608
+  state: {}
