@@ -6,7 +6,7 @@ youtube: V9jrUVvYpvg
 managed: true
 description: |
   ข้อมูลคือหัวใจสำคัญ! ถ้าระบบล่มต้องทำอย่างไรไม่ให้พัง? 💾 มาเรียนรู้วิธีการวางแผน Data Backup และ Migration สำหรับระบบ OpenClaw โดยเฉพาะ กับคุณ Pumpith Ungsupanit เพื่อสร้างสถาปัตยกรรมที่เสถียร ยืดหยุ่น และพร้อมลุยต่อในทุกสถานการณ์
-published: false
+published: '2026-04-01'
 language: th
 subtitles:
   - th

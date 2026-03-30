@@ -24420,6 +24420,35 @@ video:ONOW9hFSFjo:
         ที่ใช้งานได้จริงในบ้านเรา!
 
 
+        0:00 | แรงบันดาลใจการสร้างระบบจากคลิปยูทูบ และ Demo สายเรียกเข้าจาก AI
+
+        1:45 | แนะนำผู้พูดและการเชื่อมต่อ OpenClaw เข้ากับตู้สาขา IP-PBX
+        ด้วยงบประหยัด
+
+        3:07 | สถาปัตยกรรมระบบ: การเชื่อมต่อโทรศัพท์กับเทคโนโลยีเสียงและ AI
+        (STT, LLM, TTS)
+
+        4:49 | โชว์หน้าต่างจัดการ Agent พื้นฐานที่ใช้ AI ช่วยเขียนระบบให้
+
+        6:00 | เบื้องหลังการทำงาน: การคุมพฤติกรรม AI ด้วย System Prompt และ
+        Guardrail
+
+        7:26 | Demo 1: ให้ AI ตอบคำถามสเตตัสเซิร์ฟเวอร์ (การใช้ CPU
+        และฮาร์ดดิสก์)
+
+        9:44 | Demo 2: ใช้ Agent โทรไปทำรายการจองคิวนวดแผนโบราณอัตโนมัติ
+
+        11:03 | ศักยภาพในการรองรับสายแบบไม่จำกัด
+        และข้อจำกัดด้านใช้งานเชิงพาณิชย์
+
+        12:05 | ยกระดับระบบเป็น API เพื่อบริการที่ลื่นไหลและเป็นมืออาชีพมากขึ้น
+
+        13:30 | Demo 3 (Premium Call): AI
+        สายเซลส์โทรเสนอขายสินค้าและรับมือการต่อรองราคา
+
+        15:29 | สรุปปฏิภาณไหวพริบของ AI เมื่อเจอคำถามกวนๆ และกล่าวปิดท้าย
+
+
         --------------------------------------------
 
         Event: OpenClaw Meetup Bangkok
@@ -24465,7 +24494,7 @@ video:ONOW9hFSFjo:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:mUTdlKHbc40:
   spec:
@@ -24850,15 +24879,39 @@ video:4B4IxfqVXQo:
   spec:
     id: 4B4IxfqVXQo
     snippet:
-      title: >-
-        ผ่าโครงสร้างสถาปัตยกรรม OpenClaw: เจาะลึก Architecture เบื้องหลัง AI
-        สุดล้ำ by Sathapon Patanakuha
+      title: ผ่าโครงสร้างสถาปัตยกรรมความปลอดภัย OpenClaw by Sathapon Patanakuha
       description: >-
-        แกะกล่องโครงสร้างเบื้องหลัง OpenClaw! พาสำรวจสถาปัตยกรรม
-        ที่ขับเคลื่อนระบบทั้งหมดนี้ว่าถูกออกแบบมาอย่างไรให้ทรงพลัง สเกลได้
-        และยืดหยุ่น โดยคุณสถาพน พัฒนะคูหา
-        ใครอยากเห็นภาพรวมและโครงสร้างระบบระดับโครงกระดูก
-        เตรียมสมุดจดเลคเชอร์ให้พร้อม
+        ในยุคที่ AI ไม่ได้เป็นแค่แชทบอท แต่กลายเป็น "Agent" ที่ทำงานแทนเราได้
+        ความท้าทายใหม่ที่น่ากลัวที่สุดคือเรื่อง "ความปลอดภัย" โดยเมื่อเราส่งต่อ
+        "สิทธิ์" ในการตัดสินใจและเข้าถึงข้อมูลให้ AI
+        สิ่งที่ต้องระวังไม่ใช่แค่การถูกแฮ็กระบบแบบเดิม แต่คือการที่ AI ถูกปั่น
+        จนเป็นอันตรายต่อผู้ใช้งาน
+        วีดิโอคลิปนี้จะพาคุณไปสำรวจสถาปัตยกรรมความปลอดภัยและรูปแบบการโจมตี AI
+        ในอนาคต
+
+
+        0:00 | Architecture ของ OpenClaw (การทำงานจาก Gateway สู่ Agent และ
+        External)
+
+        0:56 | Attack Surface (การโจมตีมักมาจากภายนอกเจาะเข้า Prompt, Tools และ
+        Model)
+
+        1:37 | การโจมตีระดับ Prompt (Prompt Injection เพื่อหลอกดึง System Prompt
+        หรือซ่อนคำสั่ง)
+
+        2:22 | การโจมตีระดับ Tools
+        (หลอกให้เครื่องมือรันสคริปต์อันตรายหรือทำงานเกินคำสั่ง)
+
+        3:08 | การโจมตีระดับ Model (Reasoning Drift และการทำ Context Overflow
+        เพื่อเบี่ยงเบนการทำงาน)
+
+        4:17 | Supply Chain Attack (ระวังโค้ดอันตรายหรือมัลแวร์ที่แฝงมากับ Tools
+        และ Skills)
+
+        4:49 | DDoS และ Token Burning (หลอกให้ Agent เข้า Infinite Loop
+        เพื่อผลาญทรัพยากรและ Token)
+
+        5:35 | แนวทางการป้องกัน Agent และบริการจาก GuardianAI
 
 
         --------------------------------------------
@@ -24906,7 +24959,7 @@ video:4B4IxfqVXQo:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:yNP8NExFpJQ:
   spec:
@@ -24918,6 +24971,27 @@ video:yNP8NExFpJQ:
         ร่วมสำรวจแนวคิดสุดล้ำในการสร้าง "Digital Twin"
         และการแปลงบริบทของมนุษย์ให้กลายเป็นข้อมูลที่ AI อ่านและเข้าใจได้ กับ
         John F.X. Berns สู่ก้าวใหม่ของการใช้ AI ให้ตอบโจทย์แบบ Personalized สุดๆ
+
+
+        0:00 | Personalized AI requires balancing useful context with data
+        privacy
+
+        1:38 | Seek a middle ground between useless anonymity and dangerous full
+        exposure
+
+        2:43 | Tune the strictness of PII masking with tools like Microsoft
+        Presidio
+
+        3:57 | Leverage privacy laws like GDPR to request deep social media data
+        exports
+
+        5:34 | Raw social media data exports are often scattered and unreadable
+
+        7:02 | Use AI to organize raw data into relationship graphs before
+        scrubbing it offline
+
+        9:23 | Summary: Download, organize, offline scrub, and securely feed
+        your AI
 
 
         --------------------------------------------
@@ -24965,7 +25039,7 @@ video:yNP8NExFpJQ:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:4B4IxfqVXQo:caption:th:
   spec:
