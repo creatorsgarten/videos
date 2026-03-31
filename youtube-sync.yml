@@ -5328,9 +5328,7 @@ video:bn7MU7tRSI0:
   spec:
     id: bn7MU7tRSI0
     snippet:
-      title: >-
-        Cross-platform reproducible environment setup by Karnsiree
-        Wongkolkitsilp
+      title: Cross-platform reproducible environment setup by Karn Wong
       description: >-
         Event: Functional Programming Meetup #1
 
@@ -8814,9 +8812,7 @@ video:GtV-0qmUAsk:
   spec:
     id: GtV-0qmUAsk
     snippet:
-      title: >-
-        Faster deployments with multi-stage build caching by Karnsiree
-        Wongkolkitsilp
+      title: Faster deployments with multi-stage build caching by Karn Wong
       description: >-
         Event: GitHub Universe After Party Thailand
 
@@ -21095,7 +21091,7 @@ video:5CMuXc2lsWU:
     snippet:
       title: >-
         Decoding Data Engineering — Myth vs Reality & What are Here to Stay by
-        Direk, Karnsiree, Manussanun
+        Direk, Karn, Manussanun
       description: >-
         มาไขความลับเบื้องหลังวงการ data engineering กับคุณตั้ว Cloud Director
         และคุณกานต์ Cloud Optimization and Automation Consultant จาก MFEC 
