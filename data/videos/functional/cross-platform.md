@@ -1,6 +1,6 @@
 ---
 title: Cross-platform reproducible environment setup
-speaker: Karnsiree Wongkolkitsilp
+speaker: Karn Wong
 youtube: bn7MU7tRSI0
 tags: [devops, nix, automation]
 managed: true
