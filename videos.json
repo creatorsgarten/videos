@@ -2648,10 +2648,31 @@
         "youtube": "GNxv__OGTQc",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "แนะนำ Patchies: โปรเจกต์เปลี่ยนการเขียนโปรแกรมให้เห็นภาพและโต้ตอบได้",
+          "1:45": "OOP ที่แท้จริงของ Alan Kay คือการส่ง Message เหมือนโครงสร้างเซลล์สิ่งมีชีวิต",
+          "3:01": "เรียนรู้ OOP ดั้งเดิมและทฤษฎี Actor Model ผ่านแอปสายทำเพลง (Pure Data, Max/MSP)",
+          "5:39": "หมดยุคการพิมพ์โค้ดด้วย Text? วิสัยทัศน์เบื้องหลังการเขียนโปรแกรมแบบ Visual",
+          "7:38": "เดโมยกระดับ Game Engine: การจับตาดู Message ที่ Object คุยกันได้แบบสดๆ",
+          "9:50": "รับมือการสลับการทำงานยุ่งเหยิง (Graphics, Sound) ด้วยระบบ Parallel",
+          "11:37": "ทลายข้อจำกัด Web Thread ด้วย 3 ทหารเสือ: Web Worker, OffscreenCanvas, และ AudioWorklet",
+          "12:43": "จัดระเบียบคิวการเรนเดอร์กราฟิกด้วยกราฟ DAG ไม่ให้หน้าจอค้าง",
+          "16:14": "ลดคอขวด CPU รอ GPU (Synchronization Stall) ให้ไหลลื่นด้วย FBO และ PBO",
+          "17:44": "แยกกระบวนการหนัก: รัน Python, Ruby, Assembly บน Web Worker",
+          "19:51": "ความท้าทายในโลก Audio: หลีกเลี่ยงหน้ากาก Abstraction และงัดทักษะการเขียนโค้ดดิบแบบ C",
+          "21:21": "ทะลุขีดจำกัดความเร็ว JavaScript ด้วยพลัง WebAssembly (รันภาษา ChucK และ uxn Emulator)",
+          "23:29": "รวมร่างสถาปัตยกรรมสู่โปรเจกต์โลกจริง: ควบคุม Projection Mapping ด้วยโหนดนับร้อย",
+          "25:06": "Q&A โชว์ของแถม: อ่านท่าทางมือเพื่อควบคุม Hardware จริงๆ ผ่าน Web Serial",
+          "27:32": "ผสานร่าง AI ช่วยโปรแกรม: ใช้ Gemini 3 สร้างและประมวลผลโค้ด Patch ทันทีผ่านหน้า UI"
+        }
       },
       "content": "",
-      "filePath": "data/videos/bkkjs24/web-game-engine.md"
+      "filePath": "data/videos/bkkjs24/web-game-engine.md",
+      "thaiSubtitlePath": "data/videos/bkkjs24/web-game-engine_th.vtt"
     },
     {
       "event": "bkkjs24",
@@ -2663,10 +2684,28 @@
         "youtube": "0KgPDFdNqHo",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ],
+        "chapters": {
+          "0:00": "เกริ่นนำและแนะนำตัวผู้บรรยาย",
+          "1:17": "MCP คืออะไร: มาตรฐานตัวกลางที่ช่วยให้ AI Agent เรียก API ได้เป็นระบบ",
+          "3:13": "สำรวจตลาด AI Browser และจุดเริ่มต้นความจำเป็นของ Web MCP",
+          "4:15": "ปัญหาความอืดและกิน Token จากการไถอ่าน HTML และสแนปภาพหน้าเว็บของ AI",
+          "6:09": "ช่องทางมาตรฐาน Web MCP: แกัปัญหากวนใจด้าน Security และ Privacy ของเว็บ",
+          "7:46": "เริ่มทดลองใช้งาน Web MCP บน Google Chrome ด้วย Flag Setting",
+          "8:41": "2 วิธีการเปิดช่องทางให้ AI ใช้งาน Tools: รูปแบบ Imperative และ Declarative API",
+          "10:48": "Demo สาธิตการใช้งานจริง: เมื่อ AI อ่าน Tool การจองโต๊ะและกรอกฟอร์มอัตโนมัติ",
+          "13:01": "ทิศทาง Local API: พัฒนา AI บนเบราว์เซอร์ให้ประมวลผลจบภายในเครื่อง (On-device)",
+          "14:37": "ตอบข้อสงสัย: หากเบราว์เซอร์ต้องรันเว็บที่ไม่มีมาตรฐาน Web MCP จะทำอย่างไร?",
+          "17:13": "มุมมองส่วนตัว: ถ้าโมเดล AI ฉลาดและแม่นยำขึ้น มาตรฐานนี้อาจลดความสำคัญลง",
+          "19:56": "ความกังวลเรื่อง AI แย่งคนทำงาน และข้อคิดการใช้ชีวิตท่ามกลางเทคโนโลยีที่คาดเดาไม่ได้"
+        }
       },
       "content": "",
-      "filePath": "data/videos/bkkjs24/web-mcp.md"
+      "filePath": "data/videos/bkkjs24/web-mcp.md",
+      "thaiSubtitlePath": "data/videos/bkkjs24/web-mcp_th.vtt"
     },
     {
       "event": "claude",
