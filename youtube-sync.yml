@@ -5328,9 +5328,7 @@ video:bn7MU7tRSI0:
   spec:
     id: bn7MU7tRSI0
     snippet:
-      title: >-
-        Cross-platform reproducible environment setup by Karnsiree
-        Wongkolkitsilp
+      title: Cross-platform reproducible environment setup by Karn Wong
       description: >-
         Event: Functional Programming Meetup #1
 
@@ -8814,9 +8812,7 @@ video:GtV-0qmUAsk:
   spec:
     id: GtV-0qmUAsk
     snippet:
-      title: >-
-        Faster deployments with multi-stage build caching by Karnsiree
-        Wongkolkitsilp
+      title: Faster deployments with multi-stage build caching by Karn Wong
       description: >-
         Event: GitHub Universe After Party Thailand
 
@@ -9413,7 +9409,7 @@ video:LJP8xmAhiUs:
   spec:
     id: LJP8xmAhiUs
     snippet:
-      title: Record CLI-based workflows with VHS by Karnsiree Wongkolkitsilp
+      title: Record CLI-based workflows with VHS by Karn Wong
       description: >-
         Event: BKK.JS #19
 
@@ -21095,7 +21091,7 @@ video:5CMuXc2lsWU:
     snippet:
       title: >-
         Decoding Data Engineering — Myth vs Reality & What are Here to Stay by
-        Direk, Karnsiree, Manussanun
+        Direk, Karn, Manussanun
       description: >-
         มาไขความลับเบื้องหลังวงการ data engineering กับคุณตั้ว Cloud Director
         และคุณกานต์ Cloud Optimization and Automation Consultant จาก MFEC 
@@ -24843,7 +24839,7 @@ video:V9jrUVvYpvg:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:ONOW9hFSFjo:caption:th:
   spec:
@@ -25092,4 +25088,212 @@ thumbnail:yNP8NExFpJQ:
     videoId: yNP8NExFpJQ
     filePath: data/videos/openclaw/machine-readable-me.jpg
     hash: b55e2f8fad3f00702115e55bde6613dc2b31208697d005c5d04de66f102aa608
+  state: {}
+video:0KgPDFdNqHo:
+  spec:
+    id: 0KgPDFdNqHo
+    snippet:
+      title: Web MCP นี่ Real หรือ Cake by Warat Wongmaneekit by Warat Wongmaneekit
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/web-mcp
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:GNxv__OGTQc:
+  spec:
+    id: GNxv__OGTQc
+    snippet:
+      title: >-
+        ทำ Game Engine บนเว็บมันจะทำยากแค่ไหนเชียว by Phoomparin Mano by
+        Phoomparin Mano
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/web-game-engine
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:Leqp7_6wRXs:
+  spec:
+    id: Leqp7_6wRXs
+    snippet:
+      title: >-
+        Build AI Agents with Agent Development Kit (ADK) and Gemini using
+        Javascript by Punsiri Boonyakiat b
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/adk
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:hBBZniEMGz0:
+  spec:
+    id: hBBZniEMGz0
+    snippet:
+      title: >-
+        Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง by Thada Wangthammang by
+        Thada Wangthammang
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/vibe-coding-without-tech-debt
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:txM_9nznYLs:
+  spec:
+    id: txM_9nznYLs
+    snippet:
+      title: >-
+        Bun, TypeScript and Postgres Building Reliable Event-Driven Systems
+        Without Kafka by Dheerapat Tookk
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/postgres-event-driven
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
   state: {}
