@@ -25095,6 +25095,42 @@ video:0KgPDFdNqHo:
     snippet:
       title: Web MCP นี่ Real หรือ Cake by Warat Wongmaneekit by Warat Wongmaneekit
       description: >-
+        0:00 | เกริ่นนำและแนะนำตัวผู้บรรยาย
+
+        1:17 | MCP คืออะไร: มาตรฐานตัวกลางที่ช่วยให้ AI Agent เรียก API
+        ได้เป็นระบบ
+
+        3:13 | สำรวจตลาด AI Browser และจุดเริ่มต้นความจำเป็นของ Web MCP
+
+        4:15 | ปัญหาความอืดและกิน Token จากการไถอ่าน HTML และสแนปภาพหน้าเว็บของ
+        AI
+
+        6:09 | ช่องทางมาตรฐาน Web MCP: แกัปัญหากวนใจด้าน Security และ Privacy
+        ของเว็บ
+
+        7:46 | เริ่มทดลองใช้งาน Web MCP บน Google Chrome ด้วย Flag Setting
+
+        8:41 | 2 วิธีการเปิดช่องทางให้ AI ใช้งาน Tools: รูปแบบ Imperative และ
+        Declarative API
+
+        10:48 | Demo สาธิตการใช้งานจริง: เมื่อ AI อ่าน Tool
+        การจองโต๊ะและกรอกฟอร์มอัตโนมัติ
+
+        13:01 | ทิศทาง Local API: พัฒนา AI
+        บนเบราว์เซอร์ให้ประมวลผลจบภายในเครื่อง (On-device)
+
+        14:37 | ตอบข้อสงสัย: หากเบราว์เซอร์ต้องรันเว็บที่ไม่มีมาตรฐาน Web MCP
+        จะทำอย่างไร?
+
+        17:13 | มุมมองส่วนตัว: ถ้าโมเดล AI ฉลาดและแม่นยำขึ้น
+        มาตรฐานนี้อาจลดความสำคัญลง
+
+        19:56 | ความกังวลเรื่อง AI แย่งคนทำงาน
+        และข้อคิดการใช้ชีวิตท่ามกลางเทคโนโลยีที่คาดเดาไม่ได้
+
+
+        --------------------------------------------
+
         Event: BKK.JS #24
 
         https://grtn.org/e/bkkjs24
@@ -25120,10 +25156,12 @@ video:0KgPDFdNqHo:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs24/web-mcp
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -25137,6 +25175,52 @@ video:GNxv__OGTQc:
         ทำ Game Engine บนเว็บมันจะทำยากแค่ไหนเชียว by Phoomparin Mano by
         Phoomparin Mano
       description: >-
+        0:00 | แนะนำ Patchies:
+        โปรเจกต์เปลี่ยนการเขียนโปรแกรมให้เห็นภาพและโต้ตอบได้
+
+        1:45 | OOP ที่แท้จริงของ Alan Kay คือการส่ง Message
+        เหมือนโครงสร้างเซลล์สิ่งมีชีวิต
+
+        3:01 | เรียนรู้ OOP ดั้งเดิมและทฤษฎี Actor Model ผ่านแอปสายทำเพลง (Pure
+        Data, Max/MSP)
+
+        5:39 | หมดยุคการพิมพ์โค้ดด้วย Text?
+        วิสัยทัศน์เบื้องหลังการเขียนโปรแกรมแบบ Visual
+
+        7:38 | เดโมยกระดับ Game Engine: การจับตาดู Message ที่ Object
+        คุยกันได้แบบสดๆ
+
+        9:50 | รับมือการสลับการทำงานยุ่งเหยิง (Graphics, Sound) ด้วยระบบ
+        Parallel
+
+        11:37 | ทลายข้อจำกัด Web Thread ด้วย 3 ทหารเสือ: Web Worker,
+        OffscreenCanvas, และ AudioWorklet
+
+        12:43 | จัดระเบียบคิวการเรนเดอร์กราฟิกด้วยกราฟ DAG ไม่ให้หน้าจอค้าง
+
+        16:14 | ลดคอขวด CPU รอ GPU (Synchronization Stall) ให้ไหลลื่นด้วย FBO
+        และ PBO
+
+        17:44 | แยกกระบวนการหนัก: รัน Python, Ruby, Assembly บน Web Worker
+
+        19:51 | ความท้าทายในโลก Audio: หลีกเลี่ยงหน้ากาก Abstraction
+        และงัดทักษะการเขียนโค้ดดิบแบบ C
+
+        21:21 | ทะลุขีดจำกัดความเร็ว JavaScript ด้วยพลัง WebAssembly (รันภาษา
+        ChucK และ uxn Emulator)
+
+        23:29 | รวมร่างสถาปัตยกรรมสู่โปรเจกต์โลกจริง: ควบคุม Projection Mapping
+        ด้วยโหนดนับร้อย
+
+        25:06 | Q&A โชว์ของแถม: อ่านท่าทางมือเพื่อควบคุม Hardware จริงๆ ผ่าน Web
+        Serial
+
+        27:32 | ผสานร่าง AI ช่วยโปรแกรม: ใช้ Gemini 3 สร้างและประมวลผลโค้ด Patch
+        ทันทีผ่านหน้า UI
+
+
+        --------------------------------------------
+
         Event: BKK.JS #24
 
         https://grtn.org/e/bkkjs24
@@ -25162,10 +25246,12 @@ video:GNxv__OGTQc:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs24/web-game-engine
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -25297,3 +25383,23 @@ video:txM_9nznYLs:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:0KgPDFdNqHo:caption:th:
+  spec:
+    videoId: 0KgPDFdNqHo
+    filePath: data/videos/bkkjs24/web-mcp_th.vtt
+    language: th
+    name: Thai
+    hash: 0bb61b4613a971ca2a3443c087034bdf55726d0dfe76c42bba138de44f335ca2
+    isDraft: false
+  state:
+    id: AUieDaa7qpRYGt-Be1PcOSsVNlvmFt_6GLjDtArBGnT_7NEhds-B
+video:GNxv__OGTQc:caption:th:
+  spec:
+    videoId: GNxv__OGTQc
+    filePath: data/videos/bkkjs24/web-game-engine_th.vtt
+    language: th
+    name: Thai
+    hash: 84f111a4ef272fd95b7e7e0df135f9d74bc8fe7f7f167f590a4af35904030e26
+    isDraft: false
+  state:
+    id: AUieDaaaN0G9rr2G7BfBvINxWKAvLgKOJzZKIpc7fR6FL9Da17V3
