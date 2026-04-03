@@ -1,5 +1,5 @@
 ---
-title: Type Safe Server -> Client by Kongkeit Khunpanitchot
+title: Type Safe Server to Client by Kongkeit Khunpanitchot
 speaker: Kongkeit Khunpanitchot
 type: talk
 youtube: Diiaj4vOPjE
