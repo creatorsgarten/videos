@@ -24675,7 +24675,7 @@ thumbnail:V9jrUVvYpvg:
   spec:
     videoId: V9jrUVvYpvg
     filePath: data/videos/openclaw/backup-migration.jpg
-    hash: 42f0576b1dcf67cb060e059381f0d9c8796c748f4d761c86ed5811bc125370f0
+    hash: d503f5e1e7f54522809ccd0747f0d619999df9c9096a22992b582a7634f97c8d
   state: {}
 video:6G_ajEBUEZ8:
   spec:
@@ -25403,3 +25403,81 @@ video:GNxv__OGTQc:caption:th:
     isDraft: false
   state:
     id: AUieDaaaN0G9rr2G7BfBvINxWKAvLgKOJzZKIpc7fR6FL9Da17V3
+thumbnail:0KgPDFdNqHo:
+  spec:
+    videoId: 0KgPDFdNqHo
+    filePath: data/videos/bkkjs24/web-mcp.jpg
+    hash: 5383220e615a2dab8a64272b0e6208173d33d3cd3a0d495436c20979cd8520e6
+  state: {}
+thumbnail:Diiaj4vOPjE:
+  spec:
+    videoId: Diiaj4vOPjE
+    filePath: data/videos/bkkjs24/type-safe-server-client.jpg
+    hash: a2e603ecb9ecaee6687ab64e2fac389b66dba90e11b0ae08ee22376c406f0c47
+  state: {}
+thumbnail:GNxv__OGTQc:
+  spec:
+    videoId: GNxv__OGTQc
+    filePath: data/videos/bkkjs24/web-game-engine.jpg
+    hash: f99c09c42b94c7fd80f1ae64fb41c6f50aaa2e9170223d2895c8e6aaf1a59693
+  state: {}
+thumbnail:Leqp7_6wRXs:
+  spec:
+    videoId: Leqp7_6wRXs
+    filePath: data/videos/bkkjs24/adk.jpg
+    hash: 9da87f49e6f8fb1d4ccf333709cb3c156bc652bb20a12fe4e4d445a8e549c0c6
+  state: {}
+thumbnail:hBBZniEMGz0:
+  spec:
+    videoId: hBBZniEMGz0
+    filePath: data/videos/bkkjs24/vibe-coding-without-tech-debt.jpg
+    hash: 11fb17c2b6678d26fb8d8ceca0a13bab0d10032175631014a0addad66d001456
+  state: {}
+thumbnail:txM_9nznYLs:
+  spec:
+    videoId: txM_9nznYLs
+    filePath: data/videos/bkkjs24/postgres-event-driven.jpg
+    hash: 521841d6940a27981404d1e64212174d9d8403ef8d7a3e502a2b375a60c4e48f
+  state: {}
+video:Diiaj4vOPjE:
+  spec:
+    id: Diiaj4vOPjE
+    snippet:
+      title: >-
+        Type Safe Server to Client by Kongkeit Khunpanitchot by Kongkeit
+        Khunpanitchot
+      description: >-
+        Event: BKK.JS #24
+
+        https://grtn.org/e/bkkjs24
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/bkkjs24/type-safe-server-client
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
