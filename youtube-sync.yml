@@ -25175,6 +25175,22 @@ video:GNxv__OGTQc:
         ทำ Game Engine บนเว็บมันจะทำยากแค่ไหนเชียว by Phoomparin Mano by
         Phoomparin Mano
       description: >-
+        คุณภูมิ นักพัฒนาจาก Metabase พาเจาะลึกเบื้องหลังการพัฒนา Patchies
+        โปรเจกต์แอปพลิเคชัน visual programming บนเว็บเบราว์เซอร์
+        เซสชันนี้จะพาไปทำความเข้าใจแนวคิด Object-Oriented Programming (OOP)
+        แบบดั้งเดิมของ Alan Kay ที่เน้นการทำงานแบบส่งข้อความระหว่างออบเจกต์
+        ซึ่งเป็นรากฐานของโปรแกรมแขนงดนตรีอย่าง Max/MSP 
+
+
+        นอกจากนี้ยังมีการอธิบายถึงความท้าทายในการสร้างแอปพลิเคชันที่ต้องประมวลผลกราฟิกและเสียงพร้อมกัน
+        โดยคุณภูมิจะมาเล่าเทคนิคการจัดการประสิทธิภาพด้วยการเขียนโปรแกรมแบบ
+        parallel ผ่านการใช้ web worker, OffscreenCanvas และ AudioWorklet
+        รวมถึงการใช้ WebAssembly เพื่อทลายข้อจำกัดของ JavaScript
+        ทำให้สามารถรันภาษาอื่นๆ อย่าง Python หรือเครื่องมือหนักๆ
+        ภายในเบราว์เซอร์ได้ ตลอดจนแสดงตัวอย่างการเชื่อมต่อฮาร์ดแวร์ภายนอกผ่าน
+        Web Serial
+
+
         0:00 | แนะนำ Patchies:
         โปรเจกต์เปลี่ยนการเขียนโปรแกรมให้เห็นภาพและโต้ตอบได้
 
@@ -25255,7 +25271,7 @@ video:GNxv__OGTQc:
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
-      privacyStatus: unlisted
+      privacyStatus: public
   state: {}
 video:Leqp7_6wRXs:
   spec:
