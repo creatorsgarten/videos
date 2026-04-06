@@ -25095,6 +25095,23 @@ video:0KgPDFdNqHo:
     snippet:
       title: Web MCP นี่ Real หรือ Cake by Warat Wongmaneekit by Warat Wongmaneekit
       description: >-
+        คุณตั้ง Chief Product Officer จาก Wisesight จะพามาทำความรู้จักกับ Web
+        MCP ซึ่งเป็นมาตรฐานการเชื่อมต่อรูปแบบใหม่ที่ตั้งเป้าจะปรับเปลี่ยนวิธีที่
+        AI ทำงานร่วมกับเว็บไซต์ ปัจจุบัน AI browser มักอาศัยการอ่าน HTML
+        หรือถ่าย screenshot ซึ่งกินทรัพยากร ทำงานช้า เปลือง token
+        และมีความเสี่ยงปัญหาด้านความปลอดภัย เทคโนโลยี Web MCP
+        จึงเข้ามาช่วยแก้ปัญหาโดยให้นักพัฒนาเว็บสามารถประกาศ tool ผ่านรูปแบบ
+        imperative หรือ declarative เพื่อให้ agent
+        รับรู้และเลือกเรียกใช้ได้เฉพาะฟังก์ชันที่อนุญาต 
+
+
+        คุณตั้งจะมาบรรยายถึงจุดเริ่มต้นของโปรเจกต์นี้
+        พร้อมสาธิตการทำงานเบื้องต้น
+        ไปจนถึงชวนคิดวิเคราะห์แนวโน้มในอนาคตว่ามาตรฐานดังกล่าวจะถูกนำมาใช้งานอย่างแพร่หลายจริงหรือไม่
+        รวมถึงแบ่งปันแง่มุมการปรับตัวของคนทำงานในวงการสายเทคโนโลยี เมื่อ AI
+        เริ่มมีความสามารถสูงขึ้นและเข้ามาทดแทนการทำงานต่างๆ ได้อย่างรวดเร็ว
+
+
         0:00 | เกริ่นนำและแนะนำตัวผู้บรรยาย
 
         1:17 | MCP คืออะไร: มาตรฐานตัวกลางที่ช่วยให้ AI Agent เรียก API
@@ -25323,6 +25340,66 @@ video:hBBZniEMGz0:
         Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง by Thada Wangthammang by
         Thada Wangthammang
       description: >-
+        พบกับคุณธาดา (มาย) DevOps lead และแอดมินเพจ ThaiType
+        ที่จะมาแบ่งปันประสบการณ์การเขียนโค้ดร่วมกับ AI ว่า vibe code
+        อย่างไรให้รอดพ้นจากปัญหา technical debt และภาวะสมองล้า (brain fatigue)
+        จากการตัดสินใจต่างๆ ที่มากเกินไป
+
+
+        เซสชันนี้จะพาไปเจาะลึกแนวคิดสามเหลี่ยมระหว่าง คน กฎ และ AI
+        โดยเน้นความสำคัญของการวาง template การทำงานที่ชัดเจน การประยุกต์ใช้
+        Clean Architecture ในการแบ่งเลเยอร์ซอฟต์แวร์ รวมถึงการบังคับใช้
+        end-to-end type safety ใน TypeScript
+        ซึ่งช่วยให้โค้ดแต่ละส่วนไม่ผูกติดกัน
+        ในขณะที่ยังตรวจสอบได้ว่าทุกอย่างสอดคล้องกันอยู่
+        นอกจากนี้ยังมีการแนะนำแนวคิดของ chief agent
+        ที่เข้ามาช่วยสกรีนและรับภาระด้านการออกแบบแทนนักพัฒนา
+
+
+        0:00 | แนะนำตัว: จบโปรเจกต์ใน 3 สัปดาห์ด้วยการใช้ AI เขียนโค้ด 99.99%
+
+        1:48 | ทำไม Vibe Code ถึงพัง? เพราะงานเร่งสร้าง Tech Debt
+        และเปลี่ยนเป็นความเหนื่อยล้าทางกลยุทธ์ (Strategic Fatigue)
+
+        4:24 | เลิกคิดว่า 'เดี๋ยวค่อย Refactor' เพราะมันไม่มีอยู่จริง ต้องแก้
+        Tech Debt และปรับโครงสร้างทันที
+
+        6:53 | สามเหลี่ยม 'คน-กฎ-AI':
+        ลดภาระในสมองด้วยการโยนการตัดสินใจไปที่การตั้ง Rule
+
+        8:19 | AI มักตกม้าตายเรื่อง TypeScript การมี Template
+        กฎเหล็กจึงสำคัญที่สุดในการควบคุมทิศทาง
+
+        10:37 | แยกแยะ Value-level กับ Type-level ใน TypeScript
+        เพื่อประกบและขึ้นโครงให้ AI เดินต่อได้
+
+        12:08 | รักษา Clean Architecture โดยการแยก Type ของรหัสโดเมน
+        ไม่ให้ผูกติดตายตัวกับ Validator อย่าง Zod
+
+        14:41 | เทคนิคการสร้างฟังก์ชัน Match เพื่อรับประกันว่า Type ขั้น
+        Interface และ Schema ตรงกันเสมอ
+
+        17:04 | ป้องกันการรั่วไหลของ Type Database (เช่น Object ID)
+        สู่เลเยอร์ออฟฟิศด้วย Auto-conversion ที่ชั้น Zod
+
+        18:11 | เจาะโครงสร้าง End-to-End Type Safety ข้ามเลเยอร์
+        เมื่อเปลี่ยนจุดเดียว จุดอื่นต้องพังเพื่อส่งสัญญาณ
+
+        19:53 | บังคับเช็ค Lint และ Type ในการรันทุก Iteration เพื่อสร้าง
+        Feedback Loop ที่ตอบสนองไวที่สุด
+
+        21:56 | ปลดล็อกความล้าสมองด้วย 'Chief Agent':
+        สั่งให้หยุดแล้วเสนอทางเลือกเมื่อ AI เจอจุดคลุมเครือขัดแย้ง
+
+        24:37 | ใช้ Sub-Agent ดักจับการพัง (Negative Progress) และเทคนิค Grill
+        Me เพื่อจัดระเบียบความคิดคนให้ตรงกับ AI
+
+        26:26 | สรุป 3 แกนหลักของ AI Engineering (คน-กฎ-AI)
+        และฝากผลงานโปรเจกต์ท้ายคลิป
+
+
+        --------------------------------------------
+
         Event: BKK.JS #24
 
         https://grtn.org/e/bkkjs24
@@ -25348,10 +25425,12 @@ video:hBBZniEMGz0:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs24/vibe-coding-without-tech-debt
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -25497,3 +25576,13 @@ video:Diiaj4vOPjE:
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:hBBZniEMGz0:caption:th:
+  spec:
+    videoId: hBBZniEMGz0
+    filePath: data/videos/bkkjs24/vibe-coding-without-tech-debt_th.vtt
+    language: th
+    name: Thai
+    hash: 1ede41895b6626885799cbea6b399f1b06dac4430e1eb9cc116c918e50194aa4
+    isDraft: false
+  state:
+    id: AUieDaaj0qTyr7CM_vFeuW_yXEgTp9Ldq1fphg-ru5KGIv8OiPQO
