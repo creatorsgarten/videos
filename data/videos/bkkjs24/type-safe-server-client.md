@@ -1,17 +1,17 @@
 ---
-title: Type Safe Server to Client by Kongkeit Khunpanitchot
+title: Type Safe Server to Client
 speaker: Kongkeit Khunpanitchot
 type: talk
 youtube: Diiaj4vOPjE
 managed: true
-published: '2026-04-20'
-language: th
 description: |-
   คุณออม (SaltyAom) ผู้สร้างเฟรมเวิร์ก Elysia มาแบ่งปันประสบการณ์และแนวคิดการทำ end-to-end type safety ด้วยภาษา TypeScript
 
   ภายในเซสชันนี้จะมีการพูดถึงข้อจำกัดของการเขียน backend และ frontend แบบเดิมๆ รวมถึงปัญหาของเฟรมเวิร์กยุคเก่าที่ไม่สามารถรองรับระบบ type ได้อย่างสมบูรณ์ คุณออมจะพาไปทำความรู้จักการใช้ฟีเจอร์และเครื่องมือต่างๆ ในการเชื่อมต่อ type อย่างไร้รอยต่อ ตั้งแต่ระดับฐานข้อมูลผ่าน Prisma, การตรวจสอบข้อมูลด้วย TypeBox, ไปจนถึงการเรียกใช้งานบนหน้าบ้าน
 
   นอกจากนี้ยังมีการสาธิตฟีเจอร์การสร้าง API documentation ตามมาตรฐาน OpenAPI โดยอัตโนมัติจากการประมวลผล type ในโค้ด ซึ่งช่วยลดเวลาการเขียนเอกสารด้วยตัวเอง
+published: '2026-04-20'
+language: th
 subtitles:
   - th
 chapters:

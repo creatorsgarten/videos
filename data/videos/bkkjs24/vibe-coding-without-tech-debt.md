@@ -1,15 +1,15 @@
 ---
-title: Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง by Thada Wangthammang
+title: Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง
 speaker: Thada Wangthammang
 type: talk
 youtube: hBBZniEMGz0
 managed: true
-published: '2026-04-11'
-language: th
 description: |-
   พบกับคุณธาดา (มาย) DevOps lead และแอดมินเพจ ThaiType ที่จะมาแบ่งปันประสบการณ์การเขียนโค้ดร่วมกับ AI ว่า vibe code อย่างไรให้รอดพ้นจากปัญหา technical debt และภาวะสมองล้า (brain fatigue) จากการตัดสินใจต่างๆ ที่มากเกินไป
 
   เซสชันนี้จะพาไปเจาะลึกแนวคิดสามเหลี่ยมระหว่าง คน กฎ และ AI โดยเน้นความสำคัญของการวาง template การทำงานที่ชัดเจน การประยุกต์ใช้ Clean Architecture ในการแบ่งเลเยอร์ซอฟต์แวร์ รวมถึงการบังคับใช้ end-to-end type safety ใน TypeScript ซึ่งช่วยให้โค้ดแต่ละส่วนไม่ผูกติดกัน ในขณะที่ยังตรวจสอบได้ว่าทุกอย่างสอดคล้องกันอยู่ นอกจากนี้ยังมีการแนะนำแนวคิดของ chief agent ที่เข้ามาช่วยสกรีนและรับภาระด้านการออกแบบแทนนักพัฒนา
+published: '2026-04-11'
+language: th
 subtitles:
   - th
 chapters:

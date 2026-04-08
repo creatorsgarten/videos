@@ -1,15 +1,15 @@
 ---
-title: Bun, TypeScript and Postgres Building Reliable Event-Driven Systems Without Kafka by Dheerapat Tookkane
+title: Bun, TypeScript and Postgres Building Reliable Event-Driven Systems Without Kafka
 speaker: Dheerapat Tookkane
 type: talk
 youtube: txM_9nznYLs
 managed: true
-published: '2026-04-14'
-language: th
 description: |-
   พบกับคุณเอฟ Software Engineer จากเต่าบิน ที่จะมาแชร์เทคนิคการสร้าง event-driven application ด้วย Bun, TypeScript และ Postgres โดยไม่ต้องอาศัย message broker อย่าง Kafka หรือ RabbitMQ ในการจัดการระบบ
 
   คุณเอฟอธิบายถึงข้อดีและข้อเสียของการใช้ตารางใน Postgres เพื่อเก็บ event แทนการใช้ infrastructure ภายนอก ซึ่งช่วยให้เกิด transactional consistency ได้อย่างตรงไปตรงมา พร้อมทั้งแนะนำการใช้แพ็กเกจ pg-boss ร่วมกับ Elysia และ Kysely เพื่อจัดการคิวและป้องกันปัญหา race condition สำหรับ worker ที่ทำงานพร้อมกันหลายๆ ตัว นอกจากนี้ยังมีการสาธิตการขยายระบบหรือ scale ตัวแอปพลิเคชันอย่างง่าย
+published: '2026-04-14'
+language: th
 subtitles:
   - th
 chapters:

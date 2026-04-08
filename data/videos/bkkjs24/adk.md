@@ -1,15 +1,15 @@
 ---
-title: Build AI Agents with Agent Development Kit (ADK) and Gemini using Javascript by Punsiri Boonyakiat
+title: Build AI Agents with Agent Development Kit (ADK) and Gemini using JavaScript
 speaker: Punsiri Boonyakiat
 type: talk
 youtube: Leqp7_6wRXs
 managed: true
-published: '2026-04-17'
-language: th
 description: |-
   คุณบีท ปุณณ์สิริ บุณยเกียรติ Google Developer Expert และ LINE API Expert จะพาคุณไปรู้จักกับการสร้าง AI agent ด้วย JavaScript และ TypeScript ผ่านเครื่องมือ Agent Development Kit (ADK) จาก Google
 
   เซสชันนี้จะแสดงให้เห็นว่านักพัฒนาสาย web ไม่จำเป็นต้องพึ่งพาเพียงแค่ภาษา Python ในการสร้าง AI agent อีกต่อไป โดยเนื้อหาจะครอบคลุมตั้งแต่การจำลอง environment บน GitHub Codespaces การใช้งานโมเดลภาษา Gemini การกำหนดบทบาทของตัว agent ตลอดจนการเชื่อมต่อ tool ต่างๆ เพื่อเพิ่มความแม่นยำในการทำงาน เช่น ทำงานร่วมกับ Google Search และการดึงข้อมูลที่พักจาก Airbnb ผ่าน MCPToolset และยังครอบคลุมไปถึงการสาธิตวิธีเรียกใช้งาน agent ผ่าน REST API เพื่อให้นำไปปลั๊กเข้ากับแพลตฟอร์มต่างๆ ได้ง่ายขึ้น
+published: '2026-04-17'
+language: th
 subtitles:
   - th
 chapters:
