@@ -2582,7 +2582,7 @@
       "event": "bkkjs24",
       "slug": "adk",
       "data": {
-        "title": "Build AI Agents with Agent Development Kit (ADK) and Gemini using Javascript by Punsiri Boonyakiat",
+        "title": "Build AI Agents with Agent Development Kit (ADK) and Gemini using JavaScript",
         "speaker": "Punsiri Boonyakiat",
         "type": "talk",
         "youtube": "Leqp7_6wRXs",
@@ -2623,7 +2623,7 @@
       "event": "bkkjs24",
       "slug": "postgres-event-driven",
       "data": {
-        "title": "Bun, TypeScript and Postgres Building Reliable Event-Driven Systems Without Kafka by Dheerapat Tookkane",
+        "title": "Bun, TypeScript and Postgres Building Reliable Event-Driven Systems Without Kafka",
         "speaker": "Dheerapat Tookkane",
         "type": "talk",
         "youtube": "txM_9nznYLs",
@@ -2660,7 +2660,7 @@
       "event": "bkkjs24",
       "slug": "type-safe-server-client",
       "data": {
-        "title": "Type Safe Server to Client by Kongkeit Khunpanitchot",
+        "title": "Type Safe Server to Client",
         "speaker": "Kongkeit Khunpanitchot",
         "type": "talk",
         "youtube": "Diiaj4vOPjE",
@@ -2701,7 +2701,7 @@
       "event": "bkkjs24",
       "slug": "vibe-coding-without-tech-debt",
       "data": {
-        "title": "Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง by Thada Wangthammang",
+        "title": "Vibe Coding โดยไม่ทิ้ง Tech Debt เอาไว้ข้างหลัง",
         "speaker": "Thada Wangthammang",
         "type": "talk",
         "youtube": "hBBZniEMGz0",
@@ -2738,7 +2738,7 @@
       "event": "bkkjs24",
       "slug": "web-game-engine",
       "data": {
-        "title": "ทำ Game Engine บนเว็บมันจะทำยากแค่ไหนเชียว by Phoomparin Mano",
+        "title": "ทำ Game Engine บนเว็บมันจะทำยากแค่ไหนเชียว",
         "speaker": "Phoomparin Mano",
         "type": "talk",
         "youtube": "GNxv__OGTQc",
@@ -2776,7 +2776,7 @@
       "event": "bkkjs24",
       "slug": "web-mcp",
       "data": {
-        "title": "Web MCP นี่ Real หรือ Cake by Warat Wongmaneekit",
+        "title": "Web MCP นี่ Real หรือ Cake",
         "speaker": "Warat Wongmaneekit",
         "type": "talk",
         "youtube": "0KgPDFdNqHo",
