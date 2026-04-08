@@ -25298,6 +25298,77 @@ video:Leqp7_6wRXs:
         Build AI Agents with Agent Development Kit (ADK) and Gemini using
         Javascript by Punsiri Boonyakiat b
       description: >-
+        คุณบีท ปุณณ์สิริ บุณยเกียรติ Google Developer Expert และ LINE API Expert
+        จะพาคุณไปรู้จักกับการสร้าง AI agent ด้วย JavaScript และ TypeScript
+        ผ่านเครื่องมือ Agent Development Kit (ADK) จาก Google
+
+
+        เซสชันนี้จะแสดงให้เห็นว่านักพัฒนาสาย web ไม่จำเป็นต้องพึ่งพาเพียงแค่ภาษา
+        Python ในการสร้าง AI agent อีกต่อไป โดยเนื้อหาจะครอบคลุมตั้งแต่การจำลอง
+        environment บน GitHub Codespaces การใช้งานโมเดลภาษา Gemini
+        การกำหนดบทบาทของตัว agent ตลอดจนการเชื่อมต่อ tool ต่างๆ
+        เพื่อเพิ่มความแม่นยำในการทำงาน เช่น ทำงานร่วมกับ Google Search
+        และการดึงข้อมูลที่พักจาก Airbnb ผ่าน MCPToolset
+        และยังครอบคลุมไปถึงการสาธิตวิธีเรียกใช้งาน agent ผ่าน REST API
+        เพื่อให้นำไปปลั๊กเข้ากับแพลตฟอร์มต่างๆ ได้ง่ายขึ้น
+
+
+        0:00 | แนะนำเครื่องมือ Agent Development Kit (ADK) เปลี่ยนทุกคนให้สร้าง
+        AI Agent ได้
+
+        1:11 | 4 ขั้นตอนหลักของการสร้าง AI: ใช้ JavaScript
+        เชื่อมต่อได้ทุกแอปพลิเคชัน
+
+        2:02 | องค์ประกอบของ AI Agent: โมเดลภาษา (LLM), เครื่องมือทำงาน (Tools),
+        และคำสั่ง (Instruction)
+
+        3:03 | ADK เป็น Framework แบบครบวงจร: ครอบคลุมตั้งแต่การสร้าง, Debug
+        ไปจนถึง Deploy
+
+        4:01 | สายงาน JS/TS เข้าถึงง่ายขึ้น: ไม่จำเป็นต้องพึ่งพาแค่ภาษา Python
+        เสมอไป
+
+        5:08 | เขียนโค้ดได้ทันทีไม่ต้องจำลอง Environment ด้วยเว็บคลิกเดียวอย่าง
+        GitHub Codespaces
+
+        6:28 | เริ่มต้นสร้างโปรเจกต์ด้วยการโหลดไลบรารีผ่านคำสั่ง npx
+        @google/adk-devtools
+
+        9:07 | คอนฟิกตั้งค่าก่อนรัน: เลือกโมเดล Gemini 2.5 และตั้งค่า
+        GEMINI_API_KEY
+
+        11:22 | สำรวจโค้ดที่สร้างอัตโนมัติ: การกำหนดบทบาทของ AI ลำดับขั้นตอนผ่าน
+        instruction
+
+        12:55 | ตรวจสอบการทำงานและรันแชตแอปพลิเคชันจำลองด้วยสคริปต์ npm run web
+
+        15:02 | ทดสอบจำลองตอบคำถาม: กฎเหล็กคือถ้าเครื่องมือ (Tool) ไม่ดี AI
+        ก็จะให้คำตอบที่ไม่ดีตามไปด้วย
+
+        17:33 | อัปเกรดระบบเพื่ออุดช่องโหว่: แทนที่ฟังก์ชันแบบ Dummy ด้วย
+        GOOGLE_SEARCH เพื่อดึงข้อมูลจริง
+
+        19:40 | ทดสอบหลังการอัปเดต: สังเกตกระบวนการทำงานเมื่อ AI
+        ควานหาความจริงเรื่องข่าวน้ำมัน
+
+        20:54 | ดึงข้อมูลจากแพลตฟอร์มภายนอก: การต่อ MCPToolset ร่วมกับ Service
+        นอกอย่าง Airbnb
+
+        22:34 | เปลี่ยน Persona ใหม่:
+        ปรับแก้โค้ดและคำสั่งให้กลายเป็นผู้ช่วยค้นหาที่พักเต็มรูปแบบ
+
+        23:34 | สรุปผลลัพธ์ของ MCP Tool: AI
+        สามารถลิสต์ที่พักน่าสนใจในสิงคโปร์พร้อมสรุปราคาได้
+
+        25:18 | ความสามารถด้าน REST API: สามารถนำ Endpoint ไปใช้ผ่าน curl หรือ
+        Postman ได้เลย
+
+        28:23 | บทส่งท้าย: เมื่อเทคโนโลยีพุ่งไปข้างหน้า
+        เราต้องพยายามวิ่งให้ทันและไม่หยุดเรียนรู้
+
+
+        --------------------------------------------
+
         Event: BKK.JS #24
 
         https://grtn.org/e/bkkjs24
@@ -25323,10 +25394,12 @@ video:Leqp7_6wRXs:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs24/adk
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -25596,6 +25669,75 @@ video:Diiaj4vOPjE:
         Type Safe Server to Client by Kongkeit Khunpanitchot by Kongkeit
         Khunpanitchot
       description: >-
+        คุณออม (SaltyAom) ผู้สร้างเฟรมเวิร์ก Elysia
+        มาแบ่งปันประสบการณ์และแนวคิดการทำ end-to-end type safety ด้วยภาษา
+        TypeScript
+
+
+        ภายในเซสชันนี้จะมีการพูดถึงข้อจำกัดของการเขียน backend และ frontend
+        แบบเดิมๆ รวมถึงปัญหาของเฟรมเวิร์กยุคเก่าที่ไม่สามารถรองรับระบบ type
+        ได้อย่างสมบูรณ์ คุณออมจะพาไปทำความรู้จักการใช้ฟีเจอร์และเครื่องมือต่างๆ
+        ในการเชื่อมต่อ type อย่างไร้รอยต่อ ตั้งแต่ระดับฐานข้อมูลผ่าน Prisma,
+        การตรวจสอบข้อมูลด้วย TypeBox, ไปจนถึงการเรียกใช้งานบนหน้าบ้าน
+
+
+        นอกจากนี้ยังมีการสาธิตฟีเจอร์การสร้าง API documentation ตามมาตรฐาน
+        OpenAPI โดยอัตโนมัติจากการประมวลผล type ในโค้ด
+        ซึ่งช่วยลดเวลาการเขียนเอกสารด้วยตัวเอง
+
+
+        0:00 | แนะนำตัวออม (SaltyAom) ผู้พัฒนาเฟรมเวิร์ก Elysia
+
+        1:15 | tRPC ช่วยเชื่อม Type ข้ามหน้าบ้านและหลังบ้าน ทำให้เห็น Error
+        ทันทีเมื่อโค้ดเปลี่ยน
+
+        2:46 | ข้อจำกัดของ tRPC คือไม่ใช่มาตรฐาน REST API และเขียน API Docs
+        ได้ยาก
+
+        3:43 | เฟรมเวิร์กยุคเก่าไม่ได้ออกแบบมาเพื่อ TypeScript ทำให้เสริมระบบ
+        Type-safe ได้ยาก
+
+        5:21 | Elysia และ Hono คือทางเลือกใหม่ที่รองรับ REST API แบบ End-to-End
+        Type Safety
+
+        7:14 | Elysia คำนวณ Type เร็วกว่าและไม่ติดข้อจำกัด 70 Endpoints แบบ Hono
+
+        9:08 | ลองใช้ฟังก์ชัน treaty เพื่อเรียกใช้หลังบ้านจากหน้าบ้านโดยตรงผ่าน
+        Type
+
+        11:01 | ตรวจ Validation Data ขาเข้าอัตโนมัติ พร้อมแจ้งเตือน Error
+        ทันทีใน IDE
+
+        13:21 | ใช้ ORM อย่าง Prisma หรือ Drizzle เพื่อจัดการ Database แบบ
+        Type-safe
+
+        14:56 | แปลง Prisma Schema ให้เป็น TypeBox เพื่อตรวจสอบข้อมูลขาเข้าของ
+        API
+
+        16:10 | ลดความน่าเบื่อหน่ายในการเขียน API Docs เองด้วยการเจน OpenAPI
+
+        18:00 | การเขียน Response ใน Docs เองมักมีปัญหาไม่อัปเดตตามโค้ดจริง
+
+        18:59 | ฟีเจอร์เฉพาะของ Elysia: อ่าน TypeScript Type มาเจนเป็น API Docs
+        ให้ทำงานแทนคน
+
+        20:38 | เดโม 1: Response ถูกเพิ่มลงใน API Docs
+        อัตโนมัติโดยไม่ต้องเขียนอะไรเพิ่ม
+
+        22:44 | เดโม 2: แค่แก้โค้ดเพิ่ม Field ที่หลังบ้าน ตัว API Docs
+        ก็จะอัปเดตตามทันที
+
+        24:15 | เดโม 3: การดึง API ไปแสดงผลด้วย React แบบ End-to-end Type Safety
+
+        25:19 | เดโม 4: ทันทีที่แก้ไข Database ตัด Field ทิ้ง
+        โค้ดที่เรียกใช้หน้าบ้านจะขึ้นแถบแจ้ง Error ให้เห็นทันที
+
+        27:53 | ประมวลผลสรุปและแจกโค้ดทดลอง พร้อมสถิติการเติบโตปัจจุบันของ
+        Elysia
+
+
+        --------------------------------------------
+
         Event: BKK.JS #24
 
         https://grtn.org/e/bkkjs24
@@ -25621,10 +25763,12 @@ video:Diiaj4vOPjE:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/bkkjs24/type-safe-server-client
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
@@ -25650,3 +25794,23 @@ video:txM_9nznYLs:caption:th:
     isDraft: false
   state:
     id: AUieDab-ET4DQVDSmzb_drE_emS7b3bEQC1NLquMk1jxK17NKsFG
+video:Diiaj4vOPjE:caption:th:
+  spec:
+    videoId: Diiaj4vOPjE
+    filePath: data/videos/bkkjs24/type-safe-server-client_th.vtt
+    language: th
+    name: Thai
+    hash: 9d07fcda3c2d4ebf0dc73e3073fbbf401b087af3a2bb21df41fece43c86ba9c5
+    isDraft: false
+  state:
+    id: AUieDaYex-mVM885LxqumxEn63aOfVPEStNuYxV1QiJtrynMOe9c
+video:Leqp7_6wRXs:caption:th:
+  spec:
+    videoId: Leqp7_6wRXs
+    filePath: data/videos/bkkjs24/adk_th.vtt
+    language: th
+    name: Thai
+    hash: 49ebb65fe306aabc8ce456d0b25ebdd024a2e226fa11a11ce338fb8513903ad6
+    isDraft: false
+  state:
+    id: AUieDaZMaP0pPKlGTKkiSaZgv7ycHDt7O87nJM-ZgjykYE_4tXF7
