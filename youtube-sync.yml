@@ -25808,3 +25808,113 @@ video:Leqp7_6wRXs:caption:th:
     isDraft: false
   state:
     id: AUieDaZMaP0pPKlGTKkiSaZgv7ycHDt7O87nJM-ZgjykYE_4tXF7
+thumbnail:LdXKbhs96bo:
+  spec:
+    videoId: LdXKbhs96bo
+    filePath: data/videos/claudecodemeetup2/simpler-claude-code.jpg
+    hash: e85d0f51e32a1b1da7df1d5e7c5c1d71de52e530cd9b1366f9e3cbbc6144efee
+  state: {}
+thumbnail:WR_L0l-GKcY:
+  spec:
+    videoId: WR_L0l-GKcY
+    filePath: data/videos/claudecodemeetup2/code-style-paypers.jpg
+    hash: 6f1d390947ef52ad6d1a7ae15e1f38a3ac39ca1669618dae946cddd3726425bf
+  state: {}
+video:LdXKbhs96bo:
+  spec:
+    id: LdXKbhs96bo
+    snippet:
+      title: Claude Code that works is simpler than you think by Thai Pangsakulyanont
+      description: >-
+        Event: Claude Code Meetup Bangkok#2
+
+        https://www.eventpop.me/e/147387
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claudecodemeetup2/simpler-claude-code
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:WR_L0l-GKcY:
+  spec:
+    id: WR_L0l-GKcY
+    snippet:
+      title: ใช้ Claude Code ยังไง ให้ปังแบบ Paypers by Wasin Watthanasrisong
+      description: >-
+        Event: Claude Code Meetup Bangkok#2
+
+        https://www.eventpop.me/e/147387
+
+
+        Organized by: Claude Community Events
+
+        https://luma.com/claudecommunity
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claudecodemeetup2/code-style-paypers
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
