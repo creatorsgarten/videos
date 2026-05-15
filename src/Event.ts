@@ -194,8 +194,8 @@ const events = [
   new Event('claudecodemeetup2', 'Claude Code Meetup Bangkok#2', {
     urlOverride: 'https://www.eventpop.me/e/147387',
     externalOrganizer: {
-      name: 'Claude Community Events',
-      url: 'https://luma.com/claudecommunity',
+      name: 'Prompt ไปวันๆ',
+      url: 'https://www.facebook.com/devMasterSomeday/',
     },
   }),
   new Event('openclaw', 'OpenClaw Meetup Bangkok', {
