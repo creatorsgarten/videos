@@ -25909,12 +25909,24 @@ video:WR_L0l-GKcY:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claudecodemeetup2/code-style-paypers
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:WR_L0l-GKcY:caption:th:
+  spec:
+    videoId: WR_L0l-GKcY
+    filePath: data/videos/claudecodemeetup2/code-style-paypers_th.vtt
+    language: th
+    name: Thai
+    hash: 0d7cc150bbbdfbfbc45332e36effd30cd31f2d27888efe954bfb8cdf003a5c6e
+    isDraft: true
+  state:
+    id: AUieDabJKKahnir2WYLMROb8TTf42oXA2hCAZVcGoYnPauYwukmc
