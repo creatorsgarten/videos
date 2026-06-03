@@ -3067,7 +3067,10 @@
         "youtube": "WR_L0l-GKcY",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/claudecodemeetup2/code-style-paypers.md",
@@ -3084,11 +3087,15 @@
         "youtube": "LdXKbhs96bo",
         "managed": true,
         "published": false,
-        "language": "th"
+        "language": "th",
+        "subtitles": [
+          "th"
+        ]
       },
       "content": "",
       "filePath": "data/videos/claudecodemeetup2/simpler-claude-code.md",
-      "imageFilePath": "data/videos/claudecodemeetup2/simpler-claude-code.jpg"
+      "imageFilePath": "data/videos/claudecodemeetup2/simpler-claude-code.jpg",
+      "thaiSubtitlePath": "data/videos/claudecodemeetup2/simpler-claude-code_th.vtt"
     },
     {
       "event": "creativecodingmeetup",
