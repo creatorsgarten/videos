@@ -8,7 +8,22 @@ published: '2026-06-07'
 language: th
 subtitles:
   - th
-description: พบกับคุณไท software developer จาก Eventpop ที่จะมาแบ่งปันประสบการณ์การทำงานร่วมกับ Claude Code แบบเจาะลึก ตั้งแต่การสร้างโปรเจกต์ใหม่ไปจนถึงการนำไปใช้งานจริง คุณไทจะมาเล่าแนวคิดการวางรากฐานโปรเจกต์ให้พร้อมสำหรับ production, การใช้งาน sandbox เพื่อความปลอดภัย และเทคนิคการใช้ prompt อย่าง `/grill-with-docs` เพื่อเคลียร์ข้อสงสัยต่างๆ ก่อนเริ่มทำงาน รวมถึงการบันทึก Architecture Decision Record (ADR) นอกจากนี้ยังมีการพูดถึงความท้าทายในยุคของการใช้ AI เช่น การรับมือกับ technical debt ก้อนใหม่ๆ การรักษาคุณภาพ codebase และความจำเป็นของทักษะการตรวจสอบโค้ดที่นักพัฒนาในปัจจุบันยังต้องมี พร้อมพาไปดูลักษณะการทำงานแบบ remote ผ่าน iPad และการประยุกต์ใช้ agent สำหรับจัดการเรื่องเงินๆ ทองๆ ในชีวิตส่วนตัว ฟังแนวคิดจากประสบการณ์จริงที่สามารถนำไปปรับปรุง workflow ของคุณให้ดียิ่งขึ้น
+description: |-
+  พบกับคุณไท software developer จาก Eventpop ที่จะมาแบ่งปันประสบการณ์การทำงานร่วมกับ Claude Code แบบเจาะลึก ตั้งแต่การสร้างโปรเจกต์ใหม่ไปจนถึงการนำไปใช้งานจริง คุณไทจะมาเล่าแนวคิดการวางรากฐานโปรเจกต์ให้พร้อมสำหรับ production, การใช้งาน sandbox เพื่อความปลอดภัย และเทคนิคการใช้ prompt อย่าง `/grill-with-docs` เพื่อเคลียร์ข้อสงสัยต่างๆ ก่อนเริ่มทำงาน รวมถึงการบันทึก Architecture Decision Record (ADR) นอกจากนี้ยังมีการพูดถึงความท้าทายในยุคของการใช้ AI เช่น การรับมือกับ technical debt ก้อนใหม่ๆ การรักษาคุณภาพ codebase และความจำเป็นของทักษะการตรวจสอบโค้ดที่นักพัฒนาในปัจจุบันยังต้องมี พร้อมพาไปดูลักษณะการทำงานแบบ remote ผ่าน iPad และการประยุกต์ใช้ agent สำหรับจัดการเรื่องเงินๆ ทองๆ ในชีวิตส่วนตัว ฟังแนวคิดจากประสบการณ์จริงที่สามารถนำไปปรับปรุง workflow ของคุณให้ดียิ่งขึ้น
+
+  — Reference Links —
+
+  bizdocgen
+  https://github.com/dtinth/bizdocgen
+
+  Grist
+  https://www.getgrist.com/
+
+  /grill-me (skill)
+  https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md
+
+  /grill-with-docs (skill)
+  https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md
 chapters:
   '0:00': แนะนำตัวและโปรเจกต์ bizdocgen เครื่องมือออกเอกสาร
   '2:22': สร้าง Custom Widget บน Grist สำหรับออกใบเสร็จ
