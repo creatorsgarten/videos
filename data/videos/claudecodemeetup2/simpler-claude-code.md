@@ -4,7 +4,7 @@ speaker: Thai Pangsakulyanont
 type: talk
 youtube: LdXKbhs96bo
 managed: true
-published: '2026-06-07'
+published: '2026-06-08'
 language: th
 subtitles:
   - th

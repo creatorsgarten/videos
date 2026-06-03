@@ -4,7 +4,7 @@ speaker: Wasin Watthanasrisong
 type: talk
 youtube: WR_L0l-GKcY
 managed: true
-published: '2026-06-03'
+published: '2026-06-04'
 language: th
 subtitles:
   - th
