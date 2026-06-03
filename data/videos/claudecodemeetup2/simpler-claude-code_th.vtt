@@ -4840,7 +4840,7 @@ git clone source code ของ WordPress
 ของ browser
 
 01:12:20.312 --> 01:12:23.042
-ถ้ารัน Playwright ใน head mode
+ถ้ารัน Playwright ใน headed mode
 
 01:12:23.472 --> 01:12:24.302
 มันจะมี BF cache
