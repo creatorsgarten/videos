@@ -6,4 +6,5 @@ youtube: WR_L0l-GKcY
 managed: true
 published: false
 language: th
+subtitles: [th]
 ---
