@@ -24,6 +24,9 @@ description: |-
 
   /grill-with-docs (skill)
   https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md
+
+  My remote dev setup
+  https://github.com/dtinth/devtop
 chapters:
   '0:00': แนะนำตัวและโปรเจกต์ bizdocgen เครื่องมือออกเอกสาร
   '2:22': สร้าง Custom Widget บน Grist สำหรับออกใบเสร็จ
