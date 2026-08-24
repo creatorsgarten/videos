@@ -198,6 +198,13 @@ const events = [
       url: 'https://www.facebook.com/devMasterSomeday/',
     },
   }),
+  new Event('claudecodesharing3', 'Claude Code Sharing #3', {
+    urlOverride: 'https://www.eventpop.me/e/164118',
+    externalOrganizer: {
+      name: 'Prompt ไปวันๆ',
+      url: 'https://www.facebook.com/devMasterSomeday/',
+    },
+  }),
   new Event('openclaw', 'OpenClaw Meetup Bangkok', {
     externalOrganizer: {
       name: 'WARROOM',
